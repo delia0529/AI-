@@ -1,0 +1,12 @@
+# Cloudflare Pages 部署配置
+# 首次：npx wrangler pages project create ai-daily-digest --production-branch main
+# 之后每次更新：npx wrangler pages deploy . --project-name ai-daily-digest
+# 固定地址：https://ai-daily-digest.pages.dev （内容更新，地址不变）
+
+name = "ai-daily-digest"
+compatibility_date = "2026-09-17"
+pages_build_output_dir = "."
+
+[env.production]
+# 如需自定义域名，在 Cloudflare 控制台绑定后取消注释
+# routes = [{ pattern = "digest.example.com", custom_domain = true }]

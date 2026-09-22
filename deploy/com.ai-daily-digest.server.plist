@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  AI 趋势日报 · 本地常驻静态服务
+  安装：cp deploy/com.ai-daily-digest.server.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/com.ai-daily-digest.server.plist
+  固定访问地址：http://localhost:8080/index.html  （内容每天被 build 覆盖，地址永久不变）
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.ai-daily-digest.server</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>-m</string>
+        <string>http.server</string>
+        <string>8080</string>
+        <string>--bind</string>
+        <string>0.0.0.0</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/deliachen/CodeBuddy/automation-20260917111210</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/ai-daily-digest-server.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/ai-daily-digest-server.log</string>
+</dict>
+</plist>

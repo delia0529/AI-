@@ -1,0 +1,338 @@
+{
+  "date": "2026-09-18",
+  "issue": "No.002",
+  "weekday": "周五",
+  "generated_at": "2026-09-18 09:00 CST",
+  "window": "2026-09-17 09:00 → 2026-09-18 09:00 CST",
+  "headline": "AI 开始做 AI 研发，Agent 开始打电话",
+  "deck": "Anthropic 第一次把「有多少研发是 AI 做的」写成可披露指标：Claude 已主导 26% 的公司 AI 研发，三个月前还是 1%。同一天，Claude Projects 被重构为云端多 Agent 编排，OpenAI 把 Astra 塞进法律检索，Instinct 与 Muse 同时学会打电话。能力侧在加速，而湾区软件工程师需求同比掉了 42%。",
+  "stats": {
+    "sources": 12,
+    "raw": 167,
+    "items": 19,
+    "clusters": 166,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {"k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"},
+        {"k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"},
+        {"k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"}
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "Anthropic 把「AI 做了多少研发」变成可披露指标：Claude 主导 26%",
+          "category": "AI 安全 / 政策",
+          "priority": "high",
+          "facts": "Anthropic 提出一组用于跟踪前沿实验室 AI 发展程度的指标：多少 AI 研发由 AI 完成、Agent 被监督得如何、算力如何分配。同时披露 Claude「主导」了公司 26% 的 AI 研发工作，高于 3 月的 1%，并在 90% 以上的工作中以「协作」方式参与，大块工作在人类密切监督下完成。",
+          "insight": "「AI 做 AI 研发」第一次有了可审计口径，递归自我改进从叙事变成 KPI。26% 这个数字会被监管直接引用，也会成为其他实验室被迫对标的披露压力；更微妙的是它把「研发自动化率」变成了新的军备竞赛指标——比参数量更容易被公众感知，也更难造假。",
+          "entities": ["Anthropic", "OpenAI", "Google DeepMind"],
+          "tags": ["#AI安全", "#政策监管", "#大厂战略"],
+          "sources": [
+            {"name": "Techmeme · 26% R&D", "url": "https://www.techmeme.com/260917/p41#a260917p41"},
+            {"name": "Techmeme · 前沿实验室指标", "url": "https://www.techmeme.com/260917/p38#a260917p38"}
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "OpenAI 上线 Astra for Law：模型 + 法律检索索引打包出售",
+          "category": "商业化 / Agent 工作流",
+          "priority": "high",
+          "facts": "OpenAI 发布 Astra for Law，把 GPT-6 Astra 与法律检索索引、法律分析与写作指令打包，首批面向特定的律所与客户开放；Hacker News 上 279 分。",
+          "insight": "垂直 Agent 的胜负手不再是模型，而是「专有检索索引 + 工作流指令」的绑定。法律是被正面攻下的第一个高毛利专业服务市场：付费意愿极高、容错成本极高，因此会最先跑出可复制的定价模型——按案件而非按 token 计费。",
+          "entities": ["OpenAI"],
+          "tags": ["#商业化", "#Agent工作流", "#产品形态"],
+          "sources": [
+            {"name": "OpenAI 官方", "url": "https://openai.com/index/astra-for-law/"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260917/p39#a260917p39"}
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "NYT 法庭文件曝光：ChatGPT 负责人称出版方面临「存在性威胁」",
+          "category": "政策监管 / 商业化",
+          "priority": "high",
+          "facts": "《纽约时报》在法庭文件中引用内部记录：ChatGPT 负责人写道出版方面临「存在性威胁」，一名微软高管把 AI 训练形容为「惊人的盗窃」。",
+          "insight": "版权诉讼的焦点正从「是否构成侵权」转向「被告内部当时怎么说」——内部表述会成为惩罚性赔偿与和解区间的锚。对所有做企业数据集成的厂商，训练数据的出处与授权链会被写进采购合同，法务将成为采购流程的一环。",
+          "entities": ["OpenAI", "Microsoft", "纽约时报"],
+          "tags": ["#政策监管", "#商业化"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260917/p36#a260917p36"},
+            {"name": "Financial Times", "url": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "查尔斯三世召集黄仁勋、Hassabis 与 OpenAI CFO 讨论 AI 风险",
+          "category": "政策监管 / 地缘",
+          "priority": "mid",
+          "facts": "英国国王查尔斯在苏格兰接待黄仁勋、Demis Hassabis、OpenAI CFO Sarah Friar 等科技领袖，讨论 AI 风险，黄仁勋呼吁加强安全；FT 报道英方在特朗普到访前对 AI 风险发出警示。",
+          "insight": "国家元首级别的「风险磋商」把 AI 安全从监管议题抬升为外交议题。它不产生任何约束力，但为后续英美/ G7 的共同声明铺垫叙事框架——真正值得盯的是会议之后是否出现配套的问责机制，否则只是一次高规格公关。",
+          "entities": ["NVIDIA", "Google DeepMind", "OpenAI"],
+          "tags": ["#政策监管", "#地缘政治"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260917/p28#a260917p28"},
+            {"name": "Financial Times", "url": "https://www.ft.com/content/f2c2e267-1e2e-457c-b08b-8a6a933ec285?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "供应链重排：华为 2027 Q1 推新 AI 芯片，Nexperia 转投印度封测",
+          "category": "供应链 / 算力芯片",
+          "priority": "high",
+          "facts": "TechCrunch：华为计划 2027 年第一季度推出新 AI 芯片，正面对抗 NVIDIA；FT 引述华为董事长称中国 AI 实验室必须加快研发。同期荷兰芯片商 Nexperia 宣布与 Tata 合作在印度制造并封装芯片，进一步脱离中国母公司闻泰。",
+          "insight": "供应链正沿两条线同时重排：一条是算力自主（华为的时间表若兑现，国产算力从「够用」转向「可替代」的窗口落在 2027 年），一条是成熟制程封测的地理迁移（Nexperia–India 已经在落地）。对 NVIDIA 而言短期影响有限，长期是标准与生态的分流。",
+          "entities": ["华为", "NVIDIA", "Nexperia", "Tata"],
+          "tags": ["#供应链", "#算力芯片", "#地缘政治"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"},
+            {"name": "FT · 华为董事长", "url": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1"},
+            {"name": "Techmeme · Nexperia", "url": "https://www.techmeme.com/260917/p32#a260917p32"}
+          ]
+        },
+        {
+          "id": "m1-6",
+          "title": "全球民调：34/37 国家民众预期 AI 净减少就业，湾区工程师需求降 42%",
+          "category": "政策监管 / 生态",
+          "priority": "mid",
+          "facts": "一项覆盖 36 国 42,151 名成年人（含美国 8,607 人）的调查显示，34 个受访国家的多数人预期 AI 的净效应是就业减少。同期分析指出：湾区科技雇主在截至 6 月的 12 个月内为 14,500 名以上员工提交裁员通知，软件工程师需求同比下降 42%。",
+          "insight": "「AI 抢工作」已从评论圈共识变成可量化的社会预期，会反向加速立法与工会谈判。真正刺眼的是软件工程师需求下滑 42% 与「AI 写 AI」同时发生——被替代的恰是构建 AI 的那一层，这会改变工程师的议价结构，也会改变下一代人选择专业的判断。",
+          "entities": [],
+          "tags": ["#政策监管", "#生态", "#商业化"],
+          "sources": [
+            {"name": "Techmeme · 全球民调", "url": "https://www.techmeme.com/260917/p35#a260917p35"},
+            {"name": "Techmeme · 湾区就业", "url": "https://www.techmeme.com/260917/p34#a260917p34"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {"k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"},
+        {"k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"},
+        {"k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"}
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "Claude Projects 重构为云端多 Agent 编排，内部 3 万 Agent 管理技术免费开放",
+          "category": "Agent 工作流 / Agent 工程",
+          "priority": "high",
+          "facts": "Anthropic 重新设计 Claude Projects：用户在一个对话里描述工作，Claude 在云端跨多个并行线程自行管理与推进；Claude Code 同步重新发布 Projects 用于管理云端多 Agent。量子位报道其内部约 3 万 Agent 的管理技术已免费开放，The Verge 亦有报道。",
+          "insight": "多 Agent 编排从「开发者手动开一堆会话」变成平台托管的一次性委派，Claude 正在把 harness 这一层收进官方产品。这直接挤压 OpenHermes、Cline 一类第三方编排工具的生存空间——当平台自己管编排，第三方只能靠垂直场景与私有环境存活。",
+          "entities": ["Anthropic", "Claude Code"],
+          "tags": ["#Agent工作流", "#Agent工程", "#产品形态"],
+          "sources": [
+            {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260917/p40#a260917p40"},
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/491711.html"}
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "Instinct 与 Meta Muse 同日上线「打电话」能力",
+          "category": "C 端 Agent / 产品形态",
+          "priority": "high",
+          "facts": "TechCrunch：两家互相竞争的个人 Agent——Instinct 与 Meta 的 Muse——同日上线拨打电话的能力。",
+          "insight": "Agent 的能力边界正从「操作网页」推进到「操作现实世界的服务接口」——电话是所有没有 API 的线下商户最后一道通用入口。真正的分水岭不是能不能拨出去，而是授权、录音留痕与失败回滚：一旦 Agent 能代表你发声，责任归属必须可追溯。",
+          "entities": ["Meta", "Muse", "Instinct"],
+          "tags": ["#C端Agent", "#产品形态", "#大厂战略"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"}
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "Hister：只索引你自己的页面与文件的私有搜索引擎（HN 438 分）",
+          "category": "端侧 AI / 产品形态",
+          "priority": "mid",
+          "facts": "Hacker News 438 分：Hister 是一个私有搜索引擎，索引对象只限于「你访问过的页面」与「你保存的文件」，本地检索、不上传。",
+          "insight": "端侧检索把「个人上下文」留在本地，正面回应云端 Agent 的隐私顾虑。与昨天 Muse 给每位用户一台云 VM 的打法对照，个人 Agent 正在分叉为「云端执行」与「本地记忆」两半；中间的接口——同步什么、留痕多久、能否导出——会成为下一个产品战场。",
+          "entities": [],
+          "tags": ["#端侧AI", "#产品形态", "#开发者工具"],
+          "sources": [
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"},
+            {"name": "GitHub · hister", "url": "https://github.com/asciimoo/hister"}
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "联合国与 Google 共建 UN System Data Commons，自然语言跨机构查统计",
+          "category": "生态 / 商业化",
+          "priority": "low",
+          "facts": "联合国宣布正与 Google 合作建设 UN System Data Commons，让用户通过自然语言跨联合国各机构检索统计数据。",
+          "insight": "公共数据一旦可被自然语言查询，事实核查与政策研究的边际成本骤降。对模型厂商的意义更大：这是一个高质量、可署名、可授权的语料池，恰好绕开正在升温的版权雷区——未来的语料竞争可能不再是「谁爬得多」，而是「谁拿到了机构授权」。",
+          "entities": ["Google", "联合国"],
+          "tags": ["#生态", "#商业化"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260917/p42#a260917p42"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {"k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"},
+        {"k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"},
+        {"k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"}
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "腾讯开源 BrowserSkill（单日 1,302 stars），把浏览器 Agent 做成中间件",
+          "category": "开源 / AI 浏览器",
+          "priority": "high",
+          "facts": "GitHub Trending 日榜：腾讯开源 BrowserSkill 单日 +1,302 stars，腾讯云 Octop 同日 +367；阿里 open-code-review 连续第二日上榜（单日 +3,286）。",
+          "insight": "腾讯把「浏览器里的 Agent 技能」直接开源，与 Anthropic 把编排收进官方产品形成鲜明对照：国内厂商选择把能力做成可嵌入的中间件，赌的是被集成，而不是自己做入口。代价是拿不到终端用户关系，收益是能同时长在别人的浏览器与 IDE 里。",
+          "entities": ["腾讯", "阿里巴巴", "Anthropic"],
+          "tags": ["#开源", "#大厂战略", "#开发者工具"],
+          "sources": [
+            {"name": "GitHub · Tencent/BrowserSkill", "url": "https://github.com/Tencent/BrowserSkill"},
+            {"name": "GitHub · TencentCloud/Octop", "url": "https://github.com/TencentCloud/Octop"},
+            {"name": "GitHub · alibaba/open-code-review", "url": "https://github.com/alibaba/open-code-review"}
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "智谱双线：GLM 自建推理基础设施，唐杰发布 RSI 首个成果",
+          "category": "大厂战略 / 模型架构",
+          "priority": "high",
+          "facts": "智谱公开 GLM 如何自建推理基础设施（Hacker News 374 分）；同期唐杰发布智谱 RSI（递归自我改进）的首个成果。",
+          "insight": "自建推理栈是「模型—服务」一体化毛利结构的入场券，RSI 则是把 Anthropic 昨天提出的「AI 做 AI 研发」落到中国语境。两者合起来说明智谱在押全栈自控而非单点模型性能——这条路更重，但一旦跑通，成本曲线由自己掌握。",
+          "entities": ["智谱", "GLM", "唐杰"],
+          "tags": ["#大厂战略", "#模型架构", "#推理成本"],
+          "sources": [
+            {"name": "Z.ai · GLM 推理基础设施", "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"},
+            {"name": "量子位 · 智谱 RSI", "url": "https://www.qbitai.com/2026/09/491357.html"}
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "Manus 重生第 17 天，估值翻倍",
+          "category": "投融资 / 产品形态",
+          "priority": "mid",
+          "facts": "量子位报道：Manus 在重组/重启后的第 17 天，估值翻倍。",
+          "insight": "两周内估值翻倍，说明一级市场对通用 Agent 的定价已脱离营收锚，转向团队与叙事。这类定价在融资环境收紧时最先被修正——对创业公司而言，真正的窗口是把估值换成可复用的技术资产与分发渠道，而不是拿来打广告。",
+          "entities": ["Manus"],
+          "tags": ["#投融资", "#产品形态"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/491764.html"}
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "vivo 解 AI 手机这道题：从「会回答」到「会办事」",
+          "category": "端侧 AI / 硬件",
+          "priority": "mid",
+          "facts": "量子位报道 vivo 对 AI 手机的路径：让手机助手从「会回答」转向「会办事」。",
+          "insight": "手机厂商的 AI 叙事正从语音助手换皮升级为 OS 级 Agent。端侧算力与系统权限是它们相对 App 的唯一壁垒，但这也意味着必须与模型厂商分润——长期看手机厂商是渠道而非平台，除非自己把模型做到可用。",
+          "entities": ["vivo"],
+          "tags": ["#端侧AI", "#硬件", "#大厂战略"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/491649.html"}
+          ]
+        },
+        {
+          "id": "m3-5",
+          "title": "央企通用 Agent 杀进 IDC 实测前三",
+          "category": "评测 / 生态",
+          "priority": "low",
+          "facts": "量子位报道：一家央企推出的通用 Agent 在 IDC 实测中进入前三。",
+          "insight": "国资背景的通用 Agent 进入第三方评测前列，意味着国内 Agent 赛道出现了「非互联网巨头」的第三极。政企场景的数据与合规入口是它的天然主场，短板在产品化速度与开发者生态——能不能从标杆项目走到规模化复用，是唯一值得跟踪的指标。",
+          "entities": ["IDC"],
+          "tags": ["#评测", "#生态", "#大厂战略"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/491454.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {"k": "海外前沿", "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"},
+        {"k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"},
+        {"k": "技术演进焦点", "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"}
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "Bonsai 2 27B：体积压缩 9 倍，接近无损",
+          "category": "模型架构 / 端侧 AI",
+          "priority": "high",
+          "facts": "PrismML 发布 Bonsai 2 27B，宣称在 9 倍更小的体积下实现近无损压缩；Hacker News 上 182 分。",
+          "insight": "压缩是端侧可用的前置条件，不是锦上添花。若 27B 能在消费级显存上接近原模型表现，长上下文 Agent 的本地部署门槛会被整体下移一档，云推理的定价空间同步被压缩——这与昨天 KV Cache、三值量化、专家流式加载三条路线汇成同一个方向。",
+          "entities": ["PrismML"],
+          "tags": ["#模型架构", "#推理成本", "#端侧AI"],
+          "sources": [
+            {"name": "PrismML", "url": "https://prismml.com/news/bonsai-2-27b"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "HF 论文主线：把研究过程版本化，把权重搬到 SSD",
+          "category": "论文 / Agent 工程",
+          "priority": "mid",
+          "facts": "Hugging Face 当日热门论文包括 Agora（用 Git 作为集体 AutoResearch 的共享记忆）、LimiX-2（面向通用结构化数据智能的上下文机制网络）、以及「The Other Half of the Memory Wall：用训练出的路由预测从 SSD 服务 35B MoE」。",
+          "insight": "论文主线正从「更大的模型」转向「研究过程与存储墙」：一条是把多 Agent 的研究流程版本化（Git as shared memory），决定 Agent 能否规模化协作；一条是把权重搬到 SSD，决定单卡能跑多大的模型。前者是组织问题，后者是硬件问题，但都在回答同一个瓶颈。",
+          "entities": ["Hugging Face"],
+          "tags": ["#论文", "#Agent工程", "#推理成本"],
+          "sources": [
+            {"name": "Agora", "url": "https://huggingface.co/papers/2609.18094"},
+            {"name": "LimiX-2", "url": "https://huggingface.co/papers/2609.17488"}
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "Bend：用证明在 CPU/GPU 上阻断 AI 错误的语言（HN 252 分）",
+          "category": "Agent 工程 / AI 安全",
+          "priority": "mid",
+          "facts": "Hacker News 252 分：Bend 是一种通过形式化证明在 CPU 与 GPU 上阻断 AI 错误的编程语言；同日 cloudflare/security-audit-skill 再次上榜（多阶段安全审计、机器可读结论）。",
+          "insight": "「让 AI 写的代码可证明」正从学术走向工程：一边是语言层的证明义务，一边是审计层的机器可读结论。这恰是 OpenAI 失准披露框架之后缺的那一块技术补位——披露之后真正需要的是可验证，而不是更多叙述性报告。",
+          "entities": ["Cloudflare"],
+          "tags": ["#Agent工程", "#开发者工具", "#AI安全"],
+          "sources": [
+            {"name": "Bend 官网", "url": "https://bend-lang.com/"},
+            {"name": "GitHub · cloudflare/security-audit-skill", "url": "https://github.com/cloudflare/security-audit-skill"}
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "算力瓶颈转向电网：Emerald AI 获三家力挺，Treble 语音模拟融资 1,800 万美元",
+          "category": "投融资 / 算力基础设施",
+          "priority": "mid",
+          "facts": "TechCrunch：Google、NVIDIA 与 Anthropic 希望 Emerald AI 帮助数据中心在电网上找到可用空间；冰岛语音模拟平台 Treble 完成 1,800 万美元融资。",
+          "insight": "算力的瓶颈已从芯片转移到电力与并网——「找电网空间」成为一门生意，说明数据中心的选址逻辑从土地与光纤转向容量市场，这会重塑未来三年的 capex 地理分布。语音模拟的融资则指向全双工实时语音的下一层：不只是识别与合成，而是音色与声场的可控生成。",
+          "entities": ["Google", "NVIDIA", "Anthropic", "Emerald AI", "Treble"],
+          "tags": ["#投融资", "#算力基础设施", "#端侧AI"],
+          "sources": [
+            {"name": "TechCrunch · Emerald AI", "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"},
+            {"name": "TechCrunch · Treble", "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"}
+          ]
+        }
+      ]
+    }
+  ]
+}

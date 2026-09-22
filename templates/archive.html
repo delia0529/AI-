@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>历史归档 · AI 趋势日报</title>
+<meta name="description" content="AI 趋势日报历史归档：按日期、标签与关键词检索每日全球 AI 行业动态。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{BASE}}assets/style.css">
+</head>
+<body class="page-shell" data-base="{{BASE}}" data-page="archive">
+
+<header class="topbar">
+  <a class="brand" href="{{BASE}}index.html">
+    <span class="brand-mark">AI 趋势日报</span>
+    <span class="brand-sub">AI Daily Digest</span>
+  </a>
+  <div class="topbar-tools">
+    <select class="jumper" data-jumper aria-label="日期快速跳转">
+      <!--BEGIN:issues--><option value="{{issue_date}}">{{issue_date}} · {{issue_weekday}}</option><!--END:issues-->
+    </select>
+    <a class="btn btn-ghost" href="{{BASE}}index.html">最新一期</a>
+    <button class="btn" data-drawer-open>归档 Archive</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="arch-head">
+    <div class="hero-eyebrow">
+      <span> Archive Index</span><i class="dot"></i>
+      <span>共 {{TOTAL}} 期</span><i class="dot"></i>
+      <span>更新于 {{UPDATED}}</span>
+    </div>
+    <h1 class="arch-title">历史归档</h1>
+    <p class="arch-deck">每一期日报都会沉淀为一份自包含的静态快照与一份结构化 JSON。可按日期、标签或关键词检索。</p>
+
+    <div class="filters">
+      <input class="field-input" type="search" data-arch-search placeholder="关键词检索标题 / 摘要 / 标签…" aria-label="关键词检索">
+      <select class="jumper" data-arch-month aria-label="按月份筛选">
+        <option value="">全部月份</option>
+        {{MONTH_OPTIONS}}
+      </select>
+      <span class="micro">标签</span>
+    </div>
+    <div class="tag-cloud" data-arch-tags style="padding:16px 0 4px">
+      <!--BEGIN:cloud--><button class="tag" data-tag="{{cloud_tag}}">{{cloud_tag}}</button><!--END:cloud-->
+    </div>
+  </section>
+
+  <section class="arch-list" id="arch-list">
+    <!--BEGIN:rows--><a class="arch-row" href="{{BASE}}{{row_url}}" data-tags="{{row_tags}}" data-month="{{row_month}}" data-hay="{{row_hay}}">
+      <div class="arch-date">{{row_date}}<small>{{row_weekday}} · {{row_issue}}</small></div>
+      <div>
+        <h2 class="arch-h">{{row_headline}}</h2>
+        <p class="arch-d">{{row_deck}}</p>
+      </div>
+      <div class="arch-stat">{{row_items}} 条 / {{row_sources}} 源</div>
+    </a><!--END:rows-->
+    <div class="arch-empty" id="arch-empty" style="display:none">没有匹配的日报，试试更换关键词或清除标签筛选。</div>
+  </section>
+
+  <footer class="page-foot">
+    <span>AI 趋势日报 · 静态沉淀 · 更新于 {{UPDATED}}</span>
+    <span><a href="{{BASE}}index.html">最新一期</a> · <a href="{{BASE}}data/index.json">索引 JSON</a></span>
+  </footer>
+</div>
+
+<div class="drawer-mask" id="drawer-mask"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer-head">
+    <h3>历史归档</h3>
+    <button class="icon-btn" data-drawer-close aria-label="关闭">✕</button>
+  </div>
+  <div class="drawer-body">
+    <!--BEGIN:issues--><a class="drawer-item" href="{{BASE}}archive/{{issue_date}}.html">
+      <div class="d1">{{issue_date}} · {{issue_weekday}} · {{issue_items}} 条</div>
+      <div class="d2">{{issue_headline}}</div>
+      <div class="d3">{{issue_deck}}</div>
+    </a><!--END:issues-->
+  </div>
+  <div class="drawer-foot">共 {{TOTAL}} 期</div>
+</aside>
+
+<script src="{{BASE}}assets/app.js"></script>
+</body>
+</html>

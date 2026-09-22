@@ -1,0 +1,16 @@
+# AI 趋势日报 — 运行时依赖
+#
+# 流水线本身是零第三方依赖的：抓取、去重、模板渲染、SSG 全部用 Python 标准库实现。
+# 只有当你想启用「真·Embedding 去重」或换用更稳的 RSS 解析时才需要下面这些包。
+#
+# pip install -r requirements.txt
+
+# 可选：更健壮的 RSS/Atom 解析（不装也能跑，脚本内置 xml.etree 解析）
+feedparser>=6.0.11
+
+# 可选：Embedding 去重的本地模型方案（也可直接用 OpenAI 兼容接口，无需本地模型）
+# sentence-transformers>=3.0.0
+# numpy>=1.26.0
+
+# 可选：YAML 配置（当前仓库使用 config.json，无需 PyYAML）
+# PyYAML>=6.0.1

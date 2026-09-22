@@ -1,0 +1,348 @@
+{
+  "date": "2026-09-22",
+  "issue": "No.006",
+  "weekday": "周二",
+  "generated_at": "2026-09-22 09:00 CST",
+  "window": "2026-09-21 09:00 → 2026-09-22 09:00 CST",
+  "headline": "Agent 开始花钱，电力先撑不住",
+  "deck": "Shopify 宣布允许 Muse 代用户完成结账，同一天 Amazon 把 Muse 挡在门外，研究者则曝出 Muse Mac 版任何应用都能取走认证令牌。二级市场先给了答案：Intel +12%、AMD +10%、Arm +17%——Agent 拉动的是 CPU。而加州一口气签了 7 项数据中心法案，欧盟要求 500kW 以上机房披露能耗与水耗，FT 说美国数据中心缺「六个纽约市」的电。",
+  "stats": {
+    "sources": 12,
+    "raw": 154,
+    "items": 20,
+    "clusters": 152,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {"k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"},
+        {"k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"},
+        {"k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"}
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "电力与水的账开始算：加州签 7 项数据中心法案，欧盟要求 500kW+ 披露能耗水耗",
+          "category": "政策监管 / 算力基础设施",
+          "priority": "high",
+          "facts": "加州州长 Newsom 签署 7 项针对数据中心的法案，对电力成本与水资源使用施加新要求；欧盟同步提出规则，要求容量 500kW 以上的数据中心按欧盟设计的口径披露能源与水效率；FT 报道美国数据中心「缺六个纽约市的电力」。",
+          "insight": "AI 的约束正式从芯片变成电网与水权。这类监管的共同特征是把外部成本内部化——数据中心的电价与用水将不再是商业谈判结果，而是公共定价问题。直接后果是选址逻辑重排：未来两年新增算力会更偏向有稳定低价电力与冷水资源的地区，而不是靠近人才的地方。",
+          "entities": ["加州政府", "欧盟委员会"],
+          "tags": ["#政策监管", "#算力基础设施", "#地缘政治"],
+          "sources": [
+            {"name": "Techmeme · 加州 7 项法案", "url": "https://www.techmeme.com/260921/p49#a260921p49"},
+            {"name": "Techmeme · 欧盟披露要求", "url": "https://www.techmeme.com/260921/p41#a260921p41"},
+            {"name": "FT · 缺六个纽约市的电", "url": "https://www.ft.com/content/f29de45a-3d32-4d9f-90cd-615f7466c1de"}
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "不列颠哥伦比亚省起诉 OpenAI：安全违规与过失",
+          "category": "政策监管 / AI 安全",
+          "priority": "high",
+          "facts": "Techmeme 报道：加拿大不列颠哥伦比亚省就 alleged 安全违规与过失起诉 OpenAI，理由是其未能标记 Tumbler Ridge 枪击案嫌疑人的 ChatGPT 活动。",
+          "insight": "这是第一起把「模型未能向执法部门预警」作为诉由的政府诉讼，性质上把 AI 公司从内容平台推向了「注意义务」主体。若这类义务被确认，产品架构会被迫改变——需要主动监测并向外部通报风险信号，而这恰好与隐私承诺正面冲突。无论判决如何，安全与隐私的取舍都会从哲学讨论变成合同条款。",
+          "entities": ["OpenAI"],
+          "tags": ["#政策监管", "#AI安全", "#地缘政治"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260921/p53#a260921p53"}
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "Altman 联合国演讲前：OpenAI 呼吁美国主导全球前沿 AI 标准",
+          "category": "政策监管 / 地缘政治",
+          "priority": "high",
+          "facts": "在 Sam Altman 于联合国发表演讲之前，OpenAI 呼吁美国牵头制定面向前沿模型构建的全球安全与安保标准；同期英国方面（Burnham）也呼吁以全球协作来管控 AI 威胁。",
+          "insight": "由被监管对象出面呼吁「美国主导的全球标准」，本质是抢标准制定权以避免被更严的欧盟式规则覆盖。真正的看点是标准由谁认证——如果只是行业自律加一份框架文件，它挡不住各州与各地区的碎片化立法；如果要落到可核查的审计，就得回到 Anthropic 引入 Accenture 那种嵌入式评估结构。",
+          "entities": ["OpenAI", "联合国"],
+          "tags": ["#政策监管", "#地缘政治", "#AI安全"],
+          "sources": [
+            {"name": "Techmeme · OpenAI 呼吁", "url": "https://www.techmeme.com/260921/p44#a260921p44"},
+            {"name": "FT · Burnham 全球协作", "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "SoftBank 发大规模垃圾债为 OpenAI 下注融资，SB Energy IPO 同期延期",
+          "category": "宏观金融 / 算力基础设施",
+          "priority": "high",
+          "facts": "FT：SoftBank 启动了规模最大的垃圾债交易之一，用于为其对 OpenAI 的押注融资；Techmeme 消息称 SoftBank 旗下 SB Energy 原定本月的 IPO 已延期，因投资者质疑其寻求的估值。",
+          "insight": "用高收益债给 AI 基建加杠杆，与昨天「3,000 亿表外敞口」是同一条链条的下游：股权讲不动的故事开始由债券市场承接。SB Energy IPO 被质疑估值则说明市场已经开始区分「算力叙事」与「能源资产」——后者有折旧、有工期，无法按软件估值定价。",
+          "entities": ["SoftBank", "OpenAI"],
+          "tags": ["#算力基础设施", "#商业化", "#投融资"],
+          "sources": [
+            {"name": "FT · 垃圾债", "url": "https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda?syn-25a6b1a6=1"},
+            {"name": "Techmeme · SB Energy 延期", "url": "https://www.techmeme.com/260921/p50#a260921p50"}
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "Agent 拉动的是 CPU：Intel +12%、AMD +10%、Arm +17%",
+          "category": "宏观金融 / 供应链",
+          "priority": "high",
+          "facts": "周一收盘 Intel 涨约 12%、AMD 涨约 10%、Arm 涨约 17%，市场将其归因于投资者预期 Meta 的 Muse 会大幅推高 CPU 需求。",
+          "insight": "这是本轮 AI 行情里第一次由「Agent 形态」而非「训练规模」驱动的芯片重定价。个人 Agent 跑在云端虚拟机与端侧设备上，消耗的是通用算力而非 GPU 训练卡——如果 Muse 这类产品成为主流，CPU 与内存的需求曲线会被整体抬高，服务器采购结构也会随之改变。",
+          "entities": ["Intel", "AMD", "Arm", "Meta"],
+          "tags": ["#供应链", "#算力芯片", "#C端Agent"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260921/p43#a260921p43"}
+          ]
+        },
+        {
+          "id": "m1-6",
+          "title": "HF 事件前，OpenAI 曾与 Anthropic 谈判互相压力测试的法律约束协议",
+          "category": "AI 安全 / 大厂战略",
+          "priority": "mid",
+          "facts": "消息人士称，在 Hugging Face 事件之前，OpenAI 曾与 Anthropic 就一份具有法律约束力的协议进行谈判，内容是两家公司互相进行压力测试。",
+          "insight": "这条信息改变了两件事的解读：一是 OpenAI 的失准披露框架不是孤立动作，而是一段更大治理谈判的残留物；二是那份协议最终没有落地，恰好解释了为什么现在的替代方案是引入 Accenture 这类第三方。跨实验室互相审计的构想很有价值，但一旦进入反垄断视野（上周的诉讼），它反而会成为风险。",
+          "entities": ["OpenAI", "Anthropic"],
+          "tags": ["#AI安全", "#大厂战略", "#政策监管"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260921/p46#a260921p46"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {"k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"},
+        {"k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"},
+        {"k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"}
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "研究者：Muse Mac 版缺陷让任意应用或终端命令可取走认证令牌",
+          "category": "Agent 安全 / 端侧 AI",
+          "priority": "high",
+          "facts": "Techmeme 与研究者的披露：Meta Muse 的 Mac 应用存在缺陷，任何应用或终端命令都能获取到用于认证用户身份的令牌。Muse 昨日刚登陆 Mac 并可直接在用户电脑上执行操作。",
+          "insight": "这是「Agent 拿到操作系统级权限」之后必然出现的第一类事故：权限一旦下发到本地，边界就不再由模型决定，而由客户端的密钥管理决定。它给所有做桌面 Agent 的团队划了硬线——令牌必须放进系统钥匙串并做进程级隔离，否则产品越普及，攻击面越大。",
+          "entities": ["Meta", "Muse"],
+          "tags": ["#Agent安全", "#端侧AI", "#AI安全"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260921/p54#a260921p54"}
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "一半开门一半关门：Shopify 允许 Muse 代客结账，Amazon 把 Muse 挡在门外",
+          "category": "C 端 Agent / 商业化",
+          "priority": "high",
+          "facts": "Shopify 宣布计划允许 Meta 的 Muse 通过其一键结账服务 Shop Pay，在 Shopify 驱动的商店中代用户完成购买；同期 TechCrunch 与 Forbes 报道 Amazon 已阻止 Muse 使用 Amazon.com。",
+          "insight": "Agent 商务的第一道裂缝出现了：中小商家（Shopify）把 Agent 当增量流量欢迎，自营零售（Amazon）把它当渠道威胁封杀。谁对谁错不重要，重要的是这决定了 Agent 商务的天花板——若头部零售普遍封禁，Agent 只能长尾化；而支付与身份授权的标准接口，会成为这场博弈的真正战场。",
+          "entities": ["Shopify", "Meta", "Amazon"],
+          "tags": ["#C端Agent", "#商业化", "#产品形态"],
+          "sources": [
+            {"name": "Techmeme · Shopify", "url": "https://www.techmeme.com/260921/p55#a260921p55"},
+            {"name": "TechCrunch · Amazon 封禁", "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"}
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "Muse 上线 6 天下载 90.2 万，超过 Meta AI 同期，也超过 ChatGPT 早期",
+          "category": "C 端 Agent / 产品形态",
+          "priority": "mid",
+          "facts": "Sensor Tower 数据：Muse 在 9 月 8 日上线后的六天内被下载超过 90.2 万次，Meta AI 在相同口径下为 77.3 万次；TechCrunch 称其增速超过 ChatGPT 早期的移动端表现。",
+          "insight": "90 万次下载量级不算惊人，但「超过 ChatGPT 同期」这个对比才是信号：个人 Agent 的扩散曲线比聊天助手更陡。原因不难理解——聊天助手要改变习惯，Agent 只需要解决一件具体的麻烦事（退订、比价、填表）。产品的胜负手会从「日活」转向「完成任务数」。",
+          "entities": ["Meta", "Muse", "OpenAI"],
+          "tags": ["#C端Agent", "#产品形态", "#商业化"],
+          "sources": [
+            {"name": "Techmeme · Sensor Tower", "url": "https://www.techmeme.com/260921/p48#a260921p48"},
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"}
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "端侧轻量化继续下探：Kev（Qwen3.5 上的 Jev 类决策模型）与 8GB 显存训练",
+          "category": "端侧 AI / 模型架构",
+          "priority": "mid",
+          "facts": "Hacker News 上 Kev（构建在 Qwen3.5 之上的微型 Jev 类决策模型家族）402 分；同日 Show HN 的「Mini-AGI：8GB 显存上训练的动态持续学习模型」248 分，以及 macOS 27 上避免下载 AI 模型以节省存储的变通方法 208 分。",
+          "insight": "Jev 这条线正在从「大厂接入」扩散到「社区自造」——基于 Qwen3.5 就能复刻一个用于工具选择的决策模型。它印证了昨天的判断：Agent 调用链里最高频的那一步正在被专用小模型接管。端侧的连锁反应是显存与存储都开始变成用户可感知的成本，这会倒逼厂商把模型做成可裁剪、可按需下载。",
+          "entities": ["Meta", "Apple"],
+          "tags": ["#端侧AI", "#模型架构", "#推理成本"],
+          "sources": [
+            {"name": "GitHub · Kev", "url": "https://github.com/jaredpalmer/kev/tree/main"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {"k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"},
+        {"k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"},
+        {"k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"}
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "小米开源全模态 MiMo-V2.6 Pro / Flash，Pro 据称对标 Opus 5 与 GPT-5.6 Sol",
+          "category": "模型架构 / 开源",
+          "priority": "high",
+          "facts": "小米发布开源权重的全模态模型 MiMo-V2.6 Pro 与 Flash；官方称 Pro 在多数基准上与 Opus 5 与 GPT-5.6 Sol 表现相当。Hacker News 上 494 分。",
+          "insight": "从 9 月 17 日公开后训练面板到今天发布全模态开源模型，小米用五天完成了一次「过程透明 → 结果交付」的完整叙事。全模态 + 开源权重 + 手机端闭环，是它唯一能绕开大厂 capex 优势的路径；真正要验证的不是榜单分数，而是 Flash 版本能否在手机上跑出可用的实时交互。",
+          "entities": ["小米", "MiMo", "Anthropic", "OpenAI"],
+          "tags": ["#开源", "#模型架构", "#端侧AI"],
+          "sources": [
+            {"name": "小米 MiMo 官网", "url": "https://mimo.xiaomi.com/mimo-v2-6"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260921/p52#a260921p52"}
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "阶跃 Step 5 Preview 实测：开源阵营 Top2",
+          "category": "评测 / 模型架构",
+          "priority": "mid",
+          "facts": "量子位实测报道：阶跃星辰 Step 5 Preview 在开源模型中位列 Top2。官方此前以「推进 Pareto 前沿」为其发布口径。",
+          "insight": "继昨天以 Pareto 前沿为卖点之后拿到实测 Top2，说明「单位成本下的能力」这条路在国内已经跑通。值得注意的是国内厂商现在普遍用「开源榜位 + 性价比」而非绝对性能做定位，这会导致开源生态成为它们事实上的分发渠道——榜单位次即流量位次。",
+          "entities": ["阶跃星辰"],
+          "tags": ["#评测", "#模型架构", "#开源"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493179.html"}
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "OceanBase 登顶国际 Data Agent 榜单",
+          "category": "模型落地 / 评测",
+          "priority": "mid",
+          "facts": "量子位报道：国产数据库 OceanBase 在国际 Data Agent 榜单上登顶。",
+          "insight": "Data Agent（让 Agent 直接操作数据库与分析流程）是结构化数据场景的关键入口，数据库厂商在这里有天然优势：它掌握 schema、权限与执行引擎。对 Agent 生态的含义是——最好的 Data Agent 可能不长在模型公司里，而长在数据库里。",
+          "entities": ["OceanBase"],
+          "tags": ["#模型落地", "#评测", "#商业化"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493231.html"}
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "商汤大装置：中国 Neocloud 市场第一",
+          "category": "算力基础设施 / 大厂战略",
+          "priority": "mid",
+          "facts": "量子位报道：商汤大装置在中国 Neocloud（新型云算力）市场份额排名第一。",
+          "insight": "Neocloud 这个品类在国内跑出第一名，说明算力供给正在从「通用云的一个 SKU」分化为独立市场。结合昨天长鑫 DRAM 量产、华为强调算力底座，国内算力链条正在补齐「芯片—整机—云服务」三层；谁能拿到 Neocloud 的定价权，谁就掌握了大模型公司的成本曲线。",
+          "entities": ["商汤"],
+          "tags": ["#算力基础设施", "#大厂战略", "#商业化"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493175.html"}
+          ]
+        },
+        {
+          "id": "m3-5",
+          "title": "清华联合无问芯穹等开源 RPent：把 GPT-6 Astra 装进机器人身体",
+          "category": "开源 / 模型落地",
+          "priority": "mid",
+          "facts": "量子位报道：清华大学联合无问芯穹等机构开源 RPent，将 GPT-6 Astra 类能力接入机器人本体。",
+          "insight": "具身智能的瓶颈从来不是缺一个大模型，而是缺「模型—本体—实时控制」之间的开源中间层。把前沿模型的能力接到机器人上并开源，价值在于让整个社区可以同时调这一层。风险也明显：一旦 Agent 具备物理动作能力，安全与 kill switch 的讨论会从软件层升级到物理层。",
+          "entities": ["清华大学", "无问芯穹", "OpenAI"],
+          "tags": ["#开源", "#模型落地", "#Agent工程"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493218.html"}
+          ]
+        },
+        {
+          "id": "m3-6",
+          "title": "安徽实验室发布星界 / 星驭 / 星鉴三大 AI 安全方案",
+          "category": "AI 安全 / 政策监管",
+          "priority": "low",
+          "facts": "量子位报道：长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大 AI 安全解决方案。",
+          "insight": "地方级 AI 安全实验室开始输出成套方案，说明安全能力正在从大厂内部分化为一个可采购的公共服务。这类机构的价值在「中立」——它们不卖模型，因此可以承担第三方评估角色，这恰好是国内在 AI 安全治理上最缺的一层。",
+          "entities": [],
+          "tags": ["#AI安全", "#政策监管", "#生态"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493235.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {"k": "海外前沿", "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"},
+        {"k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"},
+        {"k": "技术演进焦点", "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"}
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "OpenAI 成立数学顾问组：AI 已解决 100+ 开放问题，但「完全自主 RSI 今天不会发生」",
+          "category": "模型落地 / AI 安全",
+          "priority": "high",
+          "facts": "OpenAI 宣布与一个独立的数学家顾问组合作，以负责任的方式分享数学相关的 AI 进展；TechCrunch 称其 AI 已解决 100 多个开放数学问题。OpenAI 同时表示自动化研究可能改善对齐，但「完全自主的 RSI 今天并没有发生」，除非条件成熟也不应追求。陶哲轩亦撰文介绍该顾问组。",
+          "insight": "「解决 100+ 开放问题」与「不追求完全自主 RSI」放在同一份声明里，是一次很精准的边界划定：把能力成果拿出来，把递归自我改进的野心按住。数学之所以被选为第一个开放共享的领域，是因为它可验证——这给其他领域立了一个模板：先公开可验证的部分，再谈能力边界。",
+          "entities": ["OpenAI", "陶哲轩"],
+          "tags": ["#模型落地", "#论文", "#AI安全"],
+          "sources": [
+            {"name": "OpenAI · 数学顾问组", "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"},
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"},
+            {"name": "陶哲轩博客", "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"}
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "NVIDIA 推 DSX Ready：为 AI 工厂认证供电与散热，并称「AI 安全是工程问题」",
+          "category": "算力基础设施 / AI 安全",
+          "priority": "mid",
+          "facts": "NVIDIA 官方博客发布 DSX Ready，用于对 AI 工厂的供电与散热产品进行认证；同期另一篇博客提出「AI 安全是工程问题」，主张在 Agent 技术栈的每一层解决。",
+          "insight": "NVIDIA 把认证体系从「服务器」上移到「工厂」（供电与散热），等于承认算力竞争的决定因素已经是能源工程而非芯片设计。而把 AI 安全定义成工程问题，是一次重要的叙事迁移：如果安全是工程问题，那么解法就是分层防御与认证，而不是暂停研发——这与本周的监管争论直接相关。",
+          "entities": ["NVIDIA"],
+          "tags": ["#算力基础设施", "#AI安全", "#Agent工程"],
+          "sources": [
+            {"name": "NVIDIA · DSX Ready", "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/"},
+            {"name": "NVIDIA · AI 安全是工程问题", "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/"}
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "HF 论文主线：给 Agent 造可验证的环境（RecreationWorld / CodeMidas / BI-Agent）",
+          "category": "论文 / Agent 工程",
+          "priority": "mid",
+          "facts": "Hugging Face 当日热门论文集中在可验证环境与技能合成：RecreationWorld（混合 computer-use Agent 的可扩展可验证环境）、CodeMidas（从代码本身扩展 Agentic 编码 RL 环境）、BI-Agent 与 BI-Bench（端到端商业智能自动化）、Designer-RSI（从用户流量中演化程序性记忆）。",
+          "insight": "本周的论文主线非常一致：不再造更大的模型，而是造「能判定 Agent 做得对不对」的环境。这是 Agent 规模化的真正瓶颈——没有可验证环境就没有强化信号，没有强化信号就只能靠人写规则。谁掌握环境构造权，谁就握住了下一代 Agent 的数据飞轮。",
+          "entities": ["Hugging Face"],
+          "tags": ["#论文", "#Agent工程", "#评测"],
+          "sources": [
+            {"name": "HF · Grounded Skill Synthesis", "url": "https://huggingface.co/papers/2609.05571"},
+            {"name": "HF · BI-Agent", "url": "https://huggingface.co/papers/2609.20886"},
+            {"name": "HF · Designer-RSI", "url": "https://huggingface.co/papers/2609.22086"}
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "Grok 4.7 发布；Heretic 项目主打「移除语言模型限制」",
+          "category": "模型架构 / 开源生态",
+          "priority": "low",
+          "facts": "xAI 发布 Grok 4.7（Hacker News 489 分）；同日 Heretic 项目引发讨论（240 分），其定位是移除语言模型的限制。",
+          "insight": "一边是前沿模型持续迭代，一边是社区工具在主动拆解模型的限制层——两者叠加意味着「模型自带的安全边界」正在变得可绕过。这与上周 kill switch 难以落地的判断相互印证：凡是依赖模型自身约束的方案都不可靠，约束必须外置到运行环境的权限层。",
+          "entities": ["xAI"],
+          "tags": ["#模型架构", "#开源生态", "#AI安全"],
+          "sources": [
+            {"name": "xAI · Grok 4.7", "url": "https://x.ai/news/grok-4-7"},
+            {"name": "Heretic", "url": "https://heretic-project.org/"}
+          ]
+        }
+      ]
+    }
+  ]
+}

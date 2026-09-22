@@ -1,0 +1,110 @@
+{
+  "site": {
+    "title": "AI 趋势日报",
+    "subtitle": "AI Daily Digest",
+    "base_url": "https://ai-daily-digest.pages.dev",
+    "timezone": "Asia/Shanghai",
+    "schedule": {
+      "ingest": "06:00-07:30",
+      "process": "07:30-08:15",
+      "render": "08:15-08:45",
+      "publish": "09:00"
+    }
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "hint": "技术演进焦点（测试时计算扩展、长程自主 Agent Harness、多模态全双工语音、端侧轻量化）＋ 地缘政策与宏观金融（货币政策、算力芯片供应链、AI 安全与主权监管）",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        { "k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动" },
+        { "k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈" },
+        { "k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题" }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "hint": "传统巨头 AI 装配（Chrome/Gemini、Edge/Copilot、夸克、QQ 浏览器）与 AI-Native Agentic 流派（Tabbit、Comet、Dia、Ego Lite）",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        { "k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365" },
+        { "k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图" },
+        { "k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写" }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "hint": "腾讯（混元 + 微信/QQ 入口）、字节（豆包矩阵 + 扣子 + 火山引擎）、阿里（Qwen 开源 + 阿里云变现）",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        { "k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链" },
+        { "k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API" },
+        { "k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智" }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "hint": "海外前沿（Claude、ChatGPT、Gemini、Copilot）与国内第一梯队（豆包、元宝、通义千问、Kimi）的模型、Agent 与商业化动态",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        { "k": "海外前沿", "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成" },
+        { "k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争" },
+        { "k": "技术演进焦点", "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型" }
+      ]
+    }
+  ],
+  "tags": [
+    "#AI安全", "#Agent安全", "#政策监管", "#地缘政治", "#供应链",
+    "#算力芯片", "#算力基础设施", "#算力", "#模型架构", "#模型训练",
+    "#推理成本", "#推理优化", "#端侧AI", "#硬件", "#Agent工程",
+    "#Agent工作流", "#C端Agent", "#产品形态", "#开发者工具", "#开源",
+    "#开源生态", "#大厂战略", "#评测", "#论文", "#投融资", "#生态", "#商业化"
+  ],
+  "sources": [
+    { "id": "techmeme", "type": "rss", "url": "https://www.techmeme.com/feed.xml", "weight": 1.0 },
+    { "id": "hn", "type": "hn_api", "url": "https://hn.algolia.com/api/v1/search_by_date?tags=story", "weight": 0.9 },
+    { "id": "github_trending", "type": "github_trending", "url": "https://github.com/trending?since=daily", "weight": 0.8 },
+    { "id": "hf_papers", "type": "hf_papers", "url": "https://huggingface.co/papers", "weight": 0.8 },
+    { "id": "techcrunch_ai", "type": "rss", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "weight": 0.9 },
+    { "id": "theverge", "type": "rss", "url": "https://www.theverge.com/rss/index.xml", "weight": 0.8 },
+    { "id": "openai", "type": "rss", "url": "https://openai.com/news/rss.xml", "weight": 1.0 },
+    { "id": "deepmind", "type": "rss", "url": "https://deepmind.google/blog/rss.xml", "weight": 0.9 },
+    { "id": "nvidia_blog", "type": "rss", "url": "https://blogs.nvidia.com/feed/", "weight": 0.7 },
+    { "id": "qbitai", "type": "rss", "url": "https://www.qbitai.com/feed", "weight": 0.9 },
+    { "id": "36kr", "type": "rss", "url": "https://36kr.com/feed", "weight": 0.8 },
+    { "id": "jiqizhixin", "type": "rss", "url": "https://www.jiqizhixin.com/rss", "weight": 0.8 },
+    { "id": "ft_tech", "type": "rss", "url": "https://www.ft.com/technology?format=rss", "weight": 0.8 }
+  ],
+  "llm": {
+    "provider": "openai_compatible",
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-5.1",
+    "embedding_model": "text-embedding-3-large",
+    "temperature": 0.2,
+    "max_items": 24
+  },
+  "dedupe": {
+    "method": "embedding",
+    "similarity_threshold": 0.86,
+    "tfidf_threshold": 0.52,
+    "fallback": "tfidf"
+  },
+  "push": {
+    "feishu_env": "FEISHU_WEBHOOK",
+    "wecom_env": "WECOM_WEBHOOK",
+    "smtp_env": "SMTP_URL",
+    "top_n": 3
+  }
+}

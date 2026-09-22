@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{DATE}} · AI 趋势日报 {{ISSUE}}</title>
+<meta name="description" content="{{DECK}}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{BASE}}assets/style.css">
+</head>
+<body class="page-shell" data-base="{{BASE}}" data-page="daily" data-date="{{DATE}}" data-live="{{LIVE}}">
+
+<header class="topbar">
+  <a class="brand" href="{{BASE}}index.html">
+    <span class="brand-mark">AI 趋势日报</span>
+    <span class="brand-sub">AI Daily Digest</span>
+  </a>
+  <div class="topbar-tools">
+    <select class="jumper" data-jumper aria-label="日期快速跳转">
+      <!--BEGIN:issues--><option value="{{issue_date}}" {{issue_selected}}>{{issue_date}} · {{issue_weekday}}</option><!--END:issues-->
+    </select>
+    <button class="btn" data-drawer-open>归档 Archive</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="hero-eyebrow">
+      <span>{{DATE_CN}}</span><i class="dot"></i>
+      <span>{{ISSUE}}</span><i class="dot"></i>
+      <span>数据窗口 {{WINDOW}}</span>
+    </div>
+    <h1 class="hero-title">{{HEADLINE}}</h1>
+    <p class="hero-deck">{{DECK}}</p>
+    <div class="hero-meta">
+      <div><b>{{STAT_SOURCES}}</b><span>监控源</span></div>
+      <div><b>{{STAT_RAW}}</b><span>原始条目</span></div>
+      <div><b>{{STAT_CLUSTERS}}</b><span>去重后聚类</span></div>
+      <div><b>{{STAT_ITEMS}}</b><span>精选条目</span></div>
+      <div><b>{{STAT_DEDUPE}}</b><span>多源重复率</span></div>
+    </div>
+  </section>
+
+  <div class="layout">
+    <aside class="rail">
+      <div class="rail-block">
+        <div class="rail-title">目录 Contents</div>
+        <ul class="anchor-list">
+          <!--BEGIN:modules--><li><a href="#{{module_id}}"><i>{{module_index}}</i><span>{{module_name}}</span></a></li><!--END:modules-->
+        </ul>
+      </div>
+
+      <div class="rail-block">
+        <div class="rail-title">标签 Tags · <span data-filter-count>{{STAT_ITEMS}}</span> 条</div>
+        <div class="tag-cloud" data-tag-cloud>
+          <!--BEGIN:cloud--><button class="tag" data-tag="{{cloud_tag}}">{{cloud_tag}}</button><!--END:cloud-->
+        </div>
+        <button class="btn btn-ghost rail-reset" data-tag-reset style="margin-top:14px">清除筛选</button>
+      </div>
+
+      <div class="rail-block">
+        <div class="rail-title">工作流 Pipeline</div>
+        <p class="rail-note">06:00 抓取 → 07:30 Embedding 聚类去重 → 08:15 LLM 结构化提炼 → 08:45 SSG 渲染 → 09:00 发布与推送。</p>
+      </div>
+    </aside>
+
+    <div class="stream">
+      <!--BEGIN:modules-->
+      <section class="module" id="{{module_id}}">
+        <div class="module-head">
+          <span class="module-index">{{module_index}}</span>
+          <h2 class="module-name">{{module_name}}</h2>
+          <span class="module-en">{{module_en}}</span>
+        </div>
+        <p class="module-note">{{module_note}}</p>
+
+        <!--BEGIN:items-->
+        <article class="item" id="{{item_id}}" data-tags="{{item_tags_attr}}">
+          <div class="item-top">
+            <span class="item-no">{{item_no}}</span>
+            <span class="item-prio" data-level="{{item_prio}}">{{item_prio_label}}</span>
+          </div>
+          <h3 class="item-title">{{item_title}}</h3>
+          <div class="item-cat">{{item_cat}}</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">{{item_facts}}</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">{{item_insight}}</p>
+            </div>
+          </div>
+          <div class="item-foot">
+            <div class="item-tags"><!--BEGIN:tags--><span class="tag">{{tag_name}}</span><!--END:tags--></div>
+            <div class="item-entities">关联：{{item_entities}}</div>
+            <div class="item-sources"><!--BEGIN:sources--><a href="{{src_url}}" target="_blank" rel="noopener">{{src_name}}</a><!--END:sources--></div>
+          </div>
+        </article>
+        <!--END:items-->
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · {{module_en}}</div>
+          <!--BEGIN:watch--><div class="watch-row"><b>{{watch_k}}</b><span>{{watch_v}}</span></div><!--END:watch-->
+        </div>
+      </section>
+      <!--END:modules-->
+    </div>
+  </div>
+
+  <footer class="page-foot">
+    <span>AI 趋势日报 · 自动生成于 {{GENERATED}} · 共 {{STAT_ITEMS}} 条 / {{STAT_SOURCES}} 个信源</span>
+    <span><a href="{{BASE}}index.html">最新一期</a> · <a href="{{BASE}}archive.html">历史归档</a> · <a href="{{BASE}}data/{{DATE}}.json">结构化数据 JSON</a></span>
+  </footer>
+</div>
+
+<div class="drawer-mask" id="drawer-mask"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer-head">
+    <h3>历史归档</h3>
+    <button class="icon-btn" data-drawer-close aria-label="关闭">✕</button>
+  </div>
+  <div class="drawer-body">
+    <!--BEGIN:issues--><a class="drawer-item" href="{{BASE}}archive/{{issue_date}}.html">
+      <div class="d1">{{issue_date}} · {{issue_weekday}} · {{issue_items}} 条</div>
+      <div class="d2">{{issue_headline}}</div>
+      <div class="d3">{{issue_deck}}</div>
+    </a><!--END:issues-->
+  </div>
+  <div class="drawer-foot"><a href="{{BASE}}archive.html" style="color:inherit">查看全部归档 →</a></div>
+</aside>
+
+<script src="{{BASE}}assets/app.js"></script>
+</body>
+</html>

@@ -343,6 +343,91 @@
           ]
         }
       ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的界面：交互是否收缩成一个输入框，视觉是否敢于留白，图标是否还在假装自己是个工具。",
+      "watchlist": [
+        {"k": "装配派", "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"},
+        {"k": "超级工作台", "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"},
+        {"k": "AI-Native 派", "v": "Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"},
+        {"k": "观察维度", "v": "交互设计 · UI 质感表达 · 颜色 · Icon 图标设计 · 概念表达 · 创新体验"}
+      ],
+      "items": [
+        {
+          "id": "m5-1",
+          "title": "装配派的两难：Chrome 与 Edge 都想让 AI「没有自己的脸」",
+          "category": "UI 设计 / 竞品分析",
+          "priority": "high",
+          "facts": "Chrome 官网主视觉仍是「产品功能 + 大色块插画」的传统结构，Gemini 能力以功能卡与地址栏入口嵌入；Edge 官网以 Copilot 侧边栏与 Office 365 工作流为主要卖点。两者都没有为 AI 单独造一个新界面，而是把能力塞进既有控件。",
+          "insight": "装配派的设计哲学是「不打扰」，代价是「看不见」——用户根本发现不了入口，这也是独立 AI App 使用率长期高于浏览器内 AI 的直接原因。视觉上两家仍在用高饱和渐变与功能分区维持旧叙事，AI 只是多出来的一张卡片。真正的转折要等到 AI 成为默认交互（而不是一个标签页）时才会发生。",
+          "entities": ["Google", "Microsoft"],
+          "tags": ["#UI设计", "#视觉趋势", "#大厂战略"],
+          "sources": [
+            {"name": "Google Chrome 官网", "url": "https://www.google.com/intl/en/chrome/"},
+            {"name": "Microsoft Edge 官网", "url": "https://www.microsoft.com/en-us/edge"}
+          ],
+          "images": [
+            {"url": "https://www.google.com/chrome/static/images/homepage/homepage-v2.png", "caption": "Chrome 官网主视觉：功能卡 + 大色块，AI 以入口形式嵌入既有结构", "credit": "google.com/chrome", "link": "https://www.google.com/intl/en/chrome/"},
+            {"url": "https://edgestatic.azureedge.net/shared/cms/lrs1c69a1j/section-images/b0ec664721b948bdb4de34621ba1ce25-png-w512.avif", "caption": "Edge 官网区块视觉：Copilot 与 Office 工作流捆绑呈现", "credit": "microsoft.com/edge", "link": "https://www.microsoft.com/en-us/edge"}
+          ]
+        },
+        {
+          "id": "m5-2",
+          "title": "超级工作台路线：QQ 浏览器与夸克把 AI 拆成一排可点的入口",
+          "category": "交互设计 / 竞品分析",
+          "priority": "high",
+          "facts": "QQ 浏览器官网 Mac 版以「AI 浏览、AI 助手、智能工作台、超级视频」四个能力块并列呈现；夸克官网同样把搜索、文档解析、生图与学习专区放在同一屏。两者都没有收敛成单一输入框。",
+          "insight": "国内路线的视觉特征是「高密度 + 多功能并列」：不追求一个对话框，而是把 AI 拆成若干明确入口。这与用户场景是匹配的——搜索、考公、文档解析都是明确任务，不需要对话式引导。代价也清晰：新用户认知负担高，且难以沉淀统一的品牌记忆点。这是「任务导向」与「对话导向」两种范式的正面分歧。",
+          "entities": ["腾讯", "阿里巴巴"],
+          "tags": ["#UI设计", "#交互设计", "#大厂战略"],
+          "sources": [
+            {"name": "QQ 浏览器官网", "url": "https://browser.qq.com/"},
+            {"name": "夸克官网", "url": "https://www.quark.cn/"}
+          ],
+          "images": [
+            {"url": "https://m4.publicimg.browser.qq.com/publicimg/nav/mac_home/Smart_Workbench.png", "caption": "QQ 浏览器 Mac 版「智能工作台」：多能力并列的高密度布局", "credit": "browser.qq.com", "link": "https://browser.qq.com/"},
+            {"url": "https://m4.publicimg.browser.qq.com/publicimg/nav/mac_home/AI_Browsing.png", "caption": "QQ 浏览器「AI 浏览」：把 AI 作为可点入口而非对话框", "credit": "browser.qq.com", "link": "https://browser.qq.com/"}
+          ]
+        },
+        {
+          "id": "m5-3",
+          "title": "AI-Native 派：Tabbit / Dia / Ego Lite 把首屏收缩成一句话 + 一张图",
+          "category": "视觉趋势 / 竞品分析",
+          "priority": "high",
+          "facts": "Tabbit 官网首屏以 hero 产品图 + 单一任务描述开场；Dia 官网使用大尺寸产品视觉与极简文案；Ego Lite（lite.ego.app）主打轻量浏览器形态。三者的共同点是首屏几乎不放功能列表。",
+          "insight": "AI-Native 派共同的设计选择是「把复杂折叠进执行过程」：首屏只负责一句话的价值主张，其余留给交互。视觉上普遍采用低饱和底 + 单一强调色 + 大留白，与传统浏览器的功能墙形成鲜明对比。它们唯一还没解好的题是状态可视化——Agent 在后台干活时，界面必须回答「它在做什么、做到哪一步」，这会是下一代浏览器设计的核心竞争点。",
+          "entities": ["Tabbit", "Dia", "Ego Lite"],
+          "tags": ["#UI设计", "#视觉趋势", "#交互设计"],
+          "sources": [
+            {"name": "Tabbit 官网", "url": "https://tabbit.ai/"},
+            {"name": "Dia 官网", "url": "https://www.diabrowser.com/"},
+            {"name": "Ego Lite 官网", "url": "https://lite.ego.app/"}
+          ],
+          "images": [
+            {"url": "https://www.tabbit.ai/home/hero-en.png", "caption": "Tabbit 首屏：单一主张 + 产品 hero 图，功能列表被完全折叠", "credit": "tabbit.ai", "link": "https://tabbit.ai/"},
+            {"url": "https://cdn.sanity.io/images/e5fj2khm/production/2a3fed123dd60d491e98c28d8eb8ca0a116ce275-2400x1260.png?auto=format&q=100&w=1200&h=630", "caption": "Dia 官网视觉：大尺度产品图 + 极简文案", "credit": "diabrowser.com", "link": "https://www.diabrowser.com/"},
+            {"url": "https://lite.ego.app/og.png", "caption": "Ego Lite 官网主视觉：轻量浏览器定位", "credit": "lite.ego.app", "link": "https://lite.ego.app/"}
+          ]
+        },
+        {
+          "id": "m5-4",
+          "title": "三个正在确立的设计信号：细线图标、单一强调色、留白换解释权",
+          "category": "图标设计 / 设计系统",
+          "priority": "mid",
+          "facts": "横向对比本轮竞品可见三个共性：①图标从拟物工具转向细线几何，线宽下降、圆角收敛；②配色从高饱和多色转向「低饱和底 + 单一强调色」；③概念表达从功能列表转向「一段话 + 一张产品视觉」。",
+          "insight": "三条共同指向一件事：界面正在为「对话式入口」让路。当交互收缩到一个输入框，视觉就必须承担全部的解释责任——所以留白、质感与动效的权重上升，而功能罗列的价值下降。对设计团队真正的含义是：AI 时代最贵的不是画界面，而是定义「Agent 正在工作时该怎么显示」，这套状态语言目前还没有任何一家做对。",
+          "entities": ["Google", "Tabbit"],
+          "tags": ["#图标设计", "#交互设计", "#视觉趋势"],
+          "sources": [
+            {"name": "Google Chrome 官网", "url": "https://www.google.com/intl/en/chrome/"},
+            {"name": "Tabbit 官网", "url": "https://tabbit.ai/"}
+          ]
+        }
+      ]
     }
   ]
 }

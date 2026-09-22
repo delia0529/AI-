@@ -61,10 +61,16 @@ USER_TEMPLATE = """日期：{date}
       "insight": "60-140 字，写这条为什么重要、对谁有利空/利好",
       "entities": ["关联公司或标的，2-5 个"],
       "tags": ["#标签"],
-      "sources": [{{"name": "来源名", "url": "来源链接"}}]
+      "sources": [{{"name": "来源名", "url": "来源链接"}}],
+      "images": [{{"url": "图片直链", "caption": "图注", "credit": "图源站点", "link": "原页面"}}]
     }}
   ]
 }}
+
+配图规则（仅模块 05 需要，其他模块留空数组）：
+1. 只允许厂商官网、官方博客或第三方报道中的**真实产品截图 / 官方视觉图**；
+2. **严禁使用任何 AI 生成的图片**，也不要臆造图片链接；
+3. 无法确定直链时，就把 images 留空数组，并在 sources 里给出官方页面链接。
 
 条数要求：{max_items} 条以内，宁缺毋滥；每个模块至少 1 条，最多 6 条。"""
 
@@ -140,6 +146,8 @@ def validate(payload, config):
             continue
         item["entities"] = item.get("entities", [])[:5]
         item["sources"] = [s for s in item.get("sources", []) if s.get("url")][:4]
+        # 配图最多 3 张，且必须是真实链接
+        item["images"] = [im for im in item.get("images", []) if im.get("url", "").startswith("http")][:3]
         if not item["sources"]:
             continue
         clean.append(item)

@@ -46,6 +46,14 @@
           '<div class="field"><div class="field-k">核心事实</div><p class="field-v">' + esc(it.facts) + "</p></div>" +
           '<div class="field field-insight"><div class="field-k">深度洞察</div><p class="field-v">' + esc(it.insight) + "</p></div>" +
         "</div>" +
+        '<div class="item-shots">' + (it.images || []).filter(function (im) { return im.url; }).map(function (im) {
+          return '<figure class="shot">' +
+            '<a href="' + esc(im.link || im.url) + '" target="_blank" rel="noopener">' +
+            '<img src="' + esc(im.url) + '" alt="' + esc(im.caption || "") + '" loading="lazy" ' +
+            'onerror="this.closest(\'.shot\').style.display=\'none\'"></a>' +
+            "<figcaption>" + esc(im.caption || "") + "<span> · 图源 " + esc(im.credit || "") + "</span></figcaption>" +
+          "</figure>";
+        }).join("") + "</div>" +
         '<div class="item-foot">' +
           '<div class="item-tags">' + tags.map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("") + "</div>" +
           '<div class="item-entities">关联：' + esc((it.entities || []).join("、")) + "</div>" +

@@ -122,6 +122,12 @@ def build_issue_context(day, issues, base):
                 "tags": [{"tag_name": esc(t)} for t in tags],
                 "sources": [{"src_name": esc(s.get("name", "")), "src_url": esc(s.get("url", ""))}
                             for s in item.get("sources", [])],
+                # 配图只允许来自厂商官网 / 第三方真实截图，禁止 AI 生成图
+                "images": [{"img_url": esc(im.get("url", "")),
+                            "img_caption": esc(im.get("caption", "")),
+                            "img_credit": esc(im.get("credit", "")),
+                            "img_link": esc(im.get("link") or im.get("url", ""))}
+                           for im in item.get("images", []) if im.get("url")],
             })
         modules.append({
             "module_id": module.get("id", "module"),

@@ -94,6 +94,7 @@ python3 scripts/build_site.py --latest     # 只渲染最新一期
 2. **AI 浏览器与端侧工作流** —— Chrome/Gemini、Edge/Copilot、夸克、QQ 浏览器 vs Tabbit、Comet、Dia、Ego Lite
 3. **国内三巨头与本土生态** —— 腾讯（混元 + 微信/QQ 入口）、字节（豆包矩阵 + 扣子 + 火山引擎）、阿里（Qwen 开源 + 阿里云变现）
 4. **前沿模型与落地产品** —— 海外 Claude / ChatGPT / Gemini / Copilot，国内豆包 / 元宝 / 通义千问 / Kimi
+5. **AI 视觉 UI 设计趋势** —— Chrome / Edge、夸克 / QQ 浏览器、Comet / Tabbit / Dia / Ego Lite 的设计竞品分析：交互设计、UI 质感、颜色、图标、概念表达与创新体验，**配图只采用厂商官网或第三方真实截图，禁止 AI 生成图**；数据结构为 `item.images[] = {url, caption, credit, link}`
 
 每个模块底部挂一块 **Watchlist（长期观察）**：不随当日新闻变化，用来沉淀竞争格局框架，和上面的「当日条目」区分开。
 

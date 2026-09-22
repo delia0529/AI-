@@ -94,6 +94,11 @@
               <p class="field-v">{{item_insight}}</p>
             </div>
           </div>
+          <div class="item-shots"><!--BEGIN:images--><figure class="shot">
+            <a href="{{img_link}}" target="_blank" rel="noopener"><img src="{{img_url}}" alt="{{img_caption}}" loading="lazy" onerror="this.closest('.shot').style.display='none'"></a>
+            <figcaption>{{img_caption}}<span> · 图源 {{img_credit}}</span></figcaption>
+          </figure><!--END:images--></div>
+
           <div class="item-foot">
             <div class="item-tags"><!--BEGIN:tags--><span class="tag">{{tag_name}}</span><!--END:tags--></div>
             <div class="item-entities">关联：{{item_entities}}</div>

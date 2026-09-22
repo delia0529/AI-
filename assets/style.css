@@ -340,6 +340,38 @@ body {
 .item-sources a { color: var(--ink-2); text-decoration: none; border-bottom: 1px solid var(--line-2); padding-bottom: 1px; }
 .item-sources a:hover { color: var(--accent); border-color: var(--accent); }
 
+/* ---------- 配图（仅厂商官网 / 第三方真实截图） ---------- */
+
+.item-shots:empty { display: none; }
+
+.item-shots {
+  margin-top: 22px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.shot { margin: 0; border: 1px solid var(--line); background: var(--paper-2); }
+.shot a { display: block; overflow: hidden; background: #fff; }
+.shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  filter: saturate(0.98);
+  transition: transform 0.6s cubic-bezier(0.22, 0.7, 0.24, 1);
+}
+.shot a:hover img { transform: scale(1.015); }
+.shot figcaption {
+  padding: 10px 12px;
+  font-size: 11px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  border-top: 1px solid var(--line);
+}
+.shot figcaption span { color: var(--muted); }
+
 /* ---------- watchlist ---------- */
 
 .watch {

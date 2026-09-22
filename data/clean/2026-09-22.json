@@ -2,8 +2,22 @@
   "date": "2026-09-22",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 154,
+  "raw_count": 152,
   "clusters": [
+    {
+      "headline": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "",
+      "score": 980.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6",
+          "title": "MiMo v2.6"
+        }
+      ],
+      "duplicate_count": 1
+    },
     {
       "headline": "Open-Dev-Society/OpenStock — GitHub Trending",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
@@ -14,6 +28,48 @@
           "name": "github_trending",
           "url": "https://github.com/Open-Dev-Society/OpenStock",
           "title": "Open-Dev-Society/OpenStock — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "summary": "",
+      "score": 883.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://alicegg.tech/2026/09/21/attention",
+          "title": "Attention is all you have"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "summary": "",
+      "score": 753.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "title": "I don't want to read what you didn't write"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "summary": "",
+      "score": 689.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://zuckoff.app/",
+          "title": "ZuckOff Know when a camera is in the room"
         }
       ],
       "duplicate_count": 1
@@ -47,52 +103,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "ZuckOff Know when a camera is in the room",
-      "url": "https://zuckoff.app/",
-      "summary": "",
-      "score": 680.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://zuckoff.app/",
-          "title": "ZuckOff Know when a camera is in the room"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "",
-      "score": 653.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://alicegg.tech/2026/09/21/attention",
-          "title": "Attention is all you have"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Xiaomi MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "",
-      "score": 584.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://mimo.xiaomi.com/mimo-v2-6",
-          "title": "Xiaomi MiMo v2.6"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
       "summary": "",
-      "score": 582.0,
+      "score": 674.0,
       "sources": [
         {
           "name": "hn",
@@ -106,26 +120,12 @@
       "headline": "Grok 4.7",
       "url": "https://x.ai/news/grok-4-7",
       "summary": "",
-      "score": 579.0,
+      "score": 655.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://x.ai/news/grok-4-7",
           "title": "Grok 4.7"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-      "summary": "",
-      "score": 575.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-          "title": "Disney+: New user agreement allows ads before movies in all subscriptions"
         }
       ],
       "duplicate_count": 1
@@ -145,6 +145,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "summary": "",
+      "score": 508.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://brand.io/article/spymarks/",
+          "title": "Spymarks, Not Watermarks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "summary": "单日新增 424 stars",
@@ -159,15 +173,57 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "headline": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "summary": "",
-      "score": 492.0,
+      "score": 488.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://github.com/jaredpalmer/kev/tree/main",
-          "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+          "url": "https://poloclub.github.io/transformer-explainer/",
+          "title": "Transformers Explained Visually"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "summary": "<a href=\"https:&#x2F;&#x2F;zuckoff.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;zuckoff.app&#x2F;</a>",
+      "score": 480.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+          "title": "ZuckOff is a free app that sees Meta glasses before they see you"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fable 5 – Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "summary": "",
+      "score": 478.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/Lon/status/2101793422487204027",
+          "title": "Fable 5 – Median thinking declined in August"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "",
+      "score": 475.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+          "title": "NASA’s Mars Sample Return mission is dead"
         }
       ],
       "duplicate_count": 1
@@ -187,85 +243,43 @@
       "duplicate_count": 1
     },
     {
-      "headline": "ZuckOff is a free app that sees Meta glasses before they see you",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "summary": "<a href=\"https:&#x2F;&#x2F;zuckoff.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;zuckoff.app&#x2F;</a>",
-      "score": 455.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-          "title": "ZuckOff is a free app that sees Meta glasses before they see you"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "headline": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
       "summary": "",
-      "score": 451.0,
+      "score": 396.0,
       "sources": [
         {
           "name": "hn",
-          "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-          "title": "Grim Fandango Puzzle Document (1996) [pdf]"
+          "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+          "title": "Turn off and restrict access to Apple Intelligence features on Mac"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Fable 5 – Median thinking declined in August",
-      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "headline": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
       "summary": "",
-      "score": 437.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://twitter.com/Lon/status/2101793422487204027",
-          "title": "Fable 5 – Median thinking declined in August"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "",
-      "score": 382.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-          "title": "NASA’s Mars Sample Return mission is dead"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can&#x27;t stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.<p>So, first of all it does work and you can see the sample from the whole training run here: <a href=\"https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;volotat&#x2F;mini-AGI&#x2F;refs&#x2F;heads&#x2F;main&#x2F;runs&#x2F;samples.txt\" rel=\"nofollow\">https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;volotat&#x2F;mini-AGI&#x2F;re",
       "score": 338.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://github.com/volotat/mini-AGI/",
-          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+          "title": "M5 Ultra Mac Studio Review"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
+      "headline": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
       "summary": "",
-      "score": 330.0,
+      "score": 332.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://heretic-project.org/",
-          "title": "Heretic removes restrictions from language models"
+          "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+          "title": "Raspberry Pi blocks changing RAM chips"
         }
       ],
       "duplicate_count": 1
@@ -285,57 +299,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "headline": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "summary": "",
-      "score": 325.0,
+      "score": 327.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-          "title": "Turn off and restrict access to Apple Intelligence features on Mac"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "M5 Ultra Mac Studio Review",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "summary": "",
-      "score": 317.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-          "title": "M5 Ultra Mac Studio Review"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Jev-Leftpad",
-      "url": "https://github.com/f/jev-leftpad",
-      "summary": "",
-      "score": 317.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://github.com/f/jev-leftpad",
-          "title": "Jev-Leftpad"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Raspberry Pi blocks changing RAM chips",
-      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-      "summary": "",
-      "score": 309.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-          "title": "Raspberry Pi blocks changing RAM chips"
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up"
         }
       ],
       "duplicate_count": 1
@@ -344,7 +316,7 @@
       "headline": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
       "summary": "",
-      "score": 298.0,
+      "score": 316.0,
       "sources": [
         {
           "name": "hn",
@@ -355,43 +327,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "",
-      "score": 278.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-          "title": "US halts flights at busy East Coast airports, says fiber line cut"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "",
-      "score": 277.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-          "title": "I don't want to read what you didn't write"
-        },
-        {
-          "name": "hn",
-          "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-          "title": "Don't Use AI to Write"
-        }
-      ],
-      "duplicate_count": 2
-    },
-    {
       "headline": "Python Workers are now generally available",
       "url": "https://blog.cloudflare.com/python-workers-ga/",
       "summary": "",
-      "score": 269.0,
+      "score": 316.0,
       "sources": [
         {
           "name": "hn",
@@ -402,15 +341,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
+      "headline": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
       "summary": "",
-      "score": 268.0,
+      "score": 311.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://poloclub.github.io/transformer-explainer/",
-          "title": "Transformers Explained Visually"
+          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+          "title": "US halts flights at busy East Coast airports, says fiber line cut"
         }
       ],
       "duplicate_count": 1
@@ -444,6 +383,34 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "",
+      "score": 247.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+          "title": "Frontier AI on Your Own Hardware"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Uber arbitration award over Emily Normandin-Parker’s death",
+      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "summary": "",
+      "score": 247.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+          "title": "Uber arbitration award over Emily Normandin-Parker’s death"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "akitaonrails/ai-memory — GitHub Trending",
       "url": "https://github.com/akitaonrails/ai-memory",
       "summary": "单日新增 167 stars",
@@ -458,94 +425,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Uber arbitration award over Emily Normandin-Parker’s death",
-      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
-      "summary": "",
-      "score": 243.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
-          "title": "Uber arbitration award over Emily Normandin-Parker’s death"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "summary": "",
-      "score": 240.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "title": "AI chatbots give wrong answers to financial queries 'most of the time'"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-      "url": "https://news.ycombinator.com/item?id=49786609",
-      "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings &gt; Screen Time.<p>Next, I disabled all Siri-related and Apple Intelligence-related services as per https:&#x2F;&#x2F;github.com&#x2F;OleksandrKrupko&#x2F;mac-os-debloat<p>But after restarting, I could still see a &quot;Siri&quot; process running in Activity Monitor. Upon further inspection, I found that it is the &quot;Siri AI.app&quot;.<p>These &quot;features&quot;, together with Apple&#x27;s Personal Context sound very similar to Microsoft&#x27;s Recall.<p>Does anyone have the same experience",
-      "score": 231.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://news.ycombinator.com/item?id=49786609",
-          "title": "Ask HN: Is it impossible to disable Siri on macOS 27?"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "summary": "",
-      "score": 230.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta bans ads for Virginia Woolf play in Spain",
-      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-      "summary": "",
-      "score": 224.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-          "title": "Meta bans ads for Virginia Woolf play in Spain"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Good people refuse to do bad things",
-      "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
-      "summary": "",
-      "score": 223.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
-          "title": "Good people refuse to do bad things"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Suspension of the de minimis administrative exemption for imports $800 or less",
       "url": "https://www.personalimportation.org/advocacy",
       "summary": "<a href=\"https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12669&#x2F;indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry\" rel=\"nofollow\">https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12...</a>",
-      "score": 219.0,
+      "score": 245.0,
       "sources": [
         {
           "name": "hn",
@@ -556,85 +439,57 @@
       "duplicate_count": 1
     },
     {
-      "headline": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "headline": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "summary": "",
-      "score": 219.0,
+      "score": 236.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up"
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Winning the visa lottery",
-      "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-      "summary": "",
-      "score": 195.0,
+      "headline": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings &gt; Screen Time.<p>Next, I disabled all Siri-related and Apple Intelligence-related services as per https:&#x2F;&#x2F;github.com&#x2F;OleksandrKrupko&#x2F;mac-os-debloat<p>But after restarting, I could still see a &quot;Siri&quot; process running in Activity Monitor. Upon further inspection, I found that it is the &quot;Siri AI.app&quot;.<p>These &quot;features&quot;, together with Apple&#x27;s Personal Context sound very similar to Microsoft&#x27;s Recall.<p>Does anyone have the same experience",
+      "score": 236.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-          "title": "Winning the visa lottery"
+          "url": "https://news.ycombinator.com/item?id=49786609",
+          "title": "Ask HN: Is it impossible to disable Siri on macOS 27?"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "headline": "Good people refuse to do bad things",
+      "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
       "summary": "",
-      "score": 194.0,
+      "score": 228.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://safedep.io/mathmain-encrypted-loader/",
-          "title": "Why does mathmain need an encrypted loader?"
+          "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
+          "title": "Good people refuse to do bad things"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Apple Mac mini review",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "headline": "Meta bans ads for Virginia Woolf play in Spain",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
       "summary": "",
-      "score": 191.0,
+      "score": 227.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-          "title": "Apple Mac mini review"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "",
-      "score": 183.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-          "title": "Frontier AI on Your Own Hardware"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "HERMES radio enables voice and data communication over vast distances",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "summary": "<a href=\"https:&#x2F;&#x2F;hermes.radio&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hermes.radio&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;</a>",
-      "score": 181.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-          "title": "HERMES radio enables voice and data communication over vast distances"
+          "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+          "title": "Meta bans ads for Virginia Woolf play in Spain"
         }
       ],
       "duplicate_count": 1
@@ -643,7 +498,7 @@
       "headline": "Apple Copland D11E4 Booting in the Browser",
       "url": "https://www.pagetable.com/300",
       "summary": "",
-      "score": 180.0,
+      "score": 226.0,
       "sources": [
         {
           "name": "hn",
@@ -654,52 +509,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "url": "http://pdp1173.com/",
-      "summary": "The box is a restored Q-bus PDP-11&#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404&#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boot&#x2F;swap, dual RL02, RX50s, and a TKZ50. OS is 2.11BSD.<p>The live panel is top. &#x2F;cgi-bin&#x2F;webtop is the raw snapshot.<p>A 16-bit httpd will not survive the front page, so Varnish&#x2F;Caddy&#x2F;Cloudflare cache the HTML and a 5-second webtop sample. Origin is still the 11 itself, and it handles all of the webtop and visitor count requests.<p>Telnet exists (pdp1173.com, guest) but it ",
-      "score": 179.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "http://pdp1173.com/",
-          "title": "A restored PDP-11/83 serving this page on 211BSD Unix"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The Claude Delusion",
-      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
-      "summary": "",
-      "score": 178.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://pluralistic.net/2026/09/21/sunsetting/",
-          "title": "The Claude Delusion"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sublime Text Build 4213",
-      "url": "https://www.sublimetext.com/blog/articles/sublime-text-4213",
-      "summary": "",
-      "score": 173.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.sublimetext.com/blog/articles/sublime-text-4213",
-          "title": "Sublime Text Build 4213"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "The Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "summary": "",
-      "score": 168.0,
+      "score": 224.0,
       "sources": [
         {
           "name": "hn",
@@ -715,10 +528,164 @@
       "duplicate_count": 2
     },
     {
+      "headline": "HERMES radio enables voice and data communication over vast distances",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "<a href=\"https:&#x2F;&#x2F;hermes.radio&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hermes.radio&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;</a>",
+      "score": 224.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+          "title": "HERMES radio enables voice and data communication over vast distances"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "summary": "",
+      "score": 218.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://safedep.io/mathmain-encrypted-loader/",
+          "title": "Why does mathmain need an encrypted loader?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "summary": "",
+      "score": 211.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+          "title": "Looking forward to Git 2.56 – and 3.0"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "",
+      "score": 199.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nathan.rs/posts/gzip-lm/",
+          "title": "Can gzip be a language model?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple Mac mini review",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "summary": "",
+      "score": 199.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+          "title": "Apple Mac mini review"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "",
+      "score": 196.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "title": "Claude Status – Elevated errors for multiple models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "url": "http://pdp1173.com/",
+      "summary": "The box is a restored Q-bus PDP-11&#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404&#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boot&#x2F;swap, dual RL02, RX50s, and a TKZ50. OS is 2.11BSD.<p>The live panel is top. &#x2F;cgi-bin&#x2F;webtop is the raw snapshot.<p>A 16-bit httpd will not survive the front page, so Varnish&#x2F;Caddy&#x2F;Cloudflare cache the HTML and a 5-second webtop sample. Origin is still the 11 itself, and it handles all of the webtop and visitor count requests.<p>Telnet exists (pdp1173.com, guest) but it ",
+      "score": 184.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "http://pdp1173.com/",
+          "title": "A restored PDP-11/83 serving this page on 211BSD Unix"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Claude Delusion",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "summary": "",
+      "score": 183.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+          "title": "The Claude Delusion"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "summary": "",
+      "score": 176.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How do traffic signals work? (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "",
+      "score": 174.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+          "title": "How do traffic signals work? (2019)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "First Shader from Zero in Godot 4",
+      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+      "summary": "",
+      "score": 167.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+          "title": "First Shader from Zero in Godot 4"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Data Protection Commission fines Google €403M over processing of location data",
       "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
       "summary": "",
-      "score": 161.0,
+      "score": 166.0,
       "sources": [
         {
           "name": "hn",
@@ -729,29 +696,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
+      "headline": "Noodle Gallery – Self-hosted photo and video manager forked from Immich",
+      "url": "https://digitalescapetools.com/tools/noodlegallery.html",
       "summary": "",
-      "score": 158.0,
+      "score": 163.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://brand.io/article/spymarks/",
-          "title": "Spymarks, Not Watermarks"
+          "url": "https://digitalescapetools.com/tools/noodlegallery.html",
+          "title": "Noodle Gallery – Self-hosted photo and video manager forked from Immich"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Far-left party wins Berlin election, pledging to nationalise housing",
-      "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
+      "headline": "Wall Street is growing skeptical of the data center boom",
+      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
       "summary": "",
-      "score": 157.0,
+      "score": 156.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
-          "title": "Far-left party wins Berlin election, pledging to nationalise housing"
+          "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+          "title": "Wall Street is growing skeptical of the data center boom"
         }
       ],
       "duplicate_count": 1
@@ -771,66 +738,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Help 404 Media Find Out How Your Local Police Are Surveiling You",
-      "url": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
-      "summary": "",
-      "score": 151.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
-          "title": "Help 404 Media Find Out How Your Local Police Are Surveiling You"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Wall Street is growing skeptical of the data center boom",
-      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-      "summary": "",
-      "score": 150.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-          "title": "Wall Street is growing skeptical of the data center boom"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "How do traffic signals work? (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "summary": "",
-      "score": 150.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-          "title": "How do traffic signals work? (2019)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Noodle Gallery – Self-hosted photo and video manager forked from Immich",
-      "url": "https://digitalescapetools.com/tools/noodlegallery.html",
-      "summary": "",
-      "score": 150.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://digitalescapetools.com/tools/noodlegallery.html",
-          "title": "Noodle Gallery – Self-hosted photo and video manager forked from Immich"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
       "url": "https://github.com/aru-labs/lossless-memory",
       "summary": "",
-      "score": 147.0,
+      "score": 152.0,
       "sources": [
         {
           "name": "hn",
@@ -841,43 +752,71 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Deterministic Core, Non-Deterministic Shell",
-      "url": "https://outdata.net/blog/260803",
+      "headline": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
       "summary": "",
-      "score": 144.0,
+      "score": 148.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://outdata.net/blog/260803",
-          "title": "Deterministic Core, Non-Deterministic Shell"
+          "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+          "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Raspberry Pi 5 EEPROM update now blocks manual RAM upgrades",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1wkxjwg/raspberry_pi_5_eeprom_update_now_blocks_manual/",
+      "headline": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
       "summary": "",
-      "score": 141.0,
+      "score": 146.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.reddit.com/r/selfhosted/comments/1wkxjwg/raspberry_pi_5_eeprom_update_now_blocks_manual/",
-          "title": "Raspberry Pi 5 EEPROM update now blocks manual RAM upgrades"
+          "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+          "title": "Apple Music to open concert venue in Battersea Power Station"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Elektron Machinedrum in the Browser",
-      "url": "https://machinedrum-study.pages.dev/",
+      "headline": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "url": "https://robocurve.org/roboharm/",
       "summary": "",
-      "score": 141.0,
+      "score": 143.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://machinedrum-study.pages.dev/",
-          "title": "Elektron Machinedrum in the Browser"
+          "url": "https://robocurve.org/roboharm/",
+          "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "U.S. Small Biz Can't Ship to the EU Anymore",
+      "url": "https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/",
+      "summary": "",
+      "score": 143.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/",
+          "title": "U.S. Small Biz Can't Ship to the EU Anymore"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+      "summary": "",
+      "score": 142.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+          "title": "The End Of Upward Mobility – AI is coming for the meritocracy"
         }
       ],
       "duplicate_count": 1
@@ -886,12 +825,68 @@
       "headline": "In Search of a Compositional Theory of Self-Stabilization",
       "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
       "summary": "",
-      "score": 132.0,
+      "score": 136.0,
       "sources": [
         {
           "name": "hn",
           "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
           "title": "In Search of a Compositional Theory of Self-Stabilization"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Socrates vs. the Written Word (2011)",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "summary": "",
+      "score": 133.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://wondermark.com/socrates-vs-writing/",
+          "title": "Socrates vs. the Written Word (2011)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Big AI to humanity: drop dead",
+      "url": "https://matthewbutterick.com/chron/drop-dead.html",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://matthewbutterick.com/chron/drop-dead.html",
+          "title": "Big AI to humanity: drop dead"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "summary": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local &quot;git like&quot; coordination layer that sits above git (ie. doe",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/naw103/foremerge",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "We write code by hand",
+      "url": "https://handcraftedcode.org/",
+      "summary": "",
+      "score": 131.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://handcraftedcode.org/",
+          "title": "We write code by hand"
         }
       ],
       "duplicate_count": 1
@@ -925,6 +920,174 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Apple unveils Apple Music Hall, a live music venue in London's Battersea Power Station with a capacity of up to 600 people and two recording and mixing studios (David Phelan/Forbes)",
+      "url": "https://www.techmeme.com/260922/p8#a260922p8",
+      "summary": "\n David Phelan / Forbes:\nApple unveils Apple Music Hall, a live music venue in London's Battersea Power Station with a capacity of up to 600 people and two recording and mixing studios&nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more. &hellip; Apple has just announced a new live music venue, built into its London headquarters at Battersea Power Station.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p8#a260922p8",
+          "title": "Apple unveils Apple Music Hall, a live music venue in London's Battersea Power Station with a capacity of up to 600 people and two recording and mixing studios (David Phelan/Forbes)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules (Financial Times)",
+      "url": "https://www.techmeme.com/260922/p7#a260922p7",
+      "summary": "\n Financial Times:\nSources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules&nbsp; &mdash;&nbsp; US prediction markets platform is seeking to be regulated as a financial services firm rather than under a patchwork of gambling legislation",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p7#a260922p7",
+          "title": "Sources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments (Will Oremus/The Atlantic)",
+      "url": "https://www.techmeme.com/260922/p6#a260922p6",
+      "summary": "\n Will Oremus / The Atlantic:\nSome universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments&nbsp; &mdash;&nbsp; Professors are tearing their hair out over AI detectors.&nbsp; &mdash;&nbsp; Timothy Paustian has tried everything to stop his students from writing essays with AI.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p6#a260922p6",
+          "title": "Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments (Will Oremus/The Atlantic)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)",
+      "url": "https://www.techmeme.com/260922/p5#a260922p5",
+      "summary": "\n TechCrunch:\nDutch nanoimprint lithography startup Morphotonics raised &euro;40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components&nbsp; &mdash;&nbsp; The Netherlands' ASML is possibly the biggest name in lithography, using its machines to etch patterns onto silicon wafers inside &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p5#a260922p5",
+          "title": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M (Chris Metinko/Axios)",
+      "url": "https://www.techmeme.com/260922/p4#a260922p4",
+      "summary": "\n Chris Metinko / Axios:\nBelgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M&nbsp; &mdash;&nbsp; Spott, a recruitment management platform, raised a $21 million Series A led by Balderton Capital, CEO Lander Degreve tells Axios Pro exclusively.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p4#a260922p4",
+          "title": "Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M (Chris Metinko/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops (Juliet Macur/New York Times)",
+      "url": "https://www.techmeme.com/260922/p3#a260922p3",
+      "summary": "\n Juliet Macur / New York Times:\nAmazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops&nbsp; &mdash;&nbsp; In Richardson, a fleet of drones has started to deliver goods quickly.&nbsp; But the noise is drowning out life for some residents: 'We can't live like this.'",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p3#a260922p3",
+          "title": "Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops (Juliet Macur/New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D (Marcus Mendes/9to5Mac)",
+      "url": "https://www.techmeme.com/260922/p2#a260922p2",
+      "summary": "\n Marcus Mendes / 9to5Mac:\nApple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D&nbsp; &mdash;&nbsp; Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p2#a260922p2",
+          "title": "Apple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D (Marcus Mendes/9to5Mac)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tencent launches Hy Image 3.5 Preview, saying that during internal testing the AI image model achieved results on par with ByteDance's Seedream 5.0 Pro (Bloomberg)",
+      "url": "https://www.techmeme.com/260922/p1#a260922p1",
+      "summary": "\n Bloomberg:\nTencent launches Hy Image 3.5 Preview, saying that during internal testing the AI image model achieved results on par with ByteDance's Seedream 5.0 Pro&nbsp; &mdash;&nbsp; Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba Group Holding Ltd. kicked off &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p1#a260922p1",
+          "title": "Tencent launches Hy Image 3.5 Preview, saying that during internal testing the AI image model achieved results on par with ByteDance's Seedream 5.0 Pro (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers (Reuters)",
+      "url": "https://www.techmeme.com/260921/p59#a260921p59",
+      "summary": "\n Reuters:\nAlibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers&nbsp; &mdash;&nbsp; Alibaba Group (9988.HK) plans to train a new artificial intelligence model with 5 trillion to 10 trillion parameters &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260921/p59#a260921p59",
+          "title": "Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers (Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Alibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500K units (Bloomberg)",
+      "url": "https://www.techmeme.com/260921/p58#a260921p58",
+      "summary": "\n Bloomberg:\nAlibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500K units&nbsp; &mdash;&nbsp; Alibaba Group Holding Ltd. is rolling out what it calls China's most powerful AI chip, an accelerator to compete with Nvidia Corp &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260921/p58#a260921p58",
+          "title": "Alibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500K units (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)",
+      "url": "https://www.techmeme.com/260921/p57#a260921p57",
+      "summary": " Aaron Holmes / The Information:\nSource: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios&nbsp; &mdash;&nbsp; Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260921/p57#a260921p57",
+          "title": "Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (Max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model (Carl Franzen/VentureBeat)",
+      "url": "https://www.techmeme.com/260921/p56#a260921p56",
+      "summary": "\n Carl Franzen / VentureBeat:\nMiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (Max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model&nbsp; &mdash;&nbsp; That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260921/p56#a260921p56",
+          "title": "MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (Max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model (Carl Franzen/VentureBeat)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)",
       "url": "https://www.techmeme.com/260921/p55#a260921p55",
       "summary": "\n Kelly Cloonan / Wall Street Journal:\nShopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay&nbsp; &mdash;&nbsp; Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores",
@@ -939,15 +1102,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)",
+      "headline": "A researcher says a flaw in Meta's Muse Mac app lets any app or terminal command access users' Muse authentication tokens; Meta says it issued a hotfix (Dan Goodin/Ars Technica)",
       "url": "https://www.techmeme.com/260921/p54#a260921p54",
-      "summary": "\n Dan Goodin / Ars Technica:\nA researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account&nbsp; &mdash;&nbsp; Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is &hellip; ",
+      "summary": "\n Dan Goodin / Ars Technica:\nA researcher says a flaw in Meta's Muse Mac app lets any app or terminal command access users' Muse authentication tokens; Meta says it issued a hotfix&nbsp; &mdash;&nbsp; Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is &ldquo;built from the ground up for privacy and security.&rdquo;",
       "score": 100.0,
       "sources": [
         {
           "name": "techmeme",
           "url": "https://www.techmeme.com/260921/p54#a260921p54",
-          "title": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)"
+          "title": "A researcher says a flaw in Meta's Muse Mac app lets any app or terminal command access users' Muse authentication tokens; Meta says it issued a hotfix (Dan Goodin/Ars Technica)"
         }
       ],
       "duplicate_count": 1
@@ -962,174 +1125,6 @@
           "name": "techmeme",
           "url": "https://www.techmeme.com/260921/p53#a260921p53",
           "title": "British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-      "url": "https://www.techmeme.com/260921/p52#a260921p52",
-      "summary": " Xiaomi:\nXiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &ldquo;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&rdquo;&nbsp; &mdash;&nbsp; Frontier intelligence, all the modalities, built in public.&nbsp; Today, we are releasing and open-sourcing the MiMo-V2.6 series.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p52#a260921p52",
-          "title": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)",
-      "url": "https://www.techmeme.com/260921/p51#a260921p51",
-      "summary": "\n Bloomberg:\nSome startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs&nbsp; &mdash;&nbsp; The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p51#a260921p51",
-          "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)",
-      "url": "https://www.techmeme.com/260921/p50#a260921p50",
-      "summary": "\n Maureen Farrell / New York Times:\nSources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+&nbsp; &mdash;&nbsp; Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p50#a260921p50",
-          "title": "Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)",
-      "url": "https://www.techmeme.com/260921/p49#a260921p49",
-      "summary": "\n Nichola Groom / Reuters:\nCalifornia Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight&nbsp; &mdash;&nbsp; California Governor Gavin Newsom on Monday signed seven bills aimed at regulating the fast-growing data center industry &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p49#a260921p49",
-          "title": "California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
-      "url": "https://www.techmeme.com/260921/p48#a260921p48",
-      "summary": "\n Bloomberg:\nSensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+&nbsp; &mdash;&nbsp; Meta Platforms Inc.'s new artificial intelligence agent, Muse, has quickly risen to the top of mobile app charts &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p48#a260921p48",
-          "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
-      "url": "https://www.techmeme.com/260921/p47#a260921p47",
-      "summary": "\n OpenAI:\nOpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances&nbsp; &mdash;&nbsp; Loading...&nbsp; On August 28, we began training a new internal model.&nbsp; In addition to resolving the Navier-Stokes Millennium Prize problem, this model has now resolved &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p47#a260921p47",
-          "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
-      "url": "https://www.techmeme.com/260921/p46#a260921p46",
-      "summary": "\n The Information:\nSource: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models&nbsp; &mdash;&nbsp; OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p46#a260921p46",
-          "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
-      "url": "https://www.techmeme.com/260921/p45#a260921p45",
-      "summary": "\n OpenAI:\nOpenAI says automated research could improve alignment, but &ldquo;fully autonomous RSI is not happening today&rdquo; and shouldn't be pursued unless it can be done safely&nbsp; &mdash;&nbsp; Our mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p45#a260921p45",
-          "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
-      "url": "https://www.techmeme.com/260921/p44#a260921p44",
-      "summary": "\n Maria Curi / Axios:\nAhead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems&nbsp; &mdash;&nbsp; OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p44#a260921p44",
-          "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Intel closes up 12%, AMD 10%, and Arm 17% on Monday amid investor optimism that Meta's Muse could boost CPU demand; AMD's market cap tops $1T for the first time (Adam Clark/Barron's Online)",
-      "url": "https://www.techmeme.com/260921/p43#a260921p43",
-      "summary": "\n Adam Clark / Barron's Online:\nIntel closes up 12%, AMD 10%, and Arm 17% on Monday amid investor optimism that Meta's Muse could boost CPU demand; AMD's market cap tops $1T for the first time&nbsp; &mdash;&nbsp; Advanced Micro Devices' market valuation surpasses $1 trillion for the first time in intraday trading.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p43#a260921p43",
-          "title": "Intel closes up 12%, AMD 10%, and Arm 17% on Monday amid investor optimism that Meta's Muse could boost CPU demand; AMD's market cap tops $1T for the first time (Adam Clark/Barron's Online)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as \"2.333%\" of Cl0p's net worth (Alexander Martin/The Record)",
-      "url": "https://www.techmeme.com/260921/p42#a260921p42",
-      "summary": "\n Alexander Martin / The Record:\nShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as &ldquo;2.333%&rdquo; of Cl0p's net worth&nbsp; &mdash;&nbsp; The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p42#a260921p42",
-          "title": "ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as \"2.333%\" of Cl0p's net worth (Alexander Martin/The Record)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labeling system (Kate Abnett/Reuters)",
-      "url": "https://www.techmeme.com/260921/p41#a260921p41",
-      "summary": "\n Kate Abnett / Reuters:\nThe EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labeling system&nbsp; &mdash;&nbsp; The European Commission proposed rules on Monday requiring data centres in Europe to disclose how efficiently they use energy and water &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260921/p41#a260921p41",
-          "title": "The EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labeling system (Kate Abnett/Reuters)"
         }
       ],
       "duplicate_count": 1
@@ -1158,20 +1153,6 @@
           "name": "openai",
           "url": "https://openai.com/index/building-standards-next-phase-ai",
           "title": "Building standards for the next phase of AI"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "openai",
-          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "title": "Expanding OpenAI Academy with new learning paths"
         }
       ],
       "duplicate_count": 1
@@ -1317,421 +1298,379 @@
       "duplicate_count": 1
     },
     {
-      "headline": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
-      "url": "https://www.qbitai.com/2026/09/493268.html",
-      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+      "headline": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493268.html",
-          "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！"
+          "url": "https://www.qbitai.com/2026/09/493629.html",
+          "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "url": "https://www.qbitai.com/2026/09/493241.html",
-      "summary": "97%尝试危险行为",
+      "headline": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493241.html",
-          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了"
+          "url": "https://www.qbitai.com/2026/09/493625.html",
+          "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "url": "https://www.qbitai.com/2026/09/493235.html",
-      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "headline": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "summary": "“潮起之时，靠岸相见”",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493235.html",
-          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案"
+          "url": "https://www.qbitai.com/2026/09/493510.html",
+          "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "url": "https://www.qbitai.com/2026/09/493231.html",
-      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+      "headline": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493231.html",
-          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单"
+          "url": "https://www.qbitai.com/2026/09/493502.html",
+          "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "url": "https://www.qbitai.com/2026/09/493218.html",
-      "summary": "在物理世界真正干活的具身智能体",
+      "headline": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "url": "https://www.qbitai.com/2026/09/493485.html",
+      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493218.html",
-          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent"
+          "url": "https://www.qbitai.com/2026/09/493485.html",
+          "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "url": "https://www.qbitai.com/2026/09/493179.html",
-      "summary": "激活参数仅27B",
+      "headline": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "url": "https://www.qbitai.com/2026/09/493363.html",
+      "summary": "弥补算力缺口，不能只靠堆料",
       "score": 90.0,
       "sources": [
         {
           "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493179.html",
-          "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…"
+          "url": "https://www.qbitai.com/2026/09/493363.html",
+          "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "url": "https://www.qbitai.com/2026/09/493175.html",
-      "summary": "沙利文报告",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493175.html",
-          "title": "中国Neocloud市场第一！商汤大装置全面领跑"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "url": "https://www.qbitai.com/2026/09/493114.html",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493114.html",
-          "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "url": "https://www.qbitai.com/2026/09/493109.html",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493109.html",
-          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "url": "https://www.qbitai.com/2026/09/493091.html",
-      "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/493091.html",
-          "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "url": "https://huggingface.co/papers/2609.22068",
+      "headline": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "url": "https://huggingface.co/papers/2609.24984",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22068",
-          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself"
+          "url": "https://huggingface.co/papers/2609.24984",
+          "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence",
-      "url": "https://huggingface.co/papers/2609.05571",
+      "headline": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "url": "https://huggingface.co/papers/2609.24972",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.05571",
-          "title": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence"
+          "url": "https://huggingface.co/papers/2609.24972",
+          "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
-      "url": "https://huggingface.co/papers/2609.15779",
+      "headline": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "url": "https://huggingface.co/papers/2609.25001",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.15779",
-          "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents"
+          "url": "https://huggingface.co/papers/2609.25001",
+          "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2609.22000",
+      "headline": "Transferring the Intelligence of VLMs to Robotic Control",
+      "url": "https://huggingface.co/papers/2609.22966",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22000",
-          "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents"
+          "url": "https://huggingface.co/papers/2609.22966",
+          "title": "Transferring the Intelligence of VLMs to Robotic Control"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2609.21346",
+      "headline": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+      "url": "https://huggingface.co/papers/2609.24220",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.21346",
-          "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts"
+          "url": "https://huggingface.co/papers/2609.24220",
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
-      "url": "https://huggingface.co/papers/2609.21465",
+      "headline": "OmniEdu: Open Foundation Models for Learning and Teaching",
+      "url": "https://huggingface.co/papers/2609.23088",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.21465",
-          "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue"
+          "url": "https://huggingface.co/papers/2609.23088",
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-      "url": "https://huggingface.co/papers/2609.20816",
+      "headline": "VideoGen-Agent: Reinforcing Video Generation Agents",
+      "url": "https://huggingface.co/papers/2609.24997",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.20816",
-          "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing"
+          "url": "https://huggingface.co/papers/2609.24997",
+          "title": "VideoGen-Agent: Reinforcing Video Generation Agents"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-      "url": "https://huggingface.co/papers/2609.22086",
+      "headline": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://huggingface.co/papers/2609.24983",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22086",
-          "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design"
+          "url": "https://huggingface.co/papers/2609.24983",
+          "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
-      "url": "https://huggingface.co/papers/2609.22069",
+      "headline": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
+      "url": "https://huggingface.co/papers/2609.23863",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22069",
-          "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation"
+          "url": "https://huggingface.co/papers/2609.23863",
+          "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
-      "url": "https://huggingface.co/papers/2609.20886",
+      "headline": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+      "url": "https://huggingface.co/papers/2609.23377",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.20886",
-          "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence"
+          "url": "https://huggingface.co/papers/2609.23377",
+          "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "MintAct: A Unified Visual Agent for Digital Environments",
-      "url": "https://huggingface.co/papers/2609.22083",
+      "headline": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "url": "https://huggingface.co/papers/2609.24974",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22083",
-          "title": "MintAct: A Unified Visual Agent for Digital Environments"
+          "url": "https://huggingface.co/papers/2609.24974",
+          "title": "Harness-Zero: Harness Distillation via Agent-as-Harness"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills",
-      "url": "https://huggingface.co/papers/2609.21749",
+      "headline": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+      "url": "https://huggingface.co/papers/2609.22255",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.21749",
-          "title": "GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills"
+          "url": "https://huggingface.co/papers/2609.22255",
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Gricea: An Open Science Platform for Conversational AI Research",
-      "url": "https://huggingface.co/papers/2609.22039",
+      "headline": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2609.24118",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.22039",
-          "title": "Gricea: An Open Science Platform for Conversational AI Research"
+          "url": "https://huggingface.co/papers/2609.24118",
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup",
-      "url": "https://huggingface.co/papers/2609.15126",
+      "headline": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms",
+      "url": "https://huggingface.co/papers/2609.23658",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.15126",
-          "title": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup"
+          "url": "https://huggingface.co/papers/2609.23658",
+          "title": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2609.21619",
+      "headline": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+      "url": "https://huggingface.co/papers/2609.23986",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.21619",
-          "title": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation"
+          "url": "https://huggingface.co/papers/2609.23986",
+          "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
-      "url": "https://huggingface.co/papers/2609.16251",
+      "headline": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+      "url": "https://huggingface.co/papers/2609.10706",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.16251",
-          "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design"
+          "url": "https://huggingface.co/papers/2609.10706",
+          "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
-      "url": "https://huggingface.co/papers/2609.20942",
+      "headline": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.24432",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.20942",
-          "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation"
+          "url": "https://huggingface.co/papers/2609.24432",
+          "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention",
-      "url": "https://huggingface.co/papers/2609.21788",
+      "headline": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+      "url": "https://huggingface.co/papers/2609.23796",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.21788",
-          "title": "From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention"
+          "url": "https://huggingface.co/papers/2609.23796",
+          "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection",
-      "url": "https://huggingface.co/papers/2609.18766",
+      "headline": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
+      "url": "https://huggingface.co/papers/2609.22220",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.18766",
-          "title": "FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection"
+          "url": "https://huggingface.co/papers/2609.22220",
+          "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
-      "url": "https://huggingface.co/papers/2609.18748",
+      "headline": "Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies",
+      "url": "https://huggingface.co/papers/2609.24682",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.18748",
-          "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection"
+          "url": "https://huggingface.co/papers/2609.24682",
+          "title": "Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "summary": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located underneath Apple's European headquarters in London's iconic Battersea Power Station, and is set to open next week on September 28th. Details about [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+          "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters"
         }
       ],
       "duplicate_count": 1
@@ -1863,15 +1802,113 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-      "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-      "summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The [&#8230;]",
+      "headline": "North Korea tests new hypersonic weapon as Kim rebuffs talks",
+      "url": "https://www.ft.com/content/29ddb5e0-9313-4b18-8e67-536db187f146?syn-25a6b1a6=1",
+      "summary": "Upgraded missile system will cause ‘incurable headache’ for regime’s adversaries, leader says",
       "score": 80.0,
       "sources": [
         {
-          "name": "theverge",
-          "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-          "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo"
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/29ddb5e0-9313-4b18-8e67-536db187f146?syn-25a6b1a6=1",
+          "title": "North Korea tests new hypersonic weapon as Kim rebuffs talks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI optimism lifts global stocks after Nasdaq nears record high",
+      "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+      "summary": "Taiwan’s tech-heavy index hits highest level after rising more than 60% this year",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+          "title": "AI optimism lifts global stocks after Nasdaq nears record high"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "David Ellison slays foes of his $110bn goliath",
+      "url": "https://www.ft.com/content/cfb43c8b-04d4-4c22-b03c-8ba210a7870a?syn-25a6b1a6=1",
+      "summary": "Paramount Skydance has clinched a settlement with US states that sued to block its takeover of Warner Bros Discovery",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cfb43c8b-04d4-4c22-b03c-8ba210a7870a?syn-25a6b1a6=1",
+          "title": "David Ellison slays foes of his $110bn goliath"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Are we developing a distaste for effort?",
+      "url": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
+      "summary": "Across OECD countries, the number of students who say they give up easily is increasing",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
+          "title": "Are we developing a distaste for effort?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI staff complain of mental toll over fears of threat to society",
+      "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+      "summary": "Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+          "title": "AI staff complain of mental toll over fears of threat to society"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US officials move to rein in utility profits as power bills rise",
+      "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
+      "summary": "Politicians and regulators are questioning how much shareholders should get from the build-out to meet data centre demand",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
+          "title": "US officials move to rein in utility profits as power bills rise"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI sued by Canadian province over role in mass shooting",
+      "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+      "summary": "British Columbia claims the ChatGPT maker failed to act after attacker’s account was flagged",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+          "title": "OpenAI sued by Canadian province over role in mass shooting"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SoftBank’s $50bn data centre group slows IPO",
+      "url": "https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1",
+      "summary": "Masayoshi Son-backed company faces market fears over an AI slowdown and lacklustre interest in new debt sale",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1",
+          "title": "SoftBank’s $50bn data centre group slows IPO"
         }
       ],
       "duplicate_count": 1
@@ -2012,62 +2049,6 @@
           "name": "ft_tech",
           "url": "https://www.ft.com/content/1053717b-be89-4044-bf43-59603247dd3f",
           "title": "How TikTok creators are cashing in on the Lindsay Clancy murder trial"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-      "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-      "summary": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-          "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "AI in finance must be policed differently",
-      "url": "https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a",
-      "summary": "Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a",
-          "title": "AI in finance must be policed differently"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Lex in depth: the challenging maths of Anthropic’s IPO",
-      "url": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
-      "summary": "There are several ways to crack the valuation nut. Some suggest the company may be worth far more",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
-          "title": "Lex in depth: the challenging maths of Anthropic’s IPO"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Investors need to know you are ahead in the race to destroy humanity",
-      "url": "https://www.ft.com/content/780c0432-22ea-48a6-9346-4f3f3687ac1c?syn-25a6b1a6=1",
-      "summary": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/780c0432-22ea-48a6-9346-4f3f3687ac1c?syn-25a6b1a6=1",
-          "title": "Investors need to know you are ahead in the race to destroy humanity"
         }
       ],
       "duplicate_count": 1

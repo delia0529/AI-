@@ -1,15 +1,15 @@
 {
   "date": "2026-09-23",
-  "fetched_at": "2026-09-23T03:10:42",
+  "fetched_at": "2026-09-23T04:58:34",
   "items": [
     {
       "title": "google/ax — GitHub Trending",
       "url": "https://github.com/google/ax",
       "source": "github_trending",
-      "published": "2026-09-23T03:10:35.411981+00:00",
+      "published": "2026-09-23T04:58:28.435418+00:00",
       "summary": "单日新增 2,305 stars",
       "points": 2305,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
@@ -18,7 +18,7 @@
       "source": "hn",
       "published": "2026-09-22T16:29:05Z",
       "summary": "",
-      "points": 1274,
+      "points": 1353,
       "_ts": 1790094545,
       "weight": 0.9
     },
@@ -28,7 +28,7 @@
       "source": "hn",
       "published": "2026-09-22T18:00:34Z",
       "summary": "",
-      "points": 1251,
+      "points": 1344,
       "_ts": 1790100034,
       "weight": 0.9
     },
@@ -38,7 +38,7 @@
       "source": "hn",
       "published": "2026-09-22T08:04:55Z",
       "summary": "",
-      "points": 799,
+      "points": 807,
       "_ts": 1790064295,
       "weight": 0.9
     },
@@ -48,7 +48,7 @@
       "source": "hn",
       "published": "2026-09-22T14:30:12Z",
       "summary": "",
-      "points": 637,
+      "points": 664,
       "_ts": 1790087412,
       "weight": 0.9
     },
@@ -58,7 +58,7 @@
       "source": "hn",
       "published": "2026-09-22T13:52:15Z",
       "summary": "",
-      "points": 583,
+      "points": 608,
       "_ts": 1790085135,
       "weight": 0.9
     },
@@ -68,7 +68,7 @@
       "source": "hn",
       "published": "2026-09-22T19:03:38Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "points": 473,
+      "points": 521,
       "_ts": 1790103818,
       "weight": 0.9
     },
@@ -78,7 +78,7 @@
       "source": "hn",
       "published": "2026-09-22T17:46:02Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "points": 457,
+      "points": 502,
       "_ts": 1790099162,
       "weight": 0.9
     },
@@ -86,20 +86,20 @@
       "title": "mvt-project/mvt — GitHub Trending",
       "url": "https://github.com/mvt-project/mvt",
       "source": "github_trending",
-      "published": "2026-09-23T03:10:35.412523+00:00",
+      "published": "2026-09-23T04:58:28.435711+00:00",
       "summary": "单日新增 441 stars",
       "points": 441,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
       "title": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "source": "github_trending",
-      "published": "2026-09-23T03:10:35.409680+00:00",
+      "published": "2026-09-23T04:58:28.434233+00:00",
       "summary": "单日新增 438 stars",
       "points": 438,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "published": "2026-09-22T06:08:39Z",
       "summary": "",
-      "points": 377,
+      "points": 387,
       "_ts": 1790057319,
       "weight": 0.9
     },
@@ -118,7 +118,7 @@
       "source": "hn",
       "published": "2026-09-22T12:11:09Z",
       "summary": "",
-      "points": 369,
+      "points": 372,
       "_ts": 1790079069,
       "weight": 0.9
     },
@@ -128,7 +128,7 @@
       "source": "hn",
       "published": "2026-09-22T15:25:12Z",
       "summary": "",
-      "points": 295,
+      "points": 300,
       "_ts": 1790090712,
       "weight": 0.9
     },
@@ -138,7 +138,7 @@
       "source": "hn",
       "published": "2026-09-22T14:42:59Z",
       "summary": "",
-      "points": 269,
+      "points": 275,
       "_ts": 1790088179,
       "weight": 0.9
     },
@@ -148,18 +148,8 @@
       "source": "hn",
       "published": "2026-09-22T17:12:51Z",
       "summary": "",
-      "points": 264,
+      "points": 272,
       "_ts": 1790097171,
-      "weight": 0.9
-    },
-    {
-      "title": "AMD's random number generator can't generate a 0?",
-      "url": "https://board.flatassembler.net/topic.php?t=24261",
-      "source": "hn",
-      "published": "2026-09-22T08:39:43Z",
-      "summary": "",
-      "points": 250,
-      "_ts": 1790066383,
       "weight": 0.9
     },
     {
@@ -168,38 +158,28 @@
       "source": "hn",
       "published": "2026-09-22T16:51:31Z",
       "summary": "",
-      "points": 245,
+      "points": 261,
       "_ts": 1790095891,
+      "weight": 0.9
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "source": "hn",
+      "published": "2026-09-22T08:39:43Z",
+      "summary": "",
+      "points": 256,
+      "_ts": 1790066383,
       "weight": 0.9
     },
     {
       "title": "dream-num/univer — GitHub Trending",
       "url": "https://github.com/dream-num/univer",
       "source": "github_trending",
-      "published": "2026-09-23T03:10:35.410841+00:00",
+      "published": "2026-09-23T04:58:28.434882+00:00",
       "summary": "单日新增 255 stars",
       "points": 255,
-      "_ts": 1790133035,
-      "weight": 0.8
-    },
-    {
-      "title": "agent-substrate/substrate — GitHub Trending",
-      "url": "https://github.com/agent-substrate/substrate",
-      "source": "github_trending",
-      "published": "2026-09-23T03:10:35.410226+00:00",
-      "summary": "单日新增 245 stars",
-      "points": 245,
-      "_ts": 1790133035,
-      "weight": 0.8
-    },
-    {
-      "title": "superdesigndev/treg — GitHub Trending",
-      "url": "https://github.com/superdesigndev/treg",
-      "source": "github_trending",
-      "published": "2026-09-23T03:10:35.413069+00:00",
-      "summary": "单日新增 230 stars",
-      "points": 230,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
@@ -208,18 +188,28 @@
       "source": "hn",
       "published": "2026-09-22T21:00:30Z",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "points": 206,
+      "points": 241,
       "_ts": 1790110830,
       "weight": 0.9
     },
     {
-      "title": "browser-use/video-use — GitHub Trending",
-      "url": "https://github.com/browser-use/video-use",
+      "title": "agent-substrate/substrate — GitHub Trending",
+      "url": "https://github.com/agent-substrate/substrate",
       "source": "github_trending",
-      "published": "2026-09-23T03:10:35.413658+00:00",
-      "summary": "单日新增 191 stars",
-      "points": 191,
-      "_ts": 1790133035,
+      "published": "2026-09-23T04:58:28.434559+00:00",
+      "summary": "单日新增 245 stars",
+      "points": 245,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "superdesigndev/treg — GitHub Trending",
+      "url": "https://github.com/superdesigndev/treg",
+      "source": "github_trending",
+      "published": "2026-09-23T04:58:28.436131+00:00",
+      "summary": "单日新增 230 stars",
+      "points": 230,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
@@ -228,9 +218,19 @@
       "source": "hn",
       "published": "2026-09-22T18:57:17Z",
       "summary": "",
-      "points": 176,
+      "points": 190,
       "_ts": 1790103437,
       "weight": 0.9
+    },
+    {
+      "title": "browser-use/video-use — GitHub Trending",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "github_trending",
+      "published": "2026-09-23T04:58:28.436384+00:00",
+      "summary": "单日新增 191 stars",
+      "points": 191,
+      "_ts": 1790139508,
+      "weight": 0.8
     },
     {
       "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
@@ -248,7 +248,7 @@
       "source": "hn",
       "published": "2026-09-22T16:33:45Z",
       "summary": "",
-      "points": 161,
+      "points": 169,
       "_ts": 1790094825,
       "weight": 0.9
     },
@@ -258,18 +258,8 @@
       "source": "hn",
       "published": "2026-09-22T13:52:47Z",
       "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.<p>Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. T",
-      "points": 157,
+      "points": 161,
       "_ts": 1790085167,
-      "weight": 0.9
-    },
-    {
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "source": "hn",
-      "published": "2026-09-22T04:02:09Z",
-      "summary": "",
-      "points": 155,
-      "_ts": 1790049729,
       "weight": 0.9
     },
     {
@@ -278,7 +268,7 @@
       "source": "hn",
       "published": "2026-09-22T18:15:53Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "points": 143,
+      "points": 150,
       "_ts": 1790100953,
       "weight": 0.9
     },
@@ -288,7 +278,7 @@
       "source": "hn",
       "published": "2026-09-22T20:34:19Z",
       "summary": "",
-      "points": 141,
+      "points": 144,
       "_ts": 1790109259,
       "weight": 0.9
     },
@@ -298,7 +288,7 @@
       "source": "hn",
       "published": "2026-09-22T14:35:15Z",
       "summary": "",
-      "points": 115,
+      "points": 117,
       "_ts": 1790087715,
       "weight": 0.9
     },
@@ -308,7 +298,7 @@
       "source": "hn",
       "published": "2026-09-22T16:11:34Z",
       "summary": "",
-      "points": 112,
+      "points": 113,
       "_ts": 1790093494,
       "weight": 0.9
     },
@@ -318,8 +308,28 @@
       "source": "hn",
       "published": "2026-09-22T18:10:31Z",
       "summary": "",
-      "points": 107,
+      "points": 111,
       "_ts": 1790100631,
+      "weight": 0.9
+    },
+    {
+      "title": "Obscura: VPN that can't log your activity",
+      "url": "https://obscura.com/#faq-technical",
+      "source": "hn",
+      "published": "2026-09-22T19:40:28Z",
+      "summary": "",
+      "points": 102,
+      "_ts": 1790106028,
+      "weight": 0.9
+    },
+    {
+      "title": "Native apps written in TypeScript and CSS",
+      "url": "https://github.com/geastack/examples",
+      "source": "hn",
+      "published": "2026-09-22T19:42:20Z",
+      "summary": "",
+      "points": 97,
+      "_ts": 1790106140,
       "weight": 0.9
     },
     {
@@ -333,13 +343,23 @@
       "weight": 0.9
     },
     {
-      "title": "Native apps written in TypeScript and CSS",
-      "url": "https://github.com/geastack/examples",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
       "source": "hn",
-      "published": "2026-09-22T19:42:20Z",
+      "published": "2026-09-23T02:13:52Z",
+      "summary": "",
+      "points": 92,
+      "_ts": 1790129632,
+      "weight": 0.9
+    },
+    {
+      "title": "Vacate a drone restriction that criminalized recording immigration agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "source": "hn",
+      "published": "2026-09-22T15:07:03Z",
       "summary": "",
       "points": 89,
-      "_ts": 1790106140,
+      "_ts": 1790089623,
       "weight": 0.9
     },
     {
@@ -353,26 +373,6 @@
       "weight": 0.9
     },
     {
-      "title": "Vacate a drone restriction that criminalized recording immigration agents",
-      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-      "source": "hn",
-      "published": "2026-09-22T15:07:03Z",
-      "summary": "",
-      "points": 88,
-      "_ts": 1790089623,
-      "weight": 0.9
-    },
-    {
-      "title": "Obscura: VPN that can't log your activity",
-      "url": "https://obscura.com/#faq-technical",
-      "source": "hn",
-      "published": "2026-09-22T19:40:28Z",
-      "summary": "",
-      "points": 87,
-      "_ts": 1790106028,
-      "weight": 0.9
-    },
-    {
       "title": "Verda (Finland) raises $189M in Series B",
       "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
       "source": "hn",
@@ -383,6 +383,16 @@
       "weight": 0.9
     },
     {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "source": "hn",
+      "published": "2026-09-22T13:01:03Z",
+      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
+      "points": 84,
+      "_ts": 1790082063,
+      "weight": 0.9
+    },
+    {
       "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
       "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
       "source": "hn",
@@ -390,16 +400,6 @@
       "summary": "",
       "points": 82,
       "_ts": 1790085176,
-      "weight": 0.9
-    },
-    {
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "source": "hn",
-      "published": "2026-09-22T13:01:03Z",
-      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
-      "points": 74,
-      "_ts": 1790082063,
       "weight": 0.9
     },
     {
@@ -418,7 +418,7 @@
       "source": "hn",
       "published": "2026-09-22T21:06:40Z",
       "summary": "",
-      "points": 71,
+      "points": 72,
       "_ts": 1790111200,
       "weight": 0.9
     },
@@ -428,8 +428,18 @@
       "source": "hn",
       "published": "2026-09-22T13:43:37Z",
       "summary": "",
-      "points": 68,
+      "points": 69,
       "_ts": 1790084617,
+      "weight": 0.9
+    },
+    {
+      "title": "Aging may be a program, not a breakdown",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "source": "hn",
+      "published": "2026-09-22T16:48:33Z",
+      "summary": "",
+      "points": 67,
+      "_ts": 1790095713,
       "weight": 0.9
     },
     {
@@ -438,7 +448,7 @@
       "source": "hn",
       "published": "2026-09-22T11:00:58Z",
       "summary": "",
-      "points": 66,
+      "points": 67,
       "_ts": 1790074858,
       "weight": 0.9
     },
@@ -453,16 +463,6 @@
       "weight": 0.9
     },
     {
-      "title": "Aging may be a program, not a breakdown",
-      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
-      "source": "hn",
-      "published": "2026-09-22T16:48:33Z",
-      "summary": "",
-      "points": 65,
-      "_ts": 1790095713,
-      "weight": 0.9
-    },
-    {
       "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
       "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
       "source": "hn",
@@ -473,12 +473,22 @@
       "weight": 0.9
     },
     {
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source": "hn",
+      "published": "2026-09-22T22:03:46Z",
+      "summary": "",
+      "points": 61,
+      "_ts": 1790114626,
+      "weight": 0.9
+    },
+    {
       "title": "Diesel prices could crush Republicans in the heartland",
       "url": "https://www.natesilver.net/p/diesel-prices-could-crush-republicans",
       "source": "hn",
       "published": "2026-09-22T20:13:56Z",
       "summary": "",
-      "points": 59,
+      "points": 61,
       "_ts": 1790108036,
       "weight": 0.9
     },
@@ -488,39 +498,9 @@
       "source": "hn",
       "published": "2026-09-22T19:00:40Z",
       "summary": "",
-      "points": 58,
+      "points": 59,
       "_ts": 1790103640,
       "weight": 0.9
-    },
-    {
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "hn",
-      "published": "2026-09-22T22:03:46Z",
-      "summary": "",
-      "points": 55,
-      "_ts": 1790114626,
-      "weight": 0.9
-    },
-    {
-      "title": "Used ThinkPad Buyer's Guide (2019)",
-      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-      "source": "hn",
-      "published": "2026-09-22T04:14:47Z",
-      "summary": "",
-      "points": 55,
-      "_ts": 1790050487,
-      "weight": 0.9
-    },
-    {
-      "title": "davila7/claude-code-templates — GitHub Trending",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "source": "github_trending",
-      "published": "2026-09-23T03:10:35.411461+00:00",
-      "summary": "单日新增 64 stars",
-      "points": 64,
-      "_ts": 1790133035,
-      "weight": 0.8
     },
     {
       "title": "What Capital Never Told You About Rent",
@@ -528,8 +508,38 @@
       "source": "hn",
       "published": "2026-09-22T12:38:48Z",
       "summary": "",
-      "points": 52,
+      "points": 54,
       "_ts": 1790080728,
+      "weight": 0.9
+    },
+    {
+      "title": "davila7/claude-code-templates — GitHub Trending",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "github_trending",
+      "published": "2026-09-23T04:58:28.435165+00:00",
+      "summary": "单日新增 64 stars",
+      "points": 64,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "source": "hn",
+      "published": "2026-09-22T13:00:49Z",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
+      "points": 51,
+      "_ts": 1790082049,
+      "weight": 0.9
+    },
+    {
+      "title": "The JavaScript Midlife Crisis",
+      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "source": "hn",
+      "published": "2026-09-22T19:58:47Z",
+      "summary": "",
+      "points": 50,
+      "_ts": 1790107127,
       "weight": 0.9
     },
     {
@@ -543,26 +553,6 @@
       "weight": 0.9
     },
     {
-      "title": "The JavaScript Midlife Crisis",
-      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-      "source": "hn",
-      "published": "2026-09-22T19:58:47Z",
-      "summary": "",
-      "points": 47,
-      "_ts": 1790107127,
-      "weight": 0.9
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "source": "hn",
-      "published": "2026-09-22T13:00:49Z",
-      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
-      "points": 47,
-      "_ts": 1790082049,
-      "weight": 0.9
-    },
-    {
       "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "url": "https://news.ycombinator.com/item?id=49798257",
       "source": "hn",
@@ -573,13 +563,13 @@
       "weight": 0.9
     },
     {
-      "title": "Jev introduces a new shape of LLM",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "title": "The Economics of Open-Weight Inference",
+      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
       "source": "hn",
-      "published": "2026-09-22T04:38:31Z",
+      "published": "2026-09-22T13:45:32Z",
       "summary": "",
-      "points": 47,
-      "_ts": 1790051911,
+      "points": 46,
+      "_ts": 1790084732,
       "weight": 0.9
     },
     {
@@ -603,13 +593,13 @@
       "weight": 0.9
     },
     {
-      "title": "The Economics of Open-Weight Inference",
-      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
       "source": "hn",
-      "published": "2026-09-22T13:45:32Z",
+      "published": "2026-09-23T02:52:29Z",
       "summary": "",
-      "points": 45,
-      "_ts": 1790084732,
+      "points": 44,
+      "_ts": 1790131949,
       "weight": 0.9
     },
     {
@@ -618,9 +608,49 @@
       "source": "hn",
       "published": "2026-09-22T21:05:39Z",
       "summary": "",
-      "points": 43,
+      "points": 44,
       "_ts": 1790111139,
       "weight": 0.9
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "source": "hn",
+      "published": "2026-09-22T23:46:07Z",
+      "summary": "",
+      "points": 41,
+      "_ts": 1790120767,
+      "weight": 0.9
+    },
+    {
+      "title": "Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)",
+      "url": "https://www.techmeme.com/260922/p64#a260922p64",
+      "source": "techmeme",
+      "published": "Tue, 22 Sep 2026 23:55:00 -0400",
+      "summary": "\n Ece Yildirim / Gizmodo:\nSix major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes&nbsp; &mdash;&nbsp; Agentic commerce could increase the amount of scams, fraud and disputes, the banks warn in a new report.",
+      "points": 0,
+      "_ts": 1790135700,
+      "weight": 1.0
+    },
+    {
+      "title": "Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners (Ryan Lawler/Axios)",
+      "url": "https://www.techmeme.com/260922/p63#a260922p63",
+      "source": "techmeme",
+      "published": "Tue, 22 Sep 2026 23:50:01 -0400",
+      "summary": "\n Ryan Lawler / Axios:\nGo.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners&nbsp; &mdash;&nbsp; Go.AI, which sells AI hardware appliances to banks, raised $85 million in Series A funding, CEO David Moscatelli tells Axios Pro exclusively.",
+      "points": 0,
+      "_ts": 1790135401,
+      "weight": 1.0
+    },
+    {
+      "title": "Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries (Nancy Lapid/Reuters)",
+      "url": "https://www.techmeme.com/260922/p62#a260922p62",
+      "source": "techmeme",
+      "published": "Tue, 22 Sep 2026 23:35:01 -0400",
+      "summary": "\n Nancy Lapid / Reuters:\nAnthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries&nbsp; &mdash;&nbsp; Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered &hellip; ",
+      "points": 0,
+      "_ts": 1790134501,
+      "weight": 1.0
     },
     {
       "title": "Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions (Bloomberg)",
@@ -740,36 +770,6 @@
       "summary": "\n Heather Knight / New York Times:\nSan Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market&nbsp; &mdash;&nbsp; The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market &hellip; ",
       "points": 0,
       "_ts": 1790108702,
-      "weight": 1.0
-    },
-    {
-      "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)",
-      "url": "https://www.techmeme.com/260922/p49#a260922p49",
-      "source": "techmeme",
-      "published": "Tue, 22 Sep 2026 15:55:00 -0400",
-      "summary": "\n Sarah Perez / TechCrunch:\nNat Friedman says Meta built Muse &ldquo;from scratch&rdquo; but was &ldquo;heavily inspired&rdquo; by OpenClaw, as users compare the two, including calling Muse &ldquo;OpenClaw for normies&rdquo;&nbsp; &mdash;&nbsp; Early adopters of Meta's Muse have been speculating that the reason the AI works &hellip; ",
-      "points": 0,
-      "_ts": 1790106900,
-      "weight": 1.0
-    },
-    {
-      "title": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)",
-      "url": "https://www.techmeme.com/260922/p48#a260922p48",
-      "source": "techmeme",
-      "published": "Tue, 22 Sep 2026 15:30:01 -0400",
-      "summary": "\n Stephanie Palazzolo / The Information:\nNew York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A&nbsp; &mdash;&nbsp; Personal AI agents like Instinct and Muse have promised to take away the hassle of booking hard-to-get restaurant reservations, Broadway tickets and sporting events.",
-      "points": 0,
-      "_ts": 1790105401,
-      "weight": 1.0
-    },
-    {
-      "title": "ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site (Joseph Cox/404 Media)",
-      "url": "https://www.techmeme.com/260922/p47#a260922p47",
-      "source": "techmeme",
-      "published": "Tue, 22 Sep 2026 15:10:01 -0400",
-      "summary": "\n Joseph Cox / 404 Media:\nShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site&nbsp; &mdash;&nbsp; A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
-      "points": 0,
-      "_ts": 1790104201,
       "weight": 1.0
     },
     {
@@ -923,6 +923,16 @@
       "weight": 0.9
     },
     {
+      "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+      "url": "https://www.qbitai.com/2026/09/496124.html",
+      "source": "qbitai",
+      "published": "Wed, 23 Sep 2026 03:12:31 +0000",
+      "summary": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
+      "points": 0,
+      "_ts": 1790133151,
+      "weight": 0.9
+    },
+    {
       "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
       "url": "https://www.qbitai.com/2026/09/495959.html",
       "source": "qbitai",
@@ -1013,103 +1023,133 @@
       "weight": 0.9
     },
     {
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "url": "https://www.qbitai.com/2026/09/493865.html",
-      "source": "qbitai",
-      "published": "Tue, 22 Sep 2026 08:49:12 +0000",
-      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
-      "points": 0,
-      "_ts": 1790066952,
-      "weight": 0.9
-    },
-    {
       "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
       "url": "https://huggingface.co/papers/2609.25270",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619842+00:00",
+      "published": "2026-09-23T04:58:28.582268+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
-      "weight": 0.8
-    },
-    {
-      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2609.24657",
-      "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619869+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790133035,
-      "weight": 0.8
-    },
-    {
-      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
-      "url": "https://huggingface.co/papers/2609.25186",
-      "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619882+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790133035,
-      "weight": 0.8
-    },
-    {
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "url": "https://huggingface.co/papers/2609.26796",
-      "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619902+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
       "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
       "url": "https://huggingface.co/papers/2609.24981",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619912+00:00",
+      "published": "2026-09-23T04:58:28.582287+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
-      "title": "Recursive self-improvement of AI research agents",
-      "url": "https://huggingface.co/papers/2609.26457",
+      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.24657",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619922+00:00",
+      "published": "2026-09-23T04:58:28.582297+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
       "title": "Bellman Policy Optimization",
       "url": "https://huggingface.co/papers/2609.15987",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619931+00:00",
+      "published": "2026-09-23T04:58:28.582303+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
+      "url": "https://huggingface.co/papers/2609.25186",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582309+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+      "url": "https://huggingface.co/papers/2609.26796",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582324+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2609.24058",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582333+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
       "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619943+00:00",
+      "published": "2026-09-23T04:58:28.582343+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+      "url": "https://huggingface.co/papers/2609.26774",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582353+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "Recursive self-improvement of AI research agents",
+      "url": "https://huggingface.co/papers/2609.26457",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582359+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
       "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
       "url": "https://huggingface.co/papers/2609.25247",
       "source": "hf_papers",
-      "published": "2026-09-23T03:10:35.619956+00:00",
+      "published": "2026-09-23T04:58:28.582365+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790133035,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+      "url": "https://huggingface.co/papers/2609.25804",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582375+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
+      "weight": 0.8
+    },
+    {
+      "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
+      "url": "https://huggingface.co/papers/2609.22323",
+      "source": "hf_papers",
+      "published": "2026-09-23T04:58:28.582381+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139508,
       "weight": 0.8
     },
     {
@@ -1213,6 +1253,16 @@
       "weight": 0.8
     },
     {
+      "title": "How China and the US can work together on AI security",
+      "url": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 23 Sep 2026 03:00:07 GMT",
+      "summary": "Xi-Trump meeting should build on plans for dialogue on shared risks",
+      "points": 0,
+      "_ts": 1790132407,
+      "weight": 0.8
+    },
+    {
       "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
       "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
       "source": "ft_tech",
@@ -1290,36 +1340,6 @@
       "summary": "Upgraded missile system will cause ‘incurable headache’ for regime’s adversaries, leader says",
       "points": 0,
       "_ts": 1790061950,
-      "weight": 0.8
-    },
-    {
-      "title": "David Ellison slays foes of his $110bn goliath",
-      "url": "https://www.ft.com/content/cfb43c8b-04d4-4c22-b03c-8ba210a7870a?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Tue, 22 Sep 2026 04:00:20 GMT",
-      "summary": "Paramount Skydance has clinched a settlement with US states that sued to block its takeover of Warner Bros Discovery",
-      "points": 0,
-      "_ts": 1790049620,
-      "weight": 0.8
-    },
-    {
-      "title": "Are we developing a distaste for effort?",
-      "url": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Tue, 22 Sep 2026 04:00:12 GMT",
-      "summary": "Across OECD countries, the number of students who say they give up easily is increasing",
-      "points": 0,
-      "_ts": 1790049612,
-      "weight": 0.8
-    },
-    {
-      "title": "US utility profits come under fire over data centre demand",
-      "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Tue, 22 Sep 2026 04:00:02 GMT",
-      "summary": "Politicians and regulators are questioning how much shareholders should get from the build-out to meet data centre demand",
-      "points": 0,
-      "_ts": 1790049602,
       "weight": 0.8
     },
     {

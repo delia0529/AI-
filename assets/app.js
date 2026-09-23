@@ -443,14 +443,58 @@
     var voice = null;
     var chapters = [];
 
+    /* 统一挑选「标准普通话 · 女声」，PC 与移动端尽量一致 */
+    var FEMALE_HINT = [
+      "tingting", "婷婷", "meijia", "美佳", "huihui", "慧慧", "yaoyao", "yaoyi",
+      "xiaoxiao", "晓晓", "xiaoyi", "晓伊", "xiaoqi", "female", "女声", "普通话（中国大陆）",
+      "google 普通话", "chinese (simplified)", "mandarin"
+    ];
+    var MALE_HINT = [
+      "kangkang", "康康", "yunxi", "云希", "yunyang", "云扬", "yunye", "liang",
+      "daniel", "male", "男声"
+    ];
+    var DIALECT_HINT = ["yue", "cantonese", "粤语", "台湾", "tw", "hk", "hakka", "minnan"];
+
+    function scoreVoice(v) {
+      var name = String(v.name || "").toLowerCase();
+      var lang = String(v.lang || "").toLowerCase().replace("_", "-");
+      var score = 0;
+
+      if (/^zh-cn|^cmn-hans-cn|^zh-hans/.test(lang)) score += 6;
+      else if (/^zh-tw|^zh-hk|^cmn-hant/.test(lang)) score += 2;
+      else if (/^zh|^cmn/.test(lang)) score += 3;
+      else if (/chinese|普通话|中文/.test(name)) score += 2;
+      else score -= 8; // 非中文音色直接淘汰
+
+      for (var i = 0; i < FEMALE_HINT.length; i++) {
+        if (name.indexOf(FEMALE_HINT[i]) !== -1) { score += 5; break; }
+      }
+      for (var j = 0; j < MALE_HINT.length; j++) {
+        if (name.indexOf(MALE_HINT[j]) !== -1) { score -= 6; break; }
+      }
+      for (var k = 0; k < DIALECT_HINT.length; k++) {
+        if (name.indexOf(DIALECT_HINT[k]) !== -1 || lang.indexOf(DIALECT_HINT[k]) !== -1) {
+          score -= 4;
+          break;
+        }
+      }
+      if (v.localService) score += 1;
+      return score;
+    }
+
     function pickVoice() {
       var vs = window.speechSynthesis.getVoices() || [];
       if (!vs.length) return null;
-      var zh = [];
+      var best = null;
+      var bestScore = -Infinity;
       vs.forEach(function (v) {
-        if (/^zh|cmn/i.test(v.lang || "") || /Chinese|中文|普通话/i.test(v.name || "")) zh.push(v);
+        var s = scoreVoice(v);
+        if (s > bestScore) {
+          bestScore = s;
+          best = v;
+        }
       });
-      return zh[0] || vs[0];
+      return best;
     }
 
     function refreshVoice() {
@@ -646,7 +690,7 @@
       mark(i);
       var q = queue[i];
       var u = new window.SpeechSynthesisUtterance(q.text);
-      u.lang = "zh-CN";
+      u.lang = (voice && voice.lang) ? voice.lang : "zh-CN";
       if (voice) u.voice = voice;
       u.rate = parseFloat((rateSel && rateSel.value) || "1");
       u.onend = function () {
@@ -660,6 +704,16 @@
     }
 
     function start(scope) {
+      refreshVoice(); // 移动端音色列表常异步到达，每次开读前重新挑一次
+      if (stateEl) {
+        var ok = voice && scoreVoice(voice) >= 0;
+        stateEl.title = voice
+          ? (ok ? voice.name : "未检测到中文音色：" + voice.name + "（建议在系统里安装普通话语音）")
+          : "未检测到可用音色";
+        if (!ok && window.console && console.warn) {
+          console.warn("[AI 日报] 未找到中文女声音色，请在系统中安装「普通话」语音包");
+        }
+      }
       window.speechSynthesis.cancel();
       buildQueue(scope || null);
       if (!queue.length) return;

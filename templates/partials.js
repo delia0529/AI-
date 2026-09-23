@@ -461,22 +461,34 @@
       window.speechSynthesis.onvoiceschanged = refreshVoice;
     }
 
+    /* 标点符号不朗读：去掉中英文标点与装饰符号，保留字母、数字、小数点和连字符
+       （GPT-6 / Opus 5.5 / $0.10 这类需要保留原形） */
+    /* 保留 . - $ % 与字母数字，保证 Opus 5.5 / GPT-6 / $0.10 / 42% 读得出来 */
+    var PUNCT = /[，。、；：！？…～·ˉˇ¨‘’“”〝〞（）【】《》〈〉「」『』〔〕｛｝［］﹃﹄〖〗＃＠＆＊＝＋／＼｜~^_*&@#<>{}\[\]\/\\'"!?,;:]/g;
+
+    function clean(text) {
+      return String(text || "")
+        .replace(PUNCT, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
     function chunk(text) {
       var src = String(text || "").replace(/\s+/g, " ").trim();
       var out = [];
       var buf = "";
       for (var i = 0; i < src.length; i++) {
         buf += src.charAt(i);
-        if (/[。！？；;!?]/.test(src.charAt(i)) && buf.length >= 36) {
-          out.push(buf);
+        if (/[。！？；;!?]/.test(src.charAt(i)) && buf.length >= 30) {
+          out.push(clean(buf));
           buf = "";
         } else if (buf.length >= 170) {
-          out.push(buf);
+          out.push(clean(buf));
           buf = "";
         }
       }
-      if (buf.trim()) out.push(buf);
-      return out;
+      if (buf.trim()) out.push(clean(buf));
+      return out.filter(function (t) { return t.length > 0; });
     }
 
     function push(el, text) {
@@ -485,41 +497,69 @@
       });
     }
 
+    function txtOf(el) {
+      return el ? String(el.textContent || "").replace(/\s+/g, " ").trim() : "";
+    }
+
+    /* 严格按页面 DOM 的可见顺序取文本，保证朗读内容与正文一一对应 */
     function buildQueue(scope) {
       queue = [];
       chapters = [];
+
       if (!scope) {
+        chapters.push({ start: 0, label: "今日综述", num: "00" });
+        var eyebrow = document.querySelector(".hero-eyebrow");
         var title = document.querySelector(".hero-title");
         var deck = document.querySelector(".hero-deck");
-        chapters.push({ start: 0, label: "今日综述", num: "00" });
-        if (title) push(title, title.textContent);
-        if (deck) push(deck, deck.textContent);
+        if (txtOf(eyebrow)) push(eyebrow, txtOf(eyebrow));
+        if (txtOf(title)) push(title, txtOf(title));
+        if (txtOf(deck)) push(deck, txtOf(deck));
       }
+
       var modules = scope
         ? [scope]
         : Array.prototype.slice.call(document.querySelectorAll(".module"));
+
       modules.forEach(function (m) {
         var name = m.querySelector(".module-name");
         var index = m.querySelector(".module-index");
         chapters.push({
           start: queue.length,
-          label: ((index && index.textContent ? index.textContent + " " : "") +
-                  (name ? name.textContent : "模块")),
-          num: (index && index.textContent ? index.textContent : "00")
+          label: ((index && txtOf(index) ? txtOf(index) + " " : "") +
+                  (name ? txtOf(name) : "模块")),
+          num: (index && txtOf(index) ? txtOf(index) : "00")
         });
-        if (name) push(m, name.textContent + "。");
+
+        if (txtOf(name)) push(m, txtOf(name));
         var note = m.querySelector(".module-note");
-        if (note && note.textContent.trim()) push(m, note.textContent);
+        if (txtOf(note)) push(m, txtOf(note));
+
         Array.prototype.forEach.call(m.querySelectorAll(".item"), function (it) {
           var t = it.querySelector(".item-title");
-          var f = it.querySelector(".field:not(.field-insight) .field-v");
-          var ins = it.querySelector(".field-insight .field-v");
-          var txt = "";
-          if (t) txt += t.textContent + "。";
-          if (f) txt += "核心事实：" + f.textContent + "。";
-          if (ins) txt += "深度洞察：" + ins.textContent + "。";
-          push(it, txt);
+          if (txtOf(t)) push(it, txtOf(t));
+          var cat = it.querySelector(".item-cat");
+          if (txtOf(cat)) push(it, txtOf(cat));
+          // 核心事实 / 深度洞察：标题来自页面上的字段名，顺序与页面一致
+          Array.prototype.forEach.call(it.querySelectorAll(".field"), function (f) {
+            var k = f.querySelector(".field-k");
+            var v = f.querySelector(".field-v");
+            if (txtOf(v)) push(it, (txtOf(k) ? txtOf(k) + " " : "") + txtOf(v));
+          });
+          var ent = it.querySelector(".item-entities");
+          if (txtOf(ent)) push(it, txtOf(ent));
         });
+
+        // 模块底部的长期观察清单也纳入朗读
+        var watch = m.querySelector(".watch");
+        if (watch) {
+          var wt = watch.querySelector(".watch-title");
+          if (txtOf(wt)) push(m, txtOf(wt));
+          Array.prototype.forEach.call(watch.querySelectorAll(".watch-row"), function (row) {
+            var k = row.querySelector("b");
+            var v = row.querySelector("span");
+            push(m, (txtOf(k) ? txtOf(k) + " " : "") + txtOf(v));
+          });
+        }
       });
     }
 

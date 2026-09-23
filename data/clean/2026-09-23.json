@@ -1,0 +1,2076 @@
+{
+  "date": "2026-09-23",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 149,
+  "clusters": [
+    {
+      "headline": "google/ax — GitHub Trending",
+      "url": "https://github.com/google/ax",
+      "summary": "单日新增 2,305 stars",
+      "score": 2385.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/google/ax",
+          "title": "google/ax — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "",
+      "score": 1255.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "title": "Claude Opus 5.5"
+        },
+        {
+          "name": "hn",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "",
+      "score": 1220.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "title": "GPT-6 Sol and Luna"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "summary": "",
+      "score": 880.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+          "title": "I said no and Apple said yes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "",
+      "score": 686.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+          "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "",
+      "score": 641.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mvt-project/mvt — GitHub Trending",
+      "url": "https://github.com/mvt-project/mvt",
+      "summary": "单日新增 441 stars",
+      "score": 521.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mvt-project/mvt",
+          "title": "mvt-project/mvt — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "anthropics/financial-services — GitHub Trending",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "单日新增 438 stars",
+      "score": 518.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/anthropics/financial-services",
+          "title": "anthropics/financial-services — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
+      "score": 479.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "",
+      "score": 461.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nathan.rs/posts/gzip-lm/",
+          "title": "Can gzip be a language model?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "summary": "",
+      "score": 456.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+          "title": "AI Has No Wisdom and Neither Will You"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
+      "score": 450.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+          "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "summary": "",
+      "score": 379.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://mouse.dev/blog/muse-runtime-export/",
+          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "summary": "",
+      "score": 350.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+          "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "",
+      "score": 347.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+          "title": "OpenAI is well positioned to fast-follow Jev"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "summary": "",
+      "score": 337.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://board.flatassembler.net/topic.php?t=24261",
+          "title": "AMD's random number generator can't generate a 0?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "dream-num/univer — GitHub Trending",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "单日新增 255 stars",
+      "score": 335.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/dream-num/univer",
+          "title": "dream-num/univer — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "agent-substrate/substrate — GitHub Trending",
+      "url": "https://github.com/agent-substrate/substrate",
+      "summary": "单日新增 245 stars",
+      "score": 325.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/agent-substrate/substrate",
+          "title": "agent-substrate/substrate — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "superdesigndev/treg — GitHub Trending",
+      "url": "https://github.com/superdesigndev/treg",
+      "summary": "单日新增 230 stars",
+      "score": 310.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/superdesigndev/treg",
+          "title": "superdesigndev/treg — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "browser-use/video-use — GitHub Trending",
+      "url": "https://github.com/browser-use/video-use",
+      "summary": "单日新增 191 stars",
+      "score": 271.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/browser-use/video-use",
+          "title": "browser-use/video-use — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "summary": "",
+      "score": 262.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+          "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\""
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
+      "score": 250.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://foxscript.org/",
+          "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.<p>Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. T",
+      "score": 243.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://droprun.sh/",
+          "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "summary": "",
+      "score": 242.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+          "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "",
+      "score": 240.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+          "title": "WordPress: Unauthenticated path traversal leading to conditional RCE"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "",
+      "score": 237.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+          "title": "SAML: A fractal of bad design"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LLM Ass Bench",
+      "url": "https://www.assbench.com/",
+      "summary": "",
+      "score": 228.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.assbench.com/",
+          "title": "LLM Ass Bench"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Elevated errors for multiple models – Resolved",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "",
+      "score": 228.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "title": "Elevated errors for multiple models – Resolved"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
+      "score": 216.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://unreallabs.ai/blog/unreal-agent/",
+          "title": "Unreal Agent"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta’s Muse has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "summary": "",
+      "score": 203.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "title": "Meta’s Muse has a serious 0-day"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "16-bit Intel 8088 chip (c. 1985)",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "summary": "",
+      "score": 194.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+          "title": "16-bit Intel 8088 chip (c. 1985)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "An update on how we confirm your age group on Discord",
+      "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+      "summary": "",
+      "score": 192.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+          "title": "An update on how we confirm your age group on Discord"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "summary": "",
+      "score": 191.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+          "title": "What California is learning from solar panels built over irrigation canals"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "People hooked on vapes try a new way to quit: cigarettes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;FvOhx\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;FvOhx</a>",
+      "score": 191.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+          "title": "People hooked on vapes try a new way to quit: cigarettes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "summary": "",
+      "score": 186.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "summary": "",
+      "score": 184.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+          "title": "Writing Rust code that's fast by asking agents to make the code faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jev – A curation of Jev demos on X, tools, skills, and integrations",
+      "url": "https://github.com/Amal-David/awesome-jev",
+      "summary": "",
+      "score": 178.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/Amal-David/awesome-jev",
+          "title": "Jev – A curation of Jev demos on X, tools, skills, and integrations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Vacate a drone restriction that criminalized recording immigration agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "summary": "",
+      "score": 176.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+          "title": "Vacate a drone restriction that criminalized recording immigration agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Verda (Finland) raises $189M in Series B",
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "summary": "",
+      "score": 176.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+          "title": "Verda (Finland) raises $189M in Series B"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+      "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+      "summary": "",
+      "score": 171.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+          "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Native apps written in TypeScript and CSS",
+      "url": "https://github.com/geastack/examples",
+      "summary": "",
+      "score": 167.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/geastack/examples",
+          "title": "Native apps written in TypeScript and CSS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Obscura: VPN that can't log your activity",
+      "url": "https://obscura.com/#faq-technical",
+      "summary": "",
+      "score": 164.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://obscura.com/#faq-technical",
+          "title": "Obscura: VPN that can't log your activity"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+      "summary": "",
+      "score": 161.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+          "title": "People Training OpenAI's AI Fired for Using AI to Train the AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JetBrains Air: A System of Products for Agentic Software Development",
+      "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "summary": "",
+      "score": 156.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+          "title": "JetBrains Air: A System of Products for Agentic Software Development"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+      "summary": "",
+      "score": 156.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+          "title": "Apple Music to open concert venue in Battersea Power Station"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Texas police department ordered to close for failing to provide public benefit",
+      "url": "https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php",
+      "summary": "",
+      "score": 155.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php",
+          "title": "Texas police department ordered to close for failing to provide public benefit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "summary": "",
+      "score": 155.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+          "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Aging may be a program, not a breakdown",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "summary": "",
+      "score": 153.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+          "title": "Aging may be a program, not a breakdown"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The UV index is not the warm sensation of sunlight on bare skin",
+      "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "summary": "",
+      "score": 149.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+          "title": "The UV index is not the warm sensation of sunlight on bare skin"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
+      "score": 149.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://benchmarkheaven.com/jev-models",
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Explaining to business people why building software is still hard",
+      "url": "https://www.manager.dev/newsletter/cursing-the-day-lovable-was-born",
+      "summary": "",
+      "score": 148.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.manager.dev/newsletter/cursing-the-day-lovable-was-born",
+          "title": "Explaining to business people why building software is still hard"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Used ThinkPad Buyer's Guide (2019)",
+      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "summary": "",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+          "title": "Used ThinkPad Buyer's Guide (2019)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "davila7/claude-code-templates — GitHub Trending",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "summary": "单日新增 64 stars",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "title": "davila7/claude-code-templates — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What Capital Never Told You About Rent",
+      "url": "https://www.humansontheloop.com/p/rent",
+      "summary": "",
+      "score": 141.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.humansontheloop.com/p/rent",
+          "title": "What Capital Never Told You About Rent"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Diesel prices could crush Republicans in the heartland",
+      "url": "https://www.natesilver.net/p/diesel-prices-could-crush-republicans",
+      "summary": "",
+      "score": 139.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.natesilver.net/p/diesel-prices-could-crush-republicans",
+          "title": "Diesel prices could crush Republicans in the heartland"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Xbox continues its “reset” with dramatic restructuring",
+      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+          "title": "Xbox continues its “reset” with dramatic restructuring"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Side-stepping the Secretary Problem, unwittingly",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+          "title": "Side-stepping the Secretary Problem, unwittingly"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jev introduces a new shape of LLM",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://simonwillison.net/2026/Sep/21/jev/",
+          "title": "Jev introduces a new shape of LLM"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+      "url": "https://news.ycombinator.com/item?id=49798257",
+      "summary": "I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed it at the right spot within the contract and prepared to send it when I intervened.",
+      "score": 136.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=49798257",
+          "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "No Sloptober",
+      "url": "https://no-sloptober.com/",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://no-sloptober.com/",
+          "title": "No Sloptober"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google&#x2F;Microsoft&#x2F;Two Sigma PM and Gabriel has been working in startups for over a decade.<p>We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (t",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.coveragecat.com/",
+          "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "German court rules Meta liable for scam ads on Facebook and Instagram",
+      "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
+          "title": "German court rules Meta liable for scam ads on Facebook and Instagram"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Economics of Open-Weight Inference",
+      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+      "summary": "",
+      "score": 131.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+          "title": "The Economics of Open-Weight Inference"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
+      "score": 131.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arxiv.org/abs/2609.15369",
+          "title": "Show HN: Training a model to identify AI web content from structure alone"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
+      "url": "https://www.techmeme.com/260922/p58#a260922p58",
+      "summary": "\n Anna Tong / Forbes:\nSources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025&nbsp; &mdash;&nbsp; At the beginning of last year, Ali Ansari's company, Micro1, was a recruiting business with $7 million in ARR.&nbsp; It's now generating over $500 million in ARR and two xAI cofounders invested its latest round.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p58#a260922p58",
+          "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+      "url": "https://www.techmeme.com/260922/p57#a260922p57",
+      "summary": "\n Maria Deutscher / SiliconANGLE:\nFirecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital&nbsp; &mdash;&nbsp; Firecrawl Inc., a provider of web scraping tools for artificial intelligence agents, today announced that it has raised $75 million in funding.&nbsp; &mdash;&nbsp; Los Angeles-based venture capital firm Smash Ventures led the Series B round.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p57#a260922p57",
+          "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
+      "url": "https://www.techmeme.com/260922/p56#a260922p56",
+      "summary": "\n Julian Chokkattu / Wired:\nRabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device&nbsp; &mdash;&nbsp; Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p56#a260922p56",
+          "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260922/p55#a260922p55",
+      "summary": "\n James Rundle / Wall Street Journal:\nData security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B&nbsp; &mdash;&nbsp; Data-security startup raises more than $1.9 billion in 15 months as Wall Street AI anxiety leads to an investor surge&nbsp; &mdash;&nbsp; Wall Street is getting nervous about artificial intelligence.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p55#a260922p55",
+          "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center (Stephen Nellis/Reuters)",
+      "url": "https://www.techmeme.com/260922/p54#a260922p54",
+      "summary": "\n Stephen Nellis / Reuters:\nMicrosoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center&nbsp; &mdash;&nbsp; Microsoft (MSFT.O) on Tuesday said it will give the US Defense Advanced Research Projects Agency direct, on-site access &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p54#a260922p54",
+          "title": "Microsoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center (Stephen Nellis/Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor (Semafor)",
+      "url": "https://www.techmeme.com/260922/p53#a260922p53",
+      "summary": "\n Semafor:\nSources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor&nbsp; &mdash;&nbsp; THE SCOOP&nbsp; &mdash;&nbsp; Treasury Secretary Scott Bessent is emerging as a frontrunner for President Donald Trump's new &ldquo;AI czar&rdquo; &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p53#a260922p53",
+          "title": "Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor (Semafor)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 (Amanda Silberling/TechCrunch)",
+      "url": "https://www.techmeme.com/260922/p52#a260922p52",
+      "summary": "\n Amanda Silberling / TechCrunch:\nTikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025&nbsp; &mdash;&nbsp; Eight months after it was spun out of TikTok, the social media platform's U.S. unit, known as TikTok USDS Joint Venture &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p52#a260922p52",
+          "title": "TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 (Amanda Silberling/TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)",
+      "url": "https://www.techmeme.com/260922/p51#a260922p51",
+      "summary": "\n Axel Metz / TechRadar:\nQualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores&nbsp; &mdash;&nbsp; Extreme by name, extreme by nature&nbsp; &mdash;&nbsp; Qualcomm has announced not one, but two new flagship mobile chipsets at its annual Snapdragon Summit &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p51#a260922p51",
+          "title": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)",
+      "url": "https://www.techmeme.com/260922/p50#a260922p50",
+      "summary": "\n Heather Knight / New York Times:\nSan Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market&nbsp; &mdash;&nbsp; The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p50#a260922p50",
+          "title": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/260922/p49#a260922p49",
+      "summary": "\n Sarah Perez / TechCrunch:\nNat Friedman says Meta built Muse &ldquo;from scratch&rdquo; but was &ldquo;heavily inspired&rdquo; by OpenClaw, as users compare the two, including calling Muse &ldquo;OpenClaw for normies&rdquo;&nbsp; &mdash;&nbsp; Early adopters of Meta's Muse have been speculating that the reason the AI works &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p49#a260922p49",
+          "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)",
+      "url": "https://www.techmeme.com/260922/p48#a260922p48",
+      "summary": "\n Stephanie Palazzolo / The Information:\nNew York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A&nbsp; &mdash;&nbsp; Personal AI agents like Instinct and Muse have promised to take away the hassle of booking hard-to-get restaurant reservations, Broadway tickets and sporting events.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p48#a260922p48",
+          "title": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site (Joseph Cox/404 Media)",
+      "url": "https://www.techmeme.com/260922/p47#a260922p47",
+      "summary": "\n Joseph Cox / 404 Media:\nShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site&nbsp; &mdash;&nbsp; A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p47#a260922p47",
+          "title": "ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site (Joseph Cox/404 Media)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)",
+      "url": "https://www.techmeme.com/260922/p46#a260922p46",
+      "summary": "\n Financial Times:\nIn his UN General Assembly speech, Trump rejects a &ldquo;globalist scheme to control&rdquo; AI, saying the US is &ldquo;leading now over China by a lot and everyone else&rdquo;&nbsp; &mdash;&nbsp; President says US is 'leading over China by a lot and everyone else, and we're going to keep it that way'",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p46#a260922p46",
+          "title": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)"
+        },
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+          "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)",
+      "url": "https://www.techmeme.com/260922/p45#a260922p45",
+      "summary": "\n Bloomberg:\nSources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation&nbsp; &mdash;&nbsp; Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p45#a260922p45",
+          "title": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+      "url": "https://www.techmeme.com/260922/p44#a260922p44",
+      "summary": "\n Nat Rubio-Licht / The Deep View:\nGPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6&nbsp; &mdash;&nbsp; OpenAI is releasing a more budget-friendly version of its most powerful model.&nbsp; &mdash;&nbsp; On Tuesday, the company unveiled GPT-6 Sol and GPT-6 Luna &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260922/p44#a260922p44",
+          "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "title": "Better prompt caching for GPT-6"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+          "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+          "title": "AstroForge is putting AI in command of its next spacecraft"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Everyone can find a reason to dislike data center construction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+          "title": "Everyone can find a reason to dislike data center construction"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+      "url": "https://www.qbitai.com/2026/09/494429.html",
+      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494429.html",
+          "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Agent时代，CPU的价值该重估了",
+      "url": "https://www.qbitai.com/2026/09/494430.html",
+      "summary": "CPU与GPU趋近1∶1",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494430.html",
+          "title": "Agent时代，CPU的价值该重估了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "url": "https://www.qbitai.com/2026/09/494420.html",
+      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494420.html",
+          "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "url": "https://www.qbitai.com/2026/09/494263.html",
+      "summary": "商汤U1 Pro，正式发布",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494263.html",
+          "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "url": "https://www.qbitai.com/2026/09/493653.html",
+      "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/493653.html",
+          "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+      "url": "https://www.qbitai.com/2026/09/494179.html",
+      "summary": "Hugging Face CEO：「太棒了」",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494179.html",
+          "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "url": "https://www.qbitai.com/2026/09/494120.html",
+      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494120.html",
+          "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+      "url": "https://www.qbitai.com/2026/09/494043.html",
+      "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494043.html",
+          "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "url": "https://www.qbitai.com/2026/09/493865.html",
+      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/493865.html",
+          "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+      "url": "https://www.qbitai.com/2026/09/493819.html",
+      "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/493819.html",
+          "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "url": "https://huggingface.co/papers/2609.24972",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24972",
+          "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "url": "https://huggingface.co/papers/2609.24984",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24984",
+          "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "url": "https://huggingface.co/papers/2609.25001",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.25001",
+          "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Transferring the Intelligence of VLMs to Robotic Control",
+      "url": "https://huggingface.co/papers/2609.22966",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.22966",
+          "title": "Transferring the Intelligence of VLMs to Robotic Control"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OmniEdu: Open Foundation Models for Learning and Teaching",
+      "url": "https://huggingface.co/papers/2609.23088",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23088",
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+      "url": "https://huggingface.co/papers/2609.24220",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VideoGen-Agent: Reinforcing Video Generation Agents",
+      "url": "https://huggingface.co/papers/2609.24997",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24997",
+          "title": "VideoGen-Agent: Reinforcing Video Generation Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://huggingface.co/papers/2609.24983",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24983",
+          "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
+      "url": "https://huggingface.co/papers/2609.23863",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23863",
+          "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+      "url": "https://huggingface.co/papers/2609.23377",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23377",
+          "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+      "url": "https://huggingface.co/papers/2609.22255",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.22255",
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "url": "https://huggingface.co/papers/2609.24974",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24974",
+          "title": "Harness-Zero: Harness Distillation via Agent-as-Harness"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+      "url": "https://huggingface.co/papers/2609.23986",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23986",
+          "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2609.24118",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24118",
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.24432",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24432",
+          "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms",
+      "url": "https://huggingface.co/papers/2609.23658",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23658",
+          "title": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ACLArena: Agent Continue Learning in Multi-stage Post-training",
+      "url": "https://huggingface.co/papers/2609.23989",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23989",
+          "title": "ACLArena: Agent Continue Learning in Multi-stage Post-training"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+      "url": "https://huggingface.co/papers/2609.10706",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.10706",
+          "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Towards Full Pipeline FP8 Reinforcement Learning for LLMs",
+      "url": "https://huggingface.co/papers/2609.22870",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.22870",
+          "title": "Towards Full Pipeline FP8 Reinforcement Learning for LLMs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention",
+      "url": "https://huggingface.co/papers/2609.24797",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24797",
+          "title": "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+          "title": "Paramount will need to release way more movies to make this merger work"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+          "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+          "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+          "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+          "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart at Best Buy, a [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+          "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+      "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+      "summary": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+          "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+      "summary": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\" that violates both California's Unfair Competition [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+          "title": "San Francisco sues Trump Media for selling early access to Trump posts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic and OpenAI release cheaper models as price war intensifies",
+      "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "summary": "New Claude and ChatGPT tools slash costs from earlier versions while promising better performance",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+          "title": "Anthropic and OpenAI release cheaper models as price war intensifies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns",
+      "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+      "summary": "Tech-heavy index recovers from summer sell-off",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+          "title": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mercedes-Benz aims to close AI gap with China rivals through Wayve deal",
+      "url": "https://www.ft.com/content/4ed7bccb-7d02-485f-aed6-9e7b0244ac78?syn-25a6b1a6=1",
+      "summary": "German carmaker will integrate start-up’s autonomous driving system into at least one model to be deployed in next two years",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4ed7bccb-7d02-485f-aed6-9e7b0244ac78?syn-25a6b1a6=1",
+          "title": "Mercedes-Benz aims to close AI gap with China rivals through Wayve deal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI staff complain of mental toll over fears of threat to society",
+      "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+      "summary": "Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+          "title": "AI staff complain of mental toll over fears of threat to society"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "European fusion start-up pushes for local supply chain as US dominates funding",
+      "url": "https://www.ft.com/content/31b63337-0531-47a6-a0ce-83f0dd7f395b?syn-25a6b1a6=1",
+      "summary": "Google-backed Proxima Fusion says it will invest in production of crucial material for future power plants in the German state of Lower Saxony",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/31b63337-0531-47a6-a0ce-83f0dd7f395b?syn-25a6b1a6=1",
+          "title": "European fusion start-up pushes for local supply chain as US dominates funding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US satellite maker Planet Labs opens Berlin factory as military demand booms",
+      "url": "https://www.ft.com/content/dbbfd35f-8f1c-4de8-82a8-4ec19dcdf841?syn-25a6b1a6=1",
+      "summary": "Germany is leading European drive to reduce dependence on America for space-based intelligence, says US group’s CEO",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/dbbfd35f-8f1c-4de8-82a8-4ec19dcdf841?syn-25a6b1a6=1",
+          "title": "US satellite maker Planet Labs opens Berlin factory as military demand booms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "North Korea tests new hypersonic weapon as Kim rebuffs talks",
+      "url": "https://www.ft.com/content/29ddb5e0-9313-4b18-8e67-536db187f146?syn-25a6b1a6=1",
+      "summary": "Upgraded missile system will cause ‘incurable headache’ for regime’s adversaries, leader says",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/29ddb5e0-9313-4b18-8e67-536db187f146?syn-25a6b1a6=1",
+          "title": "North Korea tests new hypersonic weapon as Kim rebuffs talks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "David Ellison slays foes of his $110bn goliath",
+      "url": "https://www.ft.com/content/cfb43c8b-04d4-4c22-b03c-8ba210a7870a?syn-25a6b1a6=1",
+      "summary": "Paramount Skydance has clinched a settlement with US states that sued to block its takeover of Warner Bros Discovery",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cfb43c8b-04d4-4c22-b03c-8ba210a7870a?syn-25a6b1a6=1",
+          "title": "David Ellison slays foes of his $110bn goliath"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Are we developing a distaste for effort?",
+      "url": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
+      "summary": "Across OECD countries, the number of students who say they give up easily is increasing",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
+          "title": "Are we developing a distaste for effort?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US utility profits come under fire over data centre demand",
+      "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
+      "summary": "Politicians and regulators are questioning how much shareholders should get from the build-out to meet data centre demand",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
+          "title": "US utility profits come under fire over data centre demand"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI energy demand accelerates China’s quest for nuclear fusion",
+      "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+      "summary": "Scale, supply chains and drive for self-sufficiency push country to cutting edge of atomic technology",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+          "title": "AI energy demand accelerates China’s quest for nuclear fusion"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI sued by Canadian province over role in mass shooting",
+      "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+      "summary": "British Columbia claims the ChatGPT maker failed to act after attacker’s account was flagged",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+          "title": "OpenAI sued by Canadian province over role in mass shooting"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+          "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

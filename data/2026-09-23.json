@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-23",
+  "issue": "No.007",
+  "weekday": "周三",
+  "generated_at": "2026-09-23 09:00 CST",
+  "window": "2026-09-22 09:00 → 2026-09-23 09:00 CST",
+  "headline": "价格腰斩的同一天，全球治理被拒",
+  "deck": "OpenAI 一口气发布 GPT-6 Sol 与 Luna，Anthropic 同日放出降价的 Opus 5.5，两边都比上一代便宜约一半——价格战正式开打。同一天 Trump 在联大演讲中拒绝「全球主义控制 AI」的方案，刚刚成型的全球治理倡议被当头一棒。能力在变便宜，规则却变得更远。",
+  "stats": {
+    "sources": 12,
+    "raw": 149,
+    "items": 21,
+    "clusters": 147,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {"k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"},
+        {"k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"},
+        {"k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"}
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "Trump 联大演讲拒绝「全球主义控制 AI」，全球治理倡议受挫",
+          "category": "政策监管 / 地缘政治",
+          "priority": "high",
+          "facts": "Trump 在联合国大会演讲中拒绝所谓「控制 AI 的全球主义方案」，称美国「现在领先中国很多」；FT 判断这打击了英国方面推动的全球 AI 治理努力。同期消息称 Scott Bessent 成为 AI czar 职位的领先人选，其他候选包括白宫 OSTP 主任 Michael Kratsios。",
+          "insight": "美国明确不参加全球治理框架，意味着规则制定权会继续下移到两条线：一是各州与各地区的碎片化立法，二是司法系统（版权、反垄断、过失诉讼）。对企业这不是松绑而是成本上升——要同时满足互不兼容的口径。同时「AI czar」人选偏财政系统而非技术背景，暗示政策重心会从安全转向产业与竞争。",
+          "entities": ["美国政府", "联合国", "OpenAI"],
+          "tags": ["#政策监管", "#地缘政治", "#AI安全"],
+          "sources": [
+            {"name": "Techmeme · 联大演讲", "url": "https://www.techmeme.com/260922/p46#a260922p46"},
+            {"name": "Financial Times", "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1"},
+            {"name": "Techmeme · AI czar 人选", "url": "https://www.techmeme.com/260922/p53#a260922p53"}
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "价格战开打：GPT-6 Sol/Luna 与 Opus 5.5 同日降价约一半",
+          "category": "商业化 / 模型架构",
+          "priority": "high",
+          "facts": "OpenAI 发布 GPT-6 Sol（输入 $2/百万 token、输出 $10）与 GPT-6 Luna（输入 $0.10、输出 $0.50），均比上一代便宜约 50%；Anthropic 同日发布 Opus 5.5，同样降价并宣称达到 Fable 级表现。Hacker News 上两帖分别为 1130 分与 1165 分，FT 称价格战加剧。",
+          "insight": "同一天互相降价五成，说明双方的成本曲线都还有空间，也说明「模型能力」已经不再是定价依据——定价依据变成了对手的报价。真正的赢家是 Agent 类应用：工具选择、多轮调用这些高频场景的单位经济性被直接改写，昨天还在算「这一步值不值得调模型」的团队，今天可以默认全开。",
+          "entities": ["OpenAI", "Anthropic"],
+          "tags": ["#商业化", "#推理成本", "#大厂战略"],
+          "sources": [
+            {"name": "OpenAI · Sol 与 Luna", "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"},
+            {"name": "Anthropic · Opus 5.5", "url": "https://www.anthropic.com/claude-opus-5-5"},
+            {"name": "FT · 价格战", "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "资本面：Nasdaq 100 创新高「AI FOMO」回归，Nscale IPO 再测胃口",
+          "category": "宏观金融 / 投融资",
+          "priority": "high",
+          "facts": "FT：Nasdaq 100 创下新高，市场情绪被形容为「AI FOMO 回归」；TechCrunch 报道 Nscale 的 IPO 将再次检验华尔街对高度集中的 AI 押注的胃口。",
+          "insight": "指数新高与单个基建标的承压同时出现，说明资金在「买指数、卖个体」——AI 的 beta 被认可，alpha 被怀疑。Nscale 这种客户与收入高度集中的标的，正是这种分歧的压力测试点：它上市后的表现会给整条 neocloud 赛道定价。",
+          "entities": ["Nscale", "Nasdaq"],
+          "tags": ["#商业化", "#投融资", "#算力基础设施"],
+          "sources": [
+            {"name": "FT · Nasdaq 新高", "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1"},
+            {"name": "TechCrunch · Nscale", "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"}
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "一天五笔大额：数据与安全赛道被资本集中扫货",
+          "category": "投融资 / 生态",
+          "priority": "high",
+          "facts": "同日披露：训练数据初创公司 Micro1 融资超 1 亿美元、估值 40 亿（一年前 5 亿）；Snorkel AI 估值增至三倍达 35 亿；Firecrawl 完成 7,500 万美元 B 轮（为 Agent 提供网页抓取）；数据安全公司 Cyera 获高盛 4 亿美元 G 轮扩展；前 Anthropic 研究员创办的自我改进 AI 公司 Mirendil 洽谈约 10 亿美元融资、估值 50 亿。",
+          "insight": "五笔钱砸的是同一个判断：Agent 时代的瓶颈是「数据供给」与「安全边界」，而不是模型。训练数据一年估值涨 8 倍、抓取工具单轮 7,500 万，都是在给 Agent 的执行链路供货。Mirendil 50 亿估值则说明「递归自我改进」已经从论文题目变成可融资的公司定位——这与 OpenAI 昨天说的「完全自主 RSI 今天不会发生」形成了有趣的张力。",
+          "entities": ["Micro1", "Snorkel AI", "Firecrawl", "Cyera", "Mirendil"],
+          "tags": ["#投融资", "#生态", "#Agent工程"],
+          "sources": [
+            {"name": "Techmeme · Micro1", "url": "https://www.techmeme.com/260922/p58#a260922p58"},
+            {"name": "Techmeme · Firecrawl", "url": "https://www.techmeme.com/260922/p57#a260922p57"},
+            {"name": "Techmeme · Mirendil", "url": "https://www.techmeme.com/260922/p45#a260922p45"},
+            {"name": "TechCrunch · Snorkel AI", "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"}
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "安全侧三连：五角大楼承认过度依赖 AI、ShinyHunters 称攻入 FBI 相关服务",
+          "category": "AI 安全 / 地缘政治",
+          "priority": "mid",
+          "facts": "五角大楼表示对 AI 的过度依赖是导致伊朗学校遭导弹打击的因素之一；ShinyHunters 声称利用 Oracle PeopleSoft 零日漏洞侵入 FBI 相关服务并窃取员工与申请人数据；此前不列颠哥伦比亚省已就枪击案起诉 OpenAI。",
+          "insight": "三条连起来看，AI 的安全问题已经分成两层：一层是「决策依赖」——人把判断权交给模型后失去了复核能力；一层是「传统安全」——模型公司自己也是被攻击的对象。目前 industry 的注意力几乎全在第一层，而第二层才是可立即整改的工程问题。零日 + 供应链的组合，说明 AI 公司还没有补齐最基本的攻击面管理。",
+          "entities": ["美国国防部", "Oracle", "OpenAI"],
+          "tags": ["#AI安全", "#地缘政治", "#政策监管"],
+          "sources": [
+            {"name": "Bloomberg · 五角大楼结论", "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"},
+            {"name": "404 Media · ShinyHunters", "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {"k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"},
+        {"k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"},
+        {"k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"}
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "Rabbit 发布 OS3：云端 Agent 直连本地应用与文件，不再需要 R1",
+          "category": "Agent 工作流 / 产品形态",
+          "priority": "high",
+          "facts": "Rabbit 推出 OS3：一个云端 AI Agent，可连接 Windows、Mac、Linux 上的本地应用与文件，并通过网页、Telegram 或 iMessage 使用；The Verge 强调它不再需要 R1 硬件即可运行。",
+          "insight": "从「卖硬件」退回「卖 Agent」，Rabbit 承认了硬件不是入口这一事实。更有意思的是入口策略：把 web/Telegram/iMessage 当壳，等于把 Agent 寄生在用户已有的聊天界面里——这是无壳产品最现实的存活方式，代价是永远做不了自己的品牌体验，且随时被宿主平台封禁。",
+          "entities": ["Rabbit"],
+          "tags": ["#Agent工作流", "#产品形态", "#C端Agent"],
+          "sources": [
+            {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260922/p56#a260922p56"}
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "Nat Friedman 承认：Muse 从零构建，但「深受 OpenClaw 启发」",
+          "category": "C 端 Agent / 大厂战略",
+          "priority": "mid",
+          "facts": "Nat Friedman 表示 Meta 的 Muse 是「从零开始」构建的，但「深受 OpenClaw 启发」，此前用户大量对比两者并将 Muse 称为「OpenClaw 版」。",
+          "insight": "这句半承认很关键：它把「灵感来源」与「代码来源」切开，是一种在法律上安全、在舆论上示弱的姿态。对开源项目的含义是——大厂可以合法地把你的产品思路工业化，而你能拿到的只有一句致谢。这会加速开源项目转向闭源或附加更严格的许可。",
+          "entities": ["Meta", "Muse", "OpenClaw"],
+          "tags": ["#C端Agent", "#大厂战略", "#开源生态"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260922/p49#a260922p49"}
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "高通骁龙 8 Elite Gen 6 / Extreme Gen 6：台积电 2nm，双 5GHz 主核",
+          "category": "端侧 AI / 算力芯片",
+          "priority": "mid",
+          "facts": "高通发布骁龙 8 Elite Gen 6 与 8 Elite Extreme Gen 6，均采用台积电 2nm 工艺，配备两个 5GHz 主核与六个 4GHz 性能核，主打端侧 AI；Motorola Signature 27 首发 Extreme 版本。",
+          "insight": "手机 SoC 站上 2nm + 5GHz，意味着端侧多模态（实时语音、视觉）不再需要「云一下」。真正的连锁反应在交互层：当本地延迟降到百毫秒以内，那些为了掩盖等待而设计的加载动画、进度条与「思考中」提示都会变得多余——端侧算力最终会改写的是界面语言。",
+          "entities": ["高通", "台积电", "Motorola"],
+          "tags": ["#端侧AI", "#算力芯片", "#硬件"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260922/p51#a260922p51"},
+            {"name": "The Verge", "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"}
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "Muse 被要文件系统，返回 6.8GB：Agent 的数据边界在哪里",
+          "category": "Agent 安全 / 产品形态",
+          "priority": "mid",
+          "facts": "开发者实测：向 Meta 的 Muse 索取其文件系统，对方返回了 6.8GB 的运行时导出数据（Hacker News 289 分）。同日 Hacker News 另有讨论称 Apple 在 iOS 中加入了持久化的「广告」引发用户不满（596 分）。",
+          "insight": "6.8GB 这个数字说明一件事：个人 Agent 在后台积累的关于你的数据，已经远超用户对「一个聊天 App」的心理预期。产品设计上必须补两件事——一是可视化的体量说明（我存了你多少），二是一键导出与清除。否则当用户第一次意识到 Agent 有 6.8GB 关于自己的数据时，信任会一次性崩塌。",
+          "entities": ["Meta", "Apple"],
+          "tags": ["#Agent安全", "#产品形态", "#C端Agent"],
+          "sources": [
+            {"name": "mouse.dev · Muse 运行时导出", "url": "https://mouse.dev/blog/muse-runtime-export/"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {"k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"},
+        {"k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"},
+        {"k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"}
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "小米「炼丹直播」收官：6 天烧掉 2000 多万，拿到开源第一",
+          "category": "大厂战略 / 开源",
+          "priority": "high",
+          "facts": "量子位报道：小米史无前例的公开训练直播收官，6 天烧掉 2000 多万元，最终拿下开源第一。此前小米已发布开源全模态 MiMo-V2.6 Pro / Flash。",
+          "insight": "把训练过程做成直播并用「烧了多少钱」当卖点，是一次极高明的传播设计：算力投入本来是最枯燥的财务数字，被转译成了一场可围观的事件。它同时回应了外界对国产模型「低成本即低质量」的质疑——先把账单摊开，再谈名次。这条路可复制性不高，因为它需要厂商真的敢公开失败过程。",
+          "entities": ["小米", "MiMo"],
+          "tags": ["#大厂战略", "#开源", "#模型训练"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/494179.html"}
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "WebArena 作者 Shuyan Zhou 加入 Meta 超级智能实验室",
+          "category": "大厂战略 / 评测",
+          "priority": "mid",
+          "facts": "量子位报道：WebArena 的作者 Shuyan Zhou 入职 Meta 超级智能实验室。WebArena 是浏览器 Agent 领域最重要的评测环境之一。",
+          "insight": "把评测环境的作者招进实验室，等于把「尺子」内化。这与大厂抢基准定义权是同一件事的两面：与其在别人定义的环境里刷榜，不如让定义环境的人替你工作。对开源评测生态是坏消息——最核心的几个 Agent 环境可能都会变成内部资产。",
+          "entities": ["Meta"],
+          "tags": ["#大厂战略", "#评测", "#Agent工程"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/493653.html"}
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "Agent 时代，CPU 的价值该重估了",
+          "category": "算力芯片 / 商业化",
+          "priority": "mid",
+          "facts": "量子位刊文讨论：进入 Agent 时代后，CPU 的价值需要被重新评估。这与昨日 Muse 拉动 Intel / AMD / Arm 股价大涨形成呼应。",
+          "insight": "过去三年算力叙事几乎被 GPU 垄断，但 Agent 的工作负载是大量短任务、强调度、频繁 I/O——这恰恰是通用 CPU 的主场。若 Muse 这类常驻 Agent 成为主流，服务器采购结构会回到 CPU/内存占比更高的一档，配套的调度与沙箱软件也会重新变成瓶颈。这是本轮最容易被低估的供应链变化。",
+          "entities": ["Intel", "AMD", "Arm"],
+          "tags": ["#算力芯片", "#商业化", "#供应链"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/494430.html"}
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "阿里全模态开始兜底影视生产，虎鲸文娱推出「鲸锐 AI」",
+          "category": "模型落地 / 商业化",
+          "priority": "low",
+          "facts": "量子位报道：陆川、王珞丹等影视从业者已在实际生产中使用阿里全模态能力；虎鲸文娱同期推出「鲸锐 AI」影视制作与管理平台。",
+          "insight": "影视是检验多模态能力最苛刻的场景——它同时要求一致性、可控性和交付稳定性。从业者的真实使用比任何榜单都更有说服力，而平台化（鲸锐 AI）说明竞争已经从「能不能生成」转向「能不能进制作流程」。真正的门槛会在版权与交付责任上，而不是画质。",
+          "entities": ["阿里巴巴", "虎鲸文娱"],
+          "tags": ["#模型落地", "#商业化", "#生态"],
+          "sources": [
+            {"name": "量子位 · 阿里全模态", "url": "https://www.qbitai.com/2026/09/494429.html"},
+            {"name": "量子位 · 鲸锐 AI", "url": "https://www.qbitai.com/2026/09/493865.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {"k": "海外前沿", "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"},
+        {"k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"},
+        {"k": "技术演进焦点", "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"}
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "GPT-6 Astra 破解 2005 年以来未解的 Enigma 密文（HN 551 分）",
+          "category": "模型落地 / 模型架构",
+          "priority": "high",
+          "facts": "Hacker News 551 分：GPT-6 Astra 破解了一条自 2005 年起悬而未决的 Enigma 加密消息，破译过程已公开。",
+          "insight": "继一战德军无线电密码之后，Astra 又拿下 Enigma，说明「长程推理 + 假设检验 + 自我修正」这套能力已经稳定可复现。这类任务的价值在于它有客观答案——无法用「感觉不错」搪塞。它给行业提供了一个比榜单更难掺水的验证口径：让模型去碰那些人类还没解开的硬问题。",
+          "entities": ["OpenAI"],
+          "tags": ["#模型落地", "#模型架构", "#评测"],
+          "sources": [
+            {"name": "The Crypto Cellar · 破译详情", "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "Harness 进入自我改进阶段：RRSI / Harness-Zero / Jev-Mem 同日上榜",
+          "category": "论文 / Agent 工程",
+          "priority": "high",
+          "facts": "Hugging Face 当日热门论文集中在 Agent 骨架本身：RRSI（Agent Harness 的正则化递归自我改进）、Harness-Zero（用 Agent-as-Harness 做骨架蒸馏）、Jev-Mem（面向高效 Agent 的系统一控制式记忆）。",
+          "insight": "本周论文主线已经收敛得非常清楚：从「更强的模型」到「可验证的环境」，再到今天的「可自我改进的骨架」。三层合起来指向同一件事——Agent 的性能瓶颈已经完全转移到外层工程，模型只是其中一环。谁先把 harness 的自我改进做成可复现的流程，谁就能在不换模型的情况下持续拉开差距。",
+          "entities": ["Hugging Face"],
+          "tags": ["#论文", "#Agent工程", "#推理成本"],
+          "sources": [
+            {"name": "HF · RRSI", "url": "https://huggingface.co/papers/2609.24972"},
+            {"name": "HF · Jev-Mem", "url": "https://huggingface.co/papers/2609.23986"}
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "工具链升温：google/ax 单日 2,305 stars 登顶，browser-use/video-use 上榜",
+          "category": "开源 / 开发者工具",
+          "priority": "mid",
+          "facts": "GitHub Trending 日榜：google/ax 单日 +2,305 居首，browser-use/video-use +191，anthropics/financial-services +438；社区侧出现 JevBench 等面向决策模型的可复现基准。",
+          "insight": "榜单前列几乎全是「让 Agent 可被度量与被约束」的工具。JevBench 这类社区基准的出现尤其关键——当一类新模型（决策/路由模型）出现时，最先成熟的往往是评测而不是模型本身。这也给做小模型的团队指了条路：先做出可复现的基准，再谈性能。",
+          "entities": ["Google", "browser-use", "Anthropic"],
+          "tags": ["#开源", "#开发者工具", "#评测"],
+          "sources": [
+            {"name": "GitHub · google/ax", "url": "https://github.com/google/ax"},
+            {"name": "GitHub · browser-use/video-use", "url": "https://github.com/browser-use/video-use"}
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "OpenAI 有能力快速跟进 Jev：小模型会成为新的竞争前线吗",
+          "category": "模型架构 / 推理成本",
+          "priority": "mid",
+          "facts": "分析文章指出 OpenAI 在跟进 Jev（用于工具选择的决策/路由模型）方面处于有利位置（Hacker News 257 分）；Simon Willison 撰文称 Jev 引入了一种新的 LLM 形态；社区已出现 awesome-jev 与 JevBench。",
+          "insight": "大厂跟进小模型看似反常，实则必然：路由层决定的是调用成本，谁掌握它谁就掌握自己的毛利结构。对创业者的启示是——做路由/决策模型的窗口很短，护城河不在模型而在「接入了多少真实工具调用数据」。这也是本周 Kev、Jev-Mem、JevBench 同时冒出来的原因：生态正在抢着定义这一层。",
+          "entities": ["OpenAI"],
+          "tags": ["#模型架构", "#推理成本", "#商业化"],
+          "sources": [
+            {"name": "Arcturus Labs · 分析", "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"},
+            {"name": "Simon Willison · Jev", "url": "https://simonwillison.net/2026/Sep/21/jev/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的界面：交互是否收缩成一个输入框，视觉是否敢于留白，图标是否还在假装自己是个工具。",
+      "watchlist": [
+        {"k": "装配派", "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"},
+        {"k": "超级工作台", "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"},
+        {"k": "AI-Native 派", "v": "Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"},
+        {"k": "观察维度", "v": "交互设计 · UI 质感表达 · 颜色 · Icon 图标设计 · 概念表达 · 创新体验"}
+      ],
+      "items": [
+        {
+          "id": "m5-1",
+          "title": "Rabbit OS3：没有自己的壳，就把别人的聊天框当入口",
+          "category": "交互设计 / 竞品分析",
+          "priority": "high",
+          "facts": "Rabbit OS3 的官方视觉延续了品牌一贯的高饱和橙与硬边几何；产品层面它不再依赖 R1 硬件，而是以云端 Agent 形态接入 web、Telegram 与 iMessage，直连 Windows / Mac / Linux 的本地应用与文件。",
+          "insight": "这是一个极端的「去界面」案例：设计对象从产品 UI 变成了「在别人的界面里如何自处」。它的视觉一致性只能靠图片与品牌色维系，交互则完全受制于宿主。对设计团队的启示是残酷的——当你没有壳，视觉系统要足够强（能在一张图里被认出），而交互设计要足够弱（不假设任何宿主能力）。",
+          "entities": ["Rabbit"],
+          "tags": ["#交互设计", "#UI设计", "#视觉趋势"],
+          "sources": [
+            {"name": "Rabbit 官网", "url": "https://www.rabbit.tech/"},
+            {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"}
+          ],
+          "images": [
+            {"url": "https://www.rabbit.tech/og/os3-launch.jpg", "caption": "Rabbit OS3 官方主视觉：高饱和橙 + 硬边几何，品牌识别压在无壳形态上", "credit": "rabbit.tech", "link": "https://www.rabbit.tech/"}
+          ]
+        },
+        {
+          "id": "m5-2",
+          "title": "价格腰斩之后：界面要从「省着用」改成「默认开」",
+          "category": "交互设计 / 产品形态",
+          "priority": "high",
+          "facts": "GPT-6 Sol / Luna 与 Opus 5.5 同日降价约 50%，Luna 输入价低至 $0.10/百万 token。官方页面均以「更低成本、更少错误」为主张。",
+          "insight": "过去两年的 AI 界面里充满了成本焦虑的产物：额度提示、确认弹窗、按次计费的按钮、需要手动开启的高级模式。当单位成本再降一半，这些设计全部变成了摩擦力。接下来会看到一轮「去确认化」改造——Agent 默认常驻、多步任务不再逐步确认、实时语音默认开启。真正的挑战是把「可撤销」做扎实，因为一旦取消确认，撤销就是唯一的安全网。",
+          "entities": ["OpenAI", "Anthropic"],
+          "tags": ["#交互设计", "#UI设计", "#推理成本"],
+          "sources": [
+            {"name": "OpenAI · Sol 与 Luna", "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"},
+            {"name": "Anthropic 官网", "url": "https://www.anthropic.com/"}
+          ],
+          "images": [
+            {"url": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg", "caption": "Anthropic 官方视觉：极简构图与单一强调色，价格战之下界面反而更克制", "credit": "anthropic.com", "link": "https://www.anthropic.com/"}
+          ]
+        },
+        {
+          "id": "m5-3",
+          "title": "2nm 之后：等待动画将成为历史",
+          "category": "交互设计 / 端侧 AI",
+          "priority": "mid",
+          "facts": "高通骁龙 8 Elite Gen 6 / Extreme Gen 6 采用台积电 2nm 工艺，双 5GHz 主核 + 六 4GHz 性能核，主打端侧 AI；官方视觉依旧是工程感极强的深色产品图。",
+          "insight": "现在 AI 界面里大量的「加载中 / 思考中 / 流式打字」本质上是在替延迟打掩护。当端侧算力把响应压到百毫秒级，这套缓冲美学就要退场——取而代之的是即时反馈与连续动效。设计上需要提前准备的是「无等待态」下的表达：没有进度条可看时，用什么告诉用户系统在工作？这会是未来两年最具体的界面命题。",
+          "entities": ["高通", "台积电"],
+          "tags": ["#交互设计", "#端侧AI", "#视觉趋势"],
+          "sources": [
+            {"name": "高通官网", "url": "https://www.qualcomm.com/"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260922/p51#a260922p51"}
+          ],
+          "images": [
+            {"url": "https://s7d1.scene7.com/is/image/dmqualcommprod/engineering-human-progress", "caption": "高通官方视觉：深色工程质感，强调「算力」而非「界面」", "credit": "qualcomm.com", "link": "https://www.qualcomm.com/"}
+          ]
+        },
+        {
+          "id": "m5-4",
+          "title": "同一周里的两种产品人格：功能墙 vs 一句话",
+          "category": "视觉趋势 / 图标设计",
+          "priority": "mid",
+          "facts": "把本轮抓取到的官方视觉横着摆：Chrome 官网主视觉仍是功能卡 + 大色块，Tabbit 首屏则是单一主张 + 一张产品图。两者代表了同一周内并存的两种产品人格。",
+          "insight": "差别不在审美，而在对用户心智的假设：功能墙假设用户「知道自己要什么，来找入口」；一句话假设用户「不知道能做什么，需要被说服」。Agent 类产品普遍属于后者，所以它们必然走向留白与单一强调色。图标层面同理——从「形象化工具」转向「细线几何」，本质是把解释权从图标本身交还给文案与动效。",
+          "entities": ["Google", "Tabbit"],
+          "tags": ["#图标设计", "#视觉趋势", "#UI设计"],
+          "sources": [
+            {"name": "Google Chrome 官网", "url": "https://www.google.com/intl/en/chrome/"},
+            {"name": "Tabbit 官网", "url": "https://tabbit.ai/"}
+          ],
+          "images": [
+            {"url": "https://www.google.com/chrome/static/images/homepage/homepage-v2.png", "caption": "Chrome：功能卡 + 大色块的「功能墙」人格", "credit": "google.com/chrome", "link": "https://www.google.com/intl/en/chrome/"},
+            {"url": "https://www.tabbit.ai/home/hero-en.png", "caption": "Tabbit：一句话 + 一张图的「说服型」人格", "credit": "tabbit.ai", "link": "https://tabbit.ai/"}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -447,6 +447,54 @@ body {
 }
 .reader-seek:focus-visible { outline: 1px solid var(--paper); outline-offset: 3px; }
 
+/* 进度条上的章节锚点 */
+.reader-track { position: relative; display: flex; align-items: center; }
+
+.reader-ticks {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 18px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.reader-tick {
+  position: absolute;
+  top: 0;
+  height: 18px;
+  width: 11px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.reader-tick::before {
+  content: "";
+  width: 1px;
+  height: 10px;
+  background: var(--paper);
+  opacity: 0.45;
+  transition: opacity 0.16s ease, height 0.16s ease;
+}
+.reader-tick:hover::before { opacity: 0.85; height: 14px; }
+.reader-tick.is-current::before { width: 2px; height: 16px; opacity: 1; }
+
+.reader-chapter {
+  font-size: 11px;
+  opacity: 0.82;
+  white-space: nowrap;
+  max-width: 18ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .reader-preview {
   font-size: 11px;
   opacity: 0.66;
@@ -459,6 +507,7 @@ body {
 @media (max-width: 900px) {
   .reader-preview { display: none; }
   .reader-seek { width: 130px; }
+  .reader-chapter { max-width: 12ch; }
 }
 @media (max-width: 560px) {
   .reader { left: 12px; right: 12px; transform: none; justify-content: space-between; gap: 8px; flex-wrap: wrap; }

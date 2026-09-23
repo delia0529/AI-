@@ -432,6 +432,8 @@
     var rateSel = bar.querySelector("[data-read-rate]");
     var seekEl = bar.querySelector("[data-read-seek]");
     var previewEl = bar.querySelector("[data-read-preview]");
+    var ticksEl = bar.querySelector("[data-read-ticks]");
+    var chapterEl = bar.querySelector("[data-read-chapter]");
 
     var queue = [];
     var idx = -1;
@@ -439,6 +441,7 @@
     var paused = false;
     var lastEl = null;
     var voice = null;
+    var chapters = [];
 
     function pickVoice() {
       var vs = window.speechSynthesis.getVoices() || [];
@@ -484,9 +487,11 @@
 
     function buildQueue(scope) {
       queue = [];
+      chapters = [];
       if (!scope) {
         var title = document.querySelector(".hero-title");
         var deck = document.querySelector(".hero-deck");
+        chapters.push({ start: 0, label: "今日综述" });
         if (title) push(title, title.textContent);
         if (deck) push(deck, deck.textContent);
       }
@@ -495,6 +500,12 @@
         : Array.prototype.slice.call(document.querySelectorAll(".module"));
       modules.forEach(function (m) {
         var name = m.querySelector(".module-name");
+        var index = m.querySelector(".module-index");
+        chapters.push({
+          start: queue.length,
+          label: ((index && index.textContent ? index.textContent + " " : "") +
+                  (name ? name.textContent : "模块"))
+        });
         if (name) push(m, name.textContent + "。");
         var note = m.querySelector(".module-note");
         if (note && note.textContent.trim()) push(m, note.textContent);
@@ -547,6 +558,39 @@
         previewEl.textContent = text.length > 34 ? text.slice(0, 34) + "…" : text;
         if (cur) previewEl.title = text;
       }
+
+      // 当前所属章节：高亮对应锚点并显示章节名
+      var curChapter = 0;
+      for (var c = 0; c < chapters.length; c++) {
+        if (chapters[c].start <= idx) curChapter = c;
+      }
+      if (chapterEl) chapterEl.textContent = chapters.length ? chapters[curChapter].label : "";
+      if (ticksEl) {
+        var ticks = ticksEl.children;
+        for (var t = 0; t < ticks.length; t++) {
+          var on = parseInt(ticks[t].getAttribute("data-chapter"), 10) === curChapter;
+          ticks[t].classList.toggle("is-current", on);
+        }
+      }
+    }
+
+    /* 在进度条上渲染章节锚点（位置按滑块可移动区间换算，避开滑块半宽） */
+    function renderTicks() {
+      if (!ticksEl) return;
+      ticksEl.innerHTML = "";
+      var last = Math.max(1, queue.length - 1);
+      chapters.forEach(function (ch, i) {
+        var ratio = Math.min(1, ch.start / last);
+        var tick = document.createElement("button");
+        tick.type = "button";
+        tick.className = "reader-tick";
+        tick.setAttribute("data-chapter", String(i));
+        tick.setAttribute("data-start", String(ch.start));
+        tick.setAttribute("aria-label", "跳转到 " + ch.label);
+        tick.title = ch.label;
+        tick.style.left = "calc(5.5px + " + ratio.toFixed(4) + " * (100% - 11px))";
+        ticksEl.appendChild(tick);
+      });
     }
 
     function speakAt(i) {
@@ -576,11 +620,26 @@
       window.speechSynthesis.cancel();
       buildQueue(scope || null);
       if (!queue.length) return;
+      renderTicks();
       stopped = false;
       paused = false;
       lastEl = null;
       bar.hidden = false;
       speakAt(0);
+    }
+
+    /* 跳转到第 i 段：朗读中则继续读，暂停/停止则只锚定 */
+    function seekTo(i) {
+      if (!queue.length) return;
+      idx = Math.max(0, Math.min(i, queue.length - 1));
+      if (stopped) {
+        mark(idx, true);
+        updateUI();
+        return;
+      }
+      window.speechSynthesis.cancel();
+      paused = false;
+      speakAt(idx);
     }
 
     function stop() {
@@ -619,17 +678,16 @@
         updateUI();
       });
       seekEl.addEventListener("change", function () {
-        var v = parseInt(seekEl.value, 10) || 0;
-        if (!queue.length) return;
-        idx = Math.max(0, Math.min(v, queue.length - 1));
-        if (stopped) {
-          mark(idx, true);
-          updateUI();
-          return;
-        }
-        window.speechSynthesis.cancel();
-        paused = false;
-        speakAt(idx);
+        seekTo(parseInt(seekEl.value, 10) || 0);
+      });
+    }
+
+    /* 点击章节锚点直接跳到该章节开头 */
+    if (ticksEl) {
+      ticksEl.addEventListener("click", function (e) {
+        var tick = e.target.closest(".reader-tick");
+        if (!tick) return;
+        seekTo(parseInt(tick.getAttribute("data-start"), 10) || 0);
       });
     }
     if (rateSel) {

@@ -491,7 +491,7 @@
       if (!scope) {
         var title = document.querySelector(".hero-title");
         var deck = document.querySelector(".hero-deck");
-        chapters.push({ start: 0, label: "今日综述" });
+        chapters.push({ start: 0, label: "今日综述", num: "00" });
         if (title) push(title, title.textContent);
         if (deck) push(deck, deck.textContent);
       }
@@ -504,7 +504,8 @@
         chapters.push({
           start: queue.length,
           label: ((index && index.textContent ? index.textContent + " " : "") +
-                  (name ? name.textContent : "模块"))
+                  (name ? name.textContent : "模块")),
+          num: (index && index.textContent ? index.textContent : "00")
         });
         if (name) push(m, name.textContent + "。");
         var note = m.querySelector(".module-note");
@@ -574,7 +575,7 @@
       }
     }
 
-    /* 在进度条上渲染章节锚点（位置按滑块可移动区间换算，避开滑块半宽） */
+    /* 在进度条上渲染章节锚点：编号与左侧目录一致，位置按滑块可移动区间换算 */
     function renderTicks() {
       if (!ticksEl) return;
       ticksEl.innerHTML = "";
@@ -588,7 +589,9 @@
         tick.setAttribute("data-start", String(ch.start));
         tick.setAttribute("aria-label", "跳转到 " + ch.label);
         tick.title = ch.label;
-        tick.style.left = "calc(5.5px + " + ratio.toFixed(4) + " * (100% - 11px))";
+        tick.style.left = "calc(8px + " + ratio.toFixed(4) + " * (100% - 16px))";
+        tick.innerHTML =
+          '<span class="tick-line"></span><span class="tick-num">' + esc(ch.num || "") + "</span>";
         ticksEl.appendChild(tick);
       });
     }

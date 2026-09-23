@@ -447,44 +447,60 @@ body {
 }
 .reader-seek:focus-visible { outline: 1px solid var(--paper); outline-offset: 3px; }
 
-/* 进度条上的章节锚点 */
-.reader-track { position: relative; display: flex; align-items: center; }
+/* 进度条上的章节锚点（与左侧目录一一对应，带编号） */
+.reader-track {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-bottom: 13px;
+}
 
 .reader-ticks {
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
-  height: 18px;
-  transform: translateY(-50%);
+  top: 0;
+  bottom: 13px;
   pointer-events: none;
 }
 
 .reader-tick {
   position: absolute;
   top: 0;
-  height: 18px;
-  width: 11px;
+  bottom: 0;
+  width: 16px;
   transform: translateX(-50%);
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
   background: transparent;
   border: 0;
   padding: 0;
   cursor: pointer;
   pointer-events: auto;
 }
-.reader-tick::before {
-  content: "";
-  width: 1px;
-  height: 10px;
+.reader-tick .tick-line {
+  width: 1.5px;
+  height: 11px;
+  margin-top: 3px;
   background: var(--paper);
-  opacity: 0.45;
+  opacity: 0.42;
   transition: opacity 0.16s ease, height 0.16s ease;
 }
-.reader-tick:hover::before { opacity: 0.85; height: 14px; }
-.reader-tick.is-current::before { width: 2px; height: 16px; opacity: 1; }
+.reader-tick .tick-num {
+  margin-top: 2px;
+  font-family: var(--font-sans);
+  font-size: 8px;
+  line-height: 1;
+  letter-spacing: 0.06em;
+  color: var(--paper);
+  opacity: 0.5;
+  transition: opacity 0.16s ease;
+}
+.reader-tick:hover .tick-line { opacity: 0.9; height: 14px; }
+.reader-tick:hover .tick-num { opacity: 0.85; }
+.reader-tick.is-current .tick-line { width: 2.5px; height: 15px; opacity: 1; }
+.reader-tick.is-current .tick-num { opacity: 1; }
 
 .reader-chapter {
   font-size: 11px;

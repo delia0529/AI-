@@ -2,7 +2,7 @@
   "date": "2026-09-23",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 136,
+  "raw_count": 137,
   "clusters": [
     {
       "headline": "google/ax — GitHub Trending",
@@ -22,7 +22,7 @@
       "headline": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "summary": "",
-      "score": 1443.0,
+      "score": 1448.0,
       "sources": [
         {
           "name": "hn",
@@ -36,7 +36,7 @@
       "headline": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "summary": "",
-      "score": 1434.0,
+      "score": 1440.0,
       "sources": [
         {
           "name": "hn",
@@ -50,7 +50,7 @@
       "headline": "I said no and Apple said yes",
       "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
       "summary": "",
-      "score": 897.0,
+      "score": 898.0,
       "sources": [
         {
           "name": "hn",
@@ -64,7 +64,7 @@
       "headline": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
       "summary": "",
-      "score": 754.0,
+      "score": 757.0,
       "sources": [
         {
           "name": "hn",
@@ -78,7 +78,7 @@
       "headline": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "summary": "",
-      "score": 698.0,
+      "score": 699.0,
       "sources": [
         {
           "name": "hn",
@@ -92,7 +92,7 @@
       "headline": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "score": 611.0,
+      "score": 614.0,
       "sources": [
         {
           "name": "hn",
@@ -106,7 +106,7 @@
       "headline": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
       "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "score": 592.0,
+      "score": 595.0,
       "sources": [
         {
           "name": "hn",
@@ -204,7 +204,7 @@
       "headline": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
       "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
       "summary": "",
-      "score": 362.0,
+      "score": 363.0,
       "sources": [
         {
           "name": "hn",
@@ -260,7 +260,7 @@
       "headline": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "score": 331.0,
+      "score": 333.0,
       "sources": [
         {
           "name": "hn",
@@ -372,7 +372,7 @@
       "headline": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "score": 240.0,
+      "score": 241.0,
       "sources": [
         {
           "name": "hn",
@@ -414,7 +414,7 @@
       "headline": "16-bit Intel 8088 chip (c. 1985)",
       "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
       "summary": "",
-      "score": 203.0,
+      "score": 204.0,
       "sources": [
         {
           "name": "hn",
@@ -442,7 +442,7 @@
       "headline": "Obscura: VPN that can't log your activity",
       "url": "https://obscura.com/#faq-technical",
       "summary": "",
-      "score": 192.0,
+      "score": 193.0,
       "sources": [
         {
           "name": "hn",
@@ -484,7 +484,7 @@
       "headline": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
       "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
       "summary": "",
-      "score": 182.0,
+      "score": 184.0,
       "sources": [
         {
           "name": "hn",
@@ -596,7 +596,7 @@
       "headline": "Texas police department ordered to close for failing to provide public benefit",
       "url": "https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php",
       "summary": "",
-      "score": 159.0,
+      "score": 160.0,
       "sources": [
         {
           "name": "hn",
@@ -666,7 +666,7 @@
       "headline": "The current balance of power in open models",
       "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "summary": "",
-      "score": 151.0,
+      "score": 152.0,
       "sources": [
         {
           "name": "hn",
@@ -775,6 +775,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+          "title": "Transit rewards (Waymo pays you to take the train)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "url": "https://news.ycombinator.com/item?id=49798257",
       "summary": "I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed it at the right spot within the contract and prepared to send it when I intervened.",
@@ -826,20 +840,6 @@
           "name": "hn",
           "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
           "title": "German court rules Meta liable for scam ads on Facebook and Instagram"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Transit rewards (Waymo pays you to take the train)",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "summary": "",
-      "score": 134.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-          "title": "Transit rewards (Waymo pays you to take the train)"
         }
       ],
       "duplicate_count": 1
@@ -1106,6 +1106,20 @@
           "name": "openai",
           "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
           "title": "Parallel cut research time and cost in half with GPT‑6 Astra"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI"
         }
       ],
       "duplicate_count": 1
@@ -1517,20 +1531,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2609.24058",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.24058",
-          "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "summary": "Hugging Face Daily Papers",
@@ -1540,6 +1540,20 @@
           "name": "hf_papers",
           "url": "https://huggingface.co/papers/2609.25165",
           "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2609.24058",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24058",
+          "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts"
         }
       ],
       "duplicate_count": 1

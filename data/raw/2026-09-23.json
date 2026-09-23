@@ -1,15 +1,15 @@
 {
   "date": "2026-09-23",
-  "fetched_at": "2026-09-23T04:58:34",
+  "fetched_at": "2026-09-23T05:05:24",
   "items": [
     {
       "title": "google/ax — GitHub Trending",
       "url": "https://github.com/google/ax",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435418+00:00",
+      "published": "2026-09-23T05:05:18.213601+00:00",
       "summary": "单日新增 2,305 stars",
       "points": 2305,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -18,7 +18,7 @@
       "source": "hn",
       "published": "2026-09-22T16:29:05Z",
       "summary": "",
-      "points": 1353,
+      "points": 1358,
       "_ts": 1790094545,
       "weight": 0.9
     },
@@ -28,7 +28,7 @@
       "source": "hn",
       "published": "2026-09-22T18:00:34Z",
       "summary": "",
-      "points": 1344,
+      "points": 1350,
       "_ts": 1790100034,
       "weight": 0.9
     },
@@ -38,7 +38,7 @@
       "source": "hn",
       "published": "2026-09-22T08:04:55Z",
       "summary": "",
-      "points": 807,
+      "points": 808,
       "_ts": 1790064295,
       "weight": 0.9
     },
@@ -48,7 +48,7 @@
       "source": "hn",
       "published": "2026-09-22T14:30:12Z",
       "summary": "",
-      "points": 664,
+      "points": 667,
       "_ts": 1790087412,
       "weight": 0.9
     },
@@ -58,7 +58,7 @@
       "source": "hn",
       "published": "2026-09-22T13:52:15Z",
       "summary": "",
-      "points": 608,
+      "points": 609,
       "_ts": 1790085135,
       "weight": 0.9
     },
@@ -68,7 +68,7 @@
       "source": "hn",
       "published": "2026-09-22T19:03:38Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "points": 521,
+      "points": 524,
       "_ts": 1790103818,
       "weight": 0.9
     },
@@ -78,7 +78,7 @@
       "source": "hn",
       "published": "2026-09-22T17:46:02Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "points": 502,
+      "points": 505,
       "_ts": 1790099162,
       "weight": 0.9
     },
@@ -86,20 +86,20 @@
       "title": "mvt-project/mvt — GitHub Trending",
       "url": "https://github.com/mvt-project/mvt",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435711+00:00",
+      "published": "2026-09-23T05:05:18.213905+00:00",
       "summary": "单日新增 441 stars",
       "points": 441,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434233+00:00",
+      "published": "2026-09-23T05:05:18.212186+00:00",
       "summary": "单日新增 438 stars",
       "points": 438,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -148,7 +148,7 @@
       "source": "hn",
       "published": "2026-09-22T17:12:51Z",
       "summary": "",
-      "points": 272,
+      "points": 273,
       "_ts": 1790097171,
       "weight": 0.9
     },
@@ -176,10 +176,10 @@
       "title": "dream-num/univer — GitHub Trending",
       "url": "https://github.com/dream-num/univer",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434882+00:00",
+      "published": "2026-09-23T05:05:18.212931+00:00",
       "summary": "单日新增 255 stars",
       "points": 255,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -188,7 +188,7 @@
       "source": "hn",
       "published": "2026-09-22T21:00:30Z",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "points": 241,
+      "points": 243,
       "_ts": 1790110830,
       "weight": 0.9
     },
@@ -196,20 +196,20 @@
       "title": "agent-substrate/substrate — GitHub Trending",
       "url": "https://github.com/agent-substrate/substrate",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434559+00:00",
+      "published": "2026-09-23T05:05:18.212509+00:00",
       "summary": "单日新增 245 stars",
       "points": 245,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "superdesigndev/treg — GitHub Trending",
       "url": "https://github.com/superdesigndev/treg",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.436131+00:00",
+      "published": "2026-09-23T05:05:18.214211+00:00",
       "summary": "单日新增 230 stars",
       "points": 230,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -226,10 +226,10 @@
       "title": "browser-use/video-use — GitHub Trending",
       "url": "https://github.com/browser-use/video-use",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.436384+00:00",
+      "published": "2026-09-23T05:05:18.214519+00:00",
       "summary": "单日新增 191 stars",
       "points": 191,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -268,7 +268,7 @@
       "source": "hn",
       "published": "2026-09-22T18:15:53Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "points": 150,
+      "points": 151,
       "_ts": 1790100953,
       "weight": 0.9
     },
@@ -298,7 +298,7 @@
       "source": "hn",
       "published": "2026-09-22T16:11:34Z",
       "summary": "",
-      "points": 113,
+      "points": 114,
       "_ts": 1790093494,
       "weight": 0.9
     },
@@ -318,7 +318,7 @@
       "source": "hn",
       "published": "2026-09-22T19:40:28Z",
       "summary": "",
-      "points": 102,
+      "points": 103,
       "_ts": 1790106028,
       "weight": 0.9
     },
@@ -348,7 +348,7 @@
       "source": "hn",
       "published": "2026-09-23T02:13:52Z",
       "summary": "",
-      "points": 92,
+      "points": 94,
       "_ts": 1790129632,
       "weight": 0.9
     },
@@ -428,7 +428,7 @@
       "source": "hn",
       "published": "2026-09-22T13:43:37Z",
       "summary": "",
-      "points": 69,
+      "points": 70,
       "_ts": 1790084617,
       "weight": 0.9
     },
@@ -478,7 +478,7 @@
       "source": "hn",
       "published": "2026-09-22T22:03:46Z",
       "summary": "",
-      "points": 61,
+      "points": 62,
       "_ts": 1790114626,
       "weight": 0.9
     },
@@ -516,10 +516,10 @@
       "title": "davila7/claude-code-templates — GitHub Trending",
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435165+00:00",
+      "published": "2026-09-23T05:05:18.213283+00:00",
       "summary": "单日新增 64 stars",
       "points": 64,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
@@ -550,6 +550,16 @@
       "summary": "",
       "points": 49,
       "_ts": 1790093458,
+      "weight": 0.9
+    },
+    {
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "source": "hn",
+      "published": "2026-09-23T02:52:29Z",
+      "summary": "",
+      "points": 47,
+      "_ts": 1790131949,
       "weight": 0.9
     },
     {
@@ -590,16 +600,6 @@
       "summary": "",
       "points": 45,
       "_ts": 1790097671,
-      "weight": 0.9
-    },
-    {
-      "title": "Transit rewards (Waymo pays you to take the train)",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "source": "hn",
-      "published": "2026-09-23T02:52:29Z",
-      "summary": "",
-      "points": 44,
-      "_ts": 1790131949,
       "weight": 0.9
     },
     {
@@ -791,6 +791,16 @@
       "points": 0,
       "_ts": 1790078400,
       "weight": 1.0
+    },
+    {
+      "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "techcrunch_ai",
+      "published": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "points": 0,
+      "_ts": 1790139548,
+      "weight": 0.9
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -1026,130 +1036,130 @@
       "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
       "url": "https://huggingface.co/papers/2609.25270",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582268+00:00",
+      "published": "2026-09-23T05:05:18.315099+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
       "url": "https://huggingface.co/papers/2609.24981",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582287+00:00",
+      "published": "2026-09-23T05:05:18.315122+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
       "url": "https://huggingface.co/papers/2609.24657",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582297+00:00",
+      "published": "2026-09-23T05:05:18.315140+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Bellman Policy Optimization",
       "url": "https://huggingface.co/papers/2609.15987",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582303+00:00",
+      "published": "2026-09-23T05:05:18.315150+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
       "url": "https://huggingface.co/papers/2609.25186",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582309+00:00",
+      "published": "2026-09-23T05:05:18.315162+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
       "url": "https://huggingface.co/papers/2609.26796",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582324+00:00",
+      "published": "2026-09-23T05:05:18.315186+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
-      "weight": 0.8
-    },
-    {
-      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2609.24058",
-      "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582333+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582343+00:00",
+      "published": "2026-09-23T05:05:18.315202+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
+      "weight": 0.8
+    },
+    {
+      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2609.24058",
+      "source": "hf_papers",
+      "published": "2026-09-23T05:05:18.315221+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
       "url": "https://huggingface.co/papers/2609.26774",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582353+00:00",
+      "published": "2026-09-23T05:05:18.315238+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Recursive self-improvement of AI research agents",
       "url": "https://huggingface.co/papers/2609.26457",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582359+00:00",
+      "published": "2026-09-23T05:05:18.315248+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
       "url": "https://huggingface.co/papers/2609.25247",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582365+00:00",
+      "published": "2026-09-23T05:05:18.315259+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
       "url": "https://huggingface.co/papers/2609.25804",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582375+00:00",
+      "published": "2026-09-23T05:05:18.315278+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {
       "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
       "url": "https://huggingface.co/papers/2609.22323",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582381+00:00",
+      "published": "2026-09-23T05:05:18.315289+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790139918,
       "weight": 0.8
     },
     {

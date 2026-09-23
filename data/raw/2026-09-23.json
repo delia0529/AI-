@@ -1,15 +1,15 @@
 {
   "date": "2026-09-23",
-  "fetched_at": "2026-09-23T02:44:32",
+  "fetched_at": "2026-09-23T02:56:29",
   "items": [
     {
       "title": "google/ax — GitHub Trending",
       "url": "https://github.com/google/ax",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.948059+00:00",
+      "published": "2026-09-23T02:56:12.259677+00:00",
       "summary": "单日新增 2,305 stars",
       "points": 2305,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -18,7 +18,7 @@
       "source": "hn",
       "published": "2026-09-22T16:29:05Z",
       "summary": "",
-      "points": 1246,
+      "points": 1261,
       "_ts": 1790094545,
       "weight": 0.9
     },
@@ -28,7 +28,7 @@
       "source": "hn",
       "published": "2026-09-22T18:00:34Z",
       "summary": "",
-      "points": 1226,
+      "points": 1238,
       "_ts": 1790100034,
       "weight": 0.9
     },
@@ -38,7 +38,7 @@
       "source": "hn",
       "published": "2026-09-22T08:04:55Z",
       "summary": "",
-      "points": 798,
+      "points": 799,
       "_ts": 1790064295,
       "weight": 0.9
     },
@@ -48,7 +48,7 @@
       "source": "hn",
       "published": "2026-09-22T14:30:12Z",
       "summary": "",
-      "points": 633,
+      "points": 634,
       "_ts": 1790087412,
       "weight": 0.9
     },
@@ -58,7 +58,7 @@
       "source": "hn",
       "published": "2026-09-22T13:52:15Z",
       "summary": "",
-      "points": 573,
+      "points": 578,
       "_ts": 1790085135,
       "weight": 0.9
     },
@@ -68,7 +68,7 @@
       "source": "hn",
       "published": "2026-09-22T19:03:38Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "points": 454,
+      "points": 465,
       "_ts": 1790103818,
       "weight": 0.9
     },
@@ -78,7 +78,7 @@
       "source": "hn",
       "published": "2026-09-22T17:46:02Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "points": 438,
+      "points": 447,
       "_ts": 1790099162,
       "weight": 0.9
     },
@@ -86,20 +86,20 @@
       "title": "mvt-project/mvt — GitHub Trending",
       "url": "https://github.com/mvt-project/mvt",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.948286+00:00",
+      "published": "2026-09-23T02:56:12.259989+00:00",
       "summary": "单日新增 441 stars",
       "points": 441,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
       "title": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.947113+00:00",
+      "published": "2026-09-23T02:56:12.258221+00:00",
       "summary": "单日新增 438 stars",
       "points": 438,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -108,7 +108,7 @@
       "source": "hn",
       "published": "2026-09-22T06:08:39Z",
       "summary": "",
-      "points": 375,
+      "points": 376,
       "_ts": 1790057319,
       "weight": 0.9
     },
@@ -128,7 +128,7 @@
       "source": "hn",
       "published": "2026-09-22T15:25:12Z",
       "summary": "",
-      "points": 293,
+      "points": 294,
       "_ts": 1790090712,
       "weight": 0.9
     },
@@ -138,7 +138,7 @@
       "source": "hn",
       "published": "2026-09-22T14:42:59Z",
       "summary": "",
-      "points": 266,
+      "points": 267,
       "_ts": 1790088179,
       "weight": 0.9
     },
@@ -148,7 +148,7 @@
       "source": "hn",
       "published": "2026-09-22T17:12:51Z",
       "summary": "",
-      "points": 261,
+      "points": 263,
       "_ts": 1790097171,
       "weight": 0.9
     },
@@ -158,7 +158,7 @@
       "source": "hn",
       "published": "2026-09-22T08:39:43Z",
       "summary": "",
-      "points": 249,
+      "points": 250,
       "_ts": 1790066383,
       "weight": 0.9
     },
@@ -166,10 +166,10 @@
       "title": "dream-num/univer — GitHub Trending",
       "url": "https://github.com/dream-num/univer",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.947587+00:00",
+      "published": "2026-09-23T02:56:12.258984+00:00",
       "summary": "单日新增 255 stars",
       "points": 255,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -178,7 +178,7 @@
       "source": "hn",
       "published": "2026-09-22T16:51:31Z",
       "summary": "",
-      "points": 240,
+      "points": 243,
       "_ts": 1790095891,
       "weight": 0.9
     },
@@ -186,20 +186,20 @@
       "title": "agent-substrate/substrate — GitHub Trending",
       "url": "https://github.com/agent-substrate/substrate",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.947356+00:00",
+      "published": "2026-09-23T02:56:12.258587+00:00",
       "summary": "单日新增 245 stars",
       "points": 245,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
       "title": "superdesigndev/treg — GitHub Trending",
       "url": "https://github.com/superdesigndev/treg",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.948501+00:00",
+      "published": "2026-09-23T02:56:12.260301+00:00",
       "summary": "单日新增 230 stars",
       "points": 230,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -208,7 +208,7 @@
       "source": "hn",
       "published": "2026-09-22T21:00:30Z",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "points": 197,
+      "points": 199,
       "_ts": 1790110830,
       "weight": 0.9
     },
@@ -216,10 +216,10 @@
       "title": "browser-use/video-use — GitHub Trending",
       "url": "https://github.com/browser-use/video-use",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.948718+00:00",
+      "published": "2026-09-23T02:56:12.260628+00:00",
       "summary": "单日新增 191 stars",
       "points": 191,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -238,7 +238,7 @@
       "source": "hn",
       "published": "2026-09-22T18:57:17Z",
       "summary": "",
-      "points": 170,
+      "points": 172,
       "_ts": 1790103437,
       "weight": 0.9
     },
@@ -248,8 +248,18 @@
       "source": "hn",
       "published": "2026-09-22T16:33:45Z",
       "summary": "",
-      "points": 160,
+      "points": 161,
       "_ts": 1790094825,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "source": "hn",
+      "published": "2026-09-22T13:52:47Z",
+      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.<p>Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. T",
+      "points": 156,
+      "_ts": 1790085167,
       "weight": 0.9
     },
     {
@@ -263,22 +273,12 @@
       "weight": 0.9
     },
     {
-      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-      "url": "https://droprun.sh/",
-      "source": "hn",
-      "published": "2026-09-22T13:52:47Z",
-      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.<p>Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. T",
-      "points": 153,
-      "_ts": 1790085167,
-      "weight": 0.9
-    },
-    {
       "title": "LLM Ass Bench",
       "url": "https://www.assbench.com/",
       "source": "hn",
       "published": "2026-09-22T20:34:19Z",
       "summary": "",
-      "points": 140,
+      "points": 141,
       "_ts": 1790109259,
       "weight": 0.9
     },
@@ -288,7 +288,7 @@
       "source": "hn",
       "published": "2026-09-22T18:15:53Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "points": 139,
+      "points": 141,
       "_ts": 1790100953,
       "weight": 0.9
     },
@@ -298,7 +298,7 @@
       "source": "hn",
       "published": "2026-09-22T03:10:05Z",
       "summary": "",
-      "points": 131,
+      "points": 134,
       "_ts": 1790046605,
       "weight": 0.9
     },
@@ -318,7 +318,7 @@
       "source": "hn",
       "published": "2026-09-22T16:11:34Z",
       "summary": "",
-      "points": 109,
+      "points": 111,
       "_ts": 1790093494,
       "weight": 0.9
     },
@@ -338,7 +338,7 @@
       "source": "hn",
       "published": "2026-09-22T15:38:24Z",
       "summary": "",
-      "points": 94,
+      "points": 96,
       "_ts": 1790091504,
       "weight": 0.9
     },
@@ -358,7 +358,7 @@
       "source": "hn",
       "published": "2026-09-22T15:07:03Z",
       "summary": "",
-      "points": 87,
+      "points": 88,
       "_ts": 1790089623,
       "weight": 0.9
     },
@@ -368,7 +368,7 @@
       "source": "hn",
       "published": "2026-09-22T19:42:20Z",
       "summary": "",
-      "points": 86,
+      "points": 87,
       "_ts": 1790106140,
       "weight": 0.9
     },
@@ -388,7 +388,7 @@
       "source": "hn",
       "published": "2026-09-22T19:40:28Z",
       "summary": "",
-      "points": 82,
+      "points": 84,
       "_ts": 1790106028,
       "weight": 0.9
     },
@@ -413,23 +413,23 @@
       "weight": 0.9
     },
     {
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-      "source": "hn",
-      "published": "2026-09-22T21:06:40Z",
-      "summary": "",
-      "points": 70,
-      "_ts": 1790111200,
-      "weight": 0.9
-    },
-    {
       "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
       "url": "https://benchmarkheaven.com/jev-models",
       "source": "hn",
       "published": "2026-09-22T13:01:03Z",
       "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
-      "points": 70,
+      "points": 72,
       "_ts": 1790082063,
+      "weight": 0.9
+    },
+    {
+      "title": "The UV index is not the warm sensation of sunlight on bare skin",
+      "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "source": "hn",
+      "published": "2026-09-22T21:06:40Z",
+      "summary": "",
+      "points": 71,
+      "_ts": 1790111200,
       "weight": 0.9
     },
     {
@@ -438,7 +438,7 @@
       "source": "hn",
       "published": "2026-09-22T13:43:37Z",
       "summary": "",
-      "points": 67,
+      "points": 68,
       "_ts": 1790084617,
       "weight": 0.9
     },
@@ -488,7 +488,7 @@
       "source": "hn",
       "published": "2026-09-22T20:13:56Z",
       "summary": "",
-      "points": 58,
+      "points": 59,
       "_ts": 1790108036,
       "weight": 0.9
     },
@@ -513,23 +513,23 @@
       "weight": 0.9
     },
     {
-      "title": "Side-stepping the Secretary Problem, unwittingly",
-      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "source": "hn",
-      "published": "2026-09-22T02:47:52Z",
+      "published": "2026-09-22T22:03:46Z",
       "summary": "",
       "points": 54,
-      "_ts": 1790045272,
+      "_ts": 1790114626,
       "weight": 0.9
     },
     {
       "title": "davila7/claude-code-templates — GitHub Trending",
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "github_trending",
-      "published": "2026-09-23T02:44:15.947830+00:00",
+      "published": "2026-09-23T02:56:12.259349+00:00",
       "summary": "单日新增 64 stars",
       "points": 64,
-      "_ts": 1790131455,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
@@ -543,16 +543,6 @@
       "weight": 0.9
     },
     {
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "hn",
-      "published": "2026-09-22T22:03:46Z",
-      "summary": "",
-      "points": 50,
-      "_ts": 1790114626,
-      "weight": 0.9
-    },
-    {
       "title": "Xbox continues its “reset” with dramatic restructuring",
       "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
       "source": "hn",
@@ -560,6 +550,16 @@
       "summary": "",
       "points": 49,
       "_ts": 1790093458,
+      "weight": 0.9
+    },
+    {
+      "title": "The JavaScript Midlife Crisis",
+      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "source": "hn",
+      "published": "2026-09-22T19:58:47Z",
+      "summary": "",
+      "points": 47,
+      "_ts": 1790107127,
       "weight": 0.9
     },
     {
@@ -583,13 +583,13 @@
       "weight": 0.9
     },
     {
-      "title": "The JavaScript Midlife Crisis",
-      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
       "source": "hn",
-      "published": "2026-09-22T19:58:47Z",
-      "summary": "",
-      "points": 46,
-      "_ts": 1790107127,
+      "published": "2026-09-22T17:26:36Z",
+      "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google&#x2F;Microsoft&#x2F;Two Sigma PM and Gabriel has been working in startups for over a decade.<p>We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (t",
+      "points": 45,
+      "_ts": 1790097996,
       "weight": 0.9
     },
     {
@@ -603,23 +603,23 @@
       "weight": 0.9
     },
     {
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "url": "https://www.coveragecat.com/",
-      "source": "hn",
-      "published": "2026-09-22T17:26:36Z",
-      "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google&#x2F;Microsoft&#x2F;Two Sigma PM and Gabriel has been working in startups for over a decade.<p>We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (t",
-      "points": 44,
-      "_ts": 1790097996,
-      "weight": 0.9
-    },
-    {
       "title": "The Economics of Open-Weight Inference",
       "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
       "source": "hn",
       "published": "2026-09-22T13:45:32Z",
       "summary": "",
-      "points": 44,
+      "points": 45,
       "_ts": 1790084732,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "source": "hn",
+      "published": "2026-09-22T13:00:49Z",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
+      "points": 45,
+      "_ts": 1790082049,
       "weight": 0.9
     },
     {
@@ -630,16 +630,6 @@
       "summary": "",
       "points": 43,
       "_ts": 1790111139,
-      "weight": 0.9
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "source": "hn",
-      "published": "2026-09-22T13:00:49Z",
-      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
-      "points": 43,
-      "_ts": 1790082049,
       "weight": 0.9
     },
     {
@@ -946,50 +936,80 @@
       "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
       "url": "https://huggingface.co/papers/2609.25270",
       "source": "hf_papers",
-      "published": "2026-09-23T02:44:16.106187+00:00",
+      "published": "2026-09-23T02:56:12.396437+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790131456,
-      "weight": 0.8
-    },
-    {
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "url": "https://huggingface.co/papers/2609.26796",
-      "source": "hf_papers",
-      "published": "2026-09-23T02:44:16.106206+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790131456,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
       "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
       "url": "https://huggingface.co/papers/2609.25186",
       "source": "hf_papers",
-      "published": "2026-09-23T02:44:16.106215+00:00",
+      "published": "2026-09-23T02:56:12.396462+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790131456,
+      "_ts": 1790132172,
+      "weight": 0.8
+    },
+    {
+      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+      "url": "https://huggingface.co/papers/2609.26796",
+      "source": "hf_papers",
+      "published": "2026-09-23T02:56:12.396483+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
       "title": "Recursive self-improvement of AI research agents",
       "url": "https://huggingface.co/papers/2609.26457",
       "source": "hf_papers",
-      "published": "2026-09-23T02:44:16.106228+00:00",
+      "published": "2026-09-23T02:56:12.396494+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790131456,
+      "_ts": 1790132172,
+      "weight": 0.8
+    },
+    {
+      "title": "Bellman Policy Optimization",
+      "url": "https://huggingface.co/papers/2609.15987",
+      "source": "hf_papers",
+      "published": "2026-09-23T02:56:12.396503+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790132172,
+      "weight": 0.8
+    },
+    {
+      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.24657",
+      "source": "hf_papers",
+      "published": "2026-09-23T02:56:12.396513+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790132172,
+      "weight": 0.8
+    },
+    {
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "url": "https://huggingface.co/papers/2609.24981",
+      "source": "hf_papers",
+      "published": "2026-09-23T02:56:12.396537+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {
       "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "source": "hf_papers",
-      "published": "2026-09-23T02:44:16.106235+00:00",
+      "published": "2026-09-23T02:56:12.396550+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790131456,
+      "_ts": 1790132172,
       "weight": 0.8
     },
     {

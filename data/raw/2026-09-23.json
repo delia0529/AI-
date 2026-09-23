@@ -1,15 +1,15 @@
 {
   "date": "2026-09-23",
-  "fetched_at": "2026-09-23T04:58:34",
+  "fetched_at": "2026-09-23T05:21:09",
   "items": [
     {
       "title": "google/ax — GitHub Trending",
       "url": "https://github.com/google/ax",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435418+00:00",
+      "published": "2026-09-23T05:21:04.305680+00:00",
       "summary": "单日新增 2,305 stars",
       "points": 2305,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
@@ -18,7 +18,7 @@
       "source": "hn",
       "published": "2026-09-22T16:29:05Z",
       "summary": "",
-      "points": 1353,
+      "points": 1368,
       "_ts": 1790094545,
       "weight": 0.9
     },
@@ -28,7 +28,7 @@
       "source": "hn",
       "published": "2026-09-22T18:00:34Z",
       "summary": "",
-      "points": 1344,
+      "points": 1356,
       "_ts": 1790100034,
       "weight": 0.9
     },
@@ -38,7 +38,7 @@
       "source": "hn",
       "published": "2026-09-22T08:04:55Z",
       "summary": "",
-      "points": 807,
+      "points": 809,
       "_ts": 1790064295,
       "weight": 0.9
     },
@@ -48,7 +48,7 @@
       "source": "hn",
       "published": "2026-09-22T14:30:12Z",
       "summary": "",
-      "points": 664,
+      "points": 670,
       "_ts": 1790087412,
       "weight": 0.9
     },
@@ -58,7 +58,7 @@
       "source": "hn",
       "published": "2026-09-22T13:52:15Z",
       "summary": "",
-      "points": 608,
+      "points": 611,
       "_ts": 1790085135,
       "weight": 0.9
     },
@@ -68,7 +68,7 @@
       "source": "hn",
       "published": "2026-09-22T19:03:38Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "points": 521,
+      "points": 529,
       "_ts": 1790103818,
       "weight": 0.9
     },
@@ -78,7 +78,7 @@
       "source": "hn",
       "published": "2026-09-22T17:46:02Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "points": 502,
+      "points": 509,
       "_ts": 1790099162,
       "weight": 0.9
     },
@@ -86,20 +86,20 @@
       "title": "mvt-project/mvt — GitHub Trending",
       "url": "https://github.com/mvt-project/mvt",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435711+00:00",
+      "published": "2026-09-23T05:21:04.305929+00:00",
       "summary": "单日新增 441 stars",
       "points": 441,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434233+00:00",
+      "published": "2026-09-23T05:21:04.304524+00:00",
       "summary": "单日新增 438 stars",
       "points": 438,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
@@ -148,7 +148,7 @@
       "source": "hn",
       "published": "2026-09-22T17:12:51Z",
       "summary": "",
-      "points": 272,
+      "points": 273,
       "_ts": 1790097171,
       "weight": 0.9
     },
@@ -158,7 +158,7 @@
       "source": "hn",
       "published": "2026-09-22T16:51:31Z",
       "summary": "",
-      "points": 261,
+      "points": 263,
       "_ts": 1790095891,
       "weight": 0.9
     },
@@ -173,43 +173,43 @@
       "weight": 0.9
     },
     {
-      "title": "dream-num/univer — GitHub Trending",
-      "url": "https://github.com/dream-num/univer",
-      "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434882+00:00",
-      "summary": "单日新增 255 stars",
-      "points": 255,
-      "_ts": 1790139508,
-      "weight": 0.8
-    },
-    {
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
       "source": "hn",
       "published": "2026-09-22T21:00:30Z",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "points": 241,
+      "points": 248,
       "_ts": 1790110830,
       "weight": 0.9
+    },
+    {
+      "title": "dream-num/univer — GitHub Trending",
+      "url": "https://github.com/dream-num/univer",
+      "source": "github_trending",
+      "published": "2026-09-23T05:21:04.305105+00:00",
+      "summary": "单日新增 255 stars",
+      "points": 255,
+      "_ts": 1790140864,
+      "weight": 0.8
     },
     {
       "title": "agent-substrate/substrate — GitHub Trending",
       "url": "https://github.com/agent-substrate/substrate",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.434559+00:00",
+      "published": "2026-09-23T05:21:04.304792+00:00",
       "summary": "单日新增 245 stars",
       "points": 245,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "superdesigndev/treg — GitHub Trending",
       "url": "https://github.com/superdesigndev/treg",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.436131+00:00",
+      "published": "2026-09-23T05:21:04.306179+00:00",
       "summary": "单日新增 230 stars",
       "points": 230,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
@@ -218,7 +218,7 @@
       "source": "hn",
       "published": "2026-09-22T18:57:17Z",
       "summary": "",
-      "points": 190,
+      "points": 195,
       "_ts": 1790103437,
       "weight": 0.9
     },
@@ -226,10 +226,10 @@
       "title": "browser-use/video-use — GitHub Trending",
       "url": "https://github.com/browser-use/video-use",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.436384+00:00",
+      "published": "2026-09-23T05:21:04.306439+00:00",
       "summary": "单日新增 191 stars",
       "points": 191,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
@@ -248,7 +248,7 @@
       "source": "hn",
       "published": "2026-09-22T16:33:45Z",
       "summary": "",
-      "points": 169,
+      "points": 170,
       "_ts": 1790094825,
       "weight": 0.9
     },
@@ -268,7 +268,7 @@
       "source": "hn",
       "published": "2026-09-22T18:15:53Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "points": 150,
+      "points": 152,
       "_ts": 1790100953,
       "weight": 0.9
     },
@@ -298,7 +298,7 @@
       "source": "hn",
       "published": "2026-09-22T16:11:34Z",
       "summary": "",
-      "points": 113,
+      "points": 114,
       "_ts": 1790093494,
       "weight": 0.9
     },
@@ -308,7 +308,7 @@
       "source": "hn",
       "published": "2026-09-22T18:10:31Z",
       "summary": "",
-      "points": 111,
+      "points": 112,
       "_ts": 1790100631,
       "weight": 0.9
     },
@@ -318,7 +318,7 @@
       "source": "hn",
       "published": "2026-09-22T19:40:28Z",
       "summary": "",
-      "points": 102,
+      "points": 104,
       "_ts": 1790106028,
       "weight": 0.9
     },
@@ -328,8 +328,18 @@
       "source": "hn",
       "published": "2026-09-22T19:42:20Z",
       "summary": "",
-      "points": 97,
+      "points": 98,
       "_ts": 1790106140,
+      "weight": 0.9
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "source": "hn",
+      "published": "2026-09-23T02:13:52Z",
+      "summary": "",
+      "points": 96,
+      "_ts": 1790129632,
       "weight": 0.9
     },
     {
@@ -340,16 +350,6 @@
       "summary": "",
       "points": 96,
       "_ts": 1790091504,
-      "weight": 0.9
-    },
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-      "source": "hn",
-      "published": "2026-09-23T02:13:52Z",
-      "summary": "",
-      "points": 92,
-      "_ts": 1790129632,
       "weight": 0.9
     },
     {
@@ -388,7 +388,7 @@
       "source": "hn",
       "published": "2026-09-22T13:01:03Z",
       "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
-      "points": 84,
+      "points": 85,
       "_ts": 1790082063,
       "weight": 0.9
     },
@@ -428,7 +428,7 @@
       "source": "hn",
       "published": "2026-09-22T13:43:37Z",
       "summary": "",
-      "points": 69,
+      "points": 70,
       "_ts": 1790084617,
       "weight": 0.9
     },
@@ -478,7 +478,7 @@
       "source": "hn",
       "published": "2026-09-22T22:03:46Z",
       "summary": "",
-      "points": 61,
+      "points": 64,
       "_ts": 1790114626,
       "weight": 0.9
     },
@@ -490,6 +490,16 @@
       "summary": "",
       "points": 61,
       "_ts": 1790108036,
+      "weight": 0.9
+    },
+    {
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "source": "hn",
+      "published": "2026-09-23T02:52:29Z",
+      "summary": "",
+      "points": 59,
+      "_ts": 1790131949,
       "weight": 0.9
     },
     {
@@ -516,10 +526,10 @@
       "title": "davila7/claude-code-templates — GitHub Trending",
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "github_trending",
-      "published": "2026-09-23T04:58:28.435165+00:00",
+      "published": "2026-09-23T05:21:04.305425+00:00",
       "summary": "单日新增 64 stars",
       "points": 64,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
@@ -563,6 +573,16 @@
       "weight": 0.9
     },
     {
+      "title": "German court rules Meta liable for scam ads on Facebook and Instagram",
+      "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
+      "source": "hn",
+      "published": "2026-09-22T17:21:11Z",
+      "summary": "",
+      "points": 46,
+      "_ts": 1790097671,
+      "weight": 0.9
+    },
+    {
       "title": "The Economics of Open-Weight Inference",
       "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
       "source": "hn",
@@ -583,26 +603,6 @@
       "weight": 0.9
     },
     {
-      "title": "German court rules Meta liable for scam ads on Facebook and Instagram",
-      "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
-      "source": "hn",
-      "published": "2026-09-22T17:21:11Z",
-      "summary": "",
-      "points": 45,
-      "_ts": 1790097671,
-      "weight": 0.9
-    },
-    {
-      "title": "Transit rewards (Waymo pays you to take the train)",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "source": "hn",
-      "published": "2026-09-23T02:52:29Z",
-      "summary": "",
-      "points": 44,
-      "_ts": 1790131949,
-      "weight": 0.9
-    },
-    {
       "title": "No Sloptober",
       "url": "https://no-sloptober.com/",
       "source": "hn",
@@ -618,9 +618,29 @@
       "source": "hn",
       "published": "2026-09-22T23:46:07Z",
       "summary": "",
-      "points": 41,
+      "points": 42,
       "_ts": 1790120767,
       "weight": 0.9
+    },
+    {
+      "title": "Patreon co-founder Sam Yam says he is joining OpenAI to lead Creator Product, alongside Patreon's Head of Product Drew Rowny and Head of Engineering Shannon Ma (Sam Yam/@samyamiam)",
+      "url": "https://www.techmeme.com/260923/p2#a260923p2",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 01:10:05 -0400",
+      "summary": " Sam Yam / @samyamiam:\nPatreon co-founder Sam Yam says he is joining OpenAI to lead Creator Product, alongside Patreon's Head of Product Drew Rowny and Head of Engineering Shannon Ma&nbsp; &mdash;&nbsp; 1/ I'm joining @OpenAI to lead Creator Product after over 13 years since starting @Patreon. Coming with me are my favorite crew Drew Rowny and Shannon Ma, Patreon's (now former) Head of Product and Head of Engineering. We're going to build together with Creators at OpenAI and share early access to ...",
+      "points": 0,
+      "_ts": 1790140205,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources and Nscale's US SEC filings: ByteDance accounted for nearly 75% of Nscale's sales in 2025 and used Nscale's facility in Norway to access Nvidia AI chips (Financial Times)",
+      "url": "https://www.techmeme.com/260923/p1#a260923p1",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 01:05:01 -0400",
+      "summary": "\n Financial Times:\nSources and Nscale's US SEC filings: ByteDance accounted for nearly 75% of Nscale's sales in 2025 and used Nscale's facility in Norway to access Nvidia AI chips&nbsp; &mdash;&nbsp; Chinese tech giant was AI cloud provider's largest customer last year but is not prominently named in pitch to stock market investors",
+      "points": 0,
+      "_ts": 1790139901,
+      "weight": 1.0
     },
     {
       "title": "Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)",
@@ -753,26 +773,6 @@
       "weight": 1.0
     },
     {
-      "title": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)",
-      "url": "https://www.techmeme.com/260922/p51#a260922p51",
-      "source": "techmeme",
-      "published": "Tue, 22 Sep 2026 16:30:03 -0400",
-      "summary": "\n Axel Metz / TechRadar:\nQualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores&nbsp; &mdash;&nbsp; Extreme by name, extreme by nature&nbsp; &mdash;&nbsp; Qualcomm has announced not one, but two new flagship mobile chipsets at its annual Snapdragon Summit &hellip; ",
-      "points": 0,
-      "_ts": 1790109003,
-      "weight": 1.0
-    },
-    {
-      "title": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)",
-      "url": "https://www.techmeme.com/260922/p50#a260922p50",
-      "source": "techmeme",
-      "published": "Tue, 22 Sep 2026 16:25:02 -0400",
-      "summary": "\n Heather Knight / New York Times:\nSan Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market&nbsp; &mdash;&nbsp; The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market &hellip; ",
-      "points": 0,
-      "_ts": 1790108702,
-      "weight": 1.0
-    },
-    {
       "title": "Better prompt caching for GPT-6",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "source": "openai",
@@ -791,6 +791,16 @@
       "points": 0,
       "_ts": 1790078400,
       "weight": 1.0
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "techcrunch_ai",
+      "published": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "points": 0,
+      "_ts": 1790139548,
+      "weight": 0.9
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -923,6 +933,36 @@
       "weight": 0.9
     },
     {
+      "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+      "url": "https://www.qbitai.com/2026/09/496170.html",
+      "source": "qbitai",
+      "published": "Wed, 23 Sep 2026 05:01:24 +0000",
+      "summary": "下半场开始了",
+      "points": 0,
+      "_ts": 1790139684,
+      "weight": 0.9
+    },
+    {
+      "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+      "url": "https://www.qbitai.com/2026/09/496221.html",
+      "source": "qbitai",
+      "published": "Wed, 23 Sep 2026 04:59:29 +0000",
+      "summary": "缓存读取价砍了60%",
+      "points": 0,
+      "_ts": 1790139569,
+      "weight": 0.9
+    },
+    {
+      "title": "刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降",
+      "url": "https://www.qbitai.com/2026/09/496129.html",
+      "source": "qbitai",
+      "published": "Wed, 23 Sep 2026 04:25:12 +0000",
+      "summary": "押注互联网里的人类经验",
+      "points": 0,
+      "_ts": 1790137512,
+      "weight": 0.9
+    },
+    {
       "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
       "url": "https://www.qbitai.com/2026/09/496124.html",
       "source": "qbitai",
@@ -993,163 +1033,143 @@
       "weight": 0.9
     },
     {
-      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-      "url": "https://www.qbitai.com/2026/09/494179.html",
-      "source": "qbitai",
-      "published": "Tue, 22 Sep 2026 11:50:28 +0000",
-      "summary": "Hugging Face CEO：「太棒了」",
-      "points": 0,
-      "_ts": 1790077828,
-      "weight": 0.9
-    },
-    {
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "url": "https://www.qbitai.com/2026/09/494120.html",
-      "source": "qbitai",
-      "published": "Tue, 22 Sep 2026 10:06:34 +0000",
-      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
-      "points": 0,
-      "_ts": 1790071594,
-      "weight": 0.9
-    },
-    {
-      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-      "url": "https://www.qbitai.com/2026/09/494043.html",
-      "source": "qbitai",
-      "published": "Tue, 22 Sep 2026 10:01:53 +0000",
-      "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
-      "points": 0,
-      "_ts": 1790071313,
-      "weight": 0.9
-    },
-    {
       "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
       "url": "https://huggingface.co/papers/2609.25270",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582268+00:00",
+      "published": "2026-09-23T05:21:04.460883+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
       "url": "https://huggingface.co/papers/2609.24981",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582287+00:00",
+      "published": "2026-09-23T05:21:04.460904+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
       "url": "https://huggingface.co/papers/2609.24657",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582297+00:00",
+      "published": "2026-09-23T05:21:04.460917+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Bellman Policy Optimization",
       "url": "https://huggingface.co/papers/2609.15987",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582303+00:00",
+      "published": "2026-09-23T05:21:04.460924+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
-      "weight": 0.8
-    },
-    {
-      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
-      "url": "https://huggingface.co/papers/2609.25186",
-      "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582309+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
       "url": "https://huggingface.co/papers/2609.26796",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582324+00:00",
+      "published": "2026-09-23T05:21:04.460933+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
-      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2609.24058",
+      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
+      "url": "https://huggingface.co/papers/2609.25186",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582333+00:00",
+      "published": "2026-09-23T05:21:04.460945+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582343+00:00",
+      "published": "2026-09-23T05:21:04.460963+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
+      "weight": 0.8
+    },
+    {
+      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2609.24058",
+      "source": "hf_papers",
+      "published": "2026-09-23T05:21:04.460978+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
       "url": "https://huggingface.co/papers/2609.26774",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582353+00:00",
+      "published": "2026-09-23T05:21:04.460990+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Recursive self-improvement of AI research agents",
       "url": "https://huggingface.co/papers/2609.26457",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582359+00:00",
+      "published": "2026-09-23T05:21:04.460999+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
+      "weight": 0.8
+    },
+    {
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "url": "https://huggingface.co/papers/2609.25199",
+      "source": "hf_papers",
+      "published": "2026-09-23T05:21:04.461006+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
       "url": "https://huggingface.co/papers/2609.25247",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582365+00:00",
+      "published": "2026-09-23T05:21:04.461019+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
       "url": "https://huggingface.co/papers/2609.25804",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582375+00:00",
+      "published": "2026-09-23T05:21:04.461032+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {
       "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
       "url": "https://huggingface.co/papers/2609.22323",
       "source": "hf_papers",
-      "published": "2026-09-23T04:58:28.582381+00:00",
+      "published": "2026-09-23T05:21:04.461043+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790139508,
+      "_ts": 1790140864,
       "weight": 0.8
     },
     {

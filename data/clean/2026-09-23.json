@@ -2,7 +2,7 @@
   "date": "2026-09-23",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 125,
+  "raw_count": 134,
   "clusters": [
     {
       "headline": "google/ax — GitHub Trending",
@@ -22,7 +22,7 @@
       "headline": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "summary": "",
-      "score": 1356.0,
+      "score": 1364.0,
       "sources": [
         {
           "name": "hn",
@@ -41,7 +41,7 @@
       "headline": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "summary": "",
-      "score": 1332.0,
+      "score": 1341.0,
       "sources": [
         {
           "name": "hn",
@@ -69,7 +69,7 @@
       "headline": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
       "summary": "",
-      "score": 725.0,
+      "score": 727.0,
       "sources": [
         {
           "name": "hn",
@@ -83,7 +83,7 @@
       "headline": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "summary": "",
-      "score": 671.0,
+      "score": 673.0,
       "sources": [
         {
           "name": "hn",
@@ -97,7 +97,7 @@
       "headline": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
-      "score": 558.0,
+      "score": 563.0,
       "sources": [
         {
           "name": "hn",
@@ -111,7 +111,7 @@
       "headline": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
       "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
       "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "score": 543.0,
+      "score": 547.0,
       "sources": [
         {
           "name": "hn",
@@ -153,7 +153,7 @@
       "headline": "Can gzip be a language model?",
       "url": "https://nathan.rs/posts/gzip-lm/",
       "summary": "",
-      "score": 466.0,
+      "score": 467.0,
       "sources": [
         {
           "name": "hn",
@@ -195,7 +195,7 @@
       "headline": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
       "summary": "",
-      "score": 358.0,
+      "score": 359.0,
       "sources": [
         {
           "name": "hn",
@@ -279,7 +279,7 @@
       "headline": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
       "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
-      "score": 290.0,
+      "score": 296.0,
       "sources": [
         {
           "name": "hn",
@@ -307,7 +307,7 @@
       "headline": "SAML: A fractal of bad design",
       "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
       "summary": "",
-      "score": 263.0,
+      "score": 266.0,
       "sources": [
         {
           "name": "hn",
@@ -321,7 +321,7 @@
       "headline": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
       "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
       "summary": "",
-      "score": 263.0,
+      "score": 264.0,
       "sources": [
         {
           "name": "hn",
@@ -349,7 +349,7 @@
       "headline": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
       "url": "https://droprun.sh/",
       "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.<p>Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. T",
-      "score": 246.0,
+      "score": 247.0,
       "sources": [
         {
           "name": "hn",
@@ -374,24 +374,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "LLM Ass Bench",
-      "url": "https://www.assbench.com/",
-      "summary": "",
-      "score": 231.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.assbench.com/",
-          "title": "LLM Ass Bench"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
       "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>",
-      "score": 231.0,
+      "score": 233.0,
       "sources": [
         {
           "name": "hn",
@@ -402,15 +388,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "headline": "LLM Ass Bench",
+      "url": "https://www.assbench.com/",
       "summary": "",
-      "score": 225.0,
+      "score": 231.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-          "title": "What California is learning from solar panels built over irrigation canals"
+          "url": "https://www.assbench.com/",
+          "title": "LLM Ass Bench"
         }
       ],
       "duplicate_count": 1
@@ -433,7 +419,7 @@
       "headline": "16-bit Intel 8088 chip (c. 1985)",
       "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
       "summary": "",
-      "score": 201.0,
+      "score": 202.0,
       "sources": [
         {
           "name": "hn",
@@ -472,6 +458,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Native apps written in TypeScript and CSS",
+      "url": "https://github.com/geastack/examples",
+      "summary": "",
+      "score": 179.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/geastack/examples",
+          "title": "Native apps written in TypeScript and CSS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Jev – A curation of Jev demos on X, tools, skills, and integrations",
       "url": "https://github.com/Amal-David/awesome-jev",
       "summary": "",
@@ -481,20 +481,6 @@
           "name": "hn",
           "url": "https://github.com/Amal-David/awesome-jev",
           "title": "Jev – A curation of Jev demos on X, tools, skills, and integrations"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Native apps written in TypeScript and CSS",
-      "url": "https://github.com/geastack/examples",
-      "summary": "",
-      "score": 178.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://github.com/geastack/examples",
-          "title": "Native apps written in TypeScript and CSS"
         }
       ],
       "duplicate_count": 1
@@ -517,7 +503,7 @@
       "headline": "Obscura: VPN that can't log your activity",
       "url": "https://obscura.com/#faq-technical",
       "summary": "",
-      "score": 176.0,
+      "score": 177.0,
       "sources": [
         {
           "name": "hn",
@@ -556,6 +542,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
+      "score": 164.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://benchmarkheaven.com/jev-models",
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "People Training OpenAI's AI Fired for Using AI to Train the AI",
       "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
       "summary": "",
@@ -565,20 +565,6 @@
           "name": "hn",
           "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
           "title": "People Training OpenAI's AI Fired for Using AI to Train the AI"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibrat",
-      "score": 163.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://benchmarkheaven.com/jev-models",
-          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models"
         }
       ],
       "duplicate_count": 1
@@ -696,6 +682,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "title": "The current balance of power in open models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Used ThinkPad Buyer's Guide (2019)",
       "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
       "summary": "",
@@ -705,20 +705,6 @@
           "name": "hn",
           "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
           "title": "Used ThinkPad Buyer's Guide (2019)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "",
-      "score": 144.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "title": "The current balance of power in open models"
         }
       ],
       "duplicate_count": 1
@@ -780,6 +766,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arxiv.org/abs/2609.15369",
+          "title": "Show HN: Training a model to identify AI web content from structure alone"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "url": "https://news.ycombinator.com/item?id=49798257",
       "summary": "I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed it at the right spot within the contract and prepared to send it when I intervened.",
@@ -803,20 +803,6 @@
           "name": "hn",
           "url": "https://simonwillison.net/2026/Sep/21/jev/",
           "title": "Jev introduces a new shape of LLM"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (<a href=\"https:&#x2F;&#x2F;sitefire.ai\">https:&#x2F;&#x2F;sitefire.ai</a>). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM).<p>With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.<p",
-      "score": 136.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://arxiv.org/abs/2609.15369",
-          "title": "Show HN: Training a model to identify AI web content from structure alone"
         }
       ],
       "duplicate_count": 1
@@ -1298,6 +1284,146 @@
       "duplicate_count": 1
     },
     {
+      "headline": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+      "url": "https://www.qbitai.com/2026/09/495959.html",
+      "summary": "纯电120kWh大电池，18.1吨压着照样开",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/495959.html",
+          "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+      "url": "https://www.qbitai.com/2026/09/494429.html",
+      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494429.html",
+          "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Agent时代，CPU的价值该重估了",
+      "url": "https://www.qbitai.com/2026/09/494430.html",
+      "summary": "CPU与GPU趋近1∶1",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494430.html",
+          "title": "Agent时代，CPU的价值该重估了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "url": "https://www.qbitai.com/2026/09/494420.html",
+      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494420.html",
+          "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "url": "https://www.qbitai.com/2026/09/494263.html",
+      "summary": "商汤U1 Pro，正式发布",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494263.html",
+          "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "url": "https://www.qbitai.com/2026/09/493653.html",
+      "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/493653.html",
+          "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+      "url": "https://www.qbitai.com/2026/09/494179.html",
+      "summary": "Hugging Face CEO：「太棒了」",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494179.html",
+          "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "url": "https://www.qbitai.com/2026/09/494120.html",
+      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494120.html",
+          "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+      "url": "https://www.qbitai.com/2026/09/494043.html",
+      "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/494043.html",
+          "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "url": "https://www.qbitai.com/2026/09/493865.html",
+      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/493865.html",
+          "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "RULER: Instance-aware Rubric Rewards for SVG Generation",
       "url": "https://huggingface.co/papers/2609.25270",
       "summary": "Hugging Face Daily Papers",
@@ -1396,20 +1522,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
-      "url": "https://huggingface.co/papers/2609.25247",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.25247",
-          "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
       "url": "https://huggingface.co/papers/2609.25165",
       "summary": "Hugging Face Daily Papers",
@@ -1419,6 +1531,20 @@
           "name": "hf_papers",
           "url": "https://huggingface.co/papers/2609.25165",
           "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
+      "url": "https://huggingface.co/papers/2609.25247",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.25247",
+          "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes"
         }
       ],
       "duplicate_count": 1

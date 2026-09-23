@@ -21,6 +21,7 @@
     <select class="jumper" data-jumper aria-label="日期快速跳转">
       <option value="2026-09-23" >2026-09-23 · 周三</option><option value="2026-09-22" >2026-09-22 · 周二</option><option value="2026-09-21" >2026-09-21 · 周一</option><option value="2026-09-20" >2026-09-20 · 周日</option><option value="2026-09-19" selected>2026-09-19 · 周六</option><option value="2026-09-18" >2026-09-18 · 周五</option><option value="2026-09-17" >2026-09-17 · 周四</option>
     </select>
+    <button class="btn btn-ghost" data-read-start aria-label="朗读本日报">朗读 Read</button>
     <button class="btn" data-drawer-open>归档 Archive</button>
   </div>
 </header>
@@ -73,6 +74,7 @@
           <span class="module-index">01</span>
           <h2 class="module-name">全球 AI 宏观与政经脉搏</h2>
           <span class="module-en">MACRO &amp; POLICY</span>
+          <button class="mod-read" data-read-module="macro" aria-label="朗读本模块">朗读本节</button>
         </div>
         <p class="module-note">本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。</p>
 
@@ -245,6 +247,7 @@
           <span class="module-index">02</span>
           <h2 class="module-name">AI 浏览器与端侧工作流</h2>
           <span class="module-en">BROWSER &amp; EDGE WORKFLOW</span>
+          <button class="mod-read" data-read-module="browser" aria-label="朗读本模块">朗读本节</button>
         </div>
         <p class="module-note">AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。</p>
 
@@ -365,6 +368,7 @@
           <span class="module-index">03</span>
           <h2 class="module-name">国内三巨头与本土生态</h2>
           <span class="module-en">CHINA BIG THREE</span>
+          <button class="mod-read" data-read-module="china" aria-label="朗读本模块">朗读本节</button>
         </div>
         <p class="module-note">腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。</p>
 
@@ -511,6 +515,7 @@
           <span class="module-index">04</span>
           <h2 class="module-name">前沿模型与落地产品</h2>
           <span class="module-en">FRONTIER &amp; PRODUCT</span>
+          <button class="mod-read" data-read-module="frontier" aria-label="朗读本模块">朗读本节</button>
         </div>
         <p class="module-note">海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。</p>
 
@@ -700,6 +705,19 @@
   </div>
   <div class="drawer-foot"><a href="../archive.html" style="color:inherit">查看全部归档 →</a></div>
 </aside>
+
+<div class="reader" id="reader" hidden aria-live="polite">
+  <span class="reader-state" data-read-state>朗读中</span>
+  <button class="icon-btn" data-read-toggle aria-label="暂停 / 继续">❚❚</button>
+  <button class="icon-btn" data-read-stop aria-label="停止">■</button>
+  <select class="jumper" data-read-rate aria-label="语速">
+    <option value="0.9">0.9×</option>
+    <option value="1" selected>1.0×</option>
+    <option value="1.25">1.25×</option>
+    <option value="1.5">1.5×</option>
+  </select>
+  <span class="reader-progress" data-read-progress></span>
+</div>
 
 <script src="../assets/app.js"></script>
 </body>

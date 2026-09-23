@@ -372,6 +372,58 @@ body {
 }
 .shot figcaption span { color: var(--muted); }
 
+/* ---------- 朗读播报 ---------- */
+
+.mod-read {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  font-family: var(--font-sans);
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 4px 8px;
+  border-radius: 0;
+  cursor: pointer;
+  transition: color 0.16s ease, border-color 0.16s ease;
+}
+.mod-read:hover { color: var(--ink); border-color: var(--line-2); }
+
+.is-reading { background-color: rgba(44, 79, 196, 0.07); }
+
+.reader {
+  position: fixed;
+  left: 50%;
+  bottom: 22px;
+  transform: translateX(-50%);
+  z-index: 70;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 14px;
+  background: var(--ink);
+  color: var(--paper);
+  border: 1px solid var(--ink);
+  box-shadow: 0 14px 44px rgba(22, 24, 29, 0.2);
+  max-width: calc(100vw - 28px);
+}
+.reader[hidden] { display: none; }
+.reader-state { font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; opacity: 0.72; }
+.reader .icon-btn,
+.reader .jumper {
+  border-color: rgba(252, 251, 248, 0.34);
+  color: var(--paper);
+  background: transparent;
+}
+.reader .jumper option { color: var(--ink); }
+.reader-progress { font-size: 11px; opacity: 0.7; white-space: nowrap; }
+
+@media (max-width: 560px) {
+  .reader { left: 12px; right: 12px; transform: none; justify-content: space-between; gap: 8px; }
+  .reader-progress { display: none; }
+}
+
 /* ---------- watchlist ---------- */
 
 .watch {

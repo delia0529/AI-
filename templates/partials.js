@@ -72,6 +72,7 @@
           '<span class="module-index">' + esc(m.index) + "</span>" +
           '<h2 class="module-name">' + esc(m.name) + "</h2>" +
           '<span class="module-en">' + esc(m.en) + "</span>" +
+          '<button class="mod-read" data-read-module="' + esc(m.id) + '" aria-label="朗读本模块">朗读本节</button>' +
         "</div>" +
         '<p class="module-note">' + esc(m.note) + "</p>" +
         (m.items || []).map(function (it, i) { return itemHTML(m, it, i + 1); }).join("") +
@@ -415,6 +416,204 @@
       });
     });
   }
+
+  /* ---------------------------------------------------------- 朗读播报 */
+  /* 使用浏览器内置 Web Speech API 在本地合成，不调用任何外部服务，也没有预生成音频。 */
+
+  (function () {
+    if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) return;
+
+    var bar = document.getElementById("reader");
+    if (!bar) return;
+    var stateEl = bar.querySelector("[data-read-state]");
+    var progEl = bar.querySelector("[data-read-progress]");
+    var toggleBtn = bar.querySelector("[data-read-toggle]");
+    var stopBtn = bar.querySelector("[data-read-stop]");
+    var rateSel = bar.querySelector("[data-read-rate]");
+
+    var queue = [];
+    var idx = -1;
+    var stopped = true;
+    var paused = false;
+    var lastEl = null;
+    var voice = null;
+
+    function pickVoice() {
+      var vs = window.speechSynthesis.getVoices() || [];
+      if (!vs.length) return null;
+      var zh = [];
+      vs.forEach(function (v) {
+        if (/^zh|cmn/i.test(v.lang || "") || /Chinese|中文|普通话/i.test(v.name || "")) zh.push(v);
+      });
+      return zh[0] || vs[0];
+    }
+
+    function refreshVoice() {
+      voice = pickVoice();
+    }
+    refreshVoice();
+    if (typeof window.speechSynthesis.onvoiceschanged !== "undefined") {
+      window.speechSynthesis.onvoiceschanged = refreshVoice;
+    }
+
+    function chunk(text) {
+      var src = String(text || "").replace(/\s+/g, " ").trim();
+      var out = [];
+      var buf = "";
+      for (var i = 0; i < src.length; i++) {
+        buf += src.charAt(i);
+        if (/[。！？；;!?]/.test(src.charAt(i)) && buf.length >= 36) {
+          out.push(buf);
+          buf = "";
+        } else if (buf.length >= 170) {
+          out.push(buf);
+          buf = "";
+        }
+      }
+      if (buf.trim()) out.push(buf);
+      return out;
+    }
+
+    function push(el, text) {
+      chunk(text).forEach(function (piece) {
+        queue.push({ text: piece, el: el });
+      });
+    }
+
+    function buildQueue(scope) {
+      queue = [];
+      if (!scope) {
+        var title = document.querySelector(".hero-title");
+        var deck = document.querySelector(".hero-deck");
+        if (title) push(title, title.textContent);
+        if (deck) push(deck, deck.textContent);
+      }
+      var modules = scope
+        ? [scope]
+        : Array.prototype.slice.call(document.querySelectorAll(".module"));
+      modules.forEach(function (m) {
+        var name = m.querySelector(".module-name");
+        if (name) push(m, name.textContent + "。");
+        var note = m.querySelector(".module-note");
+        if (note && note.textContent.trim()) push(m, note.textContent);
+        Array.prototype.forEach.call(m.querySelectorAll(".item"), function (it) {
+          var t = it.querySelector(".item-title");
+          var f = it.querySelector(".field:not(.field-insight) .field-v");
+          var ins = it.querySelector(".field-insight .field-v");
+          var txt = "";
+          if (t) txt += t.textContent + "。";
+          if (f) txt += "核心事实：" + f.textContent + "。";
+          if (ins) txt += "深度洞察：" + ins.textContent + "。";
+          push(it, txt);
+        });
+      });
+    }
+
+    function clearMarks() {
+      var marked = document.querySelectorAll(".is-reading");
+      Array.prototype.forEach.call(marked, function (el) { el.classList.remove("is-reading"); });
+    }
+
+    function updateUI() {
+      if (progEl) progEl.textContent = queue.length ? (idx + 1) + " / " + queue.length : "";
+      if (stateEl) stateEl.textContent = paused ? "已暂停" : "朗读中";
+      if (toggleBtn) toggleBtn.textContent = paused ? "▶" : "❚❚";
+    }
+
+    function speakAt(i) {
+      if (stopped) return;
+      if (i >= queue.length) {
+        stop();
+        return;
+      }
+      idx = i;
+      var q = queue[i];
+      if (q.el && q.el !== lastEl) {
+        clearMarks();
+        q.el.classList.add("is-reading");
+        lastEl = q.el;
+        try {
+          q.el.scrollIntoView({ block: "center", behavior: "smooth" });
+        } catch (e) {
+          q.el.scrollIntoView();
+        }
+      }
+      var u = new window.SpeechSynthesisUtterance(q.text);
+      u.lang = "zh-CN";
+      if (voice) u.voice = voice;
+      u.rate = parseFloat((rateSel && rateSel.value) || "1");
+      u.onend = function () {
+        if (!stopped) speakAt(i + 1);
+      };
+      u.onerror = function () {
+        if (!stopped) speakAt(i + 1);
+      };
+      window.speechSynthesis.speak(u);
+      updateUI();
+    }
+
+    function start(scope) {
+      window.speechSynthesis.cancel();
+      buildQueue(scope || null);
+      if (!queue.length) return;
+      stopped = false;
+      paused = false;
+      lastEl = null;
+      bar.hidden = false;
+      speakAt(0);
+    }
+
+    function stop() {
+      stopped = true;
+      paused = false;
+      window.speechSynthesis.cancel();
+      clearMarks();
+      lastEl = null;
+      bar.hidden = true;
+      updateUI();
+    }
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener("click", function () {
+        if (stopped) return;
+        if (paused) {
+          window.speechSynthesis.resume();
+          paused = false;
+        } else {
+          window.speechSynthesis.pause();
+          paused = true;
+        }
+        updateUI();
+      });
+    }
+    if (stopBtn) stopBtn.addEventListener("click", stop);
+    if (rateSel) {
+      rateSel.addEventListener("change", function () {
+        if (stopped) return;
+        // 变速需要重读当前段
+        var at = Math.max(0, idx);
+        window.speechSynthesis.cancel();
+        stopped = false;
+        paused = false;
+        speakAt(at);
+      });
+    }
+
+    document.addEventListener("click", function (e) {
+      if (e.target.closest("[data-read-start]")) {
+        start(null);
+        return;
+      }
+      var mod = e.target.closest("[data-read-module]");
+      if (mod) {
+        var el = document.getElementById(mod.getAttribute("data-read-module"));
+        if (el) start(el);
+      }
+    });
+
+    window.addEventListener("pagehide", stop);
+    window.addEventListener("beforeunload", stop);
+  })();
 
   /* ---------------------------------------------------------- 氛围光斑 */
 

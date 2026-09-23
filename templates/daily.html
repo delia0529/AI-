@@ -21,6 +21,7 @@
     <select class="jumper" data-jumper aria-label="日期快速跳转">
       <!--BEGIN:issues--><option value="{{issue_date}}" {{issue_selected}}>{{issue_date}} · {{issue_weekday}}</option><!--END:issues-->
     </select>
+    <button class="btn btn-ghost" data-read-start aria-label="朗读本日报">朗读 Read</button>
     <button class="btn" data-drawer-open>归档 Archive</button>
   </div>
 </header>
@@ -73,6 +74,7 @@
           <span class="module-index">{{module_index}}</span>
           <h2 class="module-name">{{module_name}}</h2>
           <span class="module-en">{{module_en}}</span>
+          <button class="mod-read" data-read-module="{{module_id}}" aria-label="朗读本模块">朗读本节</button>
         </div>
         <p class="module-note">{{module_note}}</p>
 
@@ -137,6 +139,19 @@
   </div>
   <div class="drawer-foot"><a href="{{BASE}}archive.html" style="color:inherit">查看全部归档 →</a></div>
 </aside>
+
+<div class="reader" id="reader" hidden aria-live="polite">
+  <span class="reader-state" data-read-state>朗读中</span>
+  <button class="icon-btn" data-read-toggle aria-label="暂停 / 继续">❚❚</button>
+  <button class="icon-btn" data-read-stop aria-label="停止">■</button>
+  <select class="jumper" data-read-rate aria-label="语速">
+    <option value="0.9">0.9×</option>
+    <option value="1" selected>1.0×</option>
+    <option value="1.25">1.25×</option>
+    <option value="1.5">1.5×</option>
+  </select>
+  <span class="reader-progress" data-read-progress></span>
+</div>
 
 <script src="{{BASE}}assets/app.js"></script>
 </body>

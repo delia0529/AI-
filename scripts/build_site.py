@@ -17,6 +17,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -140,10 +141,27 @@ def build_issue_context(day, issues, base):
                       for w in module.get("watchlist", [])],
         })
 
+    # 本期信源清单：把当天所有引用去重汇总，保证每条内容都可追溯
+    src_map = {}
+    for module in modules:
+        for item in module["items"]:
+            for s in item["sources"]:
+                key = s["src_url"]
+                if key not in src_map:
+                    src_map[key] = {
+                        "src_index_name": esc(s["src_name"]),
+                        "src_index_url": esc(s["src_url"]),
+                        "src_index_domain": esc(urllib.parse.urlparse(s["src_url"]).netloc.replace("www.", "")),
+                        "src_index_count": 0,
+                    }
+                src_map[key]["src_index_count"] += 1
+    sources_index = sorted(src_map.values(), key=lambda x: (-x["src_index_count"], x["src_index_domain"]))
+
     return {
         "BASE": base,
         "LIVE": "1" if base == "" else "0",
         "DATE": day["date"],
+        "sources_index": sources_index,
         "DATE_CN": date_cn(day["date"]),
         "ISSUE": day.get("issue", ""),
         "WEEKDAY": day.get("weekday") or weekday_of(day["date"]),

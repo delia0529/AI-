@@ -57,7 +57,7 @@
         '<div class="item-foot">' +
           '<div class="item-tags">' + tags.map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("") + "</div>" +
           '<div class="item-entities">关联：' + esc((it.entities || []).join("、")) + "</div>" +
-          '<div class="item-sources">' + (it.sources || []).map(function (s) {
+          '<div class="item-sources"><span class="foot-label">来源</span>' + (it.sources || []).map(function (s) {
             return '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name) + "</a>";
           }).join("") + "</div>" +
         "</div>" +
@@ -174,6 +174,42 @@
 
   /* ---------------------------------------------------------- 应用最新一期 */
 
+  function domainOf(url) {
+    try {
+      return new URL(url).hostname.replace(/^www\./, "");
+    } catch (e) {
+      return String(url || "").replace(/^https?:\/\//, "").split("/")[0];
+    }
+  }
+
+  /* 本期信源清单：把当天所有引用去重汇总，保证每条内容都能回溯到原文 */
+  function renderSources(day) {
+    var grid = document.querySelector("[data-sources-grid]");
+    if (!grid) return;
+    var map = {};
+    (day.modules || []).forEach(function (m) {
+      (m.items || []).forEach(function (it) {
+        (it.sources || []).forEach(function (s) {
+          if (!s.url) return;
+          if (!map[s.url]) {
+            map[s.url] = { name: s.name || domainOf(s.url), url: s.url, domain: domainOf(s.url), count: 0 };
+          }
+          map[s.url].count++;
+        });
+      });
+    });
+    var list = Object.keys(map).map(function (k) { return map[k]; });
+    list.sort(function (a, b) {
+      return b.count - a.count || a.domain.localeCompare(b.domain);
+    });
+    var section = document.getElementById("sources");
+    if (section) section.style.display = list.length ? "" : "none";
+    grid.innerHTML = list.map(function (s) {
+      return '<a class="src-item" href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
+        "<b>" + esc(s.name) + "</b><span>" + esc(s.domain) + " · 引用 " + s.count + " 次</span></a>";
+    }).join("");
+  }
+
   function applyDigest(day) {
     var stream = document.querySelector(".stream");
     if (!stream || !day || !day.modules) return;
@@ -220,6 +256,7 @@
       }).join("");
     }
 
+    renderSources(day);
     document.title = day.date + " · AI 趋势日报 " + (day.issue || "");
     body.setAttribute("data-date", day.date);
 

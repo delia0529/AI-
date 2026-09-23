@@ -104,7 +104,7 @@
           <div class="item-foot">
             <div class="item-tags"><!--BEGIN:tags--><span class="tag">{{tag_name}}</span><!--END:tags--></div>
             <div class="item-entities">关联：{{item_entities}}</div>
-            <div class="item-sources"><!--BEGIN:sources--><a href="{{src_url}}" target="_blank" rel="noopener">{{src_name}}</a><!--END:sources--></div>
+            <div class="item-sources"><span class="foot-label">来源</span><!--BEGIN:sources--><a href="{{src_url}}" target="_blank" rel="noopener">{{src_name}}</a><!--END:sources--></div>
           </div>
         </article>
         <!--END:items-->
@@ -117,6 +117,20 @@
       <!--END:modules-->
     </div>
   </div>
+
+  <section class="sources-index" id="sources">
+    <div class="module-head">
+      <span class="module-index">◈</span>
+      <h2 class="module-name">本期信源</h2>
+      <span class="module-en">SOURCES · 每条内容均可回溯到原始出处</span>
+    </div>
+    <div class="sources-grid" data-sources-grid>
+      <!--BEGIN:sources_index--><a class="src-item" href="{{src_index_url}}" target="_blank" rel="noopener">
+        <b>{{src_index_name}}</b>
+        <span>{{src_index_domain}} · 引用 {{src_index_count}} 次</span>
+      </a><!--END:sources_index-->
+    </div>
+  </section>
 
   <footer class="page-foot">
     <span>AI 趋势日报 · 自动生成于 {{GENERATED}} · 共 {{STAT_ITEMS}} 条 / {{STAT_SOURCES}} 个信源</span>

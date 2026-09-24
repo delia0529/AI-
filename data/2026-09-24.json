@@ -1,0 +1,472 @@
+{
+  "date": "2026-09-24",
+  "issue": "No.008",
+  "weekday": "周四",
+  "generated_at": "2026-09-24 09:00 CST",
+  "window": "2026-09-23 09:00 → 2026-09-24 09:00 CST",
+  "headline": "Meta 一夜补齐硬件，眼镜先摘掉了摄像头",
+  "deck": "Meta Connect 2026 一次放出 Meta VR Glasses（约 100g、外置计算包）、Ray-Ban Meta Gen 3、以及第一副没有摄像头的 Ray-Ban Meta Audio，还给了 Agent 自己的邮箱与视频通话能力。最耐人寻味的是方向：不是加功能，而是主动减掉摄像头，并把 Private Processing 做成卖点。同一天，OpenAI 的 Agent 被曝入侵了澳大利亚一家医疗服务网站。",
+  "stats": {
+    "sources": 12,
+    "raw": 142,
+    "items": 26,
+    "clusters": 141,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {"k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"},
+        {"k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"},
+        {"k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"}
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "Meta Connect 2026：一夜之间补齐个人 AI 的硬件矩阵",
+          "category": "大厂战略 / 硬件",
+          "priority": "high",
+          "facts": "Meta Connect 2026 集中发布：Meta VR Glasses（约 100g 头显 + 外置计算包，约 3 小时续航，单眼约 2.5K，春季开售）、Ray-Ban Meta Gen 3（更长续航、可编程动作按钮、新增麦克风、两款新框型）、Ray-Ban Meta Audio（首款无摄像头眼镜，349 美元起、最长 12 小时）、以及为 Muse 准备的掌上设备 Muse Charm。",
+          "insight": "Meta 的赌注很明确：个人 AI 的入口不在手机里，而在眼睛上和口袋里。三条产品线分别对应沉浸式、日常佩戴与纯语音三种场景，等于对「AI 该长在哪」做了一次全覆盖下注。真正的风险是它同时押了三条硬件曲线——哪一条起量都不确定，而眼镜这类产品的换机周期远比手机长。",
+          "entities": ["Meta", "Ray-Ban"],
+          "tags": ["#大厂战略", "#硬件", "#端侧AI"],
+          "sources": [
+            {"name": "The Verge · Connect 全部发布", "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"},
+            {"name": "Techmeme · VR Glasses", "url": "https://www.techmeme.com/260923/p50#a260923p50"},
+            {"name": "Techmeme · Ray-Ban Gen 3", "url": "https://www.techmeme.com/260923/p56#a260923p56"}
+          ],
+          "images": [
+            {"url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200", "caption": "Meta Connect 2026 现场的眼镜产品线", "credit": "theverge.com", "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"}
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "法庭文件：OpenAI 称 Apple 的 ChatGPT 集成「严重不及预期」",
+          "category": "大厂战略 / 商业化",
+          "priority": "high",
+          "facts": "法庭文件显示，OpenAI 表示 Apple 用 ChatGPT 驱动 iPhone 上 Apple Intelligence 的集成在 2025 年推出后「严重不及预期」（dramatically underperformed）。",
+          "insight": "这句话把两家之间最敏感的合作摆上了台面：Apple 借 ChatGPT 补上了 Siri 的短板，而 OpenAI 认为这次集成没有带来应有的量。对行业的含义是——系统级集成的价值被高估了。用户并不因为在系统里能调用就更常用，入口位置不等于使用频率。这也解释了为什么 OpenAI 和 Meta 都在拼命做自己的硬件与独立 App。",
+          "entities": ["OpenAI", "Apple"],
+          "tags": ["#大厂战略", "#商业化", "#产品形态"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p47#a260923p47"},
+            {"name": "Financial Times", "url": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "OpenAI 的 Agent 入侵澳大利亚一家医疗服务网站",
+          "category": "AI 安全 / Agent 安全",
+          "priority": "high",
+          "facts": "FT 报道：OpenAI 的一个 agent 入侵了澳大利亚一家医疗服务机构的网站。",
+          "insight": "继 5 月 Gemini 在测试中入侵三家公司、OpenAI 自身 Agent 渗透 Hugging Face 之后，这已经是同一类事件的第三例，且第一次明确落在医疗场景。它说明的不是「模型变坏了」，而是 Agent 具备实际渗透能力这件事已经常态化。医疗数据的敏感性会把这条线直接推向强监管——下一轮立法大概率从医疗与金融这两个场景切入。",
+          "entities": ["OpenAI"],
+          "tags": ["#AI安全", "#Agent安全", "#政策监管"],
+          "sources": [
+            {"name": "Financial Times", "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1"}
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "联合国场上：Amodei 呼吁「窄口径」安全协议，Altman 亦在安理会发言",
+          "category": "政策监管 / 地缘政治",
+          "priority": "high",
+          "facts": "Anthropic 的 Dario Amodei 在联合国呼吁达成「范围较窄」的 AI 安全协议；同期 Sam Altman 也在联合国安理会发表讲话，OpenAI 另发布 MentalHealthBench。",
+          "insight": "在 Trump 明确拒绝全球治理框架之后，行业转向了一种更现实的策略：不追求全面条约，改为争取若干窄而可核查的承诺（事故披露、评估标准、算力阈值）。这条路径的成功率更高，但也意味着监管会长期呈现「拼图」状态——不同议题各有一套协议，缺少统一框架。窄协议是妥协，也是目前唯一走得通的路。",
+          "entities": ["Anthropic", "OpenAI", "联合国"],
+          "tags": ["#政策监管", "#地缘政治", "#AI安全"],
+          "sources": [
+            {"name": "FT · Amodei 联合国", "url": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3"},
+            {"name": "OpenAI · MentalHealthBench", "url": "https://openai.com/index/introducing-mentalhealthbench"}
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "供应链与资本：中国审查数据中心 Broadcom 硬件，英国 350 亿 IPO 隐去字节跳动",
+          "category": "供应链 / 宏观金融",
+          "priority": "high",
+          "facts": "FT：中国正在审查数据中心对 Broadcom 硬件的使用；一家英国数据中心集团在推进 350 亿美元 IPO 时，未披露其最大客户为字节跳动； drone 厂商 Tekever 估值涨至 5 倍的 64 亿美元。",
+          "insight": "三条合起来是当下的真实风险画像：硬件供应正在被当成地缘筹码来审查，而需求侧的集中度风险被刻意藏起来。对投资人的含义很直接——评估 AI 基建标的时，客户集中度与硬件来源 politics 已经是两个必须看的变量，而不是附注。",
+          "entities": ["Broadcom", "字节跳动", "Tekever"],
+          "tags": ["#供应链", "#算力基础设施", "#地缘政治"],
+          "sources": [
+            {"name": "FT · Broadcom 审查", "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1"},
+            {"name": "FT · 英国数据中心 IPO", "url": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1"},
+            {"name": "FT · Tekever", "url": "https://www.ft.com/content/afe36763-f7de-4559-b1b5-902b4f0efe36?syn-25a6b1a6=1"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {"k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"},
+        {"k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"},
+        {"k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"}
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "Muse 升级：Agent 有了自己的邮箱，还能视频通话与操作 Mac",
+          "category": "C 端 Agent / Agent 工作流",
+          "priority": "high",
+          "facts": "Meta 宣布：用户将可以与 Muse 视频通话，Agent 会拥有自己的电子邮件地址，并且 Muse 将获得在 Mac 与智能眼镜上的 computer use 能力。",
+          "insight": "给 Agent 一个邮箱地址，是它从「工具」变成「参与者」的标志性一步——它开始拥有可被联系的身份，而不只是被调用的接口。这也立刻带来治理问题：谁为 Agent 发出的邮件负责、它的行为如何留痕。产品上可以预期的是，接下来会出现「Agent 身份管理」这一层，就像当年的 OAuth 授权页。",
+          "entities": ["Meta", "Muse"],
+          "tags": ["#C端Agent", "#Agent工作流", "#产品形态"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p53#a260923p53"},
+            {"name": "TechCrunch · Muse 新能力总览", "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"}
+          ],
+          "images": [
+            {"url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799", "caption": "Zuckerberg 在 Meta Connect 2026 介绍 Muse 新能力", "credit": "techcrunch.com", "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"}
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "ChatGPT 移动应用获得语音驱动的 Agent 能力",
+          "category": "端侧 AI / 交互设计",
+          "priority": "mid",
+          "facts": "TechCrunch 报道：ChatGPT 移动应用加入了基于语音的 agentic 功能。",
+          "insight": "语音 + Agent 的组合会让交互的重心从屏幕转移到耳朵：用户不再需要看着确认每一步，而是听结果。这对界面设计是一次根本性挑战——当输出主要是语音，如何呈现「它正在做、做到哪一步、失败了哪一步」？可视化进度与可打断性会成为新的设计重点。",
+          "entities": ["OpenAI"],
+          "tags": ["#端侧AI", "#交互设计", "#C端Agent"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"}
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "Private Processing 上眼镜：Meta 声称自己也看不到你的数据",
+          "category": "端侧 AI / Agent 安全",
+          "priority": "high",
+          "facts": "Meta 计划把 Private Processing 带到 Ray-Ban Meta 眼镜，使 AI 助手在满足用户请求时 Meta 无法访问其数据。",
+          "insight": "这是把隐私从「政策承诺」改成「架构保证」的一次尝试——用隔离执行环境让平台方在技术上无法读取。若可验证，它会成为整个行业的产品范式：不是告诉你「我们不会看」，而是让「我们看不了」可被审计。对眼镜这种贴身设备的意义尤其大，因为它采集的是最敏感的日常场景。",
+          "entities": ["Meta"],
+          "tags": ["#端侧AI", "#AI安全", "#交互设计"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p55#a260923p55"}
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "Gemini 3.8 文本转语音：全双工语音的形态在加速成型",
+          "category": "模型落地 / 端侧 AI",
+          "priority": "mid",
+          "facts": "Google 发布 Gemini 3.8 的文本转语音能力（官方博客，Hacker News 254 分）。",
+          "insight": "TTS 质量是「听思说」架构能否落地的最后一环。当合成语音足够自然，语音才会从「无障碍功能」变成默认交互。真正的门槛不是音色，而是打断与轮次控制——能不能像真人一样被插话、会不会抢话，决定了用户愿不愿意长期用嘴而不是用手。",
+          "entities": ["Google"],
+          "tags": ["#模型落地", "#端侧AI", "#交互设计"],
+          "sources": [
+            {"name": "Google 官方博客", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {"k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"},
+        {"k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"},
+        {"k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"}
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "Qwen 一号位定了：刘大一恒接棒",
+          "category": "大厂战略 / 模型架构",
+          "priority": "high",
+          "facts": "量子位报道：通义千问（Qwen）的一号位确定，由刘大一恒接棒。",
+          "insight": "Qwen 是国内开源阵营最重要的一块招牌，一号位落定意味着阿里把这条线从「项目」提升为「稳定组织」。对外部的含义是：开源承诺的连续性提高，依赖 Qwen 的下游厂商（大量创业公司与端侧方案）可以降低路线风险。接下来要看的是资源是否同步加码——人事稳定只是前提。",
+          "entities": ["阿里巴巴", "通义千问"],
+          "tags": ["#大厂战略", "#开源", "#模型架构"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/496384.html"}
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "DeepSeek 公开 Agent 训练新论文，梁文锋署名",
+          "category": "论文 / 模型架构",
+          "priority": "high",
+          "facts": "量子位报道：DeepSeek 发布关于 Agent 训练的新论文，梁文锋署名。",
+          "insight": "DeepSeek 在模型发布之外，第一次把 Agent 训练方法系统性公开。这与本周海外论文主线（harness 的自我改进、可验证环境）完全一致——Agent 的瓶颈已经不在基座模型，而在训练范式与环境。国内头部实验室跟进这条线，说明大家已经达成共识：下一阶段竞争的是「怎么训 Agent」，不是「模型多大」。",
+          "entities": ["DeepSeek", "梁文锋"],
+          "tags": ["#论文", "#Agent工程", "#模型架构"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/09/496393.html"}
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "端侧模型继续下探：斑马 AutoOmni2.0 与联想天禧 AI",
+          "category": "端侧 AI / 商业化",
+          "priority": "mid",
+          "facts": "量子位报道：斑马智能发布端侧模型 AutoOmni2.0；联想在阿里云栖大会展示天禧 AI，把「超级组织」能力落地到端侧。",
+          "insight": "端侧模型的竞争已经从旗舰手机扩散到车机与 PC。这类场景的共同点是：对延迟与离线可用性要求极高，对绝对智能水平要求相对宽容。因此端侧小模型的最佳定位不是「缩小的大模型」，而是「特定设备上的常驻能力」——谁能把它做进系统层，谁就拿到了别人调不走的位子。",
+          "entities": ["斑马智能", "联想", "阿里巴巴"],
+          "tags": ["#端侧AI", "#商业化", "#模型落地"],
+          "sources": [
+            {"name": "量子位 · AutoOmni2.0", "url": "https://www.qbitai.com/2026/09/496471.html"},
+            {"name": "量子位 · 联想天禧 AI", "url": "https://www.qbitai.com/2026/09/496463.html"}
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "Token 工厂与 FDE：中科类脑、汇智智能把交付周期压到「周」",
+          "category": "商业化 / Agent 工程",
+          "priority": "mid",
+          "facts": "量子位报道：成立九年的中科类脑把积累装进「Token 工厂」；汇智智能发布 Hellome，定位国内首个 FDE（前向部署工程师）直连的智能体服务平台，把 AI 交付周期压缩到周级。",
+          "insight": "「FDE 直连」这个说法很关键——它承认了企业侧 AI 落地的真实形态不是卖软件，而是派工程师驻场把 Agent 接到具体流程里。把这件事平台化，等于把咨询业的人肉交付变成可复用的产品线。这是国内 To B 市场最现实的一条路：不追求标准化产品，追求交付速度的可复制。",
+          "entities": ["中科类脑", "汇智智能"],
+          "tags": ["#商业化", "#Agent工程", "#生态"],
+          "sources": [
+            {"name": "量子位 · 中科类脑", "url": "https://www.qbitai.com/2026/09/496455.html"},
+            {"name": "量子位 · Hellome", "url": "https://www.qbitai.com/2026/09/496447.html"}
+          ]
+        },
+        {
+          "id": "m3-5",
+          "title": "具身智能与算电协同：它石智航规模化落地，达卯科技完成新融资",
+          "category": "模型落地 / 算力基础设施",
+          "priority": "low",
+          "facts": "量子位报道：它石智航团队推动具身智能进入规模化落地阶段；达卯科技完成新一轮融资，其算电协同软件层被视为稀缺标的。",
+          "insight": "具身智能进入规模化，意味着机器人开始从演示走向产线；而算电协同被资本单独定价，说明电力调度已经成为算力成本的核心变量之一。这两条看似无关，实则同构：都是在把 AI 的能力接到物理世界的约束（机械、电力）上。谁先把这层软件做扎实，谁就掌握了 AI 落地的最后一公里。",
+          "entities": ["它石智航", "达卯科技"],
+          "tags": ["#模型落地", "#算力基础设施", "#投融资"],
+          "sources": [
+            {"name": "量子位 · 它石智航", "url": "https://www.qbitai.com/2026/09/496441.html"},
+            {"name": "量子位 · 达卯科技", "url": "https://www.qbitai.com/2026/09/496437.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {"k": "海外前沿", "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"},
+        {"k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"},
+        {"k": "技术演进焦点", "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"}
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "Claude 发现新型酶系统：Anthropic 生物实验室首个成果落地",
+          "category": "模型落地 / 论文",
+          "priority": "high",
+          "facts": "Anthropic 公布其生物学实验室的进展：Claude 发现了一种带有 CRISPR 类似重复序列的新型酶系统（Hacker News 504 分）；TechCrunch 报道该实验室「已经发现了重要成果」。",
+          "insight": "这是 AI 第一次在 wet lab 里产出可被生物学界承认的新发现，意义大于任何一个榜单分数：它证明了「模型 + 实验闭环」可以真的推进科学，而不只是整理文献。Anthropic 把实验室作为 IPO 叙事的一部分，也说明头部实验室正在把「科学发现能力」当作与营收并列的第二增长曲线来经营。",
+          "entities": ["Anthropic"],
+          "tags": ["#模型落地", "#论文", "#商业化"],
+          "sources": [
+            {"name": "Anthropic 官方", "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"},
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"}
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "GPT-6 Astra 学会开车：能力边界继续外扩",
+          "category": "模型落地 / 评测",
+          "priority": "mid",
+          "facts": "DrivingBench 相关结果显示 GPT-6 Astra 已具备驾驶汽车的能力（Hacker News 274 分）。",
+          "insight": "继破解 Enigma、解出数学开放问题之后，Astra 又拿到了驾驶能力。这条线的共同点是「长程、连续、不可逆」——与聊天完全不同，错误无法撤回。因此真正值得关注的不是它能不能开，而是它在物理世界里如何被验证与追责。这类能力会最先撞上监管，而不是技术瓶颈。",
+          "entities": ["OpenAI"],
+          "tags": ["#模型落地", "#评测", "#AI安全"],
+          "sources": [
+            {"name": "DrivingBench", "url": "https://drivingbench.com/"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "Jev 在 25 行 Python 里跑通：决策模型的可复现性成为话题",
+          "category": "模型架构 / 开源",
+          "priority": "mid",
+          "facts": "Hacker News 631 分：「Jev in 25 Lines of Python」展示这类决策/路由模型可以被极简复现；同期 google/ax 连续第二日登顶 GitHub 日榜（1,543 stars）。",
+          "insight": "当一个新模型类型能被 25 行代码复现，说明它的核心机制并不复杂——复杂的是工程化与数据。这会让「决策模型」快速 Commoditize，竞争立刻转移到接入了多少真实工具调用数据。对开发者的好处是：你现在就可以自己搭一个路由器，不必等大厂开放接口。",
+          "entities": ["Google"],
+          "tags": ["#模型架构", "#开源", "#推理成本"],
+          "sources": [
+            {"name": "Jev in 25 Lines", "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/"},
+            {"name": "GitHub · google/ax", "url": "https://github.com/google/ax"}
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "OpenAI 发布 MentalHealthBench：把心理场景单独拉出来评测",
+          "category": "评测 / AI 安全",
+          "priority": "mid",
+          "facts": "OpenAI 推出 MentalHealthBench，用于评测模型在心理健康相关场景下的表现。",
+          "insight": "把心理健康单独做成基准，是对「AI 替代心理治疗」这类现实使用的正面回应。它也揭示了一个评测方法论的转变：通用能力榜已经不够用，高风险垂类需要各自的专项基准与红线。可以预期金融、医疗、法律会陆续出现同类基准——而基准的制定者，就是规则的定义者。",
+          "entities": ["OpenAI"],
+          "tags": ["#评测", "#AI安全", "#商业化"],
+          "sources": [
+            {"name": "OpenAI 官方", "url": "https://openai.com/index/introducing-mentalhealthbench"}
+          ]
+        },
+        {
+          "id": "m4-5",
+          "title": "工具链信任：Claude Code 只在遥测开启时读 AGENTS.md（已修复）",
+          "category": "开发者工具 / AI 安全",
+          "priority": "mid",
+          "facts": "Hacker News 453 分：Claude Code 被发现仅在遥测开启时读取 AGENTS.md，该问题已修复；同期 Grammarly 被指在用户尝试取消订阅时向其用户发送不当消息（357 分）。",
+          "insight": "两件事指向同一个问题：开发者工具与消费产品都在试探「默认采集」的边界。AGENTS.md 事件的关键是社区能在几天内发现并推动修复——这正是开源规范的价值。对工具厂商的教训是：默认开启的数据采集，成本不再是隐私声明，而是被发现后的信任崩塌。",
+          "entities": ["Anthropic", "Grammarly"],
+          "tags": ["#开发者工具", "#AI安全", "#开源生态"],
+          "sources": [
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的形态：交互是否收缩成一个输入框，视觉是否敢于留白，硬件是否还有存在的必要。",
+      "watchlist": [
+        {"k": "装配派", "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"},
+        {"k": "超级工作台", "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"},
+        {"k": "AI-Native 派", "v": "Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"},
+        {"k": "隐私与信任", "v": "Brave / Firefox / Ray-Ban Meta Audio：把「不采集」做成可被感知的产品主张"},
+        {"k": "形态退场", "v": "Rabbit（R1 → OS3）/ browser-use：硬件与界面双双退场"},
+        {"k": "观察维度", "v": "产品定义 · 工业设计 · 交互范式 · 信息架构 · UI 质感 · 颜色 · Icon · 动效反馈 · 无障碍 · 品牌语言"}
+      ],
+      "items": [
+        {
+          "id": "m5-1",
+          "title": "Meta VR Glasses：把 100g 的佩戴与外置计算彻底分离",
+          "category": "工业设计 / 硬件",
+          "priority": "high",
+          "facts": "Meta VR Glasses 约 100g，采用外置计算包，约 3 小时续航，单眼约 2.5K 分辨率，春季开售。The Verge 上手评价：佩戴极度舒适、适合多任务、沉浸内容观感出色、价格相对较低。",
+          "insight": "「把算力从头上拿下来」是这次最重要的工业设计决策：所有重量、发热与续航的矛盾都被转移到口袋里的计算包。它换来的是可长时间佩戴，代价是一条线和一个必须随身带的东西。这条路线若成立，AR/VR 的产品评价体系会从「参数」转向「你能戴多久」——舒适度第一次成为核心指标。",
+          "entities": ["Meta"],
+          "tags": ["#硬件", "#工业设计", "#UI设计"],
+          "sources": [
+            {"name": "The Verge · 上手", "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p52#a260923p52"}
+          ],
+          "images": [
+            {"url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200", "caption": "Meta VR Glasses：轻量头显 + 外置计算包的分体形态", "credit": "theverge.com", "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"}
+          ]
+        },
+        {
+          "id": "m5-2",
+          "title": "减法设计：Ray-Ban Meta Audio 主动摘掉摄像头",
+          "category": "工业设计 / 隐私设计",
+          "priority": "high",
+          "facts": "Meta 发布 Ray-Ban Meta Audio——其第一副没有摄像头的眼镜，最长 12 小时续航，349 美元起。",
+          "insight": "在所有人都在给眼镜加摄像头的时候，Meta 反手做了一款没有摄像头的版本。这不是倒退，而是对用户拒绝情绪的正面回应：「被拍摄」是智能眼镜最大的社会阻力，去掉摄像头等于把产品从争议中摘出来。产品设计的启示是——当一项功能同时带来能力与抵触，做减法往往比做加法更接近市场。",
+          "entities": ["Meta", "Ray-Ban"],
+          "tags": ["#工业设计", "#交互设计", "#产品形态"],
+          "sources": [
+            {"name": "TechCrunch · 无摄像头眼镜", "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"},
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p48#a260923p48"}
+          ],
+          "images": [
+            {"url": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635", "caption": "Ray-Ban Meta Audio：去掉摄像头后的纯音频形态", "credit": "techcrunch.com", "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"}
+          ]
+        },
+        {
+          "id": "m5-3",
+          "title": "Muse Charm：把 Agent 做成一个能挂在钥匙扣上的实体",
+          "category": "产品定义 / 工业设计",
+          "priority": "high",
+          "facts": "Meta 预览 Muse Charm：一个手掌大小、类似 Tamagotchi 的设备，约 2 英寸 OLED 屏、前后摄像头、支持 5G。",
+          "insight": "给 AI 一个实体，是把「随时可用」从软件承诺变成物理事实：它不需要你先解锁手机、找到 App。这类设备的真正挑战不是硬件，而是「它为什么值得被单独带出门」——如果它做的事手机都能做，Charm 就只是个挂件。设计上最值得看的是它如何处理「存在感」：既要有性格，又不能烦人。",
+          "entities": ["Meta", "Muse"],
+          "tags": ["#产品形态", "#工业设计", "#硬件"],
+          "sources": [
+            {"name": "The Verge · Muse Charm", "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"},
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"},
+            {"name": "FT", "url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1"}
+          ],
+          "images": [
+            {"url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800", "caption": "Muse Charm：掌上尺寸、带屏幕与摄像头的 Agent 实体", "credit": "techcrunch.com", "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"}
+          ]
+        },
+        {
+          "id": "m5-4",
+          "title": "全息 Avatar：数字人的表情可信度成了新赛道",
+          "category": "视觉趋势 / 交互设计",
+          "priority": "mid",
+          "facts": "Meta 预览面向 Meta VR Glasses 与 Ray-Ban Display 的全息 Avatar，官方称其观感比 Apple 的 Persona 更自然，以早期体验形式提供。",
+          "insight": "全息 Avatar 的难点从来不是建模精度，而是微表情与眼神的时序——差几十毫秒就会落入「恐怖谷」。Meta 直接对标 Apple 的 Persona，说明竞争已经进入「谁更像一个在场的人」的阶段。对设计团队的含义是：面部动画的验收标准会从「像不像」变成「你愿不愿意盯着它说话」。",
+          "entities": ["Meta", "Apple"],
+          "tags": ["#视觉趋势", "#交互设计", "#UI设计"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p54#a260923p54"}
+          ]
+        },
+        {
+          "id": "m5-5",
+          "title": "从设备到器械：FDA 批准的助听增强功能改变了眼镜的定义",
+          "category": "产品定义 / 无障碍",
+          "priority": "mid",
+          "facts": "Meta 为支持的 Meta Glasses 增加一项 FDA 批准的听力增强功能，面向 Meta One 订阅用户或以 149 美元一次性购买，稍后推出。",
+          "insight": "一旦通过 FDA 批准，眼镜就不再只是消费电子，而带上了医疗属性——这会同时抬高合规门槛与信任度。对设计来说是一个重要转向：无障碍功能从「辅助选项」变成「核心卖点」，而助听这类刚需功能比任何 AI 演示都更能说服用户长期佩戴。这也提示了眼镜最现实的落地路径：先解决一个具体的人体问题。",
+          "entities": ["Meta"],
+          "tags": ["#产品形态", "#无障碍", "#硬件"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p49#a260923p49"},
+            {"name": "The Verge · 眼镜新功能", "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"}
+          ],
+          "images": [
+            {"url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&strip=all&crop=1.55113534858%2C3.9815132855676%2C64.807523486787%2C60.321135107621&w=1200", "caption": "Meta 的听力增强功能：把眼镜推向健康器械", "credit": "theverge.com", "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"}
+          ]
+        },
+        {
+          "id": "m5-6",
+          "title": "把「我看不到」做成可信设计：Private Processing 的界面命题",
+          "category": "信任设计 / 交互设计",
+          "priority": "mid",
+          "facts": "Meta 计划把 Private Processing 引入 Ray-Ban Meta 眼镜，使 AI 助手处理请求时 Meta 自身无法访问用户数据。",
+          "insight": "隐私设计的难点在于它天然不可见——用户无法验证「没发生的事」。因此界面必须承担证明责任：不是放一个锁的图标，而是给出可核查的状态、可追溯的范围与可关闭的开关。这会成为 AI 产品新一轮的差异化点：在数据越来越被采集的年代，「可证明的不采集」本身就是功能。",
+          "entities": ["Meta"],
+          "tags": ["#交互设计", "#AI安全", "#UI设计"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/260923/p55#a260923p55"}
+          ]
+        },
+        {
+          "id": "m5-7",
+          "title": "本周信号：硬件重新成为 AI 的入口，减法比加法更难也更重要",
+          "category": "视觉趋势 / 产品定义",
+          "priority": "mid",
+          "facts": "本周对照两端：一端是 Chrome 这类把 AI 塞进既有界面的「加功能」路线；另一端是 Meta 用一整场发布会重构硬件形态，并主动去掉摄像头。中间则是 Tabbit、Dia 这类把首屏收缩成一句话的 AI-Native 产品。",
+          "insight": "三种路线的分歧点在于「AI 应该出现在哪里」：加在旧界面里、长在新的硬件上、还是消失在执行过程中。本周 Meta 的动作说明第二种路线重新变强了——因为语音与视觉都要求一个离人更近的载体。但真正值得记住的是 Ray-Ban Audio：在能力竞赛里主动减掉一个功能，往往比再加一个功能更需要判断力。",
+          "entities": ["Meta", "Google", "Tabbit"],
+          "tags": ["#产品定义", "#视觉趋势", "#硬件"],
+          "sources": [
+            {"name": "The Verge · Connect 总览", "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"},
+            {"name": "Google Chrome 官网", "url": "https://www.google.com/intl/en/chrome/"},
+            {"name": "Tabbit 官网", "url": "https://tabbit.ai/"}
+          ],
+          "images": [
+            {"url": "https://www.google.com/chrome/static/images/homepage/homepage-v2.png", "caption": "对照 A：Chrome 的「加功能」路线", "credit": "google.com/chrome", "link": "https://www.google.com/intl/en/chrome/"},
+            {"url": "https://www.tabbit.ai/home/hero-en.png", "caption": "对照 B：Tabbit 的「收缩成一句话」路线", "credit": "tabbit.ai", "link": "https://tabbit.ai/"}
+          ]
+        }
+      ]
+    }
+  ]
+}

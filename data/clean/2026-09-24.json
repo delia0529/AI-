@@ -2,7 +2,7 @@
   "date": "2026-09-24",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 142,
+  "raw_count": 143,
   "clusters": [
     {
       "headline": "google/ax — GitHub Trending",
@@ -78,7 +78,7 @@
       "headline": "Italian parliament votes for return to nuclear energy",
       "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
       "summary": "",
-      "score": 687.0,
+      "score": 689.0,
       "sources": [
         {
           "name": "hn",
@@ -120,7 +120,7 @@
       "headline": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "summary": "",
-      "score": 594.0,
+      "score": 597.0,
       "sources": [
         {
           "name": "hn",
@@ -201,6 +201,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "summary": "",
+      "score": 447.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://michaelheap.com/i-dont-want-the-details/",
+          "title": "I don't want the details"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Grammarly will send unhinged messages to all your users if you try to cancel",
       "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
       "summary": "",
@@ -210,20 +224,6 @@
           "name": "hn",
           "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
           "title": "Grammarly will send unhinged messages to all your users if you try to cancel"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "summary": "",
-      "score": 446.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://michaelheap.com/i-dont-want-the-details/",
-          "title": "I don't want the details"
         }
       ],
       "duplicate_count": 1
@@ -246,7 +246,7 @@
       "headline": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
       "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
       "summary": "",
-      "score": 405.0,
+      "score": 407.0,
       "sources": [
         {
           "name": "hn",
@@ -316,7 +316,7 @@
       "headline": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "summary": "",
-      "score": 344.0,
+      "score": 345.0,
       "sources": [
         {
           "name": "hn",
@@ -358,7 +358,7 @@
       "headline": "Tokens too cheap to meter",
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "summary": "",
-      "score": 330.0,
+      "score": 332.0,
       "sources": [
         {
           "name": "hn",
@@ -372,7 +372,7 @@
       "headline": "28% of job postings on company career sites have been open over 90 days",
       "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "summary": "",
-      "score": 327.0,
+      "score": 328.0,
       "sources": [
         {
           "name": "hn",
@@ -400,7 +400,7 @@
       "headline": "Samsung accidentally freezes its smart fridges with a software update",
       "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
       "summary": "",
-      "score": 318.0,
+      "score": 319.0,
       "sources": [
         {
           "name": "hn",
@@ -414,7 +414,7 @@
       "headline": "Meta VR Glasses",
       "url": "https://www.meta.com/vr-glasses/",
       "summary": "",
-      "score": 315.0,
+      "score": 316.0,
       "sources": [
         {
           "name": "hn",
@@ -456,7 +456,7 @@
       "headline": "Once Claude can measure something, it can make it faster",
       "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
       "summary": "",
-      "score": 270.0,
+      "score": 272.0,
       "sources": [
         {
           "name": "hn",
@@ -512,7 +512,7 @@
       "headline": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "summary": "",
-      "score": 247.0,
+      "score": 249.0,
       "sources": [
         {
           "name": "hn",
@@ -582,7 +582,7 @@
       "headline": "VSCode's SSH Agent Is Bananas (2025)",
       "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "summary": "",
-      "score": 221.0,
+      "score": 222.0,
       "sources": [
         {
           "name": "hn",
@@ -629,7 +629,7 @@
       "headline": "A brief history of Windows scroll bar shortcuts",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
       "summary": "",
-      "score": 200.0,
+      "score": 201.0,
       "sources": [
         {
           "name": "hn",
@@ -727,7 +727,7 @@
       "headline": "We just shipped support for the ugliest part of HTTP: Vary",
       "url": "https://blog.cloudflare.com/vary-support/",
       "summary": "",
-      "score": 169.0,
+      "score": 170.0,
       "sources": [
         {
           "name": "hn",
@@ -752,6 +752,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "summary": "",
+      "score": 168.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://tailscale.com/blog/making-tailscale-faster",
+          "title": "Making Tailscale Faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "The Price of Intelligence Is Falling Rapidly",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "summary": "",
@@ -761,20 +775,6 @@
           "name": "hn",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
           "title": "The Price of Intelligence Is Falling Rapidly"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "summary": "",
-      "score": 167.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://tailscale.com/blog/making-tailscale-faster",
-          "title": "Making Tailscale Faster"
         }
       ],
       "duplicate_count": 1
@@ -822,6 +822,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "",
+      "score": 149.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+          "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "harry7557558/spirula-studio — GitHub Trending",
       "url": "https://github.com/harry7557558/spirula-studio",
       "summary": "单日新增 69 stars",
@@ -831,20 +845,6 @@
           "name": "github_trending",
           "url": "https://github.com/harry7557558/spirula-studio",
           "title": "harry7557558/spirula-studio — GitHub Trending"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "summary": "",
-      "score": 147.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-          "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit"
         }
       ],
       "duplicate_count": 1
@@ -943,6 +943,20 @@
           "name": "hn",
           "url": "https://www.alexmolas.com/2026/09/23/jev-cant-be-calibrated.html",
           "title": "Jev Can't Be Calibrated"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+      "summary": "",
+      "score": 131.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+          "title": "Swap, ZRAM, Zswap and Hibernate on NixOS"
         }
       ],
       "duplicate_count": 1
@@ -1466,20 +1480,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "成立九年，中科类脑把积累装进Token工厂",
-      "url": "https://www.qbitai.com/2026/09/496615.html",
-      "summary": "",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/496615.html",
-          "title": "成立九年，中科类脑把积累装进Token工厂"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
       "url": "https://www.qbitai.com/2026/09/496609.html",
       "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
@@ -1601,6 +1601,20 @@
           "name": "qbitai",
           "url": "https://www.qbitai.com/2026/09/496352.html",
           "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+      "url": "https://www.qbitai.com/2026/09/496329.html",
+      "summary": "实时性和通用能力，世界模型可以全都要",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/496329.html",
+          "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！"
         }
       ],
       "duplicate_count": 1

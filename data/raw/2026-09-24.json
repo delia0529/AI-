@@ -1,45 +1,55 @@
 {
   "date": "2026-09-24",
-  "fetched_at": "2026-09-24T02:09:30",
+  "fetched_at": "2026-09-24T05:36:30",
   "items": [
     {
       "title": "google/ax — GitHub Trending",
       "url": "https://github.com/google/ax",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.697718+00:00",
+      "published": "2026-09-24T05:36:23.833151+00:00",
       "summary": "单日新增 1,543 stars",
       "points": 1543,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
       "title": "dream-num/univer — GitHub Trending",
       "url": "https://github.com/dream-num/univer",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.698490+00:00",
+      "published": "2026-09-24T05:36:23.834502+00:00",
       "summary": "单日新增 1,142 stars",
       "points": 1142,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
       "title": "browser-use/video-use — GitHub Trending",
       "url": "https://github.com/browser-use/video-use",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.700226+00:00",
+      "published": "2026-09-24T05:36:23.837605+00:00",
       "summary": "单日新增 746 stars",
       "points": 746,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "source": "hn",
+      "published": "2026-09-23T17:06:16Z",
+      "summary": "",
+      "points": 671,
+      "_ts": 1790183176,
+      "weight": 0.9
     },
     {
       "title": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.697518+00:00",
+      "published": "2026-09-24T05:36:23.832811+00:00",
       "summary": "单日新增 664 stars",
       "points": 664,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -48,39 +58,9 @@
       "source": "hn",
       "published": "2026-09-23T07:26:23Z",
       "summary": "",
-      "points": 631,
+      "points": 642,
       "_ts": 1790148383,
       "weight": 0.9
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "source": "hn",
-      "published": "2026-09-23T17:06:16Z",
-      "summary": "",
-      "points": 599,
-      "_ts": 1790183176,
-      "weight": 0.9
-    },
-    {
-      "title": "agent-substrate/substrate — GitHub Trending",
-      "url": "https://github.com/agent-substrate/substrate",
-      "source": "github_trending",
-      "published": "2026-09-24T02:09:23.698844+00:00",
-      "summary": "单日新增 558 stars",
-      "points": 558,
-      "_ts": 1790215763,
-      "weight": 0.8
-    },
-    {
-      "title": "mvt-project/mvt — GitHub Trending",
-      "url": "https://github.com/mvt-project/mvt",
-      "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699695+00:00",
-      "summary": "单日新增 543 stars",
-      "points": 543,
-      "_ts": 1790215763,
-      "weight": 0.8
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -88,28 +68,48 @@
       "source": "hn",
       "published": "2026-09-23T18:06:47Z",
       "summary": "",
-      "points": 507,
+      "points": 579,
       "_ts": 1790186807,
       "weight": 0.9
+    },
+    {
+      "title": "agent-substrate/substrate — GitHub Trending",
+      "url": "https://github.com/agent-substrate/substrate",
+      "source": "github_trending",
+      "published": "2026-09-24T05:36:23.835147+00:00",
+      "summary": "单日新增 558 stars",
+      "points": 558,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "mvt-project/mvt — GitHub Trending",
+      "url": "https://github.com/mvt-project/mvt",
+      "source": "github_trending",
+      "published": "2026-09-24T05:36:23.836645+00:00",
+      "summary": "单日新增 543 stars",
+      "points": 543,
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
       "title": "superdesigndev/treg — GitHub Trending",
       "url": "https://github.com/superdesigndev/treg",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699358+00:00",
+      "published": "2026-09-24T05:36:23.836057+00:00",
       "summary": "单日新增 506 stars",
       "points": 506,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
       "title": "obra/superpowers — GitHub Trending",
       "url": "https://github.com/obra/superpowers",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.698286+00:00",
+      "published": "2026-09-24T05:36:23.834159+00:00",
       "summary": "单日新增 474 stars",
       "points": 474,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -118,7 +118,7 @@
       "source": "hn",
       "published": "2026-09-23T12:15:33Z",
       "summary": "",
-      "points": 453,
+      "points": 463,
       "_ts": 1790165733,
       "weight": 0.9
     },
@@ -128,19 +128,9 @@
       "source": "hn",
       "published": "2026-09-23T15:18:53Z",
       "summary": "",
-      "points": 382,
+      "points": 405,
       "_ts": 1790176733,
       "weight": 0.9
-    },
-    {
-      "title": "davila7/claude-code-templates — GitHub Trending",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "source": "github_trending",
-      "published": "2026-09-24T02:09:23.697916+00:00",
-      "summary": "单日新增 389 stars",
-      "points": 389,
-      "_ts": 1790215763,
-      "weight": 0.8
     },
     {
       "title": "I don't want the details",
@@ -148,28 +138,28 @@
       "source": "hn",
       "published": "2026-09-23T13:04:44Z",
       "summary": "",
-      "points": 357,
+      "points": 393,
       "_ts": 1790168684,
       "weight": 0.9
     },
     {
-      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-      "source": "hn",
-      "published": "2026-09-23T04:00:43Z",
-      "summary": "",
-      "points": 357,
-      "_ts": 1790136043,
-      "weight": 0.9
+      "title": "davila7/claude-code-templates — GitHub Trending",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "github_trending",
+      "published": "2026-09-24T05:36:23.833504+00:00",
+      "summary": "单日新增 389 stars",
+      "points": 389,
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
       "title": "Open-Dev-Society/OpenStock — GitHub Trending",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.698671+00:00",
+      "published": "2026-09-24T05:36:23.834835+00:00",
       "summary": "单日新增 344 stars",
       "points": 344,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -178,19 +168,19 @@
       "source": "hn",
       "published": "2026-09-23T14:04:34Z",
       "summary": "",
-      "points": 317,
+      "points": 333,
       "_ts": 1790172274,
       "weight": 0.9
     },
     {
-      "title": "pbakaus/impeccable — GitHub Trending",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699531+00:00",
-      "summary": "单日新增 304 stars",
-      "points": 304,
-      "_ts": 1790215763,
-      "weight": 0.8
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "source": "hn",
+      "published": "2026-09-23T23:47:56Z",
+      "summary": "",
+      "points": 329,
+      "_ts": 1790207276,
+      "weight": 0.9
     },
     {
       "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
@@ -198,9 +188,19 @@
       "source": "hn",
       "published": "2026-09-23T19:55:14Z",
       "summary": "",
-      "points": 293,
+      "points": 304,
       "_ts": 1790193314,
       "weight": 0.9
+    },
+    {
+      "title": "pbakaus/impeccable — GitHub Trending",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "github_trending",
+      "published": "2026-09-24T05:36:23.836355+00:00",
+      "summary": "单日新增 304 stars",
+      "points": 304,
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
       "title": "GPT-6 Astra has gained the ability to drive a car",
@@ -208,18 +208,8 @@
       "source": "hn",
       "published": "2026-09-23T15:14:22Z",
       "summary": "",
-      "points": 274,
+      "points": 285,
       "_ts": 1790176462,
-      "weight": 0.9
-    },
-    {
-      "title": "The darker side of being a doctor",
-      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "source": "hn",
-      "published": "2026-09-23T10:54:55Z",
-      "summary": "",
-      "points": 264,
-      "_ts": 1790160895,
       "weight": 0.9
     },
     {
@@ -228,28 +218,18 @@
       "source": "hn",
       "published": "2026-09-23T15:29:23Z",
       "summary": "",
-      "points": 255,
+      "points": 282,
       "_ts": 1790177363,
       "weight": 0.9
     },
     {
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "source": "hn",
-      "published": "2026-09-23T02:52:29Z",
+      "published": "2026-09-23T22:38:16Z",
       "summary": "",
-      "points": 249,
-      "_ts": 1790131949,
-      "weight": 0.9
-    },
-    {
-      "title": "Why is Hacker News like that?",
-      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
-      "source": "hn",
-      "published": "2026-09-23T15:05:20Z",
-      "summary": "",
-      "points": 243,
-      "_ts": 1790175920,
+      "points": 277,
+      "_ts": 1790203096,
       "weight": 0.9
     },
     {
@@ -258,8 +238,18 @@
       "source": "hn",
       "published": "2026-09-23T09:21:17Z",
       "summary": "",
-      "points": 242,
+      "points": 272,
       "_ts": 1790155277,
+      "weight": 0.9
+    },
+    {
+      "title": "The darker side of being a doctor",
+      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "source": "hn",
+      "published": "2026-09-23T10:54:55Z",
+      "summary": "",
+      "points": 267,
+      "_ts": 1790160895,
       "weight": 0.9
     },
     {
@@ -268,8 +258,18 @@
       "source": "hn",
       "published": "2026-09-23T16:35:34Z",
       "summary": "",
-      "points": 238,
+      "points": 260,
       "_ts": 1790181334,
+      "weight": 0.9
+    },
+    {
+      "title": "Why is Hacker News like that?",
+      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+      "source": "hn",
+      "published": "2026-09-23T15:05:20Z",
+      "summary": "",
+      "points": 259,
+      "_ts": 1790175920,
       "weight": 0.9
     },
     {
@@ -278,7 +278,7 @@
       "source": "hn",
       "published": "2026-09-23T07:59:14Z",
       "summary": "",
-      "points": 236,
+      "points": 240,
       "_ts": 1790150354,
       "weight": 0.9
     },
@@ -288,18 +288,8 @@
       "source": "hn",
       "published": "2026-09-23T12:57:59Z",
       "summary": "",
-      "points": 229,
+      "points": 233,
       "_ts": 1790168279,
-      "weight": 0.9
-    },
-    {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "source": "hn",
-      "published": "2026-09-23T23:47:56Z",
-      "summary": "",
-      "points": 226,
-      "_ts": 1790207276,
       "weight": 0.9
     },
     {
@@ -308,7 +298,7 @@
       "source": "hn",
       "published": "2026-09-23T12:32:00Z",
       "summary": "",
-      "points": 207,
+      "points": 211,
       "_ts": 1790166720,
       "weight": 0.9
     },
@@ -318,7 +308,7 @@
       "source": "hn",
       "published": "2026-09-23T15:46:27Z",
       "summary": "",
-      "points": 197,
+      "points": 205,
       "_ts": 1790178387,
       "weight": 0.9
     },
@@ -328,19 +318,39 @@
       "source": "hn",
       "published": "2026-09-23T19:23:40Z",
       "summary": "",
-      "points": 182,
+      "points": 189,
       "_ts": 1790191420,
+      "weight": 0.9
+    },
+    {
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "source": "hn",
+      "published": "2026-09-24T00:41:31Z",
+      "summary": "",
+      "points": 185,
+      "_ts": 1790210491,
       "weight": 0.9
     },
     {
       "title": "DeusData/codebase-memory-mcp — GitHub Trending",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699882+00:00",
+      "published": "2026-09-24T05:36:23.836986+00:00",
       "summary": "单日新增 190 stars",
       "points": 190,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "source": "hn",
+      "published": "2026-09-23T21:01:48Z",
+      "summary": "",
+      "points": 177,
+      "_ts": 1790197308,
+      "weight": 0.9
     },
     {
       "title": "Stripe's Knowledge AI Platform",
@@ -348,7 +358,7 @@
       "source": "hn",
       "published": "2026-09-23T13:38:00Z",
       "summary": "",
-      "points": 174,
+      "points": 176,
       "_ts": 1790170680,
       "weight": 0.9
     },
@@ -358,28 +368,8 @@
       "source": "hn",
       "published": "2026-09-23T13:05:49Z",
       "summary": "",
-      "points": 165,
+      "points": 166,
       "_ts": 1790168749,
-      "weight": 0.9
-    },
-    {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "source": "hn",
-      "published": "2026-09-23T22:38:16Z",
-      "summary": "",
-      "points": 159,
-      "_ts": 1790203096,
-      "weight": 0.9
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "source": "hn",
-      "published": "2026-09-23T11:04:52Z",
-      "summary": "",
-      "points": 148,
-      "_ts": 1790161492,
       "weight": 0.9
     },
     {
@@ -388,8 +378,18 @@
       "source": "hn",
       "published": "2026-09-23T21:01:48Z",
       "summary": "",
-      "points": 143,
+      "points": 158,
       "_ts": 1790197308,
+      "weight": 0.9
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "source": "hn",
+      "published": "2026-09-23T11:04:52Z",
+      "summary": "",
+      "points": 154,
+      "_ts": 1790161492,
       "weight": 0.9
     },
     {
@@ -398,7 +398,7 @@
       "source": "hn",
       "published": "2026-09-23T17:45:30Z",
       "summary": "",
-      "points": 142,
+      "points": 151,
       "_ts": 1790185530,
       "weight": 0.9
     },
@@ -408,28 +408,8 @@
       "source": "hn",
       "published": "2026-09-23T09:09:49Z",
       "summary": "",
-      "points": 138,
+      "points": 139,
       "_ts": 1790154589,
-      "weight": 0.9
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "source": "hn",
-      "published": "2026-09-23T21:01:48Z",
-      "summary": "",
-      "points": 132,
-      "_ts": 1790197308,
-      "weight": 0.9
-    },
-    {
-      "title": "Strands Harness",
-      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
-      "source": "hn",
-      "published": "2026-09-23T15:05:46Z",
-      "summary": "",
-      "points": 130,
-      "_ts": 1790175946,
       "weight": 0.9
     },
     {
@@ -438,8 +418,18 @@
       "source": "hn",
       "published": "2026-09-23T15:23:05Z",
       "summary": "",
-      "points": 125,
+      "points": 136,
       "_ts": 1790176985,
+      "weight": 0.9
+    },
+    {
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "source": "hn",
+      "published": "2026-09-23T15:05:46Z",
+      "summary": "",
+      "points": 134,
+      "_ts": 1790175946,
       "weight": 0.9
     },
     {
@@ -448,29 +438,39 @@
       "source": "hn",
       "published": "2026-09-23T18:02:08Z",
       "summary": "",
-      "points": 111,
+      "points": 127,
       "_ts": 1790186528,
       "weight": 0.9
     },
     {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
       "source": "hn",
-      "published": "2026-09-23T02:13:52Z",
+      "published": "2026-09-23T17:49:07Z",
       "summary": "",
-      "points": 110,
-      "_ts": 1790129632,
+      "points": 123,
+      "_ts": 1790185747,
       "weight": 0.9
     },
     {
-      "title": "strands-agents/harness-sdk — GitHub Trending",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699012+00:00",
-      "summary": "单日新增 115 stars",
-      "points": 115,
-      "_ts": 1790215763,
-      "weight": 0.8
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "source": "hn",
+      "published": "2026-09-23T22:45:49Z",
+      "summary": "",
+      "points": 111,
+      "_ts": 1790203549,
+      "weight": 0.9
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "hn",
+      "published": "2026-09-23T22:03:21Z",
+      "summary": "",
+      "points": 109,
+      "_ts": 1790201001,
+      "weight": 0.9
     },
     {
       "title": "Claude's Load-Bearing Seams",
@@ -478,19 +478,19 @@
       "source": "hn",
       "published": "2026-09-23T21:31:04Z",
       "summary": "",
-      "points": 103,
+      "points": 108,
       "_ts": 1790199064,
       "weight": 0.9
     },
     {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "source": "hn",
-      "published": "2026-09-23T03:49:28Z",
-      "summary": "",
-      "points": 97,
-      "_ts": 1790135368,
-      "weight": 0.9
+      "title": "strands-agents/harness-sdk — GitHub Trending",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "source": "github_trending",
+      "published": "2026-09-24T05:36:23.835443+00:00",
+      "summary": "单日新增 115 stars",
+      "points": 115,
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
       "title": "Two Git ignore files nobody told me about",
@@ -498,7 +498,7 @@
       "source": "hn",
       "published": "2026-09-23T11:28:47Z",
       "summary": "",
-      "points": 87,
+      "points": 88,
       "_ts": 1790162927,
       "weight": 0.9
     },
@@ -506,11 +506,31 @@
       "title": "TNT-Likely/PanWatch — GitHub Trending",
       "url": "https://github.com/TNT-Likely/PanWatch",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.700387+00:00",
+      "published": "2026-09-24T05:36:23.837898+00:00",
       "summary": "单日新增 95 stars",
       "points": 95,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
+    },
+    {
+      "title": "Australia says OpenAI agent hacked into government website",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "source": "hn",
+      "published": "2026-09-24T01:24:00Z",
+      "summary": "",
+      "points": 83,
+      "_ts": 1790213040,
+      "weight": 0.9
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "source": "hn",
+      "published": "2026-09-23T22:16:19Z",
+      "summary": "",
+      "points": 81,
+      "_ts": 1790201779,
+      "weight": 0.9
     },
     {
       "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
@@ -520,16 +540,6 @@
       "summary": "",
       "points": 81,
       "_ts": 1790146117,
-      "weight": 0.9
-    },
-    {
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "url": "https://blog.cloudflare.com/vary-support/",
-      "source": "hn",
-      "published": "2026-09-23T22:03:21Z",
-      "summary": "",
-      "points": 80,
-      "_ts": 1790201001,
       "weight": 0.9
     },
     {
@@ -543,22 +553,12 @@
       "weight": 0.9
     },
     {
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "source": "hn",
-      "published": "2026-09-23T17:49:07Z",
-      "summary": "",
-      "points": 78,
-      "_ts": 1790185747,
-      "weight": 0.9
-    },
-    {
       "title": "The Price of Intelligence Is Falling Rapidly",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "source": "hn",
       "published": "2026-09-23T13:08:59Z",
       "summary": "",
-      "points": 78,
+      "points": 79,
       "_ts": 1790168939,
       "weight": 0.9
     },
@@ -566,10 +566,10 @@
       "title": "BuilderIO/agent-native — GitHub Trending",
       "url": "https://github.com/BuilderIO/agent-native",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.698087+00:00",
+      "published": "2026-09-24T05:36:23.833801+00:00",
       "summary": "单日新增 87 stars",
       "points": 87,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -583,63 +583,43 @@
       "weight": 0.9
     },
     {
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "source": "hn",
+      "published": "2026-09-23T18:36:29Z",
+      "summary": "",
+      "points": 66,
+      "_ts": 1790188589,
+      "weight": 0.9
+    },
+    {
       "title": "Socialism's Positive Rating Tops 40% for First Time",
       "url": "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
       "source": "hn",
       "published": "2026-09-23T13:48:14Z",
       "summary": "",
-      "points": 63,
+      "points": 65,
       "_ts": 1790171294,
-      "weight": 0.9
-    },
-    {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "source": "hn",
-      "published": "2026-09-23T22:45:49Z",
-      "summary": "",
-      "points": 59,
-      "_ts": 1790203549,
       "weight": 0.9
     },
     {
       "title": "harry7557558/spirula-studio — GitHub Trending",
       "url": "https://github.com/harry7557558/spirula-studio",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.700055+00:00",
+      "published": "2026-09-24T05:36:23.837304+00:00",
       "summary": "单日新增 69 stars",
       "points": 69,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
       "source": "hn",
-      "published": "2026-09-23T18:36:29Z",
+      "published": "2026-09-23T18:07:04Z",
       "summary": "",
       "points": 57,
-      "_ts": 1790188589,
-      "weight": 0.9
-    },
-    {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "source": "hn",
-      "published": "2026-09-23T22:16:19Z",
-      "summary": "",
-      "points": 53,
-      "_ts": 1790201779,
-      "weight": 0.9
-    },
-    {
-      "title": "How often do you think about the 1893 World's Fair?",
-      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-      "source": "hn",
-      "published": "2026-09-23T05:32:51Z",
-      "summary": "",
-      "points": 53,
-      "_ts": 1790141571,
+      "_ts": 1790186824,
       "weight": 0.9
     },
     {
@@ -648,8 +628,28 @@
       "source": "hn",
       "published": "2026-09-23T18:16:41Z",
       "summary": "",
-      "points": 51,
+      "points": 53,
       "_ts": 1790187401,
+      "weight": 0.9
+    },
+    {
+      "title": "OpenAI agents hacked Australian Medicare system",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+      "source": "hn",
+      "published": "2026-09-23T21:08:52Z",
+      "summary": "",
+      "points": 50,
+      "_ts": 1790197732,
+      "weight": 0.9
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "source": "hn",
+      "published": "2026-09-24T01:02:23Z",
+      "summary": "",
+      "points": 49,
+      "_ts": 1790211743,
       "weight": 0.9
     },
     {
@@ -666,10 +666,10 @@
       "title": "HKUDS/CLI-Anything — GitHub Trending",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "github_trending",
-      "published": "2026-09-24T02:09:23.699186+00:00",
+      "published": "2026-09-24T05:36:23.835747+00:00",
       "summary": "单日新增 57 stars",
       "points": 57,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -683,14 +683,104 @@
       "weight": 0.9
     },
     {
-      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-      "source": "hn",
-      "published": "2026-09-23T18:07:04Z",
-      "summary": "",
-      "points": 41,
-      "_ts": 1790186824,
-      "weight": 0.9
+      "title": "Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)",
+      "url": "https://www.techmeme.com/260924/p4#a260924p4",
+      "source": "techmeme",
+      "published": "Thu, 24 Sep 2026 00:45:01 -0400",
+      "summary": "\n Bloomberg:\nSources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a &euro;1.27B valuation, excluding debt&nbsp; &mdash;&nbsp; Schneider Electric SE is nearing an agreement to acquire Shelly Group SE, a maker of smart devices for the home, according to people familiar with the matter.",
+      "points": 0,
+      "_ts": 1790225101,
+      "weight": 1.0
+    },
+    {
+      "title": "AI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June (Transluce)",
+      "url": "https://www.techmeme.com/260924/p3#a260924p3",
+      "source": "techmeme",
+      "published": "Thu, 24 Sep 2026 00:41:03 -0400",
+      "summary": "\n Transluce:\nAI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June&nbsp; &mdash;&nbsp; Jack Cable*,2, Daniel Chiu*, Francisco Pernice*,3, Selena Zhang*,1, James Anthony1, Tetiana Bas4, Gary Shen4, Conrad Stosz1, Jacob Steinhardt1",
+      "points": 0,
+      "_ts": 1790224863,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)",
+      "url": "https://www.techmeme.com/260924/p2#a260924p2",
+      "source": "techmeme",
+      "published": "Thu, 24 Sep 2026 00:26:05 -0400",
+      "summary": "\n Bloomberg:\nSources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June&nbsp; &mdash;&nbsp; Two startups that provide platforms to help businesses run artificial intelligence models are in funding talks to double their valuations &hellip; ",
+      "points": 0,
+      "_ts": 1790223965,
+      "weight": 1.0
+    },
+    {
+      "title": "Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)",
+      "url": "https://www.techmeme.com/260924/p1#a260924p1",
+      "source": "techmeme",
+      "published": "Thu, 24 Sep 2026 00:00:14 -0400",
+      "summary": "\n Andrew Romero / 9to5Google:\nQualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption&nbsp; &mdash;&nbsp; Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables.",
+      "points": 0,
+      "_ts": 1790222414,
+      "weight": 1.0
+    },
+    {
+      "title": "Google DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released \"much earlier\" than the end of the year (Laura Bratton/The Information)",
+      "url": "https://www.techmeme.com/260923/p65#a260923p65",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 23:50:02 -0400",
+      "summary": "\n Laura Bratton / The Information:\nGoogle DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released &ldquo;much earlier&rdquo; than the end of the year&nbsp; &mdash;&nbsp; Google is nearing the release of its newest flagship model, Gemini 4, the head of its DeepMind division said Wednesday &hellip; ",
+      "points": 0,
+      "_ts": 1790221802,
+      "weight": 1.0
+    },
+    {
+      "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)",
+      "url": "https://www.techmeme.com/260923/p64#a260923p64",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 23:15:04 -0400",
+      "summary": "\n OpenAI:\nOpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts&nbsp; &mdash;&nbsp; An open benchmark developed with more than 80 licensed mental health experts to evaluate AI responses in realistic mental health conversations.",
+      "points": 0,
+      "_ts": 1790219704,
+      "weight": 1.0
+    },
+    {
+      "title": "SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)",
+      "url": "https://www.techmeme.com/260923/p63#a260923p63",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 22:50:02 -0400",
+      "summary": "\n Bloomberg:\nSoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world&nbsp; &mdash;&nbsp; Billionaire Masayoshi Son's SoftBank Group Corp. pushed through one of the largest junk-bond offerings on record &hellip; ",
+      "points": 0,
+      "_ts": 1790218202,
+      "weight": 1.0
+    },
+    {
+      "title": "During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend (Christian Robles/Nextgov/FCW)",
+      "url": "https://www.techmeme.com/260923/p62#a260923p62",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 22:20:01 -0400",
+      "summary": "\n Christian Robles / Nextgov/FCW:\nDuring a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend&nbsp; &mdash;&nbsp; Members of the Senate Judiciary Subcommittee on Crime and Counterterrorism on Wednesday criticized the use of automatic license plate readers &hellip; ",
+      "points": 0,
+      "_ts": 1790216401,
+      "weight": 1.0
+    },
+    {
+      "title": "Meta says it will allow its AI glasses users to opt out of having their \"visual data\" used to train its AI or shown to third-party contractors outside the US (Karissa Bell/Engadget)",
+      "url": "https://www.techmeme.com/260923/p61#a260923p61",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 22:15:02 -0400",
+      "summary": "\n Karissa Bell / Engadget:\nMeta says it will allow its AI glasses users to opt out of having their &ldquo;visual data&rdquo; used to train its AI or shown to third-party contractors outside the US&nbsp; &mdash;&nbsp; Somewhere, a contractor just breathed a sigh of relief.&nbsp; &mdash;&nbsp; Meta is making another concession to privacy critics &hellip; ",
+      "points": 0,
+      "_ts": 1790216102,
+      "weight": 1.0
+    },
+    {
+      "title": "An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the \"pervert glasses\" backlash, more (Joanna Stern/The New Things)",
+      "url": "https://www.techmeme.com/260923/p60#a260923p60",
+      "source": "techmeme",
+      "published": "Wed, 23 Sep 2026 22:11:02 -0400",
+      "summary": "\n Joanna Stern / The New Things:\nAn interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the &ldquo;pervert glasses&rdquo; backlash, more&nbsp; &mdash;&nbsp; A first look at Meta's new audio-only glasses, Muse voice and more &hellip; There are a LOT of questions to ask when Mark Zuckerberg unveils new products.",
+      "points": 0,
+      "_ts": 1790215862,
+      "weight": 1.0
     },
     {
       "title": "YouTube CEO Neal Mohan dismisses the idea of joining Meta's multistate child safety settlement, saying YouTube already has measures to protect young users (Clare Duffy/CNN)",
@@ -740,106 +830,6 @@
       "summary": "\n Wired:\nMeta plans to bring Private Processing to Ray-Ban Meta glasses, letting their AI assistant fulfill users' requests without Meta accessing their data&nbsp; &mdash;&nbsp; The company is bringing its Private Processing encryption service to its much-maligned smart glasses.&nbsp; &mdash;&nbsp; Meta knows you probably have some privacy concerns about its smart glasses.",
       "points": 0,
       "_ts": 1790212254,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta previews hologram avatars for Meta VR Glasses and Ray-Ban Display that feel more natural than Apple's persona avatars, available in early access this fall (Karissa Bell/Engadget)",
-      "url": "https://www.techmeme.com/260923/p54#a260923p54",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 20:55:52 -0400",
-      "summary": "\n Karissa Bell / Engadget:\nMeta previews hologram avatars for Meta VR Glasses and Ray-Ban Display that feel more natural than Apple's persona avatars, available in early access this fall&nbsp; &mdash;&nbsp; They're a notable improvement over the company's earlier attempts at digital likeness.&nbsp; &mdash;&nbsp; I'm almost embarrassed to admit &hellip; ",
-      "points": 0,
-      "_ts": 1790211352,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/260923/p53#a260923p53",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 20:45:00 -0400",
-      "summary": "\n Jay Peters / The Verge:\nMeta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support&nbsp; &mdash;&nbsp; Muse started as a chatbot but will soon be an AI avatar you can talk with over video.",
-      "points": 0,
-      "_ts": 1790210700,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost (Hamish Hector/TechRadar)",
-      "url": "https://www.techmeme.com/260923/p52#a260923p52",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 20:35:06 -0400",
-      "summary": "\n Hamish Hector / TechRadar:\nMeta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost&nbsp; &mdash;&nbsp; Meta Connect just ended, and the biggest announcement of the night for me was easily the debut of Meta's VR Glasses &mdash; even if they were leaked ahead &hellip; ",
-      "points": 0,
-      "_ts": 1790210106,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p51#a260923p51",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 20:15:02 -0400",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end&nbsp; &mdash;&nbsp; Meta Platforms Inc. unveiled a palm-sized, dedicated gadget for using Muse, the company's popular new artificial intelligence assistant &hellip; ",
-      "points": 0,
-      "_ts": 1790208902,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p50#a260923p50",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 19:56:05 -0400",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299&nbsp; &mdash;&nbsp; Meta Platforms Inc. on Wednesday launched $1,299 virtual-reality glasses that undercut Apple Inc. in price and size while putting &hellip; ",
-      "points": 0,
-      "_ts": 1790207765,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year (Cheyenne MacDonald/Engadget)",
-      "url": "https://www.techmeme.com/260923/p49#a260923p49",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 19:40:52 -0400",
-      "summary": "\n Cheyenne MacDonald / Engadget:\nMeta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year&nbsp; &mdash;&nbsp; But it'll cost you extra.&nbsp; &mdash;&nbsp; Meta's AI Glasses are getting a new feature made for wearers with hearing loss.",
-      "points": 0,
-      "_ts": 1790206852,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p48#a260923p48",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 19:35:01 -0400",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3&nbsp; &mdash;&nbsp; Meta Platforms Inc. is expanding its smart-glasses lineup with camera-free models, support for the popular new Muse assistant and a hearing-aid mode.",
-      "points": 0,
-      "_ts": 1790206501,
-      "weight": 1.0
-    },
-    {
-      "title": "Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones \"dramatically underperformed\" after it launched in 2024 (Michael Acton/Financial Times)",
-      "url": "https://www.techmeme.com/260923/p47#a260923p47",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 19:10:53 -0400",
-      "summary": "\n Michael Acton / Financial Times:\nCourt docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones &ldquo;dramatically underperformed&rdquo; after it launched in 2024&nbsp; &mdash;&nbsp; Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered &lsquo;Siri AI&rsquo;",
-      "points": 0,
-      "_ts": 1790205053,
-      "weight": 1.0
-    },
-    {
-      "title": "A live blog of Meta Connect 2026, where new Meta glasses and a new VR headset were announced (Engadget)",
-      "url": "https://www.techmeme.com/260923/p46#a260923p46",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 18:55:46 -0400",
-      "summary": "\n Engadget:\nA live blog of Meta Connect 2026, where new Meta glasses and a new VR headset were announced&nbsp; &mdash;&nbsp; More smart glasses and possibly a VR headset are expected today&nbsp; &mdash;&nbsp; Meta Connect used to be all about VR, but in recent years, the event has come to be the launchpad for all of the company's hardware, Metaverse and AI projects.",
-      "points": 0,
-      "_ts": 1790204146,
-      "weight": 1.0
-    },
-    {
-      "title": "A recording of the Meta Connect 2026 opening keynote (Meta on YouTube)",
-      "url": "https://www.techmeme.com/260923/p45#a260923p45",
-      "source": "techmeme",
-      "published": "Wed, 23 Sep 2026 18:50:01 -0400",
-      "summary": "\n Meta on YouTube:\nA recording of the Meta Connect 2026 opening keynote&nbsp; &mdash;&nbsp; We believe the future is for everyone, so we're putting superintelligence in everyone's hands.&nbsp; Tune in now for our latest breakthrough technologies in AI, AI...",
-      "points": 0,
-      "_ts": 1790203801,
       "weight": 1.0
     },
     {
@@ -1053,13 +1043,43 @@
       "weight": 0.9
     },
     {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "techcrunch_ai",
-      "published": "Wed, 23 Sep 2026 04:59:08 +0000",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496740.html",
+      "source": "qbitai",
+      "published": "Thu, 24 Sep 2026 04:11:51 +0000",
+      "summary": "懂出海，能记忆，自进化",
       "points": 0,
-      "_ts": 1790139548,
+      "_ts": 1790223111,
+      "weight": 0.9
+    },
+    {
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "url": "https://www.qbitai.com/2026/09/496658.html",
+      "source": "qbitai",
+      "published": "Thu, 24 Sep 2026 02:51:18 +0000",
+      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "points": 0,
+      "_ts": 1790218278,
+      "weight": 0.9
+    },
+    {
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "source": "qbitai",
+      "published": "Thu, 24 Sep 2026 02:23:12 +0000",
+      "summary": "美国也开启了全民养虾狂潮",
+      "points": 0,
+      "_ts": 1790216592,
+      "weight": 0.9
+    },
+    {
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "source": "qbitai",
+      "published": "Thu, 24 Sep 2026 00:48:02 +0000",
+      "summary": "",
+      "points": 0,
+      "_ts": 1790210882,
       "weight": 0.9
     },
     {
@@ -1123,53 +1143,173 @@
       "weight": 0.9
     },
     {
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "url": "https://www.qbitai.com/2026/09/496393.html",
-      "source": "qbitai",
-      "published": "Wed, 23 Sep 2026 07:29:50 +0000",
-      "summary": "每秒能产生5000+个沙盒",
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2609.28466",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979146+00:00",
+      "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790148590,
-      "weight": 0.9
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
-      "title": "Qwen一号位定了！刘大一恒接棒",
-      "url": "https://www.qbitai.com/2026/09/496384.html",
-      "source": "qbitai",
-      "published": "Wed, 23 Sep 2026 07:27:49 +0000",
-      "summary": "与稚晖君同届天才少年",
+      "title": "HappyWorld-Bench",
+      "url": "https://huggingface.co/papers/2609.24308",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979180+00:00",
+      "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790148469,
-      "weight": 0.9
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
-      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-      "url": "https://www.qbitai.com/2026/09/496352.html",
-      "source": "qbitai",
-      "published": "Wed, 23 Sep 2026 06:38:07 +0000",
-      "summary": "对复杂现实进行推演与决策",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "url": "https://huggingface.co/papers/2609.26780",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979196+00:00",
+      "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790145487,
-      "weight": 0.9
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
-      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-      "url": "https://www.qbitai.com/2026/09/496329.html",
-      "source": "qbitai",
-      "published": "Wed, 23 Sep 2026 06:08:50 +0000",
-      "summary": "实时性和通用能力，世界模型可以全都要",
+      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "url": "https://huggingface.co/papers/2609.22947",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979215+00:00",
+      "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790143730,
-      "weight": 0.9
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "PACT: From Credit Assignment to Critic Alignment",
+      "url": "https://huggingface.co/papers/2609.26355",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979233+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
     },
     {
       "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
       "url": "https://huggingface.co/papers/2609.27891",
       "source": "hf_papers",
-      "published": "2026-09-24T02:09:23.831364+00:00",
+      "published": "2026-09-24T05:36:23.979248+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1790215763,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+      "url": "https://huggingface.co/papers/2609.23784",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979267+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2609.28256",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979288+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+      "url": "https://huggingface.co/papers/2609.27490",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979315+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979335+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "Hunyuan-A13B Technical Report",
+      "url": "https://huggingface.co/papers/2609.27284",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979348+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+      "url": "https://huggingface.co/papers/2609.27656",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979361+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+      "url": "https://huggingface.co/papers/2609.27308",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979379+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
+      "url": "https://huggingface.co/papers/2609.27321",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979405+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+      "url": "https://huggingface.co/papers/2609.27901",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979422+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "url": "https://huggingface.co/papers/2609.23038",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979435+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
+      "weight": 0.8
+    },
+    {
+      "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "url": "https://huggingface.co/papers/2609.28470",
+      "source": "hf_papers",
+      "published": "2026-09-24T05:36:23.979454+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1790228183,
       "weight": 0.8
     },
     {
@@ -1273,6 +1413,76 @@
       "weight": 0.8
     },
     {
+      "title": "AI Exchange",
+      "url": "https://www.ft.com/ai-exchange?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:09:38 GMT",
+      "summary": "In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives",
+      "points": 0,
+      "_ts": 1790222978,
+      "weight": 0.8
+    },
+    {
+      "title": "Paddy Power founder accuses Betfred billionaire of ‘scaremongering’ over tax rises",
+      "url": "https://www.ft.com/content/fc507315-ba40-4d99-92a7-6fb1421aa5cd?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:21 GMT",
+      "summary": "Stewart Kenny hits back at warnings over UK job losses, saying he used ‘the same script’ when he was in the industry",
+      "points": 0,
+      "_ts": 1790222421,
+      "weight": 0.8
+    },
+    {
+      "title": "The clock’s ticking on the AI boom",
+      "url": "https://www.ft.com/content/23c7eab5-32e6-4069-9989-e8c5af57558c?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:21 GMT",
+      "summary": "Frontier labs as well as infrastructure groups are delaying their IPO plans",
+      "points": 0,
+      "_ts": 1790222421,
+      "weight": 0.8
+    },
+    {
+      "title": "China tries on the smart glasses craze — and its privacy risks",
+      "url": "https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:12 GMT",
+      "summary": "Processing more camera data directly on the device can reduce risks but it raises component costs",
+      "points": 0,
+      "_ts": 1790222412,
+      "weight": 0.8
+    },
+    {
+      "title": "How to think about the end of the world",
+      "url": "https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:11 GMT",
+      "summary": "Bringing clarity to a fuzzy P(doom) debate",
+      "points": 0,
+      "_ts": 1790222411,
+      "weight": 0.8
+    },
+    {
+      "title": "Cisco’s Jeetu Patel: Never fight a megatrend",
+      "url": "https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:03 GMT",
+      "summary": "The president of the dotcom-era darling discusses the company’s strong conviction around AI and some of the technology’s risks",
+      "points": 0,
+      "_ts": 1790222403,
+      "weight": 0.8
+    },
+    {
+      "title": "Francis Fukuyama on democracy, AI and his own intellectual journey",
+      "url": "https://www.ft.com/content/c0d322c8-a9df-42bc-b85b-344f2cea4016?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 24 Sep 2026 04:00:00 GMT",
+      "summary": "Why the quest for respect drives politics",
+      "points": 0,
+      "_ts": 1790222400,
+      "weight": 0.8
+    },
+    {
       "title": "OpenAI ‘agent’ hacked an Australian health service website",
       "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
       "source": "ft_tech",
@@ -1303,11 +1513,11 @@
       "weight": 0.8
     },
     {
-      "title": "UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
+      "title": "UNGA as it happened: Iran hits back at Trump’s ‘bullying’",
       "url": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
       "source": "ft_tech",
       "published": "Wed, 23 Sep 2026 19:57:38 GMT",
-      "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
+      "summary": "US delegation walks out as Masoud Pezeshkian delivers speech",
       "points": 0,
       "_ts": 1790193458,
       "weight": 0.8
@@ -1363,56 +1573,6 @@
       "weight": 0.8
     },
     {
-      "title": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push",
-      "url": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 23 Sep 2026 04:00:19 GMT",
-      "summary": "Chinese tech giant was AI cloud provider’s largest customer last year but is not prominently named in pitch to stock market investors",
-      "points": 0,
-      "_ts": 1790136019,
-      "weight": 0.8
-    },
-    {
-      "title": "China reviews use of Broadcom hardware in data centres",
-      "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 23 Sep 2026 04:00:19 GMT",
-      "summary": "Survey comes amid drive to boost domestic players and reduce reliance on foreign AI infrastructure",
-      "points": 0,
-      "_ts": 1790136019,
-      "weight": 0.8
-    },
-    {
-      "title": "The problem with P(doom)",
-      "url": "https://www.ft.com/content/a784df61-a9a0-4ef4-93ff-5f082c3e730c?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 23 Sep 2026 04:00:18 GMT",
-      "summary": "Predicting AI catastrophe has gone mainstream with predictable consequences",
-      "points": 0,
-      "_ts": 1790136018,
-      "weight": 0.8
-    },
-    {
-      "title": "What AI should learn from the banks",
-      "url": "https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 23 Sep 2026 04:00:09 GMT",
-      "summary": "Both industries change rapidly and reach throughout the economy, requiring officials to weigh the benefits of innovation against risks",
-      "points": 0,
-      "_ts": 1790136009,
-      "weight": 0.8
-    },
-    {
-      "title": "How China and the US can work together on AI security",
-      "url": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 23 Sep 2026 03:00:07 GMT",
-      "summary": "Xi-Trump meeting should build on plans for dialogue on shared risks",
-      "points": 0,
-      "_ts": 1790132407,
-      "weight": 0.8
-    },
-    {
       "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
       "source": "nvidia_blog",
@@ -1420,16 +1580,6 @@
       "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it [&#8230;]",
       "points": 0,
       "_ts": 1790175632,
-      "weight": 0.7
-    },
-    {
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-      "source": "nvidia_blog",
-      "published": "Wed, 23 Sep 2026 02:30:22 +0000",
-      "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region [&#8230;]",
-      "points": 0,
-      "_ts": 1790130622,
       "weight": 0.7
     }
   ]

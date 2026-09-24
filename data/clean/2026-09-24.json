@@ -2,7 +2,7 @@
   "date": "2026-09-24",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 143,
+  "raw_count": 158,
   "clusters": [
     {
       "headline": "google/ax — GitHub Trending",
@@ -47,6 +47,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "summary": "",
+      "score": 761.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+          "title": "Italian parliament votes for return to nuclear energy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "anthropics/financial-services — GitHub Trending",
       "url": "https://github.com/anthropics/financial-services",
       "summary": "单日新增 664 stars",
@@ -64,7 +78,7 @@
       "headline": "Jev in 25 Lines of Python",
       "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
       "summary": "",
-      "score": 721.0,
+      "score": 732.0,
       "sources": [
         {
           "name": "hn",
@@ -75,15 +89,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "headline": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "summary": "",
-      "score": 689.0,
+      "score": 669.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-          "title": "Italian parliament votes for return to nuclear energy"
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
         }
       ],
       "duplicate_count": 1
@@ -112,20 +126,6 @@
           "name": "github_trending",
           "url": "https://github.com/mvt-project/mvt",
           "title": "mvt-project/mvt — GitHub Trending"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "",
-      "score": 597.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
         }
       ],
       "duplicate_count": 1
@@ -162,7 +162,7 @@
       "headline": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "summary": "",
-      "score": 543.0,
+      "score": 553.0,
       "sources": [
         {
           "name": "hn",
@@ -176,12 +176,26 @@
       "headline": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
       "summary": "",
-      "score": 472.0,
+      "score": 495.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://pointinthecloud.com/2026-04-11-211700.html",
           "title": "Fixing the Portobello Police Station Clock"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "summary": "",
+      "score": 483.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://michaelheap.com/i-dont-want-the-details/",
+          "title": "I don't want the details"
         }
       ],
       "duplicate_count": 1
@@ -196,34 +210,6 @@
           "name": "github_trending",
           "url": "https://github.com/davila7/claude-code-templates",
           "title": "davila7/claude-code-templates — GitHub Trending"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "summary": "",
-      "score": 447.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://michaelheap.com/i-dont-want-the-details/",
-          "title": "I don't want the details"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Grammarly will send unhinged messages to all your users if you try to cancel",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-      "summary": "",
-      "score": 447.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-          "title": "Grammarly will send unhinged messages to all your users if you try to cancel"
         }
       ],
       "duplicate_count": 1
@@ -246,12 +232,40 @@
       "headline": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
       "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
       "summary": "",
-      "score": 407.0,
+      "score": 423.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
           "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "summary": "",
+      "score": 419.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.meta.com/vr-glasses/",
+          "title": "Meta VR Glasses"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "summary": "",
+      "score": 394.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+          "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why"
         }
       ],
       "duplicate_count": 1
@@ -271,24 +285,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "summary": "",
-      "score": 383.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-          "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "GPT-6 Astra has gained the ability to drive a car",
       "url": "https://drivingbench.com/",
       "summary": "",
-      "score": 364.0,
+      "score": 375.0,
       "sources": [
         {
           "name": "hn",
@@ -299,24 +299,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "The darker side of being a doctor",
-      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "summary": "",
-      "score": 354.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-          "title": "The darker side of being a doctor"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "summary": "",
-      "score": 345.0,
+      "score": 372.0,
       "sources": [
         {
           "name": "hn",
@@ -327,29 +313,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "headline": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "summary": "",
-      "score": 339.0,
+      "score": 367.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-          "title": "Transit rewards"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Why is Hacker News like that?",
-      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
-      "summary": "",
-      "score": 333.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
-          "title": "Why is Hacker News like that?"
+          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+          "title": "Linux support is coming to Snapdragon X2 Series"
         }
       ],
       "duplicate_count": 1
@@ -358,7 +330,7 @@
       "headline": "Tokens too cheap to meter",
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "summary": "",
-      "score": 332.0,
+      "score": 362.0,
       "sources": [
         {
           "name": "hn",
@@ -369,10 +341,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "The darker side of being a doctor",
+      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "summary": "",
+      "score": 357.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+          "title": "The darker side of being a doctor"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "28% of job postings on company career sites have been open over 90 days",
       "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "summary": "",
-      "score": 328.0,
+      "score": 350.0,
       "sources": [
         {
           "name": "hn",
@@ -383,10 +369,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Why is Hacker News like that?",
+      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+      "summary": "",
+      "score": 349.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+          "title": "Why is Hacker News like that?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "I am done with this shit",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
       "summary": "",
-      "score": 326.0,
+      "score": 330.0,
       "sources": [
         {
           "name": "hn",
@@ -400,7 +400,7 @@
       "headline": "Samsung accidentally freezes its smart fridges with a software update",
       "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
       "summary": "",
-      "score": 319.0,
+      "score": 323.0,
       "sources": [
         {
           "name": "hn",
@@ -411,24 +411,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "summary": "",
-      "score": 316.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.meta.com/vr-glasses/",
-          "title": "Meta VR Glasses"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
       "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
       "summary": "",
-      "score": 297.0,
+      "score": 301.0,
       "sources": [
         {
           "name": "hn",
@@ -442,7 +428,7 @@
       "headline": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
       "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
       "summary": "",
-      "score": 287.0,
+      "score": 295.0,
       "sources": [
         {
           "name": "hn",
@@ -456,12 +442,26 @@
       "headline": "Once Claude can measure something, it can make it faster",
       "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
       "summary": "",
-      "score": 272.0,
+      "score": 279.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
           "title": "Once Claude can measure something, it can make it faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "summary": "",
+      "score": 275.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+          "title": "Feds Target AI Critics as \"Foreign Agents\""
         }
       ],
       "duplicate_count": 1
@@ -481,10 +481,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "",
+      "score": 267.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://fly.io/blog/vscode-ssh-wtf/",
+          "title": "VSCode's SSH Agent Is Bananas (2025)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Stripe's Knowledge AI Platform",
       "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
       "summary": "",
-      "score": 264.0,
+      "score": 266.0,
       "sources": [
         {
           "name": "hn",
@@ -498,7 +512,7 @@
       "headline": "The GitHub wiki is an anti-pattern (2022)",
       "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
       "summary": "",
-      "score": 255.0,
+      "score": 256.0,
       "sources": [
         {
           "name": "hn",
@@ -509,38 +523,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "summary": "",
-      "score": 249.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-          "title": "Linux support is coming to Snapdragon X2 Series"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "summary": "",
-      "score": 238.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://abagames.github.io/z80-repl/index.html",
-          "title": "Z80 REPL (2018)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "OpenAI breaches Medicare, Albanese reveals",
       "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "summary": "",
-      "score": 233.0,
+      "score": 248.0,
       "sources": [
         {
           "name": "hn",
@@ -551,10 +537,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "summary": "",
+      "score": 244.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://abagames.github.io/z80-repl/index.html",
+          "title": "Z80 REPL (2018)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "UK military jamming other nations' satellites to defend itself, BBC told",
       "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
       "summary": "",
-      "score": 232.0,
+      "score": 241.0,
       "sources": [
         {
           "name": "hn",
@@ -568,7 +568,7 @@
       "headline": "Netherlands bracing for potentially devastating US sanctions against the ICC",
       "url": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
       "summary": "",
-      "score": 228.0,
+      "score": 229.0,
       "sources": [
         {
           "name": "hn",
@@ -579,15 +579,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "headline": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
       "summary": "",
-      "score": 222.0,
+      "score": 226.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://fly.io/blog/vscode-ssh-wtf/",
-          "title": "VSCode's SSH Agent Is Bananas (2025)"
+          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol"
         }
       ],
       "duplicate_count": 1
@@ -596,7 +596,7 @@
       "headline": "Strands Harness",
       "url": "https://strandsagents.com/blog/introducing-strands-harness/",
       "summary": "",
-      "score": 220.0,
+      "score": 224.0,
       "sources": [
         {
           "name": "hn",
@@ -612,24 +612,10 @@
       "duplicate_count": 2
     },
     {
-      "headline": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "summary": "",
-      "score": 215.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "A brief history of Windows scroll bar shortcuts",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
       "summary": "",
-      "score": 201.0,
+      "score": 217.0,
       "sources": [
         {
           "name": "hn",
@@ -640,15 +626,43 @@
       "duplicate_count": 1
     },
     {
-      "headline": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "headline": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
       "summary": "",
-      "score": 200.0,
+      "score": 213.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-          "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'"
+          "url": "https://tailscale.com/blog/making-tailscale-faster",
+          "title": "Making Tailscale Faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "",
+      "score": 201.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+          "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "summary": "",
+      "score": 199.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.cloudflare.com/vary-support/",
+          "title": "We just shipped support for the ugliest part of HTTP: Vary"
         }
       ],
       "duplicate_count": 1
@@ -657,7 +671,7 @@
       "headline": "Claude's Load-Bearing Seams",
       "url": "https://madradavid.com/claudes-load-bearing-seams/",
       "summary": "",
-      "score": 193.0,
+      "score": 198.0,
       "sources": [
         {
           "name": "hn",
@@ -668,24 +682,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "summary": "",
-      "score": 187.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-          "title": "Data-only attacks are easier than you think (2024)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Two Git ignore files nobody told me about",
       "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
       "summary": "",
-      "score": 177.0,
+      "score": 178.0,
       "sources": [
         {
           "name": "hn",
@@ -710,6 +710,34 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Australia says OpenAI agent hacked into government website",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "summary": "",
+      "score": 173.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+          "title": "Australia says OpenAI agent hacked into government website"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "",
+      "score": 171.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://artificialanalysis.ai/models/mercury-2-5",
+          "title": "Mercury 2.5 LLM hits 770 tokens per second"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
       "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
       "summary": "",
@@ -719,20 +747,6 @@
           "name": "hn",
           "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
           "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "We just shipped support for the ugliest part of HTTP: Vary",
-      "url": "https://blog.cloudflare.com/vary-support/",
-      "summary": "",
-      "score": 170.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://blog.cloudflare.com/vary-support/",
-          "title": "We just shipped support for the ugliest part of HTTP: Vary"
         }
       ],
       "duplicate_count": 1
@@ -752,24 +766,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "summary": "",
-      "score": 168.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://tailscale.com/blog/making-tailscale-faster",
-          "title": "Making Tailscale Faster"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "The Price of Intelligence Is Falling Rapidly",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "summary": "",
-      "score": 168.0,
+      "score": 169.0,
       "sources": [
         {
           "name": "hn",
@@ -808,29 +808,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Socialism's Positive Rating Tops 40% for First Time",
-      "url": "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
+      "headline": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
       "summary": "",
-      "score": 153.0,
+      "score": 156.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
-          "title": "Socialism's Positive Rating Tops 40% for First Time"
+          "url": "https://huggingface.co/apple/LensVLM-9B",
+          "title": "LensVLM: Compressing long context as images, expanding only relevant pages"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "headline": "Socialism's Positive Rating Tops 40% for First Time",
+      "url": "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
       "summary": "",
-      "score": 149.0,
+      "score": 155.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-          "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit"
+          "url": "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
+          "title": "Socialism's Positive Rating Tops 40% for First Time"
         }
       ],
       "duplicate_count": 1
@@ -850,43 +850,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "headline": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
       "summary": "",
       "score": 147.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://huggingface.co/apple/LensVLM-9B",
-          "title": "LensVLM: Compressing long context as images, expanding only relevant pages"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "summary": "",
-      "score": 143.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://artificialanalysis.ai/models/mercury-2-5",
-          "title": "Mercury 2.5 LLM hits 770 tokens per second"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "How often do you think about the 1893 World's Fair?",
-      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-      "summary": "",
-      "score": 143.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-          "title": "How often do you think about the 1893 World's Fair?"
+          "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+          "title": "Swap, ZRAM, Zswap and Hibernate on NixOS"
         }
       ],
       "duplicate_count": 1
@@ -895,12 +867,40 @@
       "headline": "Cloud Agents Are Inevitable AI Prisons",
       "url": "https://normanponte.io/19df691f",
       "summary": "",
-      "score": 141.0,
+      "score": 143.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://normanponte.io/19df691f",
           "title": "Cloud Agents Are Inevitable AI Prisons"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI agents hacked Australian Medicare system",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+          "title": "OpenAI agents hacked Australian Medicare system"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "summary": "",
+      "score": 139.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/nestrilabs/virtio-nvgpu",
+          "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest"
         }
       ],
       "duplicate_count": 1
@@ -948,15 +948,146 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-      "summary": "",
-      "score": 131.0,
+      "headline": "Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)",
+      "url": "https://www.techmeme.com/260924/p4#a260924p4",
+      "summary": "\n Bloomberg:\nSources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a &euro;1.27B valuation, excluding debt&nbsp; &mdash;&nbsp; Schneider Electric SE is nearing an agreement to acquire Shelly Group SE, a maker of smart devices for the home, according to people familiar with the matter.",
+      "score": 100.0,
       "sources": [
         {
-          "name": "hn",
-          "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-          "title": "Swap, ZRAM, Zswap and Hibernate on NixOS"
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260924/p4#a260924p4",
+          "title": "Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June (Transluce)",
+      "url": "https://www.techmeme.com/260924/p3#a260924p3",
+      "summary": "\n Transluce:\nAI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June&nbsp; &mdash;&nbsp; Jack Cable*,2, Daniel Chiu*, Francisco Pernice*,3, Selena Zhang*,1, James Anthony1, Tetiana Bas4, Gary Shen4, Conrad Stosz1, Jacob Steinhardt1",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260924/p3#a260924p3",
+          "title": "AI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June (Transluce)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)",
+      "url": "https://www.techmeme.com/260924/p2#a260924p2",
+      "summary": "\n Bloomberg:\nSources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June&nbsp; &mdash;&nbsp; Two startups that provide platforms to help businesses run artificial intelligence models are in funding talks to double their valuations &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260924/p2#a260924p2",
+          "title": "Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)",
+      "url": "https://www.techmeme.com/260924/p1#a260924p1",
+      "summary": "\n Andrew Romero / 9to5Google:\nQualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption&nbsp; &mdash;&nbsp; Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260924/p1#a260924p1",
+          "title": "Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released \"much earlier\" than the end of the year (Laura Bratton/The Information)",
+      "url": "https://www.techmeme.com/260923/p65#a260923p65",
+      "summary": "\n Laura Bratton / The Information:\nGoogle DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released &ldquo;much earlier&rdquo; than the end of the year&nbsp; &mdash;&nbsp; Google is nearing the release of its newest flagship model, Gemini 4, the head of its DeepMind division said Wednesday &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p65#a260923p65",
+          "title": "Google DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released \"much earlier\" than the end of the year (Laura Bratton/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)",
+      "url": "https://www.techmeme.com/260923/p64#a260923p64",
+      "summary": "\n OpenAI:\nOpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts&nbsp; &mdash;&nbsp; An open benchmark developed with more than 80 licensed mental health experts to evaluate AI responses in realistic mental health conversations.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p64#a260923p64",
+          "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)"
+        },
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/introducing-mentalhealthbench",
+          "title": "Introducing MentalHealthBench"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)",
+      "url": "https://www.techmeme.com/260923/p63#a260923p63",
+      "summary": "\n Bloomberg:\nSoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world&nbsp; &mdash;&nbsp; Billionaire Masayoshi Son's SoftBank Group Corp. pushed through one of the largest junk-bond offerings on record &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p63#a260923p63",
+          "title": "SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend (Christian Robles/Nextgov/FCW)",
+      "url": "https://www.techmeme.com/260923/p62#a260923p62",
+      "summary": "\n Christian Robles / Nextgov/FCW:\nDuring a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend&nbsp; &mdash;&nbsp; Members of the Senate Judiciary Subcommittee on Crime and Counterterrorism on Wednesday criticized the use of automatic license plate readers &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p62#a260923p62",
+          "title": "During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend (Christian Robles/Nextgov/FCW)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta says it will allow its AI glasses users to opt out of having their \"visual data\" used to train its AI or shown to third-party contractors outside the US (Karissa Bell/Engadget)",
+      "url": "https://www.techmeme.com/260923/p61#a260923p61",
+      "summary": "\n Karissa Bell / Engadget:\nMeta says it will allow its AI glasses users to opt out of having their &ldquo;visual data&rdquo; used to train its AI or shown to third-party contractors outside the US&nbsp; &mdash;&nbsp; Somewhere, a contractor just breathed a sigh of relief.&nbsp; &mdash;&nbsp; Meta is making another concession to privacy critics &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p61#a260923p61",
+          "title": "Meta says it will allow its AI glasses users to opt out of having their \"visual data\" used to train its AI or shown to third-party contractors outside the US (Karissa Bell/Engadget)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the \"pervert glasses\" backlash, more (Joanna Stern/The New Things)",
+      "url": "https://www.techmeme.com/260923/p60#a260923p60",
+      "summary": "\n Joanna Stern / The New Things:\nAn interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the &ldquo;pervert glasses&rdquo; backlash, more&nbsp; &mdash;&nbsp; A first look at Meta's new audio-only glasses, Muse voice and more &hellip; There are a LOT of questions to ask when Mark Zuckerberg unveils new products.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/260923/p60#a260923p60",
+          "title": "An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the \"pervert glasses\" backlash, more (Joanna Stern/The New Things)"
         }
       ],
       "duplicate_count": 1
@@ -1027,146 +1158,6 @@
           "name": "techmeme",
           "url": "https://www.techmeme.com/260923/p55#a260923p55",
           "title": "Meta plans to bring Private Processing to Ray-Ban Meta glasses, letting their AI assistant fulfill users' requests without Meta accessing their data (Wired)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta previews hologram avatars for Meta VR Glasses and Ray-Ban Display that feel more natural than Apple's persona avatars, available in early access this fall (Karissa Bell/Engadget)",
-      "url": "https://www.techmeme.com/260923/p54#a260923p54",
-      "summary": "\n Karissa Bell / Engadget:\nMeta previews hologram avatars for Meta VR Glasses and Ray-Ban Display that feel more natural than Apple's persona avatars, available in early access this fall&nbsp; &mdash;&nbsp; They're a notable improvement over the company's earlier attempts at digital likeness.&nbsp; &mdash;&nbsp; I'm almost embarrassed to admit &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p54#a260923p54",
-          "title": "Meta previews hologram avatars for Meta VR Glasses and Ray-Ban Display that feel more natural than Apple's persona avatars, available in early access this fall (Karissa Bell/Engadget)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/260923/p53#a260923p53",
-      "summary": "\n Jay Peters / The Verge:\nMeta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support&nbsp; &mdash;&nbsp; Muse started as a chatbot but will soon be an AI avatar you can talk with over video.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p53#a260923p53",
-          "title": "Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support (Jay Peters/The Verge)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost (Hamish Hector/TechRadar)",
-      "url": "https://www.techmeme.com/260923/p52#a260923p52",
-      "summary": "\n Hamish Hector / TechRadar:\nMeta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost&nbsp; &mdash;&nbsp; Meta Connect just ended, and the biggest announcement of the night for me was easily the debut of Meta's VR Glasses &mdash; even if they were leaked ahead &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p52#a260923p52",
-          "title": "Meta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost (Hamish Hector/TechRadar)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p51#a260923p51",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end&nbsp; &mdash;&nbsp; Meta Platforms Inc. unveiled a palm-sized, dedicated gadget for using Muse, the company's popular new artificial intelligence assistant &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p51#a260923p51",
-          "title": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end (Mark Gurman/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p50#a260923p50",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299&nbsp; &mdash;&nbsp; Meta Platforms Inc. on Wednesday launched $1,299 virtual-reality glasses that undercut Apple Inc. in price and size while putting &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p50#a260923p50",
-          "title": "Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 (Mark Gurman/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year (Cheyenne MacDonald/Engadget)",
-      "url": "https://www.techmeme.com/260923/p49#a260923p49",
-      "summary": "\n Cheyenne MacDonald / Engadget:\nMeta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year&nbsp; &mdash;&nbsp; But it'll cost you extra.&nbsp; &mdash;&nbsp; Meta's AI Glasses are getting a new feature made for wearers with hearing loss.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p49#a260923p49",
-          "title": "Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year (Cheyenne MacDonald/Engadget)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260923/p48#a260923p48",
-      "summary": "\n Mark Gurman / Bloomberg:\nMeta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3&nbsp; &mdash;&nbsp; Meta Platforms Inc. is expanding its smart-glasses lineup with camera-free models, support for the popular new Muse assistant and a hearing-aid mode.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p48#a260923p48",
-          "title": "Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 (Mark Gurman/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones \"dramatically underperformed\" after it launched in 2024 (Michael Acton/Financial Times)",
-      "url": "https://www.techmeme.com/260923/p47#a260923p47",
-      "summary": "\n Michael Acton / Financial Times:\nCourt docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones &ldquo;dramatically underperformed&rdquo; after it launched in 2024&nbsp; &mdash;&nbsp; Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered &lsquo;Siri AI&rsquo;",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p47#a260923p47",
-          "title": "Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones \"dramatically underperformed\" after it launched in 2024 (Michael Acton/Financial Times)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "A live blog of Meta Connect 2026, where new Meta glasses and a new VR headset were announced (Engadget)",
-      "url": "https://www.techmeme.com/260923/p46#a260923p46",
-      "summary": "\n Engadget:\nA live blog of Meta Connect 2026, where new Meta glasses and a new VR headset were announced&nbsp; &mdash;&nbsp; More smart glasses and possibly a VR headset are expected today&nbsp; &mdash;&nbsp; Meta Connect used to be all about VR, but in recent years, the event has come to be the launchpad for all of the company's hardware, Metaverse and AI projects.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p46#a260923p46",
-          "title": "A live blog of Meta Connect 2026, where new Meta glasses and a new VR headset were announced (Engadget)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "A recording of the Meta Connect 2026 opening keynote (Meta on YouTube)",
-      "url": "https://www.techmeme.com/260923/p45#a260923p45",
-      "summary": "\n Meta on YouTube:\nA recording of the Meta Connect 2026 opening keynote&nbsp; &mdash;&nbsp; We believe the future is for everyone, so we're putting superintelligence in everyone's hands.&nbsp; Tune in now for our latest breakthrough technologies in AI, AI...",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/260923/p45#a260923p45",
-          "title": "A recording of the Meta Connect 2026 opening keynote (Meta on YouTube)"
         }
       ],
       "duplicate_count": 1
@@ -1251,20 +1242,6 @@
           "name": "openai",
           "url": "https://openai.com/index/ringg",
           "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Introducing MentalHealthBench",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "openai",
-          "url": "https://openai.com/index/introducing-mentalhealthbench",
-          "title": "Introducing MentalHealthBench"
         }
       ],
       "duplicate_count": 1
@@ -1466,15 +1443,57 @@
       "duplicate_count": 1
     },
     {
-      "headline": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "headline": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496740.html",
+      "summary": "懂出海，能记忆，自进化",
       "score": 90.0,
       "sources": [
         {
-          "name": "techcrunch_ai",
-          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI"
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/496740.html",
+          "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "url": "https://www.qbitai.com/2026/09/496658.html",
+      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/496658.html",
+          "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "summary": "美国也开启了全民养虾狂潮",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/496647.html",
+          "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "成立九年，中科类脑把积累装进Token工厂",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "summary": "",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/09/496615.html",
+          "title": "成立九年，中科类脑把积累装进Token工厂"
         }
       ],
       "duplicate_count": 1
@@ -1564,57 +1583,71 @@
       "duplicate_count": 1
     },
     {
-      "headline": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "url": "https://www.qbitai.com/2026/09/496393.html",
-      "summary": "每秒能产生5000+个沙盒",
-      "score": 90.0,
+      "headline": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2609.28466",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
       "sources": [
         {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/496393.html",
-          "title": "DeepSeek新论文公开Agent训练！梁文锋署名"
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.28466",
+          "title": "The Past Frames the Future: Memory for Autoregressive Video Generation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Qwen一号位定了！刘大一恒接棒",
-      "url": "https://www.qbitai.com/2026/09/496384.html",
-      "summary": "与稚晖君同届天才少年",
-      "score": 90.0,
+      "headline": "HappyWorld-Bench",
+      "url": "https://huggingface.co/papers/2609.24308",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
       "sources": [
         {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/496384.html",
-          "title": "Qwen一号位定了！刘大一恒接棒"
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.24308",
+          "title": "HappyWorld-Bench"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-      "url": "https://www.qbitai.com/2026/09/496352.html",
-      "summary": "对复杂现实进行推演与决策",
-      "score": 90.0,
+      "headline": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "url": "https://huggingface.co/papers/2609.26780",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
       "sources": [
         {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/496352.html",
-          "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？"
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.26780",
+          "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-      "url": "https://www.qbitai.com/2026/09/496329.html",
-      "summary": "实时性和通用能力，世界模型可以全都要",
-      "score": 90.0,
+      "headline": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "url": "https://huggingface.co/papers/2609.22947",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
       "sources": [
         {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/09/496329.html",
-          "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！"
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.22947",
+          "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PACT: From Credit Assignment to Critic Alignment",
+      "url": "https://huggingface.co/papers/2609.26355",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.26355",
+          "title": "PACT: From Credit Assignment to Critic Alignment"
         }
       ],
       "duplicate_count": 1
@@ -1629,6 +1662,160 @@
           "name": "hf_papers",
           "url": "https://huggingface.co/papers/2609.27891",
           "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+      "url": "https://huggingface.co/papers/2609.23784",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23784",
+          "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2609.28256",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.28256",
+          "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+      "url": "https://huggingface.co/papers/2609.27490",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27490",
+          "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27334",
+          "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Hunyuan-A13B Technical Report",
+      "url": "https://huggingface.co/papers/2609.27284",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27284",
+          "title": "Hunyuan-A13B Technical Report"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+      "url": "https://huggingface.co/papers/2609.27656",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27656",
+          "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+      "url": "https://huggingface.co/papers/2609.27308",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27308",
+          "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
+      "url": "https://huggingface.co/papers/2609.27321",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27321",
+          "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+      "url": "https://huggingface.co/papers/2609.27901",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.27901",
+          "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "url": "https://huggingface.co/papers/2609.23038",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.23038",
+          "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "url": "https://huggingface.co/papers/2609.28470",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.28470",
+          "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains"
         }
       ],
       "duplicate_count": 1
@@ -1774,6 +1961,104 @@
       "duplicate_count": 1
     },
     {
+      "headline": "AI Exchange",
+      "url": "https://www.ft.com/ai-exchange?syn-25a6b1a6=1",
+      "summary": "In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/ai-exchange?syn-25a6b1a6=1",
+          "title": "AI Exchange"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Paddy Power founder accuses Betfred billionaire of ‘scaremongering’ over tax rises",
+      "url": "https://www.ft.com/content/fc507315-ba40-4d99-92a7-6fb1421aa5cd?syn-25a6b1a6=1",
+      "summary": "Stewart Kenny hits back at warnings over UK job losses, saying he used ‘the same script’ when he was in the industry",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/fc507315-ba40-4d99-92a7-6fb1421aa5cd?syn-25a6b1a6=1",
+          "title": "Paddy Power founder accuses Betfred billionaire of ‘scaremongering’ over tax rises"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The clock’s ticking on the AI boom",
+      "url": "https://www.ft.com/content/23c7eab5-32e6-4069-9989-e8c5af57558c?syn-25a6b1a6=1",
+      "summary": "Frontier labs as well as infrastructure groups are delaying their IPO plans",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/23c7eab5-32e6-4069-9989-e8c5af57558c?syn-25a6b1a6=1",
+          "title": "The clock’s ticking on the AI boom"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "China tries on the smart glasses craze — and its privacy risks",
+      "url": "https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1",
+      "summary": "Processing more camera data directly on the device can reduce risks but it raises component costs",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1",
+          "title": "China tries on the smart glasses craze — and its privacy risks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How to think about the end of the world",
+      "url": "https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1",
+      "summary": "Bringing clarity to a fuzzy P(doom) debate",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1",
+          "title": "How to think about the end of the world"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Cisco’s Jeetu Patel: Never fight a megatrend",
+      "url": "https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86?syn-25a6b1a6=1",
+      "summary": "The president of the dotcom-era darling discusses the company’s strong conviction around AI and some of the technology’s risks",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86?syn-25a6b1a6=1",
+          "title": "Cisco’s Jeetu Patel: Never fight a megatrend"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Francis Fukuyama on democracy, AI and his own intellectual journey",
+      "url": "https://www.ft.com/content/c0d322c8-a9df-42bc-b85b-344f2cea4016?syn-25a6b1a6=1",
+      "summary": "Why the quest for respect drives politics",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c0d322c8-a9df-42bc-b85b-344f2cea4016?syn-25a6b1a6=1",
+          "title": "Francis Fukuyama on democracy, AI and his own intellectual journey"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "OpenAI ‘agent’ hacked an Australian health service website",
       "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
       "summary": "AI lab took months to spot the problem, which Prime Minister Anthony Albanese called ‘obviously unacceptable’",
@@ -1816,15 +2101,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
+      "headline": "UNGA as it happened: Iran hits back at Trump’s ‘bullying’",
       "url": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
-      "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
+      "summary": "US delegation walks out as Masoud Pezeshkian delivers speech",
       "score": 80.0,
       "sources": [
         {
           "name": "ft_tech",
           "url": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
-          "title": "UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements"
+          "title": "UNGA as it happened: Iran hits back at Trump’s ‘bullying’"
         }
       ],
       "duplicate_count": 1
@@ -1900,76 +2185,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push",
-      "url": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-      "summary": "Chinese tech giant was AI cloud provider’s largest customer last year but is not prominently named in pitch to stock market investors",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-          "title": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "China reviews use of Broadcom hardware in data centres",
-      "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
-      "summary": "Survey comes amid drive to boost domestic players and reduce reliance on foreign AI infrastructure",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
-          "title": "China reviews use of Broadcom hardware in data centres"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The problem with P(doom)",
-      "url": "https://www.ft.com/content/a784df61-a9a0-4ef4-93ff-5f082c3e730c?syn-25a6b1a6=1",
-      "summary": "Predicting AI catastrophe has gone mainstream with predictable consequences",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/a784df61-a9a0-4ef4-93ff-5f082c3e730c?syn-25a6b1a6=1",
-          "title": "The problem with P(doom)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "What AI should learn from the banks",
-      "url": "https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f?syn-25a6b1a6=1",
-      "summary": "Both industries change rapidly and reach throughout the economy, requiring officials to weigh the benefits of innovation against risks",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f?syn-25a6b1a6=1",
-          "title": "What AI should learn from the banks"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "How China and the US can work together on AI security",
-      "url": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff?syn-25a6b1a6=1",
-      "summary": "Xi-Trump meeting should build on plans for dialogue on shared risks",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff?syn-25a6b1a6=1",
-          "title": "How China and the US can work together on AI security"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
       "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it [&#8230;]",
@@ -1979,20 +2194,6 @@
           "name": "nvidia_blog",
           "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
           "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-      "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region [&#8230;]",
-      "score": 70.0,
-      "sources": [
-        {
-          "name": "nvidia_blog",
-          "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-          "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
         }
       ],
       "duplicate_count": 1

@@ -1,0 +1,1394 @@
+{
+  "date": "2026-10-05",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 99,
+  "clusters": [
+    {
+      "headline": "DietrichGebert/ponytail — GitHub Trending",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "单日新增 1,894 stars",
+      "score": 1974.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "title": "DietrichGebert/ponytail — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "pbakaus/impeccable — GitHub Trending",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "单日新增 1,171 stars",
+      "score": 1251.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/pbakaus/impeccable",
+          "title": "pbakaus/impeccable — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Panniantong/Agent-Reach — GitHub Trending",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "单日新增 980 stars",
+      "score": 1060.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "title": "Panniantong/Agent-Reach — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "summary": "",
+      "score": 810.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/Niko1221/Strata",
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "thedotmack/claude-mem — GitHub Trending",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "单日新增 628 stars",
+      "score": 708.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "title": "thedotmack/claude-mem — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenCut-app/OpenCut — GitHub Trending",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "summary": "单日新增 512 stars",
+      "score": 592.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "title": "OpenCut-app/OpenCut — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "",
+      "score": 584.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "pingdotgg/t3code — GitHub Trending",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "单日新增 490 stars",
+      "score": 570.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/pingdotgg/t3code",
+          "title": "pingdotgg/t3code — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "summary": "",
+      "score": 431.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "title": "Improper redaction reveals Google Data Center water and electricity usage"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "tester-army/e2e — GitHub Trending",
+      "url": "https://github.com/tester-army/e2e",
+      "summary": "单日新增 345 stars",
+      "score": 425.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/tester-army/e2e",
+          "title": "tester-army/e2e — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "addyosmani/agent-skills — GitHub Trending",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "单日新增 336 stars",
+      "score": 416.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "title": "addyosmani/agent-skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "calesthio/OpenMontage — GitHub Trending",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "单日新增 245 stars",
+      "score": 325.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "title": "calesthio/OpenMontage — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "michael-denyer/pstack-claude — GitHub Trending",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "summary": "单日新增 232 stars",
+      "score": 312.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "title": "michael-denyer/pstack-claude — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Car is a smartphone on wheels. Here's who's listening",
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "summary": "",
+      "score": 297.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://automatictransmission.khoury.northeastern.edu/",
+          "title": "Car is a smartphone on wheels. Here's who's listening"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "antirez/ds4 — GitHub Trending",
+      "url": "https://github.com/antirez/ds4",
+      "summary": "单日新增 211 stars",
+      "score": 291.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/antirez/ds4",
+          "title": "antirez/ds4 — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "coreyhaines31/marketingskills — GitHub Trending",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "单日新增 197 stars",
+      "score": 277.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "title": "coreyhaines31/marketingskills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "summary": "",
+      "score": 268.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+          "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "",
+      "score": 259.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In Ukraine, distributed renewables foil Russia's assaults",
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "summary": "",
+      "score": 256.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+          "title": "In Ukraine, distributed renewables foil Russia's assaults"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "summary": "",
+      "score": 249.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://wieslawsoltes.github.io/VB6/",
+          "title": "A browser-native classic Visual Basic VB6 IDE"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "summary": "",
+      "score": 239.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/allenv0/SCM",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "getsentry/sentry — GitHub Trending",
+      "url": "https://github.com/getsentry/sentry",
+      "summary": "单日新增 152 stars",
+      "score": 232.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/getsentry/sentry",
+          "title": "getsentry/sentry — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "url": "https://github.com/PowderworksCode/headstart",
+      "summary": "",
+      "score": 226.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/PowderworksCode/headstart",
+          "title": "Emitting metadata early makes building/checking Rust up to twice as fast"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "summary": "",
+      "score": 207.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+          "title": "Self-hosted HTTP tunnels with SSH and Nginx"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "garrytan/gstack — GitHub Trending",
+      "url": "https://github.com/garrytan/gstack",
+      "summary": "单日新增 125 stars",
+      "score": 205.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/garrytan/gstack",
+          "title": "garrytan/gstack — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bill Draper has died",
+      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;YRgDY\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;YRgDY</a>",
+      "score": 201.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+          "title": "Bill Draper has died"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "summary": "",
+      "score": 195.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://gamehistory.org/5k-magazines/",
+          "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;</a>",
+      "score": 192.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+          "title": "In the wake of closure, a digital archive of animated materials appears online"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "summary": "",
+      "score": 192.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+          "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "url": "https://getartcraft.com/apps",
+      "summary": "",
+      "score": 181.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://getartcraft.com/apps",
+          "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Xray-core concealed a certificate verification bypass vulnerability",
+      "url": "https://github.com/net4people/bbs/issues/672",
+      "summary": "",
+      "score": 165.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/net4people/bbs/issues/672",
+          "title": "Xray-core concealed a certificate verification bypass vulnerability"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Blindsight (Watts Novel)",
+      "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "summary": "",
+      "score": 164.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+          "title": "Blindsight (Watts Novel)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "earthtojake/text-to-cad — GitHub Trending",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "summary": "单日新增 83 stars",
+      "score": 163.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "title": "earthtojake/text-to-cad — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "Paper: \n<a href=\"https:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdf</a><p>Related: <a href=\"https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;www.theregister.com&#x2F;networks&#x2F;2026&#x2F;10&#x2F;01&#x2F;stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp&#x2F;5300629\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theregister.com&#x2F;networks",
+      "score": 158.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "title": "Homa: The end of TCP for AI clusters [video]"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The evolution of effective altruism",
+      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;3gSCc\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;3gSCc</a><p>Related: <a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;10&#x2F;04&#x2F;will-macaskill-responds-to-our-cover-story-on-effective-altruism\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;10&#x2F;04&#x2F;will-maca...</a>",
+      "score": 154.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+          "title": "The evolution of effective altruism"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "summary": "",
+      "score": 149.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+          "title": "What's the future for pure math research in the age of AI?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
+      "summary": "",
+      "score": 142.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://frn.sh/go-gc/",
+          "title": "A 40ms Go garbage collector pause caused by swap"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "All I wanted was a custom domain email",
+      "url": "https://jacobg.co/emails-at-jacobg-co/",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://jacobg.co/emails-at-jacobg-co/",
+          "title": "All I wanted was a custom domain email"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Incentives in Academic Research",
+      "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+          "title": "Incentives in Academic Research"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+      "summary": "",
+      "score": 134.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+          "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "caddyserver/caddy — GitHub Trending",
+      "url": "https://github.com/caddyserver/caddy",
+      "summary": "单日新增 24 stars",
+      "score": 104.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/caddyserver/caddy",
+          "title": "caddyserver/caddy — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)",
+      "url": "https://www.techmeme.com/261005/p3#a261005p3",
+      "summary": "\n Ben Berkowitz / Axios:\nSam Altman says he's &ldquo;very uncomfortable&rdquo; with attributing religious force to AI, calling it &ldquo;a real safety issue&rdquo;, as Anthropic engages with religious leaders&nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman on Saturday took a veiled shot at Anthropic and its work on the soul of AI &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261005/p3#a261005p3",
+          "title": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OKXICE, a JV between OKX and ICE, is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks (Scott Patterson/Bloomberg)",
+      "url": "https://www.techmeme.com/261005/p2#a261005p2",
+      "summary": "\n Scott Patterson / Bloomberg:\nOKXICE, a JV between OKX and ICE, is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks&nbsp; &mdash;&nbsp; OKX filed with the Securities and Exchange Commission on Sunday to launch a tokenized-stock trading platform &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261005/p2#a261005p2",
+          "title": "OKXICE, a JV between OKX and ICE, is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks (Scott Patterson/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs (Bloomberg)",
+      "url": "https://www.techmeme.com/261005/p1#a261005p1",
+      "summary": " Bloomberg:\nSources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs&nbsp; &mdash;&nbsp; Firmus Grid Ltd. plans to allocate about half of the shares in its initial public offering to existing shareholders &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261005/p1#a261005p1",
+          "title": "Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)",
+      "url": "https://www.techmeme.com/261004/p24#a261004p24",
+      "summary": "\n Bradley Olson / Axios:\nSources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models&nbsp; &mdash;&nbsp; A closely watched Nvidia-backed startup called Reflection is preparing to shake up the AI race with a powerful open-weight system &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p24#a261004p24",
+          "title": "Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)",
+      "url": "https://www.techmeme.com/261004/p23#a261004p23",
+      "summary": "\n Abram Brown / The Information:\nA look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels&nbsp; &mdash;&nbsp; To the music industry, Sean Parker has been many things.&nbsp; As co-founder of Napster, he was first an &ldquo;outlaw renegade,&rdquo; as he himself puts it.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p23#a261004p23",
+          "title": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)",
+      "url": "https://www.techmeme.com/261004/p22#a261004p22",
+      "summary": "\n Dan Primack / Axios:\nChange.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators&nbsp; &mdash;&nbsp; Change.org was founded as a venture-backed organization, before a 2021 restructuring that saw investors like Reid Hoffman &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p22#a261004p22",
+          "title": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)",
+      "url": "https://www.techmeme.com/261004/p21#a261004p21",
+      "summary": "\n Mishal Husain / Bloomberg:\nQ&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society&nbsp; &mdash;&nbsp; The accord, which carries no legal weight, commits Anthropic, OpenAI, Nvidia, Meta, SpacexAI and Google to &ldquo;robust internal processes&rdquo; &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p21#a261004p21",
+          "title": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
+      "url": "https://www.techmeme.com/261004/p20#a261004p20",
+      "summary": "\n Laith Al-Khalaf / Financial Times:\nSources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~&pound;10B valuation Monzo sought&nbsp; &mdash;&nbsp; Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p20#a261004p20",
+          "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
+      "url": "https://www.techmeme.com/261004/p19#a261004p19",
+      "summary": "\n Politico:\nSam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks&nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman said there remains a fundamental difference in worldview between his company and rival Anthropic &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p19#a261004p19",
+          "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)",
+      "url": "https://www.techmeme.com/261004/p18#a261004p18",
+      "summary": "\n Cory Weinberg / The Information:\nSources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders&nbsp; &mdash;&nbsp; When Anthropic shared financial figures recently with prospective investors in its planned initial public offering &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p18#a261004p18",
+          "title": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)",
+      "url": "https://www.techmeme.com/261004/p17#a261004p17",
+      "summary": "\n Financial Times:\nSources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday&nbsp; &mdash;&nbsp; Takeover is French conglomerate's largest and enhances its products focused on manufacturers",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p17#a261004p17",
+          "title": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more (Wired)",
+      "url": "https://www.techmeme.com/261004/p16#a261004p16",
+      "summary": "\n Wired:\nExtracted system prompts show Meta's Muse compiles &ldquo;a page for every person in the user's life&rdquo;, with facts, history, tips to improve relationships, and more&nbsp; &mdash;&nbsp; Millions have downloaded Meta's AI agent Muse.&nbsp; But getting it to do your bidding comes with privacy costs.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p16#a261004p16",
+          "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more (Wired)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages (Owen Dahlkamp/Politico)",
+      "url": "https://www.techmeme.com/261004/p15#a261004p15",
+      "summary": "\n Owen Dahlkamp / Politico:\nSources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages&nbsp; &mdash;&nbsp; Google and Apple lobbyists are engaged in a massive effort to press state lawmakers to adopt kids' online safety laws &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p15#a261004p15",
+          "title": "Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages (Owen Dahlkamp/Politico)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)",
+      "url": "https://www.techmeme.com/261004/p14#a261004p14",
+      "summary": "\n Chandni Shah / Reuters:\nIn an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace &ldquo;artificial&rdquo; intelligence with &ldquo;super&rdquo;&nbsp; &mdash;&nbsp; SpaceX CEO Elon Musk posted on Sunday that he would rename the company's AI unit to SpaceXSI &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p14#a261004p14",
+          "title": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)",
+      "url": "https://www.techmeme.com/261004/p13#a261004p13",
+      "summary": "\n Financial Times:\nDigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's &ldquo;third-party infrastructure arm&rdquo; after SoftBank's ~$4B takeover closed&nbsp; &mdash;&nbsp; DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank's &lsquo;third-party infrastructure arm&rsquo; after $4bn takeover",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261004/p13#a261004p13",
+          "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "title": "Trump unveils his new Super Intelligence Force"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/501705.html",
+          "title": "刚刚，Hinton发了首篇RSI论文"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/501700.html",
+          "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+      "url": "https://huggingface.co/papers/2609.38879",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.38879",
+          "title": "Does Learning Protein Folding Generalize to Broader Reasoning?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+      "url": "https://huggingface.co/papers/2609.38839",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.38839",
+          "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "World Embedding Benchmark",
+      "url": "https://huggingface.co/papers/2610.03632",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.03632",
+          "title": "World Embedding Benchmark"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It",
+      "url": "https://huggingface.co/papers/2610.03195",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.03195",
+          "title": "Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+      "url": "https://huggingface.co/papers/2610.02826",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.02826",
+          "title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.38078",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.38078",
+          "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models",
+      "url": "https://huggingface.co/papers/2609.39071",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.39071",
+          "title": "LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+      "url": "https://huggingface.co/papers/2610.03574",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.03574",
+          "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
+      "url": "https://huggingface.co/papers/2610.01257",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.01257",
+          "title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers",
+      "url": "https://huggingface.co/papers/2610.00531",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.00531",
+          "title": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs",
+      "url": "https://huggingface.co/papers/2609.34715",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.34715",
+          "title": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS",
+      "url": "https://huggingface.co/papers/2609.32777",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.32777",
+          "title": "DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production",
+      "url": "https://huggingface.co/papers/2609.39963",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.39963",
+          "title": "Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+      "url": "https://huggingface.co/papers/2610.02304",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.02304",
+          "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
+      "url": "https://huggingface.co/papers/2610.03664",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.03664",
+          "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.02824",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.02824",
+          "title": "MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling",
+      "url": "https://huggingface.co/papers/2610.02298",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.02298",
+          "title": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2610.01153",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.01153",
+          "title": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling",
+      "url": "https://huggingface.co/papers/2609.36529",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.36529",
+          "title": "Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2609.39050",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2609.39050",
+          "title": "Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+          "title": "The new Fitbit Edge leaks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+          "title": "Prick’s theatrical industrial punk is perfect for spooky season"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The best early October Prime Day deals happening now",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "title": "The best early October Prime Day deals happening now"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "summary": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+          "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The AirPods Pro 3 are a fantastic deal at $179",
+      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+          "title": "The AirPods Pro 3 are a fantastic deal at $179"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The MacBook Air M5 is $200 off for the first time in months",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+          "title": "The MacBook Air M5 is $200 off for the first time in months"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The iPad Mini is slightly cheaper again during Prime Day",
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+          "title": "The iPad Mini is slightly cheaper again during Prime Day"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The forgotten Chromebook that started it all",
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel and [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+          "title": "The forgotten Chromebook that started it all"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Schneider Electric to buy software group PTC for $23.7bn",
+      "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+      "summary": "Takeover is French conglomerate’s largest and enhances its products focused on manufacturers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+          "title": "Schneider Electric to buy software group PTC for $23.7bn"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What’s really going on with AI token price deflation?",
+      "url": "https://www.ft.com/content/96184ef4-05be-467c-9d9c-745e21dad31a?syn-25a6b1a6=1",
+      "summary": "It’s  bit complicated and maybe not that surprising",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/96184ef4-05be-467c-9d9c-745e21dad31a?syn-25a6b1a6=1",
+          "title": "What’s really going on with AI token price deflation?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "UK urged to embrace cheaper AI models",
+      "url": "https://www.ft.com/content/5008b743-8af5-460f-a950-54aa80989f23?syn-25a6b1a6=1",
+      "summary": "Head of Alan Turing Institute calls for wider debate over technology’s rollout as fears over risks grow",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5008b743-8af5-460f-a950-54aa80989f23?syn-25a6b1a6=1",
+          "title": "UK urged to embrace cheaper AI models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sony Music steps up fight against streaming fraud",
+      "url": "https://www.ft.com/content/51aed058-f8e0-4426-b92a-790b7863d350?syn-25a6b1a6=1",
+      "summary": "Label battles the surge in AI-generated deepfake songs that impersonate its biggest artists",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/51aed058-f8e0-4426-b92a-790b7863d350?syn-25a6b1a6=1",
+          "title": "Sony Music steps up fight against streaming fraud"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why a booming economy is not helping Trump",
+      "url": "https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1",
+      "summary": "Anxiety about AI and affordability has turned his populist party into a popular target",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1",
+          "title": "Why a booming economy is not helping Trump"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Shipping groups seek counter-drone protection after wave of attacks",
+      "url": "https://www.ft.com/content/8da80a16-6c9c-4422-92e0-856c7df3d8bf?syn-25a6b1a6=1",
+      "summary": "Incidents in conflict hotspots including the Middle East and Black Sea prompt surge of demand for specialist systems",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8da80a16-6c9c-4422-92e0-856c7df3d8bf?syn-25a6b1a6=1",
+          "title": "Shipping groups seek counter-drone protection after wave of attacks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Investors look to shelter portfolios from rising AI concentration risks",
+      "url": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
+      "summary": "Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
+          "title": "Investors look to shelter portfolios from rising AI concentration risks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+      "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+      "summary": "Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+          "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

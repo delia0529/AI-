@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-25",
+  "issue": "No.009",
+  "weekday": "周五",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-25 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-25 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：U.S. appeals court upholds designation of Anthropic as supply chain risk。讨论热度 499 分、901 条评论；出处 cnbc.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 499 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "cnbc.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · U.S. appeals court upholds designation o",
+              "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：Revealing the details of how OpenAI agents hacked Hugging Face。讨论热度 755 分、472 条评论；出处 swarmtraces.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 755 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "swarmtraces.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Revealing the details of how OpenAI agen",
+              "url": "https://swarmtraces.org/"
+            }
+          ]
+        },
+        {
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：Ollaya – Ollama for open-source, Jev-style decision models。讨论热度 618 分、145 条评论；出处 ollaya.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 618 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "ollaya.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Ollaya – Ollama for open-source, Jev-sty",
+              "url": "https://ollaya.dev/"
+            }
+          ]
+        },
+        {
+          "title": "Does Georgism work? Five years later",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：Does Georgism work? Five years later。讨论热度 517 分、525 条评论；出处 astralcodexten.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 517 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "astralcodexten.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Does Georgism work? Five years later",
+              "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
+            }
+          ]
+        },
+        {
+          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：PipePipe: NewPipe hard fork implementing SponsorBlock。讨论热度 507 分、295 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 507 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · PipePipe: NewPipe hard fork implementing",
+              "url": "https://github.com/InfinityLoop1308/PipePipe"
+            }
+          ]
+        },
+        {
+          "title": "Platform-independent SIMD in Go",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-25 的当日条目：Platform-independent SIMD in Go。讨论热度 414 分、152 条评论；出处 go.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 414 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "go.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Platform-independent SIMD in Go",
+              "url": "https://go.dev/blog/simd-experiment"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-09-25 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2609.28654"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

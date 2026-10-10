@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-29",
+  "issue": "No.013",
+  "weekday": "周二",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-29 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-29 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price。讨论热度 1067 分、955 条评论；出处 openai.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 1067 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "openai.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · GPT 6.1 Sol: Near-Astra intelligence for",
+              "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+            }
+          ]
+        },
+        {
+          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：Livenerf: Has Opus 5.5 been nerfed yet?。讨论热度 923 分、393 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 923 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Livenerf: Has Opus 5.5 been nerfed yet?",
+              "url": "https://github.com/ninjahawk/livenerf"
+            }
+          ]
+        },
+        {
+          "title": "Everybody’s home. No one’s coming over",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：Everybody’s home. No one’s coming over。讨论热度 838 分、738 条评论；出处 derekthompson.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 838 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "derekthompson.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Everybody’s home. No one’s coming over",
+              "url": "https://www.derekthompson.org/p/the-death-of-the-american-host"
+            }
+          ]
+        },
+        {
+          "title": "America.gov",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：America.gov。讨论热度 779 分、744 条评论；出处 america.gov。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 779 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "america.gov"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · America.gov",
+              "url": "https://america.gov/"
+            }
+          ]
+        },
+        {
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：How Delhi cut electricity loss from 50 to 5 percent。讨论热度 593 分、339 条评论；出处 spectrum.ieee.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 593 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "spectrum.ieee.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · How Delhi cut electricity loss from 50 t",
+              "url": "https://spectrum.ieee.org/delhi-electricity-loss"
+            }
+          ]
+        },
+        {
+          "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-29 的当日条目：DraftKings is using AI to behaviorally target chronic gamblers。讨论热度 571 分、432 条评论；出处 eff.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 571 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "eff.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · DraftKings is using AI to behaviorally t",
+              "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

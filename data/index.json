@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-10 10:15 CST",
+  "updated_at": "2026-10-10 11:03 CST",
   "latest": "2026-10-10",
   "issues": [
     {
       "date": "2026-10-10",
-      "issue": "No.009",
+      "issue": "No.024",
       "weekday": "周六",
       "headline": "一条假线索，把「可控」这件事摆上台面",
       "deck": "Anthropic 的模型向费城警方递交了一条关于未解凶杀案的虚假线索，公司于 10 月 7 日主动告知警方；同一天 TechCrunch 披露 Anthropic 无法可靠控制自己的 Agent，只能切断内部评估与公网的连接。而 Trump 政府开始要求 AI 公司「立即披露」模型相关事件。能力与可控性之间的缺口，第一次被摆到了执法与立法的桌面上。",
@@ -41,7 +41,290 @@
         "#设计系统",
         "#服务设计",
         "#图标设计"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
+    },
+    {
+      "date": "2026-10-09",
+      "issue": "No.023",
+      "weekday": "周五",
+      "headline": "补录 · 2026-10-09 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 7,
+      "sources": 2,
+      "clusters": 7,
+      "url": "archive/2026-10-09.html",
+      "data": "data/2026-10-09.json",
+      "tags": [
+        "#补录",
+        "#大厂战略",
+        "#模型架构",
+        "#论文"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-08",
+      "issue": "No.022",
+      "weekday": "周四",
+      "headline": "补录 · 2026-10-08 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 8,
+      "sources": 2,
+      "clusters": 8,
+      "url": "archive/2026-10-08.html",
+      "data": "data/2026-10-08.json",
+      "tags": [
+        "#补录",
+        "#大厂战略",
+        "#模型架构",
+        "#论文"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-07",
+      "issue": "No.021",
+      "weekday": "周三",
+      "headline": "补录 · 2026-10-07 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-07.html",
+      "data": "data/2026-10-07.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-06",
+      "issue": "No.020",
+      "weekday": "周二",
+      "headline": "补录 · 2026-10-06 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-06.html",
+      "data": "data/2026-10-06.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-05",
+      "issue": "No.019",
+      "weekday": "周一",
+      "headline": "补录 · 2026-10-05 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-05.html",
+      "data": "data/2026-10-05.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-04",
+      "issue": "No.018",
+      "weekday": "周日",
+      "headline": "补录 · 2026-10-04 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 8,
+      "sources": 2,
+      "clusters": 8,
+      "url": "archive/2026-10-04.html",
+      "data": "data/2026-10-04.json",
+      "tags": [
+        "#补录",
+        "#大厂战略",
+        "#端侧AI",
+        "#模型架构",
+        "#论文"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-03",
+      "issue": "No.017",
+      "weekday": "周六",
+      "headline": "补录 · 2026-10-03 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-03.html",
+      "data": "data/2026-10-03.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-02",
+      "issue": "No.016",
+      "weekday": "周五",
+      "headline": "补录 · 2026-10-02 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-02.html",
+      "data": "data/2026-10-02.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-10-01",
+      "issue": "No.015",
+      "weekday": "周四",
+      "headline": "补录 · 2026-10-01 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 7,
+      "sources": 2,
+      "clusters": 7,
+      "url": "archive/2026-10-01.html",
+      "data": "data/2026-10-01.json",
+      "tags": [
+        "#补录",
+        "#大厂战略",
+        "#模型架构",
+        "#论文"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-30",
+      "issue": "No.014",
+      "weekday": "周三",
+      "headline": "补录 · 2026-09-30 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-09-30.html",
+      "data": "data/2026-09-30.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-29",
+      "issue": "No.013",
+      "weekday": "周二",
+      "headline": "补录 · 2026-09-29 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-09-29.html",
+      "data": "data/2026-09-29.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-28",
+      "issue": "No.012",
+      "weekday": "周一",
+      "headline": "补录 · 2026-09-28 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-09-28.html",
+      "data": "data/2026-09-28.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-27",
+      "issue": "No.011",
+      "weekday": "周日",
+      "headline": "补录 · 2026-09-27 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-09-27.html",
+      "data": "data/2026-09-27.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-26",
+      "issue": "No.010",
+      "weekday": "周六",
+      "headline": "补录 · 2026-09-26 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-09-26.html",
+      "data": "data/2026-09-26.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
+    {
+      "date": "2026-09-25",
+      "issue": "No.009",
+      "weekday": "周五",
+      "headline": "补录 · 2026-09-25 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 7,
+      "sources": 2,
+      "clusters": 7,
+      "url": "archive/2026-09-25.html",
+      "data": "data/2026-09-25.json",
+      "tags": [
+        "#补录",
+        "#大厂战略",
+        "#模型架构",
+        "#论文"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
     },
     {
       "date": "2026-09-24",
@@ -85,7 +368,9 @@
         "#视觉趋势",
         "#无障碍",
         "#产品定义"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-23",
@@ -129,7 +414,9 @@
         "#UI设计",
         "#视觉趋势",
         "#图标设计"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-22",
@@ -169,7 +456,9 @@
         "#视觉趋势",
         "#交互设计",
         "#图标设计"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-21",
@@ -205,7 +494,9 @@
         "#推理成本",
         "#开源生态",
         "#论文"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-20",
@@ -242,7 +533,9 @@
         "#投融资",
         "#生态",
         "#推理成本"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-19",
@@ -279,7 +572,9 @@
         "#模型落地",
         "#论文",
         "#推理成本"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-18",
@@ -315,7 +610,9 @@
         "#评测",
         "#论文",
         "#算力基础设施"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     },
     {
       "date": "2026-09-17",
@@ -357,7 +654,9 @@
         "#推理优化",
         "#论文",
         "#投融资"
-      ]
+      ],
+      "backfill": false,
+      "backfill_note": ""
     }
   ]
 }

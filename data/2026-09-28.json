@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-28",
+  "issue": "No.012",
+  "weekday": "周一",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-28 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-28 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Updated Google Maps shows destruction of the city of Rafah",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：Updated Google Maps shows destruction of the city of Rafah。讨论热度 944 分、955 条评论；出处 twitter.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 944 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "twitter.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Updated Google Maps shows destruction of",
+              "url": "https://twitter.com/AliAbunimah/status/2103890594137309425"
+            }
+          ]
+        },
+        {
+          "title": "Sonnet 5.5",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：Sonnet 5.5。讨论热度 884 分、613 条评论；出处 anthropic.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 884 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "anthropic.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Sonnet 5.5",
+              "url": "https://www.anthropic.com/claude-sonnet-5-5"
+            }
+          ]
+        },
+        {
+          "title": "Pirating the Pirates",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：Pirating the Pirates。讨论热度 712 分、405 条评论；出处 mubi.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 712 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "mubi.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Pirating the Pirates",
+              "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
+            }
+          ]
+        },
+        {
+          "title": "It's Time to Investigate the AI Labs",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：It's Time to Investigate the AI Labs。讨论热度 630 分、277 条评论；出处 calnewport.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 630 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "calnewport.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · It's Time to Investigate the AI Labs",
+              "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+            }
+          ]
+        },
+        {
+          "title": "Coding is not solved",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：Coding is not solved。讨论热度 585 分、546 条评论；出处 blog.alexewerlof.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 585 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.alexewerlof.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Coding is not solved",
+              "url": "https://blog.alexewerlof.com/p/coding-is-not-solved"
+            }
+          ]
+        },
+        {
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-28 的当日条目：Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms。讨论热度 576 分、231 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 576 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Jeff – Jev-compatible 0.8B decision mode",
+              "url": "https://github.com/firelex/jeff"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

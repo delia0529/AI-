@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-26",
+  "issue": "No.010",
+  "weekday": "周六",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-26 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-26 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：Breaking Up with Google Play: Why Conversations Is Now Free。讨论热度 709 分、296 条评论；出处 gultsch.de。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 709 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "gultsch.de"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Breaking Up with Google Play: Why Conver",
+              "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
+            }
+          ]
+        },
+        {
+          "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：I'm the mom in that viral Giants clip. Let me tell you about my husband。讨论热度 611 分、242 条评论；出处 themomoftheyear.substack.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 611 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "themomoftheyear.substack.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I'm the mom in that viral Giants clip. L",
+              "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"
+            }
+          ]
+        },
+        {
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：Fifteen years later, the Apple Cards origin story。讨论热度 437 分、120 条评论；出处 lexontech.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 437 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "lexontech.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Fifteen years later, the Apple Cards ori",
+              "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
+            }
+          ]
+        },
+        {
+          "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：Jury finds Facebook liable for deceiving users in Cambridge Analytica case。讨论热度 423 分、107 条评论；出处 cbsnews.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 423 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "cbsnews.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Jury finds Facebook liable for deceiving",
+              "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/"
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：Show HN: Reladraw – A diagram language where you decide where to place things。讨论热度 415 分、119 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 415 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Show HN: Reladraw – A diagram language w",
+              "url": "https://github.com/reladraw/reladraw"
+            }
+          ]
+        },
+        {
+          "title": "We're gonna need a lot more mathematicians",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-26 的当日条目：We're gonna need a lot more mathematicians。讨论热度 408 分、504 条评论；出处 terrytao.wordpress.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 408 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "terrytao.wordpress.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · We're gonna need a lot more mathematicia",
+              "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

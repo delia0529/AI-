@@ -104,7 +104,9 @@
         ' data-month="' + esc(it.date.slice(0, 7)) + '"' +
         ' data-hay="' + esc(hay) + '">' +
         '<div class="arch-date">' + esc(it.date) + "<small>" + esc(it.weekday) + " · " + esc(it.issue) + "</small></div>" +
-        "<div><h2 class=\"arch-h\">" + esc(it.headline) + "</h2><p class=\"arch-d\">" + esc(it.deck) + "</p></div>" +
+        "<div><h2 class=\"arch-h\">" + esc(it.headline) + "</h2>" +
+          (it.backfill_note ? '<div class="backfill-badge">' + esc(it.backfill_note) + "</div>" : "") +
+          '<p class="arch-d">' + esc(it.deck) + "</p></div>" +
         '<div class="arch-stat">' + esc(it.items) + " 条 / " + esc(it.sources) + " 源</div>" +
       "</a>";
     }).join("");
@@ -225,6 +227,12 @@
     if (title) title.textContent = day.headline;
     var deck = document.querySelector(".hero-deck");
     if (deck) deck.textContent = day.deck;
+    var badgeSlot = document.querySelector("[data-backfill-slot]");
+    if (badgeSlot) {
+      badgeSlot.innerHTML = day.backfill_note
+        ? '<div class="backfill-badge">' + esc(day.backfill_note) + "</div>"
+        : "";
+    }
 
     var stats = day.stats || {};
     var nums = document.querySelectorAll(".hero-meta b");

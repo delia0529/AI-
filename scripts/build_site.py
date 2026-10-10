@@ -93,7 +93,16 @@ def collect_issue_meta(day):
         "url": "archive/%s.html" % day["date"],
         "data": "data/%s.json" % day["date"],
         "tags": tags,
+        "backfill": day.get("backfill", False),
+        "backfill_note": day.get("backfill_note", ""),
     }
+
+
+def backfill_badge(note):
+    """断更补录期的提示徽标。"""
+    if not note:
+        return ""
+    return '<div class="backfill-badge">%s</div>' % esc(note)
 
 
 def build_issue_context(day, issues, base):
@@ -169,6 +178,7 @@ def build_issue_context(day, issues, base):
         "GENERATED": esc(day.get("generated_at", "")),
         "HEADLINE": esc(day.get("headline", "")),
         "DECK": esc(day.get("deck", "")),
+        "BACKFILL_BADGE": backfill_badge(day.get("backfill_note", "")),
         "STAT_SOURCES": stats.get("sources", 0),
         "STAT_RAW": stats.get("raw", 0),
         "STAT_ITEMS": stats.get("items", 0),
@@ -218,6 +228,7 @@ def build_archive_context(issues, base):
             "row_month": it["date"][:7],
             "row_tags": "|".join(it.get("tags", [])),
             "row_hay": esc(hay),
+            "row_badge": backfill_badge(it.get("backfill_note", "")),
         })
 
     return {

@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-01",
+  "issue": "No.015",
+  "weekday": "周四",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-10-01 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-01 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Court agrees with EFF: Utah's VPN law demands a technical impossibility。讨论热度 812 分、418 条评论；出处 eff.org。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 812 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "eff.org"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Court agrees with EFF: Utah's VPN law de",
+              "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Pi 1.0",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Pi 1.0。讨论热度 1687 分、609 条评论；出处 earendil.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 1687 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "earendil.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Pi 1.0",
+              "url": "https://earendil.com/posts/pi-1-0/"
+            }
+          ]
+        },
+        {
+          "title": "Mike Tomlin spent 12 years building a Minecraft city",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Mike Tomlin spent 12 years building a Minecraft city。讨论热度 679 分、177 条评论；出处 nytimes.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 679 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "nytimes.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Mike Tomlin spent 12 years building a Mi",
+              "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/"
+            }
+          ]
+        },
+        {
+          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Clef: Open-weight decision models, and new RL fine-tuning platform。讨论热度 641 分、218 条评论；出处 blog.cloudflare.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 641 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.cloudflare.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Clef: Open-weight decision models, and n",
+              "url": "https://blog.cloudflare.com/clef-decision-models/"
+            }
+          ]
+        },
+        {
+          "title": "Frog and Toad and the Increasingly Capable Machines",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Frog and Toad and the Increasingly Capable Machines。讨论热度 590 分、136 条评论；出处 frogandtoad.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 590 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "frogandtoad.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Frog and Toad and the Increasingly Capab",
+              "url": "https://www.frogandtoad.ai/"
+            }
+          ]
+        },
+        {
+          "title": "Several vulnerabilities have been discovered in the Linux kernel",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-01 的当日条目：Several vulnerabilities have been discovered in the Linux kernel。讨论热度 581 分、410 条评论；出处 lwn.net。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 581 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "lwn.net"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Several vulnerabilities have been discov",
+              "url": "https://lwn.net/Articles/1097401/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-01 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2609.38426"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

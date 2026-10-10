@@ -347,6 +347,21 @@ body {
   color: var(--muted);
 }
 
+/* ---------- 补录期徽标 ---------- */
+
+.backfill-badge {
+  display: inline-block;
+  margin: 2px 0 8px;
+  padding: 5px 10px;
+  border: 1px dashed var(--line-2);
+  color: var(--muted);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.backfill-badge:empty { display: none; }
+.arch-d + .backfill-badge, .arch-h + .backfill-badge { margin-bottom: 6px; }
+
 /* ---------- 本期信源（可追溯） ---------- */
 
 .sources-index {

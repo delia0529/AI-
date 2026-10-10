@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-03",
+  "issue": "No.017",
+  "weekday": "周六",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-10-03 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-03 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：Kolibri: A Sovereign Open-Weight Model。讨论热度 709 分、336 条评论；出处 aleph-alpha.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 709 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "aleph-alpha.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Kolibri: A Sovereign Open-Weight Model",
+              "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
+            }
+          ]
+        },
+        {
+          "title": "Extra Big Ass Intelligence",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：Extra Big Ass Intelligence。讨论热度 523 分、128 条评论；出处 extrabigassintelligence.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 523 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "extrabigassintelligence.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Extra Big Ass Intelligence",
+              "url": "https://www.extrabigassintelligence.com/"
+            }
+          ]
+        },
+        {
+          "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：Federal judge calls Flock 'indiscriminate mass surveillance'。讨论热度 502 分、274 条评论；出处 techcrunch.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 502 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "techcrunch.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Federal judge calls Flock 'indiscriminat",
+              "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+            }
+          ]
+        },
+        {
+          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux。讨论热度 499 分、109 条评论；出处 phoronix.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 499 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "phoronix.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The work by Valve's Timur Kristóf on imp",
+              "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
+            }
+          ]
+        },
+        {
+          "title": "I quit OpenAI because its culture is broken",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：I quit OpenAI because its culture is broken。讨论热度 494 分、817 条评论；出处 theatlantic.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 494 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "theatlantic.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I quit OpenAI because its culture is bro",
+              "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA"
+            }
+          ]
+        },
+        {
+          "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-03 的当日条目：Aleph Alpha Kolibri: How the sovereign German LLM works。讨论热度 424 分、12 条评论；出处 tej.as。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 424 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "tej.as"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Aleph Alpha Kolibri: How the sovereign G",
+              "url": "https://tej.as/blog/aleph-alpha-kolibri"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

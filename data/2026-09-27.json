@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-27",
+  "issue": "No.011",
+  "weekday": "周日",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-27 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-27 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "When did Google get so weird?",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：When did Google get so weird?。讨论热度 2015 分、1125 条评论；出处 sancho.bearblog.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 2015 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "sancho.bearblog.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · When did Google get so weird?",
+              "url": "https://sancho.bearblog.dev/google-weird/"
+            }
+          ]
+        },
+        {
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI。讨论热度 632 分、625 条评论；出处 authorsguild.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 632 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "authorsguild.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Unsealed Briefs in Authors’ Case v. Micr",
+              "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
+            }
+          ]
+        },
+        {
+          "title": "Ember-1",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：Ember-1。讨论热度 589 分、249 条评论；出处 fireworks.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 589 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "fireworks.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Ember-1",
+              "url": "https://fireworks.ai/blog/ember-1"
+            }
+          ]
+        },
+        {
+          "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election。讨论热度 471 分、303 条评论；出处 reddit.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 471 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "reddit.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Meta Blocks President Lula's Facebook Pa",
+              "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"
+            }
+          ]
+        },
+        {
+          "title": "There are no \"rogue\" AI agents",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：There are no \"rogue\" AI agents。讨论热度 396 分、269 条评论；出处 eoinhiggins.substack.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 396 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "eoinhiggins.substack.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · There are no \"rogue\" AI agents",
+              "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+            }
+          ]
+        },
+        {
+          "title": "Tells of a Slop UI",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-27 的当日条目：Tells of a Slop UI。讨论热度 386 分、243 条评论；出处 hereticpleb.vercel.app。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 386 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "hereticpleb.vercel.app"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tells of a Slop UI",
+              "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

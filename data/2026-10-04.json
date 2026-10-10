@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-04",
+  "issue": "No.018",
+  "weekday": "周日",
+  "generated_at": "2026-10-10 11:03 CST",
+  "window": "2026-10-04 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-04 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 8,
+    "clusters": 8,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：Improper redaction reveals Google Data Center water and electricity usage。讨论热度 528 分、715 条评论；出处 1011now.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 528 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "1011now.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Improper redaction reveals Google Data C",
+              "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "A browser-native classic Visual Basic VB6 IDE",
+          "category": "浏览器 / 端侧工作流",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：A browser-native classic Visual Basic VB6 IDE。讨论热度 417 分、138 条评论；出处 wieslawsoltes.github.io。",
+          "insight": "该条属于浏览器 / 端侧工作流方向，当日获得 417 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wieslawsoltes.github.io"
+          ],
+          "tags": [
+            "#补录",
+            "#端侧AI"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · A browser-native classic Visual Basic VB",
+              "url": "https://wieslawsoltes.github.io/VB6/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "category": "国内厂商与生态",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s。讨论热度 934 分、422 条评论；出处 github.com。",
+          "insight": "该条属于国内厂商与生态方向，当日获得 934 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Run Qwen 3.8 Flash Next (125B) on consum",
+              "url": "https://github.com/Niko1221/Strata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Tell HN: Bob Cringely has died",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：Tell HN: Bob Cringely has died。讨论热度 945 分、221 条评论；出处 news.ycombinator.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 945 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "news.ycombinator.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tell HN: Bob Cringely has died",
+              "url": "https://news.ycombinator.com/item?id=49949438"
+            }
+          ]
+        },
+        {
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：We're going to need default hard budget caps on pretty much everything。讨论热度 650 分、314 条评论；出处 simonwillison.net。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 650 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "simonwillison.net"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · We're going to need default hard budget ",
+              "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+            }
+          ]
+        },
+        {
+          "title": "Why don't more developers “use the platform”?",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-04 的当日条目：Why don't more developers “use the platform”?。讨论热度 328 分、370 条评论；出处 nolanlawson.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 328 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "nolanlawson.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Why don't more developers “use the platf",
+              "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-04 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.01762"
+            }
+          ]
+        },
+        {
+          "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-04 当日论文归档中的条目：OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.01762"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

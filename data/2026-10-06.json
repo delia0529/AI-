@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-06",
+  "issue": "No.020",
+  "weekday": "周二",
+  "generated_at": "2026-10-10 11:03 CST",
+  "window": "2026-10-06 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-06 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Mistral Large 4",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：Mistral Large 4。讨论热度 2036 分、1211 条评论；出处 mistral.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 2036 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "mistral.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Mistral Large 4",
+              "url": "https://mistral.ai/news/mistral-large-4/\\"
+            }
+          ]
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：Sharing AI progress in mathematics。讨论热度 1339 分、1523 条评论；出处 openai.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 1339 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "openai.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Sharing AI progress in mathematics",
+              "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+            }
+          ]
+        },
+        {
+          "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：Tell HN: GitHub refuses to remove cracked copies of my software after a month。讨论热度 568 分、344 条评论；出处 news.ycombinator.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 568 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "news.ycombinator.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tell HN: GitHub refuses to remove cracke",
+              "url": "https://news.ycombinator.com/item?id=49982498"
+            }
+          ]
+        },
+        {
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：EmbeddingGemma 2: An open, lightweight multimodal embedding model。讨论热度 435 分、46 条评论；出处 blog.google。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 435 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.google"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · EmbeddingGemma 2: An open, lightweight m",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+            }
+          ]
+        },
+        {
+          "title": "Decisions API is in public beta",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：Decisions API is in public beta。讨论热度 390 分、229 条评论；出处 developers.openai.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 390 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "developers.openai.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Decisions API is in public beta",
+              "url": "https://developers.openai.com/api/docs/guides/decisions"
+            }
+          ]
+        },
+        {
+          "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-06 的当日条目：Meta’s Muse is an adorable privacy and security dumpster fire。讨论热度 389 分、288 条评论；出处 techdirt.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 389 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "techdirt.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Meta’s Muse is an adorable privacy and s",
+              "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

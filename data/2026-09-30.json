@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-30",
+  "issue": "No.014",
+  "weekday": "周三",
+  "generated_at": "2026-10-10 11:02 CST",
+  "window": "2026-09-30 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-09-30 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：Gemini 4 Argon。讨论热度 1704 分、1190 条评论；出处 blog.google。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 1704 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.google"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Gemini 4 Argon",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+            }
+          ]
+        },
+        {
+          "title": "You said no MCP",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：You said no MCP。讨论热度 686 分、362 条评论；出处 earendil.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 686 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "earendil.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · You said no MCP",
+              "url": "https://earendil.com/posts/you-said-no-mcp/"
+            }
+          ]
+        },
+        {
+          "title": "September 2026: The world today, as seen by one Polish guy",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：September 2026: The world today, as seen by one Polish guy。讨论热度 525 分、391 条评论；出处 tomwojcik.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 525 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "tomwojcik.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · September 2026: The world today, as seen",
+              "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/"
+            }
+          ]
+        },
+        {
+          "title": "So you think you could be an electrician?",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：So you think you could be an electrician?。讨论热度 482 分、452 条评论；出处 asteriskmag.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 482 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "asteriskmag.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · So you think you could be an electrician",
+              "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"
+            }
+          ]
+        },
+        {
+          "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：Singapore govt dating app uses Gale-Shapley stable marriage algorithm。讨论热度 468 分、499 条评论；出处 twitter.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 468 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "twitter.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Singapore govt dating app uses Gale-Shap",
+              "url": "https://twitter.com/tuakdotsol/status/2105105417760391258"
+            }
+          ]
+        },
+        {
+          "title": "The AI Race Just Got Awkward",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-09-30 的当日条目：The AI Race Just Got Awkward。讨论热度 413 分、465 条评论；出处 insufferable.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 413 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "insufferable.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The AI Race Just Got Awkward",
+              "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

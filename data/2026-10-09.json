@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-09",
+  "issue": "No.023",
+  "weekday": "周五",
+  "generated_at": "2026-10-10 11:03 CST",
+  "window": "2026-10-09 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-09 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize。讨论热度 466 分、457 条评论；出处 reuters.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 466 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "reuters.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · US imposes sanctions on ICC hours after ",
+              "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Cloudflare acquires Deno",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：Cloudflare acquires Deno。讨论热度 1093 分、569 条评论；出处 deno.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 1093 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "deno.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Cloudflare acquires Deno",
+              "url": "https://deno.com/blog/cloudflare"
+            }
+          ]
+        },
+        {
+          "title": "Sorry, I'm in a meeting",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：Sorry, I'm in a meeting。讨论热度 793 分、244 条评论；出处 iminafleeting.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 793 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "iminafleeting.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Sorry, I'm in a meeting",
+              "url": "https://iminafleeting.com/"
+            }
+          ]
+        },
+        {
+          "title": "Triple-A Minesweeper",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：Triple-A Minesweeper。讨论热度 710 分、135 条评论；出处 minesweeper.mikelacher.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 710 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "minesweeper.mikelacher.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Triple-A Minesweeper",
+              "url": "https://minesweeper.mikelacher.com/"
+            }
+          ]
+        },
+        {
+          "title": "Our $445M Series D",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：Our $445M Series D。讨论热度 606 分、272 条评论；出处 oxide.computer。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 606 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "oxide.computer"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Our $445M Series D",
+              "url": "https://oxide.computer/blog/our-445m-series-d"
+            }
+          ]
+        },
+        {
+          "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-09 的当日条目：YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops。讨论热度 454 分、248 条评论；出处 gizmodo.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 454 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "gizmodo.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · YouTuber Says Cops Visited Him After He ",
+              "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-09 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.12374"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

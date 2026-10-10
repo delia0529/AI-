@@ -92,7 +92,7 @@
       "headline": "Sorry, I'm in a meeting",
       "url": "https://iminafleeting.com/",
       "summary": "",
-      "score": 862.0,
+      "score": 863.0,
       "sources": [
         {
           "name": "hn",
@@ -120,7 +120,7 @@
       "headline": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "summary": "",
-      "score": 761.0,
+      "score": 767.0,
       "sources": [
         {
           "name": "hn",
@@ -162,7 +162,7 @@
       "headline": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
       "summary": "",
-      "score": 535.0,
+      "score": 536.0,
       "sources": [
         {
           "name": "hn",
@@ -176,7 +176,7 @@
       "headline": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
       "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
       "summary": "",
-      "score": 516.0,
+      "score": 517.0,
       "sources": [
         {
           "name": "hn",
@@ -232,7 +232,7 @@
       "headline": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "summary": "Later: <a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-concerns.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-...</a>",
-      "score": 407.0,
+      "score": 408.0,
       "sources": [
         {
           "name": "hn",
@@ -330,7 +330,7 @@
       "headline": "Yandex Takes a Second Data Center Hit in 48 Hours",
       "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
       "summary": "",
-      "score": 292.0,
+      "score": 293.0,
       "sources": [
         {
           "name": "hn",
@@ -456,7 +456,7 @@
       "headline": "M7.6 Earthquake in Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
       "summary": "",
-      "score": 219.0,
+      "score": 220.0,
       "sources": [
         {
           "name": "hn",
@@ -582,7 +582,7 @@
       "headline": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
       "summary": "",
-      "score": 168.0,
+      "score": 171.0,
       "sources": [
         {
           "name": "hn",
@@ -649,6 +649,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "summary": "",
+      "score": 160.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+          "title": "Anthropic AI model submits false tip on unsolved Philly murder"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Anger as man sentenced to death for Facebook comment",
       "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
       "summary": "",
@@ -677,24 +691,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "summary": "",
-      "score": 157.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-          "title": "Anthropic AI model submits false tip on unsolved Philly murder"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "You might want to try being less creative",
       "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
       "summary": "",
-      "score": 154.0,
+      "score": 155.0,
       "sources": [
         {
           "name": "hn",
@@ -722,7 +722,7 @@
       "headline": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
       "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
       "summary": "",
-      "score": 151.0,
+      "score": 152.0,
       "sources": [
         {
           "name": "hn",

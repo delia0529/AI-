@@ -2,7 +2,7 @@
   "date": "2026-10-10",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 136,
+  "raw_count": 138,
   "clusters": [
     {
       "headline": "morluto/rea — GitHub Trending",
@@ -78,7 +78,7 @@
       "headline": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
       "summary": "",
-      "score": 1202.0,
+      "score": 1244.0,
       "sources": [
         {
           "name": "hn",
@@ -92,7 +92,7 @@
       "headline": "Sorry, I'm in a meeting",
       "url": "https://iminafleeting.com/",
       "summary": "",
-      "score": 895.0,
+      "score": 941.0,
       "sources": [
         {
           "name": "hn",
@@ -106,7 +106,7 @@
       "headline": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "summary": "",
-      "score": 843.0,
+      "score": 932.0,
       "sources": [
         {
           "name": "hn",
@@ -134,7 +134,7 @@
       "headline": "Our $445M Series D",
       "url": "https://oxide.computer/blog/our-445m-series-d",
       "summary": "",
-      "score": 709.0,
+      "score": 725.0,
       "sources": [
         {
           "name": "hn",
@@ -148,7 +148,7 @@
       "headline": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
       "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
       "summary": "",
-      "score": 569.0,
+      "score": 608.0,
       "sources": [
         {
           "name": "hn",
@@ -162,7 +162,7 @@
       "headline": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
       "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
       "summary": "",
-      "score": 558.0,
+      "score": 569.0,
       "sources": [
         {
           "name": "hn",
@@ -176,7 +176,7 @@
       "headline": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
       "summary": "",
-      "score": 541.0,
+      "score": 546.0,
       "sources": [
         {
           "name": "hn",
@@ -204,7 +204,7 @@
       "headline": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "summary": "",
-      "score": 476.0,
+      "score": 482.0,
       "sources": [
         {
           "name": "hn",
@@ -215,10 +215,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "summary": "",
+      "score": 424.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://typesafe.ai/blog/series-ai",
+          "title": "Typesafe AI raises $870M at $7.5B"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "summary": "Later: <a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-concerns.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-...</a>",
-      "score": 412.0,
+      "score": 417.0,
       "sources": [
         {
           "name": "hn",
@@ -243,24 +257,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "summary": "",
-      "score": 392.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://typesafe.ai/blog/series-ai",
-          "title": "Typesafe AI raises $870M at $7.5B"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Python 3.15",
       "url": "https://www.python.org/downloads/release/python-3150/",
       "summary": "",
-      "score": 381.0,
+      "score": 383.0,
       "sources": [
         {
           "name": "hn",
@@ -274,7 +274,7 @@
       "headline": "No Man Is an Island",
       "url": "https://borretti.me/article/no-man-is-an-island",
       "summary": "",
-      "score": 357.0,
+      "score": 368.0,
       "sources": [
         {
           "name": "hn",
@@ -285,66 +285,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.",
-      "score": 329.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://carrierexplode.com/",
-          "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "summary": "",
-      "score": 315.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://quake-srp.pages.dev/",
-          "title": "Show HN: Quake ported to safe Rust, playable in browser"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Yandex Takes a Second Data Center Hit in 48 Hours",
-      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-      "summary": "",
-      "score": 296.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-          "title": "Yandex Takes a Second Data Center Hit in 48 Hours"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
-      "summary": "",
-      "score": 275.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://github.com/microsoft/mxc",
-          "title": "MXC - a sandboxed code execution system"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
       "summary": "",
-      "score": 274.0,
+      "score": 365.0,
       "sources": [
         {
           "name": "hn",
@@ -355,15 +299,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "summary": "",
-      "score": 274.0,
+      "headline": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.",
+      "score": 360.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-          "title": "Germany transforms former coal mines into Europe's largest lake landscape"
+          "url": "https://carrierexplode.com/",
+          "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "summary": "",
+      "score": 302.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+          "title": "Yandex Takes a Second Data Center Hit in 48 Hours"
         }
       ],
       "duplicate_count": 1
@@ -372,7 +330,7 @@
       "headline": "Programming Isn't Special",
       "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
       "summary": "",
-      "score": 272.0,
+      "score": 287.0,
       "sources": [
         {
           "name": "hn",
@@ -383,15 +341,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "summary": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;EFOhL\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;EFOhL</a>",
-      "score": 270.0,
+      "headline": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "summary": "",
+      "score": 281.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-          "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT"
+          "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+          "title": "Germany transforms former coal mines into Europe's largest lake landscape"
         }
       ],
       "duplicate_count": 1
@@ -400,7 +358,7 @@
       "headline": "'Wallace and Gromit,' 90% Alone",
       "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
       "summary": "",
-      "score": 266.0,
+      "score": 281.0,
       "sources": [
         {
           "name": "hn",
@@ -411,15 +369,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Imposing Sanctions on the International Criminal Court",
-      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
-      "summary": "",
-      "score": 260.0,
+      "headline": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;EFOhL\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;EFOhL</a>",
+      "score": 272.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
-          "title": "Imposing Sanctions on the International Criminal Court"
+          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+          "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT"
         }
       ],
       "duplicate_count": 1
@@ -428,7 +386,7 @@
       "headline": "Microsoft-Decision-1, our model for fast decision-making",
       "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
       "summary": "",
-      "score": 257.0,
+      "score": 265.0,
       "sources": [
         {
           "name": "hn",
@@ -439,10 +397,38 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Imposing Sanctions on the International Criminal Court",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+      "summary": "",
+      "score": 263.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+          "title": "Imposing Sanctions on the International Criminal Court"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lobbying",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "summary": "",
+      "score": 243.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+          "title": "Lobbying"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "M7.6 Earthquake in Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
       "summary": "",
-      "score": 231.0,
+      "score": 238.0,
       "sources": [
         {
           "name": "hn",
@@ -453,15 +439,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Ideas aren't getting harder to find (2022)",
-      "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+      "headline": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "summary": "",
-      "score": 217.0,
+      "score": 229.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-          "title": "Ideas aren't getting harder to find (2022)"
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+          "title": "Anthropic AI model submits false tip on unsolved Philly murder"
         }
       ],
       "duplicate_count": 1
@@ -470,7 +456,7 @@
       "headline": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "summary": "",
-      "score": 211.0,
+      "score": 222.0,
       "sources": [
         {
           "name": "hn",
@@ -481,10 +467,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Ideas aren't getting harder to find (2022)",
+      "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+      "summary": "",
+      "score": 220.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+          "title": "Ideas aren't getting harder to find (2022)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "A statement on the Tor Project's relationship with Mullvad",
       "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
       "summary": "",
-      "score": 209.0,
+      "score": 214.0,
       "sources": [
         {
           "name": "hn",
@@ -495,10 +495,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "summary": "",
+      "score": 199.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://readrare.com/",
+          "title": "Show HN: The rarest tech books and docs you've probably never read"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "The Hetzner Cloud network stack – history and technical overview",
       "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
       "summary": "",
-      "score": 194.0,
+      "score": 196.0,
       "sources": [
         {
           "name": "hn",
@@ -523,15 +537,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "headline": "Scam American companies are using to manipulate ingredient lists",
+      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
       "summary": "",
-      "score": 188.0,
+      "score": 183.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-          "title": "Anthropic AI model submits false tip on unsolved Philly murder"
+          "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+          "title": "Scam American companies are using to manipulate ingredient lists"
         }
       ],
       "duplicate_count": 1
@@ -565,15 +579,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
+      "headline": "Why are coding agents so dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
       "summary": "",
-      "score": 178.0,
+      "score": 176.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://readrare.com/",
-          "title": "Show HN: The rarest tech books and docs you've probably never read"
+          "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+          "title": "Why are coding agents so dumb?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "summary": "",
+      "score": 175.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+          "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
         }
       ],
       "duplicate_count": 1
@@ -593,29 +621,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "headline": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
       "summary": "",
-      "score": 173.0,
+      "score": 172.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-          "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Why are coding agents so dumb?",
-      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-      "summary": "",
-      "score": 168.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-          "title": "Why are coding agents so dumb?"
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+          "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
         }
       ],
       "duplicate_count": 1
@@ -649,24 +663,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Scam American companies are using to manipulate ingredient lists",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "summary": "",
-      "score": 164.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-          "title": "Scam American companies are using to manipulate ingredient lists"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Court throws out killer's sentence after judge said he loved AI video of victim",
       "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
       "summary": "",
-      "score": 159.0,
+      "score": 160.0,
       "sources": [
         {
           "name": "hn",
@@ -680,12 +680,26 @@
       "headline": "You might want to try being less creative",
       "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
       "summary": "",
-      "score": 156.0,
+      "score": 158.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
           "title": "You might want to try being less creative"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+      "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "summary": "",
+      "score": 156.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+          "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology"
         }
       ],
       "duplicate_count": 1
@@ -705,15 +719,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
-      "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "headline": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "summary": "",
-      "score": 153.0,
+      "score": 150.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
-          "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology"
+          "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+          "title": "Telegram Desktop vulnerability allowed any user's file to be stolen"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Japan's most famous tuna buyer says he turned Somali pirates into fishermen",
+      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "summary": "",
+      "score": 150.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+          "title": "Japan's most famous tuna buyer says he turned Somali pirates into fishermen"
         }
       ],
       "duplicate_count": 1
@@ -733,29 +761,43 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Japan's most famous tuna buyer says he turned Somali pirates into fishermen",
-      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "headline": "100+ reactions to 100+ solutions",
+      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
       "summary": "",
-      "score": 149.0,
+      "score": 147.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-          "title": "Japan's most famous tuna buyer says he turned Somali pirates into fishermen"
+          "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+          "title": "100+ reactions to 100+ solutions"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "headline": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "summary": "",
       "score": 146.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-          "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
+          "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+          "title": "Can you use autoregressive diffusion to generate market data?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://lwn.net/Articles/1055211/",
+          "title": "Compiling Rust to readable C with Eurydice"
         }
       ],
       "duplicate_count": 1
@@ -792,7 +834,7 @@
       "headline": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad",
       "url": "https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/",
       "summary": "",
-      "score": 140.0,
+      "score": 144.0,
       "sources": [
         {
           "name": "hn",
@@ -820,12 +862,54 @@
       "headline": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
       "url": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926",
       "summary": "",
-      "score": 136.0,
+      "score": 139.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926",
           "title": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+      "url": "https://www.nber.org/papers/w35854",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nber.org/papers/w35854",
+          "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil",
+      "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+      "summary": "",
+      "score": 136.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+          "title": "Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+          "title": "Rewriting Prime Agent in Rust"
         }
       ],
       "duplicate_count": 1
@@ -845,43 +929,113 @@
       "duplicate_count": 1
     },
     {
-      "headline": "100+ reactions to 100+ solutions",
-      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-      "summary": "",
-      "score": 135.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-          "title": "100+ reactions to 100+ solutions"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
-      "url": "https://www.nber.org/papers/w35854",
+      "headline": "I'm still around.. I'm just not writing here",
+      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
       "summary": "",
       "score": 134.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.nber.org/papers/w35854",
-          "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025"
+          "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+          "title": "I'm still around.. I'm just not writing here"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "I'm still around.. I'm just not writing here",
-      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
-      "summary": "",
-      "score": 133.0,
+      "headline": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)",
+      "url": "https://www.techmeme.com/261010/p7#a261010p7",
+      "summary": "\n TrendForce:\nLaptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs&nbsp; &mdash;&nbsp; TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is expected to shift &hellip; ",
+      "score": 100.0,
       "sources": [
         {
-          "name": "hn",
-          "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
-          "title": "I'm still around.. I'm just not writing here"
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p7#a261010p7",
+          "title": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
+      "url": "https://www.techmeme.com/261010/p6#a261010p6",
+      "summary": "\n Yifan Yu / Nikkei Asia:\nChip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market&nbsp; &mdash;&nbsp; PALO ALTO, California &mdash; Chip design software leader Synopsys says it is looking to help Chinese companies develop chips faster &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p6#a261010p6",
+          "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)",
+      "url": "https://www.techmeme.com/261010/p5#a261010p5",
+      "summary": "\n Bloomberg:\nSources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue&nbsp; &mdash;&nbsp; Nvidia-Backed Firmus IPO Collapses Video Player is loading.&nbsp; &mdash;&nbsp; Current Time 0:00 Loaded: 17.94% Playback Rate&nbsp; &mdash;&nbsp; This is a modal window.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p5#a261010p5",
+          "title": "Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)",
+      "url": "https://www.techmeme.com/261010/p4#a261010p4",
+      "summary": "\n Kaan Serin / Eurogamer.net:\nCircana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices&nbsp; &mdash;&nbsp; &ldquo;Price sensitivity is becoming a real problem.&rdquo;&nbsp; &mdash;&nbsp; Follow Grand Theft Auto VI &hellip; PS5 and Xbox Series X/S consoles &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p4#a261010p4",
+          "title": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+      "url": "https://www.techmeme.com/261010/p3#a261010p3",
+      "summary": "\n New York Times:\nSources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed&nbsp; &mdash;&nbsp; The Philadelphia Police Department said the agents had also sent in a false homicide tip.&nbsp; The incidents led the White House &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p3#a261010p3",
+          "title": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M (Paul Sawers/The New Stack)",
+      "url": "https://www.techmeme.com/261010/p2#a261010p2",
+      "summary": "\n Paul Sawers / The New Stack:\nCloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M&nbsp; &mdash;&nbsp; Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl, a longtime competitor that recently built its own open-source version &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p2#a261010p2",
+          "title": "Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M (Paul Sawers/The New Stack)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)",
+      "url": "https://www.techmeme.com/261010/p1#a261010p1",
+      "summary": "\n Nik Popli / Time:\nA US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits&nbsp; &mdash;&nbsp; Nik Popli &hellip; As the world's biggest technology companies race to build data centers across the country to power an AI boom &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261010/p1#a261010p1",
+          "title": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)"
         }
       ],
       "duplicate_count": 1
@@ -994,104 +1148,6 @@
           "name": "techmeme",
           "url": "https://www.techmeme.com/261009/p28#a261009p28",
           "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)",
-      "url": "https://www.techmeme.com/261009/p27#a261009p27",
-      "summary": "\n Bob Van Voris / Bloomberg:\nA man US authorities called a &ldquo;fixer&rdquo;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty&nbsp; &mdash;&nbsp; A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan &ldquo;Wally&rdquo; Liaw of conspiring to send cutting-edge chips &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p27#a261009p27",
-          "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
-      "url": "https://www.techmeme.com/261009/p26#a261009p26",
-      "summary": "\n Maria Curi / Axios:\nSources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event&nbsp; &mdash;&nbsp; - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p26#a261009p26",
-          "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
-      "url": "https://www.techmeme.com/261009/p25#a261009p25",
-      "summary": "\n Hugh Langley / Business Insider:\nSources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &ldquo;feels like Opus 5.5&rdquo;&nbsp; &mdash;&nbsp; As Google prepares to roll out its new Gemini 4 &lsquo;Argon&rsquo; model to the public, staff inside the company are testing better versions &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p25#a261009p25",
-          "title": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)",
-      "url": "https://www.techmeme.com/261009/p24#a261009p24",
-      "summary": " Rebecca Torrence / Bloomberg:\nSources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M&nbsp; &mdash;&nbsp; Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people familiar with the matter.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p24#a261009p24",
-          "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Verizon closed down 8.75%, its worst day since 2002, while T-Mobile fell 13.27% and AT&T 9.81% after SpaceX announced a nationwide spectrum deal on Thursday (CJ Haddad/CNBC)",
-      "url": "https://www.techmeme.com/261009/p23#a261009p23",
-      "summary": "\n CJ Haddad / CNBC:\nVerizon closed down 8.75%, its worst day since 2002, while T-Mobile fell 13.27% and AT&amp;T 9.81% after SpaceX announced a nationwide spectrum deal on Thursday&nbsp; &mdash;&nbsp; Telecommunications stocks sold off on Friday after Elon Musk's SpaceX announced an agreement to purchase a nationwide spectrum portfolio &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p23#a261009p23",
-          "title": "Verizon closed down 8.75%, its worst day since 2002, while T-Mobile fell 13.27% and AT&T 9.81% after SpaceX announced a nationwide spectrum deal on Thursday (CJ Haddad/CNBC)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
-      "url": "https://www.techmeme.com/261009/p22#a261009p22",
-      "summary": "\n 6abc:\nPhiladelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18&nbsp; &mdash;&nbsp; Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment&nbsp; &mdash;&nbsp; ShareFollow 6abc on Google",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p22#a261009p22",
-          "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "A record 42 startups became decacorns so far in 2026, beating 2021's 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 (Lucinda Shen/Axios)",
-      "url": "https://www.techmeme.com/261009/p21#a261009p21",
-      "summary": "\n Lucinda Shen / Axios:\nA record 42 startups became decacorns so far in 2026, beating 2021's 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020&nbsp; &mdash;&nbsp; We're in the golden age of decacorns.&nbsp; &mdash; The average time from launch to decacorn has been cut in nearly half, and some decacorns arrive literally overnight.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261009/p21#a261009p21",
-          "title": "A record 42 startups became decacorns so far in 2026, beating 2021's 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 (Lucinda Shen/Axios)"
         }
       ],
       "duplicate_count": 1
@@ -1293,34 +1349,6 @@
           "name": "qbitai",
           "url": "https://www.qbitai.com/2026/10/502364.html",
           "title": "字节找到了DeepSeek时强时弱的原因"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "summary": "Google 研究成果首次登上《柳叶刀》主刊",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/502359.html",
-          "title": "《柳叶刀》研究表明：AI 有望改善医患关系"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "url": "https://www.qbitai.com/2026/10/502330.html",
-      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/502330.html",
-          "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
         }
       ],
       "duplicate_count": 1
@@ -1746,7 +1774,35 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Chinese camera rivals battle for dominance after GoPro’s decline",
+      "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
+      "url": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+      "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+          "title": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Inside the ‘robot gyms’ training machines for the real world",
+      "url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+      "summary": "‘Physical AI’ developers are putting cameras in homes, offices and factories to fill a gap in the training material of robotics",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+          "title": "Inside the ‘robot gyms’ training machines for the real world"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GoPro’s decline puts Chinese camera rivals in the picture",
       "url": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
       "summary": "DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker",
       "score": 80.0,
@@ -1754,7 +1810,7 @@
         {
           "name": "ft_tech",
           "url": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
-          "title": "Chinese camera rivals battle for dominance after GoPro’s decline"
+          "title": "GoPro’s decline puts Chinese camera rivals in the picture"
         }
       ],
       "duplicate_count": 1
@@ -1867,34 +1923,6 @@
           "name": "ft_tech",
           "url": "https://www.ft.com/content/2d4333d1-8119-44a4-a5a5-2ee9ef2544fa?syn-25a6b1a6=1",
           "title": "Japan declares cyber space emergency as attacks soar"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "US bans Microsoft and Indian IT groups from sponsoring workers for residency",
-      "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-      "summary": "Announcement affecting several tech groups marks White House’s latest attempt to limit immigration",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-          "title": "US bans Microsoft and Indian IT groups from sponsoring workers for residency"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
-      "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
-      "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
-          "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet"
         }
       ],
       "duplicate_count": 1

@@ -2,7 +2,8 @@
   "site": {
     "title": "AI 趋势日报",
     "subtitle": "AI Daily Digest",
-    "base_url": "https://ai-daily-digest.pages.dev",
+    "base_url": "https://delia0529.github.io/AI-",
+    "alt_url": "https://ai-daily-digest.pages.dev",
     "timezone": "Asia/Shanghai",
     "schedule": {
       "ingest": "06:00-07:30",

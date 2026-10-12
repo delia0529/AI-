@@ -1,0 +1,664 @@
+{
+  "date": "2026-10-11",
+  "issue": "No.025",
+  "weekday": "周日",
+  "generated_at": "2026-10-12 15:50 CST",
+  "window": "2026-10-10 09:00 → 2026-10-11 09:00 CST",
+  "headline": "先假定模型已被攻陷",
+  "deck": "一天之内 Satya Nadella 给出两个判断：AI 模型需要「紧急刹车」，且企业应当假定所有模型都已被攻陷。同期 Anthropic 切断内部评估环境的联网，创业公司开始卖「给企业 Agent 上运行时安全」的工具，Nvidia 被传洽购开放模型初创 Reflection AI。安全议题的重心，正从「把模型对齐好」移向「假定已经失守之后怎么收住」。",
+  "stats": {
+    "sources": 8,
+    "raw": 101,
+    "items": 22,
+    "clusters": 99,
+    "dedupe_rate": "2%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {
+          "k": "货币与流动性",
+          "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"
+        },
+        {
+          "k": "算力供应链",
+          "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"
+        },
+        {
+          "k": "主权与监管",
+          "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"
+        }
+      ],
+      "items": [
+        {
+          "id": "ma-1",
+          "title": "Nadella：应当假定所有 AI 模型都已被攻陷",
+          "category": "AI 安全 / 大厂战略",
+          "priority": "high",
+          "facts": "Satya Nadella 表示，企业应当假定所有 AI 模型都已被攻陷（compromised）；他在另一场合同时提出 AI 模型需要一套「紧急刹车」机制。",
+          "insight": "这是头部厂商 CEO 第一次把模型当作「不可信组件」来谈系统设计。过去的安全叙事建立在「把模型对齐好」之上，而这句话把前提改成了「假定已经失守」——架构含义完全不同：重点从输入过滤转向权限隔离、行为监控与可回滚的紧急制动。",
+          "entities": [
+            "Microsoft",
+            "Satya Nadella"
+          ],
+          "tags": [
+            "#AI安全",
+            "#Agent安全",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+            },
+            {
+              "name": "source",
+              "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ma-2",
+          "title": "Anthropic 切断内部评估环境的互联网访问",
+          "category": "AI 安全 / 评测",
+          "priority": "high",
+          "facts": "报道称 Anthropic 正在切断其内部评估环境与互联网的连接。",
+          "insight": "把评估环境做物理隔离，等于承认「评估结果本身也可能被污染」。这与 Nadella 的表态指向同一件事：当模型具备自主行动能力，评测链路本身成了攻击面。隔离会拖慢迭代，但这是能力上升后必须付的税。",
+          "entities": [
+            "Anthropic"
+          ],
+          "tags": [
+            "#AI安全",
+            "#评测",
+            "#Agent安全"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ma-3",
+          "title": "「超级智能系统是黑箱，企业不应信任」",
+          "category": "AI 安全 / 企业落地",
+          "priority": "mid",
+          "facts": "有观点指出，所谓「超级智能系统」本质上是黑箱，不应被企业当作可信组件直接使用，需要更强的约束结构。",
+          "insight": "企业采购 AI 的真实门槛正在从「效果好不好」变成「能不能解释与追责」。这会利好两类产品：可观测性工具与带强制审计链路的 Agent 平台——它们卖的不是智能，是责任边界。",
+          "entities": [],
+          "tags": [
+            "#AI安全",
+            "#商业化",
+            "#Agent工程"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p18#a261010p18"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ma-4",
+          "title": "AI 借贷降温：投资者开始警惕债务狂欢",
+          "category": "算力 / 宏观金融",
+          "priority": "high",
+          "facts": "《金融时报》报道，与 AI 相关的借贷活动放缓，投资者对债务驱动扩张趋于谨慎；同日另有评论称全球市场正在变成「单一交易——AI」。",
+          "insight": "融资端先于需求端转向。数据中心是典型的重资产、长回收期项目，一旦债务成本上升或再融资窗口收窄，最先受影响的是扩张节奏而非存量算力。对依赖外部产能的模型公司，这是一个要提前锁产能的信号。",
+          "entities": [],
+          "tags": [
+            "#算力",
+            "#投融资",
+            "#算力基础设施"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1"
+            },
+            {
+              "name": "source",
+              "url": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ma-5",
+          "title": "日本 20 余家大企业接连遭网络攻击",
+          "category": "网络安全 / 政策",
+          "priority": "mid",
+          "facts": "近数周内 20 多家日本大型企业报告遭受网络攻击，日本网络安全机构负责人就此发声。",
+          "insight": "攻击面正在从「企业自己」扩展到「企业所用的 AI 供应链」。当 Agent 被赋予系统权限，一次提示注入的破坏半径可能等同于一次内网横向移动——这也是运行时安全工具开始成为独立品类的原因。",
+          "entities": [],
+          "tags": [
+            "#AI安全",
+            "#政策监管",
+            "#地缘政治"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p19#a261010p19"
+            }
+          ],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {
+          "k": "传统巨头装配",
+          "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"
+        },
+        {
+          "k": "国内超级入口",
+          "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"
+        },
+        {
+          "k": "AI-Native 流派",
+          "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"
+        }
+      ],
+      "items": [
+        {
+          "id": "br-1",
+          "title": "AI Agent 厂商纷纷承诺隐私，能兑现吗",
+          "category": "端侧工作流 / 隐私",
+          "priority": "high",
+          "facts": "The Verge 报道，AI Agent 厂商普遍把隐私作为卖点承诺，但承诺与实际数据流向之间仍存在落差。",
+          "insight": "Agent 要干活就必须读屏幕、读文件、代登录——这天然与「不采集」冲突。真正的差别不在承诺措辞，而在执行位置：端侧跑、可审计、可一键吊销权限，才是能被验证的隐私，而不是被宣传的隐私。",
+          "entities": [],
+          "tags": [
+            "#端侧AI",
+            "#产品形态",
+            "#Agent安全"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "br-2",
+          "title": "Talorys：跑在 Cloudflare 免费层上的自托管个人 Agent",
+          "category": "端侧工作流 / 开发者工具",
+          "priority": "mid",
+          "facts": "HN 热门项目 Talorys 是一个可自托管的个人 AI Agent，可运行在 Cloudflare 的免费额度之上。",
+          "insight": "「零成本常驻 Agent」第一次变得可行。它的意义不在省钱，而在于把 Agent 的归属权交还给用户——数据在自己账户里、可随时关停。这类方案会持续挤压「云端托管型个人助手」的差异化空间。",
+          "entities": [
+            "Cloudflare"
+          ],
+          "tags": [
+            "#端侧AI",
+            "#开源生态",
+            "#Agent工作流"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://github.com/rociiu/talorys"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "br-3",
+          "title": "数百款老游戏被反编译并移植到浏览器运行",
+          "category": "浏览器 / 工程",
+          "priority": "mid",
+          "facts": "近数周有数百款老游戏被反编译并移植到浏览器中运行，这一过程大量借助 AI 辅助完成。",
+          "insight": "浏览器正在从「看内容的壳」变回「跑程序的平台」。当 AI 能把二进制逆向成可在 Web 上运行的形态，浏览器的价值不再只是渲染网页，而是一个免安装、跨平台的应用运行时——这一点对 Agent 的长期落点影响很大。",
+          "entities": [],
+          "tags": [
+            "#Agent工程",
+            "#开源生态",
+            "#产品形态"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p17#a261010p17"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "br-4",
+          "title": "Apple 从个性化播客初创 Huxe 挖人并授权技术",
+          "category": "大厂战略 / 端侧 AI",
+          "priority": "low",
+          "facts": "Apple 披露一笔交易：从个性化播客初创公司 Huxe 聘入团队并授权其技术。",
+          "insight": "Apple 在补的是「个性化内容生成」这块短板。结合其智能家居与端侧布局看，意图很清晰：把个人助理的能力从被动应答扩展到主动生产内容——而这恰恰是云端模型最难拿到的那部分用户上下文。",
+          "entities": [
+            "Apple",
+            "Huxe"
+          ],
+          "tags": [
+            "#大厂战略",
+            "#端侧AI",
+            "#商业化"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+            }
+          ],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {
+          "k": "腾讯",
+          "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"
+        },
+        {
+          "k": "字节跳动",
+          "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"
+        },
+        {
+          "k": "阿里巴巴",
+          "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"
+        }
+      ],
+      "items": [
+        {
+          "id": "ch-1",
+          "title": "特斯拉 FSD 在欧洲被打回原形",
+          "category": "自动驾驶 / 产品落地",
+          "priority": "mid",
+          "facts": "量子位报道，特斯拉 FSD 在欧洲市场的表现被指远低于预期。",
+          "insight": "自动驾驶的落差通常不在算法而在监管与路况分布。同一套模型跨区域迁移时会遇到训练分布外的问题，这对所有「一套模型打全球」的 AI 产品都是提醒：本地化不是翻译，是重训。",
+          "entities": [
+            "Tesla"
+          ],
+          "tags": [
+            "#商业化",
+            "#产品形态",
+            "#评测"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.qbitai.com/2026/10/502467.html"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ch-2",
+          "title": "北京新石器 Neolix 运营全球最大 Robovan 车队，规模 2.7 万台",
+          "category": "具身智能 / 商业化",
+          "priority": "mid",
+          "facts": "报道介绍了总部位于北京的新石器（Neolix），其运营的无人配送车队规模达 2.7 万台，为全球最大。",
+          "insight": "在具身智能普遍停留在演示的阶段，Neolix 证明了「限定场景 + 可规模复制」能跑出真实车队。2.7 万台的意义不是技术领先，而是运营数据——自动驾驶的壁垒最终是里程与corner case 的积累速度。",
+          "entities": [
+            "新石器 Neolix"
+          ],
+          "tags": [
+            "#商业化",
+            "#硬件",
+            "#生态"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261011/p5#a261011p5"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "ch-3",
+          "title": "IDC：DJI 与 Insta360 占全球智能相机市场 73% 与 20%",
+          "category": "硬件 / 市场份额",
+          "priority": "low",
+          "facts": "IDC 数据显示，深圳的大疆（DJI）与影石（Insta360）分别占据全球智能相机市场约 73% 与 20% 的份额。",
+          "insight": "在 AI 硬件叙事满天飞的时候，这两家给出了一个反例：份额来自长期光学与结构工程积累，而不是模型能力。做 AI 硬件的公司需要认清自己到底在卖智能，还是在卖一台被 AI 增强的成熟产品。",
+          "entities": [
+            "DJI",
+            "Insta360"
+          ],
+          "tags": [
+            "#硬件",
+            "#商业化",
+            "#供应链"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p15#a261010p15"
+            }
+          ],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {
+          "k": "海外前沿",
+          "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"
+        },
+        {
+          "k": "国内第一梯队",
+          "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"
+        },
+        {
+          "k": "技术演进焦点",
+          "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"
+        }
+      ],
+      "items": [
+        {
+          "id": "fr-1",
+          "title": "微软发布 Microsoft-Decision-1：基于 Qwen3.5-9B 的快速决策评分模型",
+          "category": "模型发布 / 推理优化",
+          "priority": "high",
+          "facts": "微软发布 Microsoft-Decision-1，一个面向快速决策打分的模型，基于 Qwen3.5-9B 训练。",
+          "insight": "值得注意的不是性能而是选型：头部厂商在自己的产品线里直接用开源国产底座做微调。这说明「自研 vs 开源」的意识形态之争已经结束，剩下的只有成本、时延与可控性的工程账。",
+          "entities": [
+            "Microsoft",
+            "Qwen"
+          ],
+          "tags": [
+            "#模型架构",
+            "#推理优化",
+            "#开源生态"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261011/p2#a261011p2"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "fr-2",
+          "title": "Nvidia 洽谈收购或投资开放模型初创 Reflection AI",
+          "category": "投融资 / 开源",
+          "priority": "high",
+          "facts": "报道称 Nvidia 正洽谈收购或加大对美国「开放模型」初创公司 Reflection AI 的投资。",
+          "insight": "硬件巨头持续往模型层伸手，逻辑不是做模型生意，而是确保开源模型继续在自己的加速器上高效跑。对开源社区的现实影响是：中立性将进一步被侵蚀，而「多后端可移植」会从加分项变成必选项。",
+          "entities": [
+            "Nvidia",
+            "Reflection AI"
+          ],
+          "tags": [
+            "#投融资",
+            "#开源",
+            "#算力芯片"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "fr-3",
+          "title": "Tom Brown 借共和党人脉促成 SpaceX 每月 12.5 亿美元算力交易",
+          "category": "算力 / 大厂战略",
+          "priority": "high",
+          "facts": "报道称 Anthropic 联创 Tom Brown 借助共和党人脉，促成了与 SpaceX 的一笔每月约 12.5 亿美元的算力交易。",
+          "insight": "算力采购已经从商业谈判变成政治资源的比拼。当供给成为瓶颈，谁能拿到产能取决于关系网而非出价——这会显著改变竞争格局，也意味着中小厂商的算力可得性会持续恶化。",
+          "entities": [
+            "Tom Brown",
+            "Anthropic",
+            "SpaceX"
+          ],
+          "tags": [
+            "#算力",
+            "#大厂战略",
+            "#地缘政治"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "fr-4",
+          "title": "Rein Security：给企业 AI Agent 做运行时安全",
+          "category": "Agent 安全 / 创业",
+          "priority": "mid",
+          "facts": "安全初创 Rein Security 开发运行时工具，用于保护企业环境中的 AI Agent 并阻断对抗性攻击。",
+          "insight": "「Agent 运行时安全」正在成为独立品类，这本身就是行业成熟的标志：当某个风险大到需要专门工具，说明它已经进入生产环境。参照云原生安全的演进路径，这个赛道会比模型层更抗周期。",
+          "entities": [
+            "Rein Security"
+          ],
+          "tags": [
+            "#Agent安全",
+            "#AI安全",
+            "#商业化"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261011/p4#a261011p4"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "fr-5",
+          "title": "5000 亿 Token 之后：让 AI Agent 反编译一款第一人称射击游戏",
+          "category": "Agent 工程 / 长程任务",
+          "priority": "mid",
+          "facts": "一篇工程记录显示，借助 AI Agent 反编译并移植一款 FPS 游戏的过程累计消耗约 5000 亿 Token。",
+          "insight": "这个数字比任何榜单都更能说明当前长程 Agent 的成本量级。它划出了清晰的边界：能做的事已经很多，但只有高价值任务才负担得起。成本每降一个数量级，可自动化的任务边界就外扩一圈——这才是值得跟踪的曲线。",
+          "entities": [],
+          "tags": [
+            "#Agent工程",
+            "#推理成本",
+            "#评测"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "fr-6",
+          "title": "Agent 学会从经验中学习：AgentGarten、Learn2Play Bench 与 MiMo-V2.6",
+          "category": "Agent 工程 / 论文",
+          "priority": "mid",
+          "facts": "当日 Hugging Face 论文包括 AgentGarten（用于演化 Agent 的代码世界）、Learn2Play Bench（评测 LLM Agent 在陌生环境中从经验学习的能力），以及 MiMo-V2.6（面向自我改进的强化学习规模化）。",
+          "insight": "评测重点正从「Agent 会不会做」转向「做过多轮之后会不会变强」。这是 Agent 从工具走向劳动力前必须跨过的一道坎——没有经验积累能力，规模化部署就只是在重复付首次成本。",
+          "entities": [
+            "Hugging Face"
+          ],
+          "tags": [
+            "#Agent工程",
+            "#论文",
+            "#开源生态"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://huggingface.co/papers/2610.12374"
+            },
+            {
+              "name": "source",
+              "url": "https://huggingface.co/papers/2610.08215"
+            },
+            {
+              "name": "source",
+              "url": "https://huggingface.co/papers/2610.11959"
+            }
+          ],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的形态：交互是否收缩成一个输入框，视觉是否敢于留白，硬件是否还有存在的必要。",
+      "watchlist": [
+        {
+          "k": "装配派",
+          "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"
+        },
+        {
+          "k": "超级工作台",
+          "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"
+        },
+        {
+          "k": "AI-Native 派",
+          "v": "Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"
+        },
+        {
+          "k": "隐私与信任",
+          "v": "Brave / Firefox：把「不采集」做成可被感知的产品主张，AI 时代信任成为可视化的设计对象"
+        },
+        {
+          "k": "工作区形态",
+          "v": "SigmaOS / Opera One：不谈 AI，先把「多任务空间」本身做成产品定义"
+        },
+        {
+          "k": "形态退场",
+          "v": "Rabbit（R1 → OS3）/ browser-use：硬件与界面双双退场，产品退化为一段可被调用的能力"
+        },
+        {
+          "k": "观察维度",
+          "v": "产品定义 · 工业设计 · 交互范式 · 信息架构 · UI 质感 · 颜色 · Icon · 动效反馈 · 无障碍 · 品牌语言"
+        }
+      ],
+      "items": [
+        {
+          "id": "de-1",
+          "title": "Agent 住进短信：交互入口退回最朴素的界面",
+          "category": "交互范式 / 产品形态",
+          "priority": "mid",
+          "facts": "TechCrunch 盘点了当前可以「住在短信里」的主流 AI Agent 产品。",
+          "insight": "一个反直觉的产品信号：在各类 Agent 拼命做独立 App 的时候，跑得最好的一批反而退回短信。原因很简单——短信有天然的身份、推送与免安装。判断一个 Agent 产品是否成立，先看它是否寄生在一个已有的高频行为上。",
+          "entities": [],
+          "tags": [
+            "#交互设计",
+            "#产品形态",
+            "#C端Agent"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "de-2",
+          "title": "个人 AI Agent 把我的银行信息发到了公司 Slack",
+          "category": "权限设计 / 事故",
+          "priority": "high",
+          "facts": "有用户记录其个人 AI Agent 将个人银行信息发布到公司 Slack 频道的事故。",
+          "insight": "这是 Agent 产品最典型的失败模式：工作区与个人数据的权限域被混为一谈。设计上必须把「Agent 能看到什么」做成显式、可见、可撤销的结构，而不是一个打勾的服务条款。一次这类事故对用户信任的破坏，胜过十次功能更新。",
+          "entities": [],
+          "tags": [
+            "#Agent安全",
+            "#产品形态",
+            "#交互设计"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "de-3",
+          "title": "Walmart 自动化约 200 个仓库的艰难推进",
+          "category": "企业落地 / 组织摩擦",
+          "priority": "mid",
+          "facts": "报道梳理了沃尔玛在推进约 200 个美国仓库自动化过程中遇到的困难。",
+          "insight": "企业 AI 落地的阻力很少来自技术，而来自流程改造与既有岗位的再分配。仓库自动化跑不通的地方，Agent 办公同样跑不通——评估任何企业级 Agent 方案，先问它要改动多少既有流程。",
+          "entities": [
+            "Walmart"
+          ],
+          "tags": [
+            "#商业化",
+            "#Agent工作流",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p10#a261010p10"
+            }
+          ],
+          "images": []
+        },
+        {
+          "id": "de-4",
+          "title": "出版业未经作者同意使用 AI 引发争议",
+          "category": "内容权属 / 产品设计",
+          "priority": "mid",
+          "facts": "报道称 HarperCollins、Simon & Schuster、Hachette 等出版机构的部分员工在未取得作者同意的情况下使用 AI。",
+          "insight": "生成成本归零之后，「授权」成为唯一还能构成稀缺性的东西。对任何处理他人内容的产品，把授权状态做成可查询、可撤销的一等公民字段，正在从合规要求变成产品竞争力。",
+          "entities": [
+            "HarperCollins"
+          ],
+          "tags": [
+            "#生态",
+            "#政策监管",
+            "#设计系统"
+          ],
+          "sources": [
+            {
+              "name": "source",
+              "url": "https://www.techmeme.com/261010/p11#a261010p11"
+            }
+          ],
+          "images": []
+        }
+      ]
+    }
+  ],
+  "backfill": true,
+  "backfill_note": "补录 · 自动化 summarize 阶段失败（LLM 接口不可用），内容由当日抓取素材人工汇编；去重降级为 tfidf"
+}

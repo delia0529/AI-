@@ -1,10 +1,11 @@
 name: AI Daily Digest
 
-# 每天 09:00（北京时间）自动生成一期日报并发布到 GitHub Pages。
+# 每天 09:15（北京时间）自动生成一期日报并发布到 GitHub Pages。
 # 发布后地址固定为 https://<owner>.github.io/<repo>/ ，每一期只换内容、不换地址。
 on:
   schedule:
-    - cron: "0 1 * * *"   # UTC 01:00 = 北京时间 09:00
+    # 避开整点触发高峰（GitHub 在负载高时会延迟甚至跳过整点的 schedule）
+    - cron: "15 1 * * *"   # UTC 01:15 = 北京时间 09:15
   workflow_dispatch:
 
 permissions:
@@ -15,6 +16,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      gen_failed: ${{ steps.status.outputs.gen_failed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -22,14 +25,47 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run pipeline
+      # 不再使用 `|| build_site.py --latest` 兜底：
+      # 那种兜底会让 summarize 失败时 job 依旧报绿、内容静默停在旧一期
+      #（10-11、10-12 两期即因此断更却无人察觉）。
+      - name: Generate digest
+        id: gen
+        continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+        run: python3 scripts/run_pipeline.py --skip-push
+
+      # 降级：正式生成失败时，用可回溯源（HN / HF Papers）产出「简版」，避免断更。
+      # 产出带 backfill 徽标，页面会明确标注「补录 · 数据源有限」。
+      - name: Fallback · backfill 简版
+        if: steps.gen.outcome == 'failure'
+        run: python3 scripts/backfill.py --start "$(date +%F)" --end "$(date +%F)"
+
+      - name: Render site
+        run: python3 scripts/build_site.py --latest
+
+      # 记录生成是否失败，交给独立的 alert job 去「报红」。
+      # 这里不能用 exit 1：否则后面的 commit / Pages 部署会被跳过，降级内容发不出去。
+      - name: Flag generation failure
+        id: status
         run: |
-          python3 scripts/run_pipeline.py --skip-push || \
-          python3 scripts/build_site.py --latest
+          echo "gen_failed=${{ steps.gen.outcome == 'failure' }}" >> $GITHUB_OUTPUT
+          if [ "${{ steps.gen.outcome }}" = "failure" ]; then
+            echo "::error::正式生成失败，本期已降级为 backfill 简版。请检查 OPENAI_API_KEY 与 LLM 接口可用性。"
+          fi
+
+      # 推送通知独立成步：内容已生成，通知失败不应让日报回滚；
+      # 但会以黄色警告暴露（continue-on-error），不会静默消失。
+      - name: Notify channels
+        if: success()
+        continue-on-error: true
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          SMTP_URL: ${{ secrets.SMTP_URL }}
+        run: python3 scripts/notify.py --date "$(date +%F)"
 
       - name: Commit new issue
         run: |
@@ -53,3 +89,16 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # 正式生成失败时由这个 job 变红：Pages 已正常发布（内容不中断），
+  # 但工作流整体失败 → GitHub 会发出通知邮件，问题不会被静默吞掉。
+  alert:
+    needs: build
+    if: needs.build.outputs.gen_failed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Report generation failure
+        run: |
+          echo "::error::AI 日报正式生成失败，本期已降级为 backfill 简版。"
+          echo "请检查仓库 secret OPENAI_API_KEY 是否有效、额度是否充足，以及 config.json 中 llm.base_url / model 是否可用。"
+          exit 1

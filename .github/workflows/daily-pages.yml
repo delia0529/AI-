@@ -7,6 +7,15 @@ on:
     # 避开整点触发高峰（GitHub 在负载高时会延迟甚至跳过整点的 schedule）
     - cron: "15 1 * * *"   # UTC 01:15 = 北京时间 09:15
   workflow_dispatch:
+  # push 到 main 时只重新渲染并部署（跳过生成，见 Generate digest 的 if 条件），
+  # 用于手动发布已补录的内容。paths-ignore 避免 bot 自身的提交重复触发。
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+      - "archive/**"
+      - "**.json"
+      - "**.html"
 
 permissions:
   contents: write
@@ -30,6 +39,8 @@ jobs:
       #（10-11、10-12 两期即因此断更却无人察觉）。
       - name: Generate digest
         id: gen
+        # push 触发时不重新生成，只渲染并发布已有内容（避免覆盖人工补录的期次）
+        if: github.event_name != 'push'
         continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

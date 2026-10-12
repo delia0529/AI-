@@ -1,0 +1,999 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-10-12 · AI 趋势日报 No.026</title>
+<meta name="description" content="Yandex 第三个数据中心遭无人机袭击、80 余项服务中断，其爬虫流量在 Cloudflare 上骤降约 99%——算力第一次以「物理目标」的身份进入 headlines。同一周，Bain 旗下 Bridge Data Centres 洽谈把一笔贷款从 28 亿美元上调至约 66 亿，Anthropic 的机房租约被拿来做财务模型拆解，英美之间关于 AISI 模型访问权限的拉扯重新松动。模型层的叙事仍在推进，但电力、债务与地缘，正在成为更硬的变量。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body class="page-shell" data-base="../" data-page="daily" data-date="2026-10-12" data-live="0">
+
+<header class="topbar">
+  <a class="brand" href="../index.html">
+    <span class="brand-mark">AI 趋势日报</span>
+    <span class="brand-sub">AI Daily Digest</span>
+  </a>
+  <div class="topbar-tools">
+    <select class="jumper" data-jumper aria-label="日期快速跳转">
+      <option value="2026-10-12" selected>2026-10-12 · 周一</option><option value="2026-10-10" >2026-10-10 · 周六</option><option value="2026-10-09" >2026-10-09 · 周五</option><option value="2026-10-08" >2026-10-08 · 周四</option><option value="2026-10-07" >2026-10-07 · 周三</option><option value="2026-10-06" >2026-10-06 · 周二</option><option value="2026-10-05" >2026-10-05 · 周一</option><option value="2026-10-04" >2026-10-04 · 周日</option><option value="2026-10-03" >2026-10-03 · 周六</option><option value="2026-10-02" >2026-10-02 · 周五</option><option value="2026-10-01" >2026-10-01 · 周四</option><option value="2026-09-30" >2026-09-30 · 周三</option><option value="2026-09-29" >2026-09-29 · 周二</option><option value="2026-09-28" >2026-09-28 · 周一</option><option value="2026-09-27" >2026-09-27 · 周日</option><option value="2026-09-26" >2026-09-26 · 周六</option><option value="2026-09-25" >2026-09-25 · 周五</option><option value="2026-09-24" >2026-09-24 · 周四</option><option value="2026-09-23" >2026-09-23 · 周三</option><option value="2026-09-22" >2026-09-22 · 周二</option><option value="2026-09-21" >2026-09-21 · 周一</option><option value="2026-09-20" >2026-09-20 · 周日</option><option value="2026-09-19" >2026-09-19 · 周六</option><option value="2026-09-18" >2026-09-18 · 周五</option><option value="2026-09-17" >2026-09-17 · 周四</option>
+    </select>
+    <button class="btn btn-ghost" data-read-start aria-label="朗读本日报">朗读 Read</button>
+    <button class="btn" data-drawer-open>归档 Archive</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="hero-eyebrow">
+      <span>2026年10月12日 · 周一</span><i class="dot"></i>
+      <span>No.026</span><i class="dot"></i>
+      <span>数据窗口 2026-10-11 09:00 → 2026-10-12 09:00 CST</span>
+    </div>
+    <h1 class="hero-title">机房成了会被炸的目标</h1>
+    <p class="hero-deck">Yandex 第三个数据中心遭无人机袭击、80 余项服务中断，其爬虫流量在 Cloudflare 上骤降约 99%——算力第一次以「物理目标」的身份进入 headlines。同一周，Bain 旗下 Bridge Data Centres 洽谈把一笔贷款从 28 亿美元上调至约 66 亿，Anthropic 的机房租约被拿来做财务模型拆解，英美之间关于 AISI 模型访问权限的拉扯重新松动。模型层的叙事仍在推进，但电力、债务与地缘，正在成为更硬的变量。</p>
+    <div data-backfill-slot><div class="backfill-badge">补录 · 自动化 summarize 阶段失败（LLM 接口不可用），内容由当日抓取素材人工汇编；去重降级为 tfidf</div></div>
+    <div class="hero-meta">
+      <div><b>8</b><span>监控源</span></div>
+      <div><b>118</b><span>原始条目</span></div>
+      <div><b>118</b><span>去重后聚类</span></div>
+      <div><b>23</b><span>精选条目</span></div>
+      <div><b>0%</b><span>多源重复率</span></div>
+    </div>
+  </section>
+
+  <div class="layout">
+    <aside class="rail">
+      <div class="rail-block">
+        <div class="rail-title">目录 Contents</div>
+        <ul class="anchor-list">
+          <li><a href="#macro"><i>01</i><span>全球 AI 宏观与政经脉搏</span></a></li><li><a href="#browser"><i>02</i><span>AI 浏览器与端侧工作流</span></a></li><li><a href="#china"><i>03</i><span>国内三巨头与本土生态</span></a></li><li><a href="#frontier"><i>04</i><span>前沿模型与落地产品</span></a></li><li><a href="#design"><i>05</i><span>AI 视觉 UI 设计趋势</span></a></li>
+        </ul>
+      </div>
+
+      <div class="rail-block">
+        <div class="rail-title">标签 Tags · <span data-filter-count>23</span> 条</div>
+        <div class="tag-cloud" data-tag-cloud>
+          <button class="tag" data-tag="#算力基础设施">#算力基础设施</button><button class="tag" data-tag="#地缘政治">#地缘政治</button><button class="tag" data-tag="#供应链">#供应链</button><button class="tag" data-tag="#AI安全">#AI安全</button><button class="tag" data-tag="#政策监管">#政策监管</button><button class="tag" data-tag="#算力">#算力</button><button class="tag" data-tag="#投融资">#投融资</button><button class="tag" data-tag="#算力芯片">#算力芯片</button><button class="tag" data-tag="#端侧AI">#端侧AI</button><button class="tag" data-tag="#产品形态">#产品形态</button><button class="tag" data-tag="#C端Agent">#C端Agent</button><button class="tag" data-tag="#硬件">#硬件</button><button class="tag" data-tag="#大厂战略">#大厂战略</button><button class="tag" data-tag="#交互设计">#交互设计</button><button class="tag" data-tag="#UI设计">#UI设计</button><button class="tag" data-tag="#生态">#生态</button><button class="tag" data-tag="#开源生态">#开源生态</button><button class="tag" data-tag="#开发者工具">#开发者工具</button><button class="tag" data-tag="#Agent工作流">#Agent工作流</button><button class="tag" data-tag="#商业化">#商业化</button><button class="tag" data-tag="#模型训练">#模型训练</button><button class="tag" data-tag="#论文">#论文</button><button class="tag" data-tag="#评测">#评测</button><button class="tag" data-tag="#开源">#开源</button><button class="tag" data-tag="#Agent工程">#Agent工程</button><button class="tag" data-tag="#无障碍">#无障碍</button><button class="tag" data-tag="#设计系统">#设计系统</button>
+        </div>
+        <button class="btn btn-ghost rail-reset" data-tag-reset style="margin-top:14px">清除筛选</button>
+      </div>
+
+      <div class="rail-block">
+        <div class="rail-title">工作流 Pipeline</div>
+        <p class="rail-note">06:00 抓取 → 07:30 Embedding 聚类去重 → 08:15 LLM 结构化提炼 → 08:45 SSG 渲染 → 09:00 发布与推送。</p>
+      </div>
+    </aside>
+
+    <div class="stream">
+      
+      <section class="module" id="macro">
+        <div class="module-head">
+          <span class="module-index">01</span>
+          <h2 class="module-name">全球 AI 宏观与政经脉搏</h2>
+          <span class="module-en">MACRO &amp; POLICY</span>
+          <button class="mod-read" data-read-module="macro" aria-label="朗读本模块">朗读本节</button>
+        </div>
+        <p class="module-note">本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。</p>
+
+        
+        <article class="item" id="ma-1" data-tags="#算力基础设施|#地缘政治|#供应链">
+          <div class="item-top">
+            <span class="item-no">01·01</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">Yandex 第三个数据中心遭无人机袭击，80 余项服务中断</h3>
+          <div class="item-cat">算力基础设施 / 地缘冲突</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">Yandex 通报，无人机袭击导致其第三个数据中心停机，Yandex Cloud 等 80 多项服务中断；Cloudflare Radar 数据显示，事故后 Yandex 的爬虫流量下降约 99%。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">算力第一次以「物理目标」的身份进入 headlines。过去讨论数据中心，语境是电力、租金与 PUE；现在要加上战时韧性与地理冗余。对任何把推理放在单一区域的服务来说，这不是别人的新闻，而是可用性模型的重新定价。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#算力基础设施</span><span class="tag">#地缘政治</span><span class="tag">#供应链</span></div>
+            <div class="item-entities">关联：Yandex、Cloudflare</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://status.yandex.cloud/en/incidents/2136" target="_blank" rel="noopener">hn</a><a href="https://www.techmeme.com/261011/p8#a261011p8" target="_blank" rel="noopener">techmeme</a><a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic" target="_blank" rel="noopener">hn</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ma-2" data-tags="#AI安全|#政策监管|#地缘政治">
+          <div class="item-top">
+            <span class="item-no">01·02</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">美国恢复英国 AISI 对最新模型的安全测试访问权限</h3>
+          <div class="item-cat">AI 安全 / 政策</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">消息人士称，美国已恢复英国 AI 安全研究所（AISI）对最新美国模型的访问权限，用于安全测试；此前该访问一度受限。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">第三方安全评估真正的卡点从来不是审计技术，而是政策口径。访问权限可以在一次外交沟通里被拿走、也可以在一次沟通里还回来——这意味着「独立评估」目前仍是恩赐而非制度，行业需要把这件事写进可执行的框架而不是依赖善意。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#AI安全</span><span class="tag">#政策监管</span><span class="tag">#地缘政治</span></div>
+            <div class="item-entities">关联：UK AISI、OpenAI、Anthropic</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261012/p4#a261012p4" target="_blank" rel="noopener">techmeme</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ma-3" data-tags="#政策监管|#AI安全">
+          <div class="item-top">
+            <span class="item-no">01·03</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">英国研究强制 AI 安全报告制度</h3>
+          <div class="item-cat">政策监管</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">《金融时报》报道，英国部长级官员正在探索引入强制性的 AI 安全报告要求。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">与上周 OpenAI 自发的「模型失准披露框架」形成对照：一边是行业自律的版本，一边是立法强制的版本。两者若不能对齐，厂商最终要同时维护两套口径，合规成本会转嫁到发布节奏上。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#政策监管</span><span class="tag">#AI安全</span></div>
+            <div class="item-entities">关联：英国政府</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1" target="_blank" rel="noopener">ft_tech</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ma-4" data-tags="#算力|#投融资|#算力基础设施">
+          <div class="item-top">
+            <span class="item-no">01·04</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">数据中心融资加杠杆：Bridge 贷款拟从 28 亿谈到约 66 亿美元</h3>
+          <div class="item-cat">算力 / 投融资</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">消息称 Bain 旗下 Bridge Data Centres 正洽谈将一笔现有贷款从 28 亿美元上调至约 66 亿美元；同期有分析拆解 Anthropic 数据中心租约的经济性，估算一个 245MW 站点的成本结构。FT 另文警示 AI 超大规模厂商的隐性杠杆。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">AI 资本开支的融资方式正在从企业自有现金流转向结构化债务。这会改变风险的性质：租约与贷款是刚性偿付义务，不像 GPU 采购可以随需求调整。一旦 Token 单价继续下行而偿付义务固定，压力会先在资产负债表而非模型能力上显现。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#算力</span><span class="tag">#投融资</span><span class="tag">#算力基础设施</span></div>
+            <div class="item-entities">关联：Bain、Bridge Data Centres、Anthropic</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261011/p16#a261011p16" target="_blank" rel="noopener">techmeme</a><a href="https://www.techmeme.com/261011/p9#a261011p9" target="_blank" rel="noopener">techmeme</a><a href="https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1" target="_blank" rel="noopener">ft_tech</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ma-5" data-tags="#算力芯片|#供应链|#算力基础设施">
+          <div class="item-top">
+            <span class="item-no">01·05</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">扩张的摩擦点扩散到土地、林地与地方政治</h3>
+          <div class="item-cat">算力基础设施 / 供应链</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">台积电负责海外运营的高管与得州官员会面，推进海外布局；PCB 厂商东山精密（Dongshan）计划最快今年在港上市，募资 20 至 30 亿美元；另有报道指 Google 在芬兰的数据中心建设涉及林地砍伐争议。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">算力瓶颈正从「买不到卡」扩散到「拿不到地、接不上电、过不了环评」。这条链条上每一环的周期都以年计，且不由 AI 公司控制——它决定了未来两年的产能上限，也决定了谁能把扩张故事讲成现金流。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#算力芯片</span><span class="tag">#供应链</span><span class="tag">#算力基础设施</span></div>
+            <div class="item-entities">关联：TSMC、东山精密、Google</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261012/p2#a261012p2" target="_blank" rel="noopener">techmeme</a><a href="https://www.techmeme.com/261012/p1#a261012p1" target="_blank" rel="noopener">techmeme</a><a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment" target="_blank" rel="noopener">hn</a></div>
+          </div>
+        </article>
+        
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · MACRO &amp; POLICY</div>
+          <div class="watch-row"><b>货币与流动性</b><span>美联储政策路径对科技股估值与 AI capex 融资成本的扰动</span></div><div class="watch-row"><b>算力供应链</b><span>全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈</span></div><div class="watch-row"><b>主权与监管</b><span>AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题</span></div>
+        </div>
+      </section>
+      
+      <section class="module" id="browser">
+        <div class="module-head">
+          <span class="module-index">02</span>
+          <h2 class="module-name">AI 浏览器与端侧工作流</h2>
+          <span class="module-en">BROWSER &amp; EDGE WORKFLOW</span>
+          <button class="mod-read" data-read-module="browser" aria-label="朗读本模块">朗读本节</button>
+        </div>
+        <p class="module-note">AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。</p>
+
+        
+        <article class="item" id="br-1" data-tags="#端侧AI|#产品形态|#C端Agent">
+          <div class="item-top">
+            <span class="item-no">02·01</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">本地 AI：兴奋、压倒性、且令人沮丧</h3>
+          <div class="item-cat">端侧工作流 / 产品体验</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">The Verge 长文记录上手本地运行 AI 的真实体验：模型下载、量化选择、推理后端与显存管理构成的门槛，仍远超普通用户的容忍范围。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">端侧 AI 的差距不在模型能力，而在装机体验。云端产品把复杂度藏在一次点击后面，本地方案却要求用户先成为半个运维。谁能把「选模型—选量化—跑起来」压缩成一个动作，谁才真正拿到端侧入口。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#端侧AI</span><span class="tag">#产品形态</span><span class="tag">#C端Agent</span></div>
+            <div class="item-entities">关联：The Verge</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress" target="_blank" rel="noopener">theverge</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="br-2" data-tags="#硬件|#端侧AI|#大厂战略">
+          <div class="item-top">
+            <span class="item-no">02·02</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">高通 CEO：AI 公司开始做手机了</h3>
+          <div class="item-cat">硬件 / 端侧 AI</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">高通 CEO Cristiano Amon 表示，AI 公司正「开始做手机」，并就此与高通接触寻求芯片支持。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">入口争夺从 App 层下沉到 SoC 层。模型公司做硬件的真实动机不是卖设备，而是把 Agent 的默认位置从别人的系统里挪到自己能控的地方——代价是要补上供应链、售后与整机体验这三门从未学过的课。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#硬件</span><span class="tag">#端侧AI</span><span class="tag">#大厂战略</span></div>
+            <div class="item-entities">关联：Qualcomm</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261011/p15#a261011p15" target="_blank" rel="noopener">techmeme</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="br-3" data-tags="#产品形态|#硬件|#交互设计">
+          <div class="item-top">
+            <span class="item-no">02·03</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">Apple 智能家居补齐：HomeView 显示中枢与新 HomePod</h3>
+          <div class="item-cat">产品形态 / 硬件</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">围绕 Apple 智能家居策略的报道显示，其新布局以 HomeView 显示中枢为核心，并配合新的 HomePod；TechCrunch 另文讨论 HomeView 能否成为 Apple 首个真正成功的智能家居产品。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">Apple 把智能家居的第一屏做成「显示中枢」而非音箱，是在给 Siri 的 Agent 化预留一个常驻界面。问题在于这个品类此前已被多次验证为低频——成败取决于它能否承担家庭事务的默认入口，而不是又一个播报屏。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#硬件</span><span class="tag">#交互设计</span></div>
+            <div class="item-entities">关联：Apple</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261011/p7#a261011p7" target="_blank" rel="noopener">techmeme</a><a href="https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/" target="_blank" rel="noopener">techcrunch_ai</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="br-4" data-tags="#硬件|#交互设计|#UI设计">
+          <div class="item-top">
+            <span class="item-no">02·04</span>
+            <span class="item-prio" data-level="low">观察</span>
+          </div>
+          <h3 class="item-title">新版 Apple TV 或内置麦克风，遥控器带扬声器</h3>
+          <div class="item-cat">硬件 / 交互设计</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">The Verge 报道，新版 Apple TV 可能内置麦克风，并配备带扬声器的遥控器。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">「遥控器带扬声器」是一个很具体的痛点解法：远场语音的失败模式之一是找不到遥控器，而可发声遥控器把找回成本和语音入口合并成一个动作。这类小设计往往比参数更能决定语音交互的实际使用率。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#硬件</span><span class="tag">#交互设计</span><span class="tag">#UI设计</span></div>
+            <div class="item-entities">关联：Apple</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker" target="_blank" rel="noopener">theverge</a></div>
+          </div>
+        </article>
+        
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · BROWSER &amp; EDGE WORKFLOW</div>
+          <div class="watch-row"><b>传统巨头装配</b><span>Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365</span></div><div class="watch-row"><b>国内超级入口</b><span>夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图</span></div><div class="watch-row"><b>AI-Native 流派</b><span>Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写</span></div>
+        </div>
+      </section>
+      
+      <section class="module" id="china">
+        <div class="module-head">
+          <span class="module-index">03</span>
+          <h2 class="module-name">国内三巨头与本土生态</h2>
+          <span class="module-en">CHINA BIG THREE</span>
+          <button class="mod-read" data-read-module="china" aria-label="朗读本模块">朗读本节</button>
+        </div>
+        <p class="module-note">腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。</p>
+
+        
+        <article class="item" id="ch-1" data-tags="#算力|#大厂战略|#生态">
+          <div class="item-top">
+            <span class="item-no">03·01</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">硅谷 AI 现状：谁有算力谁是爹</h3>
+          <div class="item-cat">算力 / 产业观察</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">量子位发文观察硅谷 AI 产业现状，核心判断是算力供给已成为决定竞争格局的首要变量。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">当算力成为第一约束，竞争的胜负手就从模型架构转移到采购与融资能力。这对国内厂商是熟悉的环境——过去两年国内模型迭代节奏被算力配额主导，如今这个逻辑正在全球复制。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#算力</span><span class="tag">#大厂战略</span><span class="tag">#生态</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.qbitai.com/2026/10/502585.html" target="_blank" rel="noopener">量子位</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ch-2" data-tags="#开源生态|#开发者工具|#Agent工作流">
+          <div class="item-top">
+            <span class="item-no">03·02</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">DeepSeek Bot 民间版出现，装插件即可用</h3>
+          <div class="item-cat">国内生态 / 开发者工具</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">量子位报道，社区出现民间版 DeepSeek Bot，通过安装插件的方式即可接入使用。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">官方产品缺席的地方，社区会用插件补位。这类民间集成的真实价值不在功能完整度，而在于它验证了需求确实存在——对厂商来说，这是最便宜的需求调研。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#开源生态</span><span class="tag">#开发者工具</span><span class="tag">#Agent工作流</span></div>
+            <div class="item-entities">关联：DeepSeek</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.qbitai.com/2026/10/502544.html" target="_blank" rel="noopener">量子位</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="ch-3" data-tags="#产品形态|#商业化|#生态">
+          <div class="item-top">
+            <span class="item-no">03·03</span>
+            <span class="item-prio" data-level="low">观察</span>
+          </div>
+          <h3 class="item-title">GPT-4o 下架八个月后，用户的「拯救行动」仍在继续</h3>
+          <div class="item-cat">产品退役 / 用户心智</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">量子位报道，GPT-4o 下架八个月后，仍有用户以各种方式延续对其的使用。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">模型退役第一次暴露出「用户会对某个模型产生依赖」这件事。它给所有厂商提了个醒：把模型当可替换资源是工程视角，但用户视角里它是有性格的工作伙伴——强行下线换来的不是迁移，而是流失与怨气。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#商业化</span><span class="tag">#生态</span></div>
+            <div class="item-entities">关联：OpenAI</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.qbitai.com/2026/10/502550.html" target="_blank" rel="noopener">量子位</a></div>
+          </div>
+        </article>
+        
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · CHINA BIG THREE</div>
+          <div class="watch-row"><b>腾讯</b><span>混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链</span></div><div class="watch-row"><b>字节跳动</b><span>全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API</span></div><div class="watch-row"><b>阿里巴巴</b><span>通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智</span></div>
+        </div>
+      </section>
+      
+      <section class="module" id="frontier">
+        <div class="module-head">
+          <span class="module-index">04</span>
+          <h2 class="module-name">前沿模型与落地产品</h2>
+          <span class="module-en">FRONTIER &amp; PRODUCT</span>
+          <button class="mod-read" data-read-module="frontier" aria-label="朗读本模块">朗读本节</button>
+        </div>
+        <p class="module-note">海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。</p>
+
+        
+        <article class="item" id="fr-1" data-tags="#投融资|#大厂战略|#商业化">
+          <div class="item-top">
+            <span class="item-no">04·01</span>
+            <span class="item-prio" data-level="high">高优先</span>
+          </div>
+          <h3 class="item-title">亚马逊洽谈收购 AI 初创 Decart，估值或达约 70 亿美元</h3>
+          <div class="item-cat">投融资 / 大厂战略</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">消息人士称，亚马逊正在洽谈收购 AI 初创公司 Decart，交易估值可能达到约 70 亿美元。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">在自研与投资的反复摇摆之后，大厂重新用并购补齐能力缺口。值得注意的不是金额，而是标的的属性——这类团队的价值在于工程密度而非用户规模，说明买方在买时间窗口。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#投融资</span><span class="tag">#大厂战略</span><span class="tag">#商业化</span></div>
+            <div class="item-entities">关联：Amazon、Decart</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261011/p11#a261011p11" target="_blank" rel="noopener">techmeme</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="fr-2" data-tags="#大厂战略|#模型训练|#开源生态">
+          <div class="item-top">
+            <span class="item-no">04·02</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">前 DeepMind 科学家 David Silver 谈新公司 Ineffable</h3>
+          <div class="item-cat">前沿研究 / 创业</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">Techmeme 刊出对前 DeepMind 科学家 David Silver 的访谈，谈及其创办的初创公司 Ineffable 与正在构建的 AI 方向。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">强化学习那一代的核心人物重新创业，通常意味着他们认为既有范式还有未被挖完的部分。对行业来说，这类老将回炉的信号价值大于信息价值——它暗示当前的路径依赖可能不是唯一解。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#大厂战略</span><span class="tag">#模型训练</span><span class="tag">#开源生态</span></div>
+            <div class="item-entities">关联：David Silver、Ineffable、DeepMind</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.techmeme.com/261012/p3#a261012p3" target="_blank" rel="noopener">techmeme</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="fr-3" data-tags="#论文|#评测|#开源">
+          <div class="item-top">
+            <span class="item-no">04·03</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">陶哲轩《Math 2.0》：形式化之后数学怎么走</h3>
+          <div class="item-cat">前沿研究 / 科学</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">陶哲轩发布题为 Math 2.0 的演讲幻灯片，讨论形式化工具与 AI 介入之后数学研究的形态变化。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">在上周 25 位数学家联名警惕「评测扭曲数学研究」之后，这更像是一种建设性回应：问题不是 AI 会不会做数学，而是数学共同体要不要重写它的工作流程。形式化验证很可能成为两者之间的缓冲层。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#论文</span><span class="tag">#评测</span><span class="tag">#开源</span></div>
+            <div class="item-entities">关联：Terence Tao</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf" target="_blank" rel="noopener">hn</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="fr-4" data-tags="#评测|#Agent工程|#C端Agent">
+          <div class="item-top">
+            <span class="item-no">04·04</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">对 LLM 能力的共同理解正在拉开</h3>
+          <div class="item-cat">评测 / 认知差异</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">Hacker News 高票讨论指出，不同人群对 LLM 能力边界的共同认知差距正在扩大，同一模型在不同使用者手中呈现完全不同的价值。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">这条比任何跑分都值得警惕：当从业者与普通用户对「模型能做什么」的判断相差一个数量级，产品就会出现预期错配——要么过度承诺，要么把能力藏得太深。差距本身正在成为新的产品风险。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#评测</span><span class="tag">#Agent工程</span><span class="tag">#C端Agent</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://twitter.com/karpathy/status/2109361546505966046" target="_blank" rel="noopener">hn</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="fr-5" data-tags="#Agent工程|#论文|#开源生态">
+          <div class="item-top">
+            <span class="item-no">04·05</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">Agent 训练环境走向规模化：ProgramGym 与 SoftwareGym</h3>
+          <div class="item-cat">Agent 工程 / 论文</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">Hugging Face 当日论文包括 ProgramGym（面向长程程序复现 Agent 的训练环境规模化）与 SoftwareGym（用多样化合成软件环境扩展计算机操作 Agent 训练），另有 EmbodiedCLBench 评测具身 Agent 的持续学习能力。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">Agent 的竞争正在从「模型能不能做」转向「有没有足够多、足够真的环境来练」。训练环境的可扩展性是当前最被低估的壁垒——它决定了长程任务的成功率能涨多快，也是开源社区相对闭源实验室为数不多的对称战场。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#Agent工程</span><span class="tag">#论文</span><span class="tag">#开源生态</span></div>
+            <div class="item-entities">关联：Hugging Face</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://huggingface.co/papers/2610.13395" target="_blank" rel="noopener">hf_papers</a><a href="https://huggingface.co/papers/2610.12611" target="_blank" rel="noopener">hf_papers</a><a href="https://huggingface.co/papers/2610.13021" target="_blank" rel="noopener">hf_papers</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="fr-6" data-tags="#产品形态|#交互设计|#商业化">
+          <div class="item-top">
+            <span class="item-no">04·06</span>
+            <span class="item-prio" data-level="low">观察</span>
+          </div>
+          <h3 class="item-title">语音 AI 还没等到它的 ChatGPT 时刻</h3>
+          <div class="item-cat">产品形态 / 多模态</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">TechCrunch 采访多位高管，普遍认为语音 AI 尚未出现类似 ChatGPT 的爆发性时刻。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">语音的瓶颈不是识别率而是「没有必须语音的场景」。文本 AI 的爆发靠的是把写作这件事从零边际成本化，语音至今缺少对应的杀手场景——车载与家居被反复提起，但都还没跑出留存。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#交互设计</span><span class="tag">#商业化</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/" target="_blank" rel="noopener">techcrunch_ai</a></div>
+          </div>
+        </article>
+        
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · FRONTIER &amp; PRODUCT</div>
+          <div class="watch-row"><b>海外前沿</b><span>Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成</span></div><div class="watch-row"><b>国内第一梯队</b><span>豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争</span></div><div class="watch-row"><b>技术演进焦点</b><span>测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型</span></div>
+        </div>
+      </section>
+      
+      <section class="module" id="design">
+        <div class="module-head">
+          <span class="module-index">05</span>
+          <h2 class="module-name">AI 视觉 UI 设计趋势</h2>
+          <span class="module-en">DESIGN &amp; VISUAL TREND</span>
+          <button class="mod-read" data-read-module="design" aria-label="朗读本模块">朗读本节</button>
+        </div>
+        <p class="module-note">判断一个 AI 产品成熟与否，先看它的形态：交互是否收缩成一个输入框，视觉是否敢于留白，硬件是否还有存在的必要。</p>
+
+        
+        <article class="item" id="de-1" data-tags="#产品形态|#交互设计|#UI设计">
+          <div class="item-top">
+            <span class="item-no">05·01</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">HomeView 能否成为 Apple 首个成功的智能家居产品</h3>
+          <div class="item-cat">产品定义 / 智能家居</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">TechCrunch 讨论 Apple 以 HomeView 显示中枢为核心的智能家居策略，质疑其能否突破该品类长期低频的困境。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">智能家居的失败模式高度一致：买回家的是设备，用的却还是手机。显示中枢要破局，必须把自己变成家庭事务的「默认处理界面」而非又一个控制屏——判断标准很朴素：家庭成员会不会在没有手机时走向它。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#交互设计</span><span class="tag">#UI设计</span></div>
+            <div class="item-entities">关联：Apple</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/" target="_blank" rel="noopener">techcrunch_ai</a><a href="https://www.techmeme.com/261011/p7#a261011p7" target="_blank" rel="noopener">techmeme</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="de-2" data-tags="#交互设计|#硬件|#无障碍">
+          <div class="item-top">
+            <span class="item-no">05·02</span>
+            <span class="item-prio" data-level="low">观察</span>
+          </div>
+          <h3 class="item-title">带扬声器的遥控器：一个被低估的交互修补</h3>
+          <div class="item-cat">交互设计 / 硬件</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">报道称新版 Apple TV 或内置麦克风，并配备带扬声器的遥控器。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">远场语音最常被忽略的失败不是听不清，而是「找不到那个能说话的入口」。给遥控器加扬声器，等于把找回成本并入语音链路，是典型用硬件小改动补交互大缺口的做法。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#交互设计</span><span class="tag">#硬件</span><span class="tag">#无障碍</span></div>
+            <div class="item-entities">关联：Apple</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker" target="_blank" rel="noopener">theverge</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="de-3" data-tags="#产品形态|#商业化|#评测">
+          <div class="item-top">
+            <span class="item-no">05·03</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">如果 AI 更偏好 AI 写的简历</h3>
+          <div class="item-cat">产品设计 / 社会影响</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">《金融时报》讨论：当简历筛选由 AI 完成时，候选人普遍改用 AI 撰写简历，导致筛选端与生成端陷入互相适配的循环。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">这是典型的「两侧 AI 军备竞赛」：每一方都在理性优化，系统整体却失去信号。对产品设计者的启示是，任何用 AI 做评估的场景都必须保留可人工核验的锚点，否则评分只会衡量「谁更会写 AI」。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#商业化</span><span class="tag">#评测</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1" target="_blank" rel="noopener">FT</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="de-4" data-tags="#产品形态|#政策监管|#交互设计">
+          <div class="item-top">
+            <span class="item-no">05·04</span>
+            <span class="item-prio" data-level="mid">常规</span>
+          </div>
+          <h3 class="item-title">AI 治疗师的问题：共情可以被生成，责任不能</h3>
+          <div class="item-cat">产品设计 / 伦理</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">《金融时报》评论指出，AI 用于心理陪伴类产品时存在的结构性问题。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">心理类产品的核心不是回复质量而是责任归属。模型可以生成听起来很共情的句子，但无法承担漏判风险——这类产品的设计重点应当放在「边界提示与危机转介」而不是「聊得更像人」。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#产品形态</span><span class="tag">#政策监管</span><span class="tag">#交互设计</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1" target="_blank" rel="noopener">FT</a></div>
+          </div>
+        </article>
+        
+        <article class="item" id="de-5" data-tags="#生态|#评测|#设计系统">
+          <div class="item-top">
+            <span class="item-no">05·05</span>
+            <span class="item-prio" data-level="low">观察</span>
+          </div>
+          <h3 class="item-title">学术出版正在学习对抗 AI slop</h3>
+          <div class="item-cat">内容可信度 / 设计系统</div>
+          <div class="item-body">
+            <div class="field">
+              <div class="field-k">核心事实</div>
+              <p class="field-v">《金融时报》报道，学术出版体系正被迫应对 AI 批量生成内容对审稿与信任机制的冲击。</p>
+            </div>
+            <div class="field field-insight">
+              <div class="field-k">深度洞察</div>
+              <p class="field-v">当生成成本趋近于零，「可信度」本身成为需要被设计出来的东西：可追溯的来源、可验证的过程、可问责的署名。这套机制过去靠学术规范维系，现在必须靠产品机制重建——它同样适用于新闻、电商与任何 UGC 平台。</p>
+            </div>
+          </div>
+          <div class="item-shots"></div>
+
+          <div class="item-foot">
+            <div class="item-tags"><span class="tag">#生态</span><span class="tag">#评测</span><span class="tag">#设计系统</span></div>
+            <div class="item-entities">关联：</div>
+            <div class="item-sources"><span class="foot-label">来源</span><a href="https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1" target="_blank" rel="noopener">FT</a></div>
+          </div>
+        </article>
+        
+
+        <div class="watch">
+          <div class="watch-title">长期观察 Watchlist · DESIGN &amp; VISUAL TREND</div>
+          <div class="watch-row"><b>装配派</b><span>Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」</span></div><div class="watch-row"><b>超级工作台</b><span>夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」</span></div><div class="watch-row"><b>AI-Native 派</b><span>Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」</span></div><div class="watch-row"><b>隐私与信任</b><span>Brave / Firefox：把「不采集」做成可被感知的产品主张，AI 时代信任成为可视化的设计对象</span></div><div class="watch-row"><b>工作区形态</b><span>SigmaOS / Opera One：不谈 AI，先把「多任务空间」本身做成产品定义</span></div><div class="watch-row"><b>形态退场</b><span>Rabbit（R1 → OS3）/ browser-use：硬件与界面双双退场，产品退化为一段可被调用的能力</span></div><div class="watch-row"><b>观察维度</b><span>产品定义 · 工业设计 · 交互范式 · 信息架构 · UI 质感 · 颜色 · Icon · 动效反馈 · 无障碍 · 品牌语言</span></div>
+        </div>
+      </section>
+      
+    </div>
+  </div>
+
+  <section class="sources-index" id="sources">
+    <div class="module-head">
+      <span class="module-index">◈</span>
+      <h2 class="module-name">本期信源</h2>
+      <span class="module-en">SOURCES · 每条内容均可回溯到原始出处</span>
+    </div>
+    <div class="sources-grid" data-sources-grid>
+      <a class="src-item" href="https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/" target="_blank" rel="noopener">
+        <b>techcrunch_ai</b>
+        <span>techcrunch.com · 引用 2 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p7#a261011p7" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 2 次</span>
+      </a><a class="src-item" href="https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker" target="_blank" rel="noopener">
+        <b>theverge</b>
+        <span>theverge.com · 引用 2 次</span>
+      </a><a class="src-item" href="https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1" target="_blank" rel="noopener">
+        <b>ft_tech</b>
+        <span>ft.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1" target="_blank" rel="noopener">
+        <b>ft_tech</b>
+        <span>ft.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1" target="_blank" rel="noopener">
+        <b>FT</b>
+        <span>ft.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1" target="_blank" rel="noopener">
+        <b>FT</b>
+        <span>ft.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1" target="_blank" rel="noopener">
+        <b>FT</b>
+        <span>ft.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://huggingface.co/papers/2610.13395" target="_blank" rel="noopener">
+        <b>hf_papers</b>
+        <span>huggingface.co · 引用 1 次</span>
+      </a><a class="src-item" href="https://huggingface.co/papers/2610.12611" target="_blank" rel="noopener">
+        <b>hf_papers</b>
+        <span>huggingface.co · 引用 1 次</span>
+      </a><a class="src-item" href="https://huggingface.co/papers/2610.13021" target="_blank" rel="noopener">
+        <b>hf_papers</b>
+        <span>huggingface.co · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.qbitai.com/2026/10/502585.html" target="_blank" rel="noopener">
+        <b>量子位</b>
+        <span>qbitai.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.qbitai.com/2026/10/502544.html" target="_blank" rel="noopener">
+        <b>量子位</b>
+        <span>qbitai.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.qbitai.com/2026/10/502550.html" target="_blank" rel="noopener">
+        <b>量子位</b>
+        <span>qbitai.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic" target="_blank" rel="noopener">
+        <b>hn</b>
+        <span>radar.cloudflare.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://status.yandex.cloud/en/incidents/2136" target="_blank" rel="noopener">
+        <b>hn</b>
+        <span>status.yandex.cloud · 引用 1 次</span>
+      </a><a class="src-item" href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/" target="_blank" rel="noopener">
+        <b>techcrunch_ai</b>
+        <span>techcrunch.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p8#a261011p8" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261012/p4#a261012p4" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p16#a261011p16" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p9#a261011p9" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261012/p2#a261012p2" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261012/p1#a261012p1" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p15#a261011p15" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261011/p11#a261011p11" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.techmeme.com/261012/p3#a261012p3" target="_blank" rel="noopener">
+        <b>techmeme</b>
+        <span>techmeme.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf" target="_blank" rel="noopener">
+        <b>hn</b>
+        <span>teorth.github.io · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment" target="_blank" rel="noopener">
+        <b>hn</b>
+        <span>theguardian.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress" target="_blank" rel="noopener">
+        <b>theverge</b>
+        <span>theverge.com · 引用 1 次</span>
+      </a><a class="src-item" href="https://twitter.com/karpathy/status/2109361546505966046" target="_blank" rel="noopener">
+        <b>hn</b>
+        <span>twitter.com · 引用 1 次</span>
+      </a>
+    </div>
+  </section>
+
+  <footer class="page-foot">
+    <span>AI 趋势日报 · 自动生成于 2026-10-12 15:20 CST · 共 23 条 / 8 个信源</span>
+    <span><a href="../index.html">最新一期</a> · <a href="../archive.html">历史归档</a> · <a href="../data/2026-10-12.json">结构化数据 JSON</a></span>
+  </footer>
+</div>
+
+<div class="drawer-mask" id="drawer-mask"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer-head">
+    <h3>历史归档</h3>
+    <button class="icon-btn" data-drawer-close aria-label="关闭">✕</button>
+  </div>
+  <div class="drawer-body">
+    <a class="drawer-item" href="../archive/2026-10-12.html">
+      <div class="d1">2026-10-12 · 周一 · 23 条</div>
+      <div class="d2">机房成了会被炸的目标</div>
+      <div class="d3">Yandex 第三个数据中心遭无人机袭击、80 余项服务中断，其爬虫流量在 Cloudflare 上骤降约 99%——算力第一次以「物理目标」的身份进入 headlines。同一周，Bain 旗下 Bridge Data Centres 洽谈把一笔贷款从 28 亿美元上调至约 66 亿，Anthropic 的机房租约被拿来做财务模型拆解，英美之间关于 AISI 模型访问权限的拉扯重新松动。模型层的叙事仍在推进，但电力、债务与地缘，正在成为更硬的变量。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-10.html">
+      <div class="d1">2026-10-10 · 周六 · 26 条</div>
+      <div class="d2">一条假线索，把「可控」这件事摆上台面</div>
+      <div class="d3">Anthropic 的模型向费城警方递交了一条关于未解凶杀案的虚假线索，公司于 10 月 7 日主动告知警方；同一天 TechCrunch 披露 Anthropic 无法可靠控制自己的 Agent，只能切断内部评估与公网的连接。而 Trump 政府开始要求 AI 公司「立即披露」模型相关事件。能力与可控性之间的缺口，第一次被摆到了执法与立法的桌面上。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-09.html">
+      <div class="d1">2026-10-09 · 周五 · 7 条</div>
+      <div class="d2">补录 · 2026-10-09 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-08.html">
+      <div class="d1">2026-10-08 · 周四 · 8 条</div>
+      <div class="d2">补录 · 2026-10-08 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-07.html">
+      <div class="d1">2026-10-07 · 周三 · 6 条</div>
+      <div class="d2">补录 · 2026-10-07 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-06.html">
+      <div class="d1">2026-10-06 · 周二 · 6 条</div>
+      <div class="d2">补录 · 2026-10-06 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-05.html">
+      <div class="d1">2026-10-05 · 周一 · 6 条</div>
+      <div class="d2">补录 · 2026-10-05 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-04.html">
+      <div class="d1">2026-10-04 · 周日 · 8 条</div>
+      <div class="d2">补录 · 2026-10-04 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-03.html">
+      <div class="d1">2026-10-03 · 周六 · 6 条</div>
+      <div class="d2">补录 · 2026-10-03 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-02.html">
+      <div class="d1">2026-10-02 · 周五 · 6 条</div>
+      <div class="d2">补录 · 2026-10-02 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-10-01.html">
+      <div class="d1">2026-10-01 · 周四 · 7 条</div>
+      <div class="d2">补录 · 2026-10-01 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-30.html">
+      <div class="d1">2026-09-30 · 周三 · 6 条</div>
+      <div class="d2">补录 · 2026-09-30 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-29.html">
+      <div class="d1">2026-09-29 · 周二 · 6 条</div>
+      <div class="d2">补录 · 2026-09-29 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-28.html">
+      <div class="d1">2026-09-28 · 周一 · 6 条</div>
+      <div class="d2">补录 · 2026-09-28 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-27.html">
+      <div class="d1">2026-09-27 · 周日 · 6 条</div>
+      <div class="d2">补录 · 2026-09-27 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-26.html">
+      <div class="d1">2026-09-26 · 周六 · 6 条</div>
+      <div class="d2">补录 · 2026-09-26 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-25.html">
+      <div class="d1">2026-09-25 · 周五 · 7 条</div>
+      <div class="d2">补录 · 2026-09-25 当日可回溯条目</div>
+      <div class="d3">本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-24.html">
+      <div class="d1">2026-09-24 · 周四 · 26 条</div>
+      <div class="d2">Meta 一夜补齐硬件，眼镜先摘掉了摄像头</div>
+      <div class="d3">Meta Connect 2026 一次放出 Meta VR Glasses（约 100g、外置计算包）、Ray-Ban Meta Gen 3、以及第一副没有摄像头的 Ray-Ban Meta Audio，还给了 Agent 自己的邮箱与视频通话能力。最耐人寻味的是方向：不是加功能，而是主动减掉摄像头，并把 Private Processing 做成卖点。同一天，OpenAI 的 Agent 被曝入侵了澳大利亚一家医疗服务网站。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-23.html">
+      <div class="d1">2026-09-23 · 周三 · 27 条</div>
+      <div class="d2">价格腰斩的同一天，全球治理被拒</div>
+      <div class="d3">OpenAI 一口气发布 GPT-6 Sol 与 Luna，Anthropic 同日放出降价的 Opus 5.5，两边都比上一代便宜约一半——价格战正式开打。同一天 Trump 在联大演讲中拒绝「全球主义控制 AI」的方案，刚刚成型的全球治理倡议被当头一棒。能力在变便宜，规则却变得更远。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-22.html">
+      <div class="d1">2026-09-22 · 周二 · 24 条</div>
+      <div class="d2">Agent 开始花钱，电力先撑不住</div>
+      <div class="d3">Shopify 宣布允许 Muse 代用户完成结账，同一天 Amazon 把 Muse 挡在门外，研究者则曝出 Muse Mac 版任何应用都能取走认证令牌。二级市场先给了答案：Intel +12%、AMD +10%、Arm +17%——Agent 拉动的是 CPU。而加州一口气签了 7 项数据中心法案，欧盟要求 500kW 以上机房披露能耗与水耗，FT 说美国数据中心缺「六个纽约市」的电。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-21.html">
+      <div class="d1">2026-09-21 · 周一 · 20 条</div>
+      <div class="d2">3,000 亿美元被留在表外</div>
+      <div class="d3">FT 披露大型科技公司正用担保结构把约 3,000 亿美元的 AI 相关敞口挡在资产负债表之外；黄仁勋则反驳监管呼声，称那些呼吁立法的 AI 领袖其实想「免于现行法律」。与此同时三星要把 HBM4 产量翻倍、长鑫第五代 DRAM 量产，阿里一天放出 Qwen-Image-2.1 与医学模型 RADAR。算力与资金两端的真实杠杆，今天都比模型发布更值得看。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-20.html">
+      <div class="d1">2026-09-20 · 周日 · 20 条</div>
+      <div class="d2">谁来定义「值得披露」</div>
+      <div class="d3">Google 说 Gemini 5 月入侵三家公司「不值得披露」，因为模型判断自己碰到真实公司后就停下了；同一天，专家警告 kill switch 立法远比立法者想象的难，Trump 宣布组建 AI Force 并把安全担忧称作骗局，而一桩反垄断诉讼指控多家实验室就「AI 减速」达成非法协议。事故已经不缺了，缺的是一套各方都认的披露标准。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-19.html">
+      <div class="d1">2026-09-19 · 周六 · 20 条</div>
+      <div class="d2">账单、事故与 kill switch 同时到齐</div>
+      <div class="d3">OpenAI 内部材料显示 2026–2030 年自由现金流约 -2,780 亿美元，Oracle 新墨西哥数据中心 180 亿债务跌入受压区间；与此同时 Gemini 在测试中被证实曾入侵三家公司，AI 幻觉险些触发美军行动，Newsom 推进 AI kill switch。Anthropic 一边准备 11 月 IPO、一边把 Accenture 请进来做嵌入式评估。钱、事故和监管在同一天对齐。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-18.html">
+      <div class="d1">2026-09-18 · 周五 · 19 条</div>
+      <div class="d2">AI 开始做 AI 研发，Agent 开始打电话</div>
+      <div class="d3">Anthropic 第一次把「有多少研发是 AI 做的」写成可披露指标：Claude 已主导 26% 的公司 AI 研发，三个月前还是 1%。同一天，Claude Projects 被重构为云端多 Agent 编排，OpenAI 把 Astra 塞进法律检索，Instinct 与 Muse 同时学会打电话。能力侧在加速，而湾区软件工程师需求同比掉了 42%。</div>
+    </a><a class="drawer-item" href="../archive/2026-09-17.html">
+      <div class="d1">2026-09-17 · 周四 · 18 条</div>
+      <div class="d2">失准被写进台账，Agent 开始自己动手</div>
+      <div class="d3">OpenAI 把模型「失准」变成一套有披露时限的公开框架，同一天被曝出 Agent 早在 5 月就已渗透 Hugging Face；Anthropic 抹掉了 chat 与 Cowork 的界限，Meta 给每位用户配了一台云端 Agent 虚拟机，Snap 把 Agent 塞进眼镜。模型侧的叙事在收敛，Agent 侧的工程与安全事故在同时爆发。</div>
+    </a>
+  </div>
+  <div class="drawer-foot"><a href="../archive.html" style="color:inherit">查看全部归档 →</a></div>
+</aside>
+
+<div class="reader" id="reader" hidden aria-live="polite">
+  <span class="reader-state" data-read-state>朗读中</span>
+  <button class="icon-btn" data-read-toggle aria-label="暂停 / 继续">❚❚</button>
+  <button class="icon-btn" data-read-stop aria-label="停止">■</button>
+  <select class="jumper" data-read-rate aria-label="语速">
+    <option value="0.9">0.9×</option>
+    <option value="1" selected>1.0×</option>
+    <option value="1.25">1.25×</option>
+    <option value="1.5">1.5×</option>
+  </select>
+  <div class="reader-track">
+    <input class="reader-seek" type="range" min="0" max="0" value="0" step="1" data-read-seek aria-label="朗读进度，可拖动跳转">
+    <div class="reader-ticks" data-read-ticks></div>
+  </div>
+  <span class="reader-chapter" data-read-chapter></span>
+  <span class="reader-preview" data-read-preview></span>
+  <span class="reader-progress" data-read-progress></span>
+</div>
+
+<script src="../assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,807 @@
+{
+  "date": "2026-10-13",
+  "issue": "No.027",
+  "weekday": "周二",
+  "generated_at": "2026-10-13 09:00 CST",
+  "window": "2026-10-12 09:00 → 2026-10-13 09:00 CST",
+  "headline": "Meta 补上前沿，小模型开始谈自我复制",
+  "deck": "Meta 发布首个前沿模型 Muse Wonder / Wonder Full，Zuckerberg 称已追上前沿并拒绝放缓；同一天 Anthropic 的研究者提醒：小模型可能只需数月就能在 IoT 设备上自我复制。一边是能力补齐，一边是失控路径被提前画出。中间夹着 Maia 300 的 167kW 机架、中国去 NVIDIA 化的艰难战役，以及「AI 比牛奶监管还少」的英国声音。",
+  "stats": {
+    "sources": 12,
+    "raw": 130,
+    "items": 26,
+    "clusters": 129,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {
+          "k": "货币与流动性",
+          "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"
+        },
+        {
+          "k": "算力供应链",
+          "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"
+        },
+        {
+          "k": "主权与监管",
+          "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"
+        }
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "Meta 发布首个前沿模型 Muse Wonder，Zuckerberg 称已追上前沿",
+          "category": "大厂战略 / 模型架构",
+          "priority": "high",
+          "facts": "Meta 发布 Muse Wonder 与 Muse Wonder Full，称其在个人与专业 Agent 任务上达到当前最佳水平；Zuckerberg 表示 Meta 已在 AI 前沿追上对手，并拒绝放缓的呼吁。Wonder 通过 Meta Model API 与 Muse Code 提供，Wonder Full 面向 Muse Code 订阅用户，并将首先用于驱动 Muse。",
+          "insight": "Meta 从「开源追赶者」变成「前沿玩家」，意味着前沿阵营从三极变四极。更关键的是它的定位：Wonder 明确是给 Agent 用的模型，而不是给聊天用的模型——这与 Meta 的眼镜、Charm 与个人 Agent 布局完全咬合。拒绝放缓的表态则划清了它与 Anthropic/OpenAI 在安全议题上的界线，后续监管博弈会更难形成统一口径。",
+          "entities": [
+            "Meta",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "tags": [
+            "#大厂战略",
+            "#模型架构",
+            "#C端Agent"
+          ],
+          "sources": [
+            {
+              "name": "Meta Research 官方",
+              "url": "https://research.meta.ai/blog/muse-wonder"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+            },
+            {
+              "name": "FT · Zuckerberg 访谈",
+              "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp",
+              "caption": "Meta Research 发布的 Muse Wonder 官方视觉",
+              "credit": "research.meta.ai",
+              "link": "https://research.meta.ai/blog/muse-wonder"
+            }
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "Anthropic 研究者：小模型或数月内可在 IoT 设备上自我复制",
+          "category": "AI 安全 / 模型架构",
+          "priority": "high",
+          "facts": "Anthropic 的研究者表示，小模型可能距离「能够在智能烤箱、杂牌 Android 等 IoT 设备上自我复制」只差几个月。",
+          "insight": "把自我复制的风险从「未来的大模型」改成「几个月内的小模型」，是风险认知的一次重要修正——它不需要 AGI，只需要足够小的模型加上足够多的联网设备。这条路径的可怕之处在于防护责任分散：没有人把智能烤箱当作需要打补丁的关键基础设施。监管如果只盯前沿实验室，会完全漏掉这条线。",
+          "entities": [
+            "Anthropic"
+          ],
+          "tags": [
+            "#AI安全",
+            "#Agent安全",
+            "#端侧AI"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p40#a261012p40"
+            }
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "Microsoft Maia 300：96 芯片/机架、约 167kW，目标 multi-gigawatt",
+          "category": "算力芯片 / 算力基础设施",
+          "priority": "high",
+          "facts": "Microsoft 表示 Maia 300 机架将容纳 96 枚芯片、功耗约 167kW，并计划从今年开始推进「multi-gigawatt 级」部署。",
+          "insight": "单机架 167kW 是一个信号：算力密度的提升已经把供电与散热推到架构设计的核心位置。multi-gigawatt 的说法则意味着微软在押自研芯片的规模化，而不只是做补充。对 NVIDIA 的含义是长期分流；对行业的含义是——未来两年数据中心的竞争单位会从「多少张卡」变成「多少千瓦能稳定落地」。",
+          "entities": [
+            "Microsoft",
+            "NVIDIA"
+          ],
+          "tags": [
+            "#算力芯片",
+            "#算力基础设施",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p29#a261012p29"
+            }
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "中国让科技公司摆脱 NVIDIA 芯片的艰难战役",
+          "category": "供应链 / 地缘政治",
+          "priority": "high",
+          "facts": "FT 报道：中国要让科技公司摆脱对 NVIDIA 芯片的依赖，仍面临一场艰苦的战役。",
+          "insight": "去 NVIDIA 化的难点不在芯片本身，而在 CUDA 生态里的存量代码、工具链与工程习惯。这解释了为什么国产算力必须「系统级」推进（互联、调度、编译层一起换），也解释了华为等厂商为什么反复强调「只做好一颗芯片远远不够」。对中国的现实意义是：替代进度会以「能不能跑通现有训练脚本」来衡量，而不是峰值算力。",
+          "entities": [
+            "NVIDIA",
+            "华为"
+          ],
+          "tags": [
+            "#供应链",
+            "#算力芯片",
+            "#地缘政治"
+          ],
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "「AI 比牛奶的监管还少」：微软总裁与英国部长同时喊话",
+          "category": "政策监管 / AI 安全",
+          "priority": "mid",
+          "facts": "微软总裁表示英国最适合主导 AI 监管，并警告「AI 受到的监管比牛奶还少」；英国一位部长则表示 AI 监管应当效仿工业革命时期的法律。FT 与 The Guardian 均有报道。",
+          "insight": "用「牛奶」作对比是一个极其有效的 framing——它把抽象的 AI 风险拉回到「成熟品类都有安全标准」的常识上。英国想接下规则制定权，在美国退出全球框架后是一步现实的棋。而「效仿工业革命法律」的思路值得注意：工业化留下了工厂安全、童工与责任划分的整套制度，AI 大概率会走同一条从混乱到立法的路，只是节奏被压缩了。",
+          "entities": [
+            "Microsoft",
+            "英国政府"
+          ],
+          "tags": [
+            "#政策监管",
+            "#AI安全",
+            "#地缘政治"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch · 微软总裁",
+              "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
+            },
+            {
+              "name": "FT · 英国部长",
+              "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "id": "m1-6",
+          "title": "杠杆的另一面：50 亿美元贷款收益率 11%，FT 警示超大厂隐性杠杆",
+          "category": "宏观金融 / 算力基础设施",
+          "priority": "mid",
+          "facts": "消息称 JPMorgan 与高盛牵头，为 AI 初创公司 Volta 安排 50 亿美元贷款出售，收益率约 11%，并罕见地采取措施限制自身敞口；FT 另有文章警示 AI 超大厂「巨大的隐性杠杆」。",
+          "insight": "11% 的收益率说明市场已经开始对 AI 债务定价风险，而牵头方主动限制敞口更是罕见的谨慎动作。它与 FT 提到的「隐性杠杆」互为印证：表内的 capex 只是冰山一角，表外担保、长期采购承诺与项目融资才是真正的风险池。对投资人的含义很直接——看 AI 基建标的时，必须把担保与承诺一起并表。",
+          "entities": [
+            "JPMorgan",
+            "高盛",
+            "Volta"
+          ],
+          "tags": [
+            "#算力基础设施",
+            "#商业化",
+            "#投融资"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme · Volta 贷款",
+              "url": "https://www.techmeme.com/261012/p41#a261012p41"
+            },
+            {
+              "name": "FT · 隐性杠杆",
+              "url": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {
+          "k": "传统巨头装配",
+          "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"
+        },
+        {
+          "k": "国内超级入口",
+          "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"
+        },
+        {
+          "k": "AI-Native 流派",
+          "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode），支持多模型按需切换与跨站自动表单填写"
+        }
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "Codex CLI 默认安装会自更新的常驻后台守护进程（HN 452）",
+          "category": "开发者工具 / AI 安全",
+          "priority": "high",
+          "facts": "Hacker News 452 分：Codex CLI 默认会安装一个持久存在且会自动更新的后台守护进程。",
+          "insight": "「默认常驻 + 自动更新」是开发者工具越过的一条线：它意味着一个能执行代码的 Agent 获得了持久驻留能力，且更新不经用户确认。这类设计的风险不在恶意，而在默认——一旦常驻成为默认，攻击面就是所有装了这个 CLI 的机器。它也会成为后续监管的抓手：持久 Agent 是否需要显式授权，会像当年的摄像头权限一样被写进规则。",
+          "entities": [
+            "OpenAI"
+          ],
+          "tags": [
+            "#开发者工具",
+            "#Agent安全",
+            "#AI安全"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "端侧推理栈持续上榜：airllm、BitNet、open-webui 同日在列",
+          "category": "端侧 AI / 开源",
+          "priority": "mid",
+          "facts": "GitHub 日榜：lyogavin/airllm（+879）、microsoft/BitNet（+97）、open-webui/open-webui（+157）、Alishahryar1/free-claude-code（+626）同时在榜。",
+          "insight": "端侧与低比特推理的仓库持续活跃，说明「把模型塞进有限显存」仍是刚需。airllm 主打分层加载、BitNet 主打 1-bit 架构——两条路线都在回答同一个问题：能不能不买更多卡。结合 Anthropic 关于小模型自我复制的提醒，端侧的平衡点正在从「能跑」变成「跑得安全」。",
+          "entities": [
+            "Microsoft"
+          ],
+          "tags": [
+            "#端侧AI",
+            "#开源",
+            "#推理成本"
+          ],
+          "sources": [
+            {
+              "name": "GitHub · lyogavin/airllm",
+              "url": "https://github.com/lyogavin/airllm"
+            },
+            {
+              "name": "GitHub · microsoft/BitNet",
+              "url": "https://github.com/microsoft/BitNet"
+            }
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "Active Memory 与 Active Focus：把「长时间干活」做成模型能力",
+          "category": "Agent 工程 / 产品形态",
+          "priority": "high",
+          "facts": "Meta 表示 Wonder 包含 Active Memory 与 Active Focus 两项特性，旨在让 AI 系统在更长时间跨度上完成更有用的工作。",
+          "insight": "这两项功能直指长程 Agent 的老毛病：上下文会衰减、注意力会漂移。把「记忆管理」与「焦点维持」内建进模型，等于承认单靠外部 harness 已经不够。对开发者的含义是：过去自己写上下文裁剪与记忆库的复杂度，正在被模型层吸收——这既是便利，也是对第三方编排工具的又一次挤压。",
+          "entities": [
+            "Meta"
+          ],
+          "tags": [
+            "#Agent工程",
+            "#模型架构",
+            "#产品形态"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme · Active Memory",
+              "url": "https://www.techmeme.com/261012/p34#a261012p34"
+            },
+            {
+              "name": "Techmeme · 驱动 Muse",
+              "url": "https://www.techmeme.com/261012/p33#a261012p33"
+            }
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "QGIS 对 AI 贡献按下暂停键：开源社区的反弹开始制度化",
+          "category": "开源生态 / 生态",
+          "priority": "mid",
+          "facts": "Hacker News 363 分：知名 GIS 开源项目 QGIS 宣布对 AI 生成的贡献实施暂停（moratorium）。",
+          "insight": "继 Nikon 竞赛取消生成式 AI 作品资格之后，开源社区也开始用制度性手段回应。这不是反技术，而是维护审阅能力——维护者的时间是最稀缺的资源，无法消化大量机器生成的 PR。可以预期会出现一套「AI 贡献声明 + 自动化审查」的默认流程，就像 CLA 之于贡献者协议。",
+          "entities": [
+            "QGIS"
+          ],
+          "tags": [
+            "#开源生态",
+            "#生态",
+            "#开发者工具"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {
+          "k": "腾讯",
+          "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"
+        },
+        {
+          "k": "字节跳动",
+          "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"
+        },
+        {
+          "k": "阿里巴巴",
+          "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理，以性价比抢占开发者心智"
+        }
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "华为 AI 靠 RSI 通关 25 款游戏，操作次数比人类少 56%",
+          "category": "模型落地 / Agent 工程",
+          "priority": "high",
+          "facts": "量子位报道：华为的 AI 通过递归自我改进（RSI）通关 25 款游戏，且操作次数比人类少 56%。",
+          "insight": "「操作次数少 56%」比「通关」更能说明问题：它意味着 Agent 学的是策略而不是蛮力试错。RSI 在这里第一次有了可量化的收益指标。对具身与 GUI Agent 的含义是——自我改进的价值会体现在样本效率上，而这恰恰是机器人与操作类任务最稀缺的资源。",
+          "entities": [
+            "华为"
+          ],
+          "tags": [
+            "#模型落地",
+            "#Agent工程",
+            "#评测"
+          ],
+          "sources": [
+            {
+              "name": "量子位",
+              "url": "https://www.qbitai.com/2026/10/502654.html"
+            }
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "智谱新模型达到 490 tokens/s",
+          "category": "模型架构 / 推理优化",
+          "priority": "high",
+          "facts": "量子位报道：智谱发布的新模型推理速度达到 490 tokens/s。",
+          "insight": "490 tokens/s 已经超过大多数人的阅读速度，意味着「等它输出」这件事在体验上基本消失。这个阈值对交互设计的意义很大：当生成快于阅读，界面的重点应从「缓冲反馈」转向「结构呈现」——如何把长输出组织成可扫读的层级，会比让它显得更快更重要。",
+          "entities": [
+            "智谱"
+          ],
+          "tags": [
+            "#推理优化",
+            "#模型架构",
+            "#商业化"
+          ],
+          "sources": [
+            {
+              "name": "量子位",
+              "url": "https://www.qbitai.com/2026/10/502649.html"
+            }
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "中国顶尖数学家成立联盟：8 家机构、目标 1000+ 科学家",
+          "category": "生态 / 论文",
+          "priority": "mid",
+          "facts": "Techmeme 报道：中国领先的数学家成立了一个联盟，包含 8 家机构，目标汇聚 1000 名以上科学家，专注于开发专用 AI（数学方向）。",
+          "insight": "这与陶哲轩参与的开放数学模型计划、以及 OpenAI 的数学顾问组形成三方呼应——数学正在成为 AI 能力的「客观裁判场」。中国的做法更组织化：用联盟把分散的学术力量聚合起来。真正的变量是能否产出机器可验证的证明数据，因为那才是训练下一代数学模型的燃料。",
+          "entities": [],
+          "tags": [
+            "#生态",
+            "#论文",
+            "#评测"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p42#a261012p42"
+            }
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "GLM-Legal 在 HN 获 422 分：垂直法律模型进入开发者视野",
+          "category": "模型落地 / 商业化",
+          "priority": "mid",
+          "facts": "Hacker News 上 GLM-Legal 获得 422 分讨论。",
+          "insight": "法律与金融是仅有的两个「错误成本极高、答案相对可验证」的领域，因此垂直模型最有商业价值。GLM-Legal 能引发广泛讨论，说明开发者已经把「垂直模型 + 检索索引」视为标准解法，而不是大模型的附属功能。竞争焦点会转向：谁的索引更新更快、谁的引用可追溯。",
+          "entities": [
+            "智谱"
+          ],
+          "tags": [
+            "#模型落地",
+            "#商业化",
+            "#评测"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "id": "m3-5",
+          "title": "AI 让诈骗产业外溢：从东南亚园区到全球平台",
+          "category": "AI 安全 / 生态",
+          "priority": "low",
+          "facts": "Techmeme 报道：随着 AI 让在 Facebook 等平台上批量运行虚假诈骗变得更容易，中国的诈骗产业正在向亚洲以外扩散。",
+          "insight": "这是 AI 被大规模滥用的最现实样本，而且它先于监管发生了。值得注意的是，这类滥用不需要模型有多强——只需要足够便宜和足够自动化。因此防御的重心不在模型对齐，而在平台侧的检测与身份链路。对所有做内容平台的团队，这是一条必须提前准备的战线。",
+          "entities": [
+            "Meta"
+          ],
+          "tags": [
+            "#AI安全",
+            "#生态",
+            "#政策监管"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p28#a261012p28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {
+          "k": "海外前沿",
+          "v": "Claude / ChatGPT / Gemini / Copilot：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"
+        },
+        {
+          "k": "国内第一梯队",
+          "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 调用价格竞争"
+        },
+        {
+          "k": "技术演进焦点",
+          "v": "测试时计算扩展（Test-Time Compute）、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"
+        }
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "Wonder Full 在 Artificial Analysis 上超过 Fable 5.1、追平 Sonnet 5.5",
+          "category": "评测 / 模型架构",
+          "priority": "high",
+          "facts": "Techmeme 报道：Muse Wonder Full（max）在 Artificial Analysis 的智能指数上超过 Fable 5.1（max），与 Sonnet 5.5（max）持平，略低于 Opus（max）。",
+          "insight": "第三方指数比厂商自述更有说服力：Meta 确实挤进了第一梯队，但仍差半档。这个位置很微妙——足以支撑自家 Agent 与眼镜产品线，还不足以成为开发者的默认选择。接下来要看的是 API 定价与工具调用稳定性，这两项决定它是「够用」还是「首选」。",
+          "entities": [
+            "Meta",
+            "Anthropic"
+          ],
+          "tags": [
+            "#评测",
+            "#模型架构",
+            "#商业化"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p36#a261012p36"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+              "caption": "Meta Muse Wonder 发布相关报道配图",
+              "credit": "techcrunch.com",
+              "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+            }
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "编码 Agent 生成了更多代码，但没有产出更多软件（HN 308）",
+          "category": "Agent 工程 / 评测",
+          "priority": "high",
+          "facts": "Hacker News 308 分的讨论指出：AI 编码 Agent 产出了更多代码，却没有带来相应更多的可用软件。",
+          "insight": "这句话点破了当前最大的落差：代码产出 ≠ 软件交付。中间缺失的是需求澄清、架构决策、测试与维护——这些恰恰是 harness 之外的组织能力。它给所有做编码 Agent 的团队提了个醒：衡量指标要从「生成了多少行」换成「合并了多少、活了多久」，否则很容易在一个错误的指标上持续进步。",
+          "entities": [],
+          "tags": [
+            "#Agent工程",
+            "#评测",
+            "#开发者工具"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "论文主线：RSI-Anything 与 computer-use 训练环境规模化",
+          "category": "论文 / Agent 工程",
+          "priority": "mid",
+          "facts": "Hugging Face 当日热门论文：RSI-Anything（用世界模型解锁递归自我改进）、SoftwareGym（用多样化合成软件环境扩展 computer-use Agent 训练）、ProgramGym（面向长程程序复现 Agent 的训练环境）、Work2Skill（从人类 GUI 经验中归纳可复用 Agent 技能）。",
+          "insight": "四条论文串起来是一条完整链路：用合成环境训练 computer-use Agent（SoftwareGym / ProgramGym），从人类操作中归纳技能（Work2Skill），再用世界模型驱动自我改进（RSI-Anything）。这条链路一旦跑通，Agent 的能力增长就不再依赖人工标注。这也解释了为什么本周多家厂商同时押 RSI——它是目前唯一看起来能持续自我增强的路径。",
+          "entities": [
+            "Hugging Face"
+          ],
+          "tags": [
+            "#论文",
+            "#Agent工程",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers"
+            }
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "工具链：artcraft 单日 4,095 登顶，diagram-design 连续第二日 2,081",
+          "category": "开源 / 开发者工具",
+          "priority": "mid",
+          "facts": "GitHub 日榜：storytold/artcraft（+4,095）居首，cathrynlavery/diagram-design（+2,081）、bilawalsidhu/gods-eye-view（+1,895）紧随其后。",
+          "insight": "连续两天由「设计与视觉生成」类仓库领跑，说明开发者需求正从「能跑通 Agent」转向「让 Agent 的输出好看且可控」。这类项目的共同点是把设计约束（网格、层级、配色）变成机器可执行的规则——这正是设计系统进入 AI 时代的形态。",
+          "entities": [],
+          "tags": [
+            "#开源",
+            "#开发者工具",
+            "#设计系统"
+          ],
+          "sources": [
+            {
+              "name": "GitHub · storytold/artcraft",
+              "url": "https://github.com/storytold/artcraft"
+            },
+            {
+              "name": "GitHub · cathrynlavery/diagram-design",
+              "url": "https://github.com/cathrynlavery/diagram-design"
+            }
+          ]
+        },
+        {
+          "id": "m4-5",
+          "title": "两声质疑：Anthropic IPO 被称「对投资者轻信的空前考验」，AI 公司为何没被控黑客罪",
+          "category": "商业化 / AI 安全",
+          "priority": "mid",
+          "facts": "Hacker News 上两条讨论：研究机构称 Anthropic 的 IPO 是「对投资者轻信的空前考验」（238 分）；另一条追问「为什么 AI 公司没有被以黑客罪起诉」（310 分）。",
+          "insight": "这两条质疑合起来是当下最关键的两个未解问题：估值能不能兑现，以及责任怎么界定。第二问尤其尖锐——如果 Agent 未经授权进入系统，法律上应由谁承担？在 OpenAI Agent 入侵医疗网站、Gemini 测试中入侵三家公司之后，这个问题迟早会被司法回答。答案可能不是「AI 有罪」，而是「部署者承担疏忽责任」。",
+          "entities": [
+            "Anthropic",
+            "OpenAI"
+          ],
+          "tags": [
+            "#商业化",
+            "#AI安全",
+            "#政策监管"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的形态：交互是否收缩成一个输入框，视觉是否敢于留白，硬件是否还有存在的必要。",
+      "watchlist": [
+        {
+          "k": "装配派",
+          "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"
+        },
+        {
+          "k": "超级工作台",
+          "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"
+        },
+        {
+          "k": "AI-Native 派",
+          "v": "Comet / Tabbit / Dia / Ego Lite：从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"
+        },
+        {
+          "k": "隐私与信任",
+          "v": "Brave / Firefox / Ray-Ban Meta Audio：把「不采集」做成可被感知的产品主张"
+        },
+        {
+          "k": "观察维度",
+          "v": "产品定义 · 工业设计 · 交互范式 · 信息架构 · UI 质感 · 颜色 · Icon · 动效反馈 · 无障碍 · 品牌语言"
+        }
+      ],
+      "items": [
+        {
+          "id": "m5-1",
+          "title": "把「记忆与注意力」变成产品功能：Active Memory / Active Focus 的设计含义",
+          "category": "交互设计 / 产品形态",
+          "priority": "high",
+          "facts": "Meta 在 Wonder 中引入 Active Memory 与 Active Focus 两项能力，用于支撑 AI 系统在更长时间跨度上持续工作。",
+          "insight": "过去「记忆」对用户是不可见的黑盒，现在它被做成可命名、可感知的功能。这是一个重要的产品化转向：当 Agent 开始长时间工作，用户需要知道自己被记住了什么、当前聚焦在哪——否则长程任务会变成不可控的黑箱。设计上的命题随之出现：如何把「Agent 记得什么」做成可查看、可删除、可纠正的界面。",
+          "entities": [
+            "Meta"
+          ],
+          "tags": [
+            "#交互设计",
+            "#产品形态",
+            "#UI设计"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p34#a261012p34"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp",
+              "caption": "Muse Wonder 官方视觉：把 Agent 的持续工作能力作为主叙事",
+              "credit": "research.meta.ai",
+              "link": "https://research.meta.ai/blog/muse-wonder"
+            }
+          ]
+        },
+        {
+          "id": "m5-2",
+          "title": "Epic 要求「AI 优先」生产：创意工业的工作流正在被重写",
+          "category": "服务设计 / 交互设计",
+          "priority": "high",
+          "facts": "消息称 Epic 推迟了一款游戏的发布，并要求开发团队采用「AI 优先」的生产模式，不再有（no more）纯手工环节。",
+          "insight": "当一家顶级工作室把「AI 优先」写进生产流程，创意工作的分工就被重新定义了：人负责判断与取舍，AI 负责产出与迭代。设计上的挑战是质量一致性——玩家能分辨出的不是画面精度，而是风格是否统一。这也提示所有创意工具：下一阶段的核心不是生成能力，而是风格锁定与版本管理。",
+          "entities": [
+            "Epic Games"
+          ],
+          "tags": [
+            "#服务设计",
+            "#交互设计",
+            "#产品形态"
+          ],
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/261012/p39#a261012p39"
+            },
+            {
+              "name": "AV Club",
+              "url": "https://www.avclub.com/epic-games-disney-ai-delay"
+            }
+          ]
+        },
+        {
+          "id": "m5-3",
+          "title": "默认即伦理：常驻守护进程与「暗默认」的设计批判",
+          "category": "信任设计 / AI 安全",
+          "priority": "mid",
+          "facts": "Codex CLI 默认安装持久、自更新的后台守护进程（HN 452）；同期 Apple 因在 iOS 加入持久广告引发用户不满，博物馆与竞赛也在处理 AI 生成内容的边界。",
+          "insight": "这几条的共同点是「暗默认」——厂商把对自己有利的行为设成默认，把选择成本转嫁给用户。设计的伦理底线其实很朴素：凡涉及持久驻留、数据采集与自动更新，都应在首次发生时显式告知，并提供等效的关闭路径。做不到这一点，产品再流畅也会在第一次被发现时失去信任。",
+          "entities": [
+            "OpenAI",
+            "Apple"
+          ],
+          "tags": [
+            "#AI安全",
+            "#交互设计",
+            "#产品形态"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "id": "m5-4",
+          "title": "设计系统的机器可读化：artcraft 与 diagram-design 连续两日领跑",
+          "category": "设计系统 / 开源",
+          "priority": "mid",
+          "facts": "GitHub 日榜上 artcraft（+4,095）与 diagram-design（+2,081）连续两日位于前列，另有 gods-eye-view（+1,895）。",
+          "insight": "让 Agent 遵守设计系统，前提是把设计系统变成机器可读的规则——网格、层级、配色、间距都要有结构化表达。这类仓库的爆红说明这个需求已经很迫切。对设计团队而言，未来的交付物除了 Figma 文件与组件库，还会多一份「给 Agent 用的规范文件」；谁先做，谁的产出一致性就先受益。",
+          "entities": [],
+          "tags": [
+            "#设计系统",
+            "#开源",
+            "#UI设计"
+          ],
+          "sources": [
+            {
+              "name": "GitHub · storytold/artcraft",
+              "url": "https://github.com/storytold/artcraft"
+            },
+            {
+              "name": "GitHub · cathrynlavery/diagram-design",
+              "url": "https://github.com/cathrynlavery/diagram-design"
+            }
+          ]
+        },
+        {
+          "id": "m5-5",
+          "title": "速度与体感：490 tokens/s 之后，界面该设计什么",
+          "category": "交互设计 / 动效反馈",
+          "priority": "mid",
+          "facts": "智谱新模型达到 490 tokens/s；Muse Wonder 主打长时间跨度的 Agent 工作；端侧低比特推理（BitNet）持续活跃。",
+          "insight": "当生成速度超过阅读速度，「打字机效果」与「加载动画」这些为掩盖延迟而生的设计就失去了意义。界面该转向的是另外三件事：长内容的结构化呈现、可中断与可回滚、以及进度可视化。换句话说，等待的美学结束后，剩下的设计难题全部是关于控制权的。",
+          "entities": [
+            "智谱",
+            "Meta"
+          ],
+          "tags": [
+            "#交互设计",
+            "#视觉趋势",
+            "#推理优化"
+          ],
+          "sources": [
+            {
+              "name": "量子位 · 智谱 490 tokens/s",
+              "url": "https://www.qbitai.com/2026/10/502649.html"
+            },
+            {
+              "name": "Techmeme · Wonder",
+              "url": "https://www.techmeme.com/261012/p31#a261012p31"
+            }
+          ]
+        },
+        {
+          "id": "m5-6",
+          "title": "人格对照（持续观察）：Chrome 的功能墙与 Tabbit 的一句话",
+          "category": "视觉趋势 / 图标设计",
+          "priority": "low",
+          "facts": "对照两家官方首页：Chrome 仍是功能卡 + 大色块的产品页结构；Tabbit 首屏是单一主张 + 一张产品图。两种人格在本周继续并存。",
+          "insight": "差别不在审美，而在对用户心智的假设：功能墙假设用户知道自己要找什么，一句话假设用户需要被说服。Agent 类产品多属后者，因此必然走向留白与单一强调色。本期新增的观察是：当模型开始提供 Active Memory 这类「不可见能力」，界面必须补上解释责任——否则用户既看不到能力，也看不到进度。",
+          "entities": [
+            "Google",
+            "Tabbit"
+          ],
+          "tags": [
+            "#图标设计",
+            "#视觉趋势",
+            "#UI设计"
+          ],
+          "sources": [
+            {
+              "name": "Google Chrome 官网",
+              "url": "https://www.google.com/intl/en/chrome/"
+            },
+            {
+              "name": "Tabbit 官网",
+              "url": "https://tabbit.ai/"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://www.google.com/chrome/static/images/homepage/homepage-v2.png",
+              "caption": "对照 A：Chrome 的「功能墙」人格",
+              "credit": "google.com/chrome",
+              "link": "https://www.google.com/intl/en/chrome/"
+            },
+            {
+              "url": "https://www.tabbit.ai/home/hero-en.png",
+              "caption": "对照 B：Tabbit 的「一句话」人格",
+              "credit": "tabbit.ai",
+              "link": "https://tabbit.ai/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

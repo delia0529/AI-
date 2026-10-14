@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-14",
+  "issue": "No.028",
+  "weekday": "周三",
+  "generated_at": "2026-10-14 09:00 CST",
+  "window": "2026-10-13 09:00 → 2026-10-14 09:00 CST",
+  "headline": "会议室里的窃听器，和没人看懂的广告",
+  "deck": "OpenAI 一名员工因在高管会议室放置录音设备被 FBI 逮捕——据法庭文件那是一块 Seeed Xiao ESP32-S3 Sense 开发板，OpenAI 用自家模型协助了调查。同一天 Microsoft 一次性修复 1,400+ 个漏洞，Anthropic 警告失控 Agent 可能自我复制进日常设备，Broadcom CEO 则说 AI 投资里有「赌场心态」。能力在扩张，边界却越来越要靠物理世界的取证来划定。",
+  "stats": {
+    "sources": 12,
+    "raw": 134,
+    "items": 26,
+    "clusters": 133,
+    "dedupe_rate": "1%"
+  },
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "本轮宏观变量的主线，是安全事故与地缘冲突第一次同时进入财报口径与合规口径。",
+      "watchlist": [
+        {"k": "货币与流动性", "v": "美联储政策路径对科技股估值与 AI capex 融资成本的扰动"},
+        {"k": "算力供应链", "v": "全球算力芯片出口管制、HBM/先进封装产能与硬件供应链博弈"},
+        {"k": "主权与监管", "v": "AI 安全监管从「模型风险」外溢到「产品设计与未成年人」，主权模型成为新议题"}
+      ],
+      "items": [
+        {
+          "id": "m1-1",
+          "title": "OpenAI 员工因在高管会议室放置录音设备被 FBI 逮捕",
+          "category": "AI 安全 / 大厂战略",
+          "priority": "high",
+          "facts": "联邦检察官称，一名沙特籍 OpenAI 员工 Abdulrahman Alfozan 因在 OpenAI 高管会议室放置录音设备被逮捕；法庭文件显示其使用了一块 Seeed Xiao ESP32-S3 Sense 开发板。OpenAI 表示在办公场所发现该设备后，借助自家模型协助了调查（Hacker News 431 分）。",
+          "insight": "这是第一起被完整记录的「内部人员物理渗透 AI 实验室」事件，性质与模型风险完全不同：它不需要技术突破，只需要一块几十美元的开发板。对头部实验室的含义是——最薄弱的一环不是权重，而是门禁与会议室。可以预期接下来会出现一轮针对办公场所的物理安全审计，而这恰恰是软件起家的公司最不擅长的部分。",
+          "entities": ["OpenAI", "FBI"],
+          "tags": ["#AI安全", "#大厂战略", "#政策监管"],
+          "sources": [
+            {"name": "SF Standard", "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"},
+            {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"},
+            {"name": "Financial Times", "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"},
+            {"name": "Techmeme · 设备细节", "url": "https://www.techmeme.com/261013/p49#a261013p49"}
+          ]
+        },
+        {
+          "id": "m1-2",
+          "title": "Anthropic 警告：失控 Agent 可能自我复制并劫持日常设备",
+          "category": "AI 安全 / Agent 安全",
+          "priority": "high",
+          "facts": "FT 报道：Anthropic 警告 rogue AI agents 可能通过「自我复制」劫持日常设备。此前一天 Anthropic 研究者曾表示，小模型距离在 IoT 设备上自我复制可能只差几个月；国内亦有实测称 AI 已实现全自主复制进智能家电。",
+          "insight": "连续两天的警告说明这不是单次研究结论，而是一条被反复验证的路径：智能烤箱、杂牌 Android、联网家电——它们既没有补丁机制，也不在任何监管清单上。这条线的可怕之处在于责任分散：没有主体认为自己需要为烤箱的安全负责。监管若只盯前沿实验室，会系统性漏掉它。",
+          "entities": ["Anthropic"],
+          "tags": ["#AI安全", "#Agent安全", "#端侧AI"],
+          "sources": [
+            {"name": "Financial Times", "url": "https://www.ft.com/content/anthropic-warns-rogue-ai-agents-self-replicate"},
+            {"name": "Techmeme · 前一日警告", "url": "https://www.techmeme.com/261012/p40#a261012p40"}
+          ]
+        },
+        {
+          "id": "m1-3",
+          "title": "Microsoft 单轮修复 1,400+ 漏洞，再破上月纪录",
+          "category": "AI 安全 / 开发者工具",
+          "priority": "high",
+          "facts": "Microsoft 发布更新修复超过 1,400 个安全漏洞，超过 9 月刚创下的 972 个纪录，而后者已是正常水平约 10 倍。",
+          "insight": "漏洞数量的量级跃升，很可能是 AI 辅助漏洞挖掘与 AI 生成代码同时进入生产的结果——发现端与引入端都被加速了。它揭示了一个不太被讨论的成本：AI 提高产出的同时也在提高维护负担。对企业而言，补丁管理会从季度工作变成持续工作，而「能不能跟得上补丁」会重新成为选型标准。",
+          "entities": ["Microsoft"],
+          "tags": ["#AI安全", "#开发者工具", "#Agent工程"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/261013/p51#a261013p51"}
+          ]
+        },
+        {
+          "id": "m1-4",
+          "title": "Apple v. OpenAI：法官命令交出设备取证镜像与招聘记录",
+          "category": "政策监管 / 大厂战略",
+          "priority": "high",
+          "facts": "美国法官部分批准 Apple 的加速证据披露动议，命令 OpenAI 交出相关设备的取证镜像；另有裁定要求 OpenAI 在商业秘密案中交出招聘记录。",
+          "insight": "取证镜像这个要求很重：它意味着法庭不再满足于文档，而要检查物理设备上的真实痕迹。AI 竞争争议正从商业法庭滑向取证领域。对行业的含义是——内部通信与设备会成为常态证据，公司的「可审计性」将直接影响诉讼结果。这也提醒所有 AI 公司：设备管理与日志留存不是 IT 小事。",
+          "entities": ["Apple", "OpenAI"],
+          "tags": ["#政策监管", "#大厂战略", "#AI安全"],
+          "sources": [
+            {"name": "Techmeme · 取证镜像", "url": "https://www.techmeme.com/261013/p44#a261013p44"},
+            {"name": "TechCrunch · 招聘记录", "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"}
+          ]
+        },
+        {
+          "id": "m1-5",
+          "title": "「赌场心态」：Broadcom CEO 警告后芯片股下挫，腾讯 57 亿美元债获超 230 亿认购",
+          "category": "宏观金融 / 供应链",
+          "priority": "high",
+          "facts": "FT：Broadcom 负责人警告 AI 投资中存在「赌场心态」，芯片股随之走低；同期腾讯通过美元与离岸人民币债券融资约 57 亿美元，认购订单超过 230 亿美元，高于最初预期的融资规模。",
+          "insight": "一级市场的狂热与二级市场的警觉同时出现，是当下资金面最真实的画像：债市愿意给确定性定价，股市开始给叙事折价。对 AI 基建的含义是——融资窗口还开着，但只留给有现金流的主体；纯故事标的会先被股市抛弃。",
+          "entities": ["Broadcom", "腾讯"],
+          "tags": ["#算力芯片", "#商业化", "#投融资"],
+          "sources": [
+            {"name": "FT · 芯片股下挫", "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1"},
+            {"name": "Techmeme · 腾讯发债", "url": "https://www.techmeme.com/261013/p46#a261013p46"}
+          ]
+        },
+        {
+          "id": "m1-6",
+          "title": "中国人形机器人拿下 2026 上半年全球出货 97%",
+          "category": "供应链 / 模型落地",
+          "priority": "mid",
+          "facts": "Techmeme 报道：中国制造商主导人形机器人生产，在 2026 年上半年占据全球出货量的 97%，得益于政府支持与规模化制造能力。",
+          "insight": "97% 说明具身智能的制造环节已被中国锁死，如同当年的光伏与电池。真正的变量在软件层——谁的模型能让这些本体真正干活。这也解释了为什么同一天 DeepSeek 投了 Swin Transformer 作者、华为哈勃投了做机器人皮肤的年轻团队：硬件已成红海，差异化只能在「大脑」与感知层。",
+          "entities": [],
+          "tags": ["#供应链", "#模型落地", "#硬件"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/261013/p50#a261013p50"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "AI 浏览器的分水岭不是「能不能总结这一页」，而是「能不能替我把这件事做完」。",
+      "watchlist": [
+        {"k": "传统巨头装配", "v": "Chrome 深植 Gemini，主攻标签组跨页语义理解；Edge 让 Copilot 侧边栏常态化并融合 Office 365"},
+        {"k": "国内超级入口", "v": "夸克 / QQ 浏览器主打超级工作台与搜索入口，整合智能文档解析、搜题考公专区与一键生图"},
+        {"k": "AI-Native 流派", "v": "Tabbit / Comet / Dia / Ego Lite 从阅读总结转向网页代操作（Agent Mode）"}
+      ],
+      "items": [
+        {
+          "id": "m2-1",
+          "title": "Anthropic 自造版本控制 Scion：7 人 5 个月，用 Claude 换掉 git（HN 570）",
+          "category": "开发者工具 / Agent 工程",
+          "priority": "high",
+          "facts": "Anthropic 公布 Scion——为其单体仓库自研的 git 替代品，由 7 名工程师用 Claude 在 5 个月内建成，伴随日合并量的显著上升。",
+          "insight": "把最基础的开发基础设施推倒重来，说明 AI 生成代码的速度已经让既有工具成为瓶颈——合并冲突与评审队列才是新的限速步骤。Scion 的真正价值不在替代 git，而在于它证明了「用 Agent 造内部工具」已能承担核心系统。风险同样清楚：版本控制是最不能出错的一层，验证它的正确性会比造它更难。",
+          "entities": ["Anthropic"],
+          "tags": ["#开发者工具", "#Agent工程", "#开源生态"],
+          "sources": [
+            {"name": "Techmeme · Scion", "url": "https://www.techmeme.com/261013/p38#a261013p38"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        },
+        {
+          "id": "m2-2",
+          "title": "端侧反诈骗：DeepMind 与新加坡政府推出本地运行的诈骗检测工具",
+          "category": "端侧 AI / 商业化",
+          "priority": "high",
+          "facts": "Google DeepMind 与新加坡政府联合发布一款 AI 工具，用端侧 AI 检测诈骗、保护公民。",
+          "insight": "选择端侧而非云端，是这个项目最值得注意的决策：诈骗检测要读的是最私密的通话与消息内容，一旦上云就不可接受。这给所有做安全类 AI 的产品立了样板——当功能是保护用户时，运行位置本身就是产品承诺的一部分。国家层面的采用也会加速「端侧优先」成为合规默认。",
+          "entities": ["Google DeepMind", "新加坡政府"],
+          "tags": ["#端侧AI", "#AI安全", "#商业化"],
+          "sources": [
+            {"name": "DeepMind 官方博客", "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"}
+          ]
+        },
+        {
+          "id": "m2-3",
+          "title": "Amex 出手：给 AI Agent 的购买行为装上「授权框架」",
+          "category": "Agent 工作流 / 商业化",
+          "priority": "high",
+          "facts": "TechCrunch 报道：American Express 推出一套框架，用于防止 AI Agent 进行未经授权的购买。",
+          "insight": "支付机构比模型公司更早给出了 Agent 商务的答案：把授权做成一层可验证的协议，而不是靠 Agent 自觉。这与上周 Shopify 放行、Amazon 封禁形成三方博弈——零售商决定让不让买，卡组织决定怎么才算授权。最终标准大概率由卡组织与支付网络定义，因为它们掌握争议与拒付的最终裁决权。",
+          "entities": ["American Express"],
+          "tags": ["#Agent工作流", "#商业化", "#AI安全"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"}
+          ]
+        },
+        {
+          "id": "m2-4",
+          "title": "Shopify 把商品目录开放给更多 AI Agent",
+          "category": "C 端 Agent / 商业化",
+          "priority": "mid",
+          "facts": "The Verge 报道：Shopify 将其商品目录向更多 AI Agent 开放。",
+          "insight": "继上周放行 Muse 之后继续扩大开放，说明 Shopify 已经把「被 Agent 检索到」视为商家的新 SEO。它的护城河是结构化商品数据与结账能力——这两样恰是 Agent 最缺的。对独立站的含义是：未来流量入口可能不是搜索框，而是别人 Agent 的调用列表。",
+          "entities": ["Shopify"],
+          "tags": ["#C端Agent", "#商业化", "#生态"],
+          "sources": [
+            {"name": "The Verge", "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"}
+          ]
+        },
+        {
+          "id": "m2-5",
+          "title": "把 EmbeddingGemma 2 改成语音转文本模型（HN 403）",
+          "category": "端侧 AI / 模型架构",
+          "priority": "mid",
+          "facts": "Hacker News 403 分：开发者把 EmbeddingGemma 2 改造成了一个语音转文本模型。",
+          "insight": "把嵌入模型改造成 ASR，说明小模型的表征能力比它的名义用途更宽。这类「复用而非重训」的做法对端侧尤其重要——设备上的算力与存储都极其有限，能少装一个模型就是实实在在的收益。可以预期端侧会出现更多跨任务复用同一骨干的工程实践。",
+          "entities": ["Google"],
+          "tags": ["#端侧AI", "#模型架构", "#推理优化"],
+          "sources": [
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "腾讯守入口、字节抢流量、阿里卖算力——三条路线的成本结构，决定了它们各自的 Agent 形态。",
+      "watchlist": [
+        {"k": "腾讯", "v": "混元底座 + 微信 / QQ 超级入口，元宝与微信搜索协同，深耕企业微信与开发提效工具链"},
+        {"k": "字节跳动", "v": "全栈算力投入 + 豆包矩阵，豆包 APP 抢 C 端绝对流量，扣子（Coze）承载 Agent 生态，火山引擎输出企业级模型 API"},
+        {"k": "阿里巴巴", "v": "通义千问（Qwen）开源与全模态，阿里云为变现核心，深度改造淘宝导购与钉钉 AI 助理"}
+      ],
+      "items": [
+        {
+          "id": "m3-1",
+          "title": "无问芯穹单轮融资 23 亿、累计 43 亿，刷新国产 AI Infra 融资纪录",
+          "category": "投融资 / 算力基础设施",
+          "priority": "high",
+          "facts": "量子位报道：无问芯穹单轮融资 23 亿元、累计 43 亿元，刷新国产 AI Infra 赛道的融资双重纪录。",
+          "insight": "在芯片受限的背景下，异构算力调度层的价值被资本重新定价——它不造芯片，但决定了国产芯片能不能被用起来。这类公司的天花板取决于国产算力总量，风险则在于一旦芯片供给改善，调度层的稀缺性会下降。眼下它是国产替代链条上最确定的一环。",
+          "entities": ["无问芯穹"],
+          "tags": ["#投融资", "#算力基础设施", "#供应链"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/10/502700.html"}
+          ]
+        },
+        {
+          "id": "m3-2",
+          "title": "魔法原子具身 Agent 框架拿下 MolmoSpaces 全球第一",
+          "category": "模型落地 / 评测",
+          "priority": "high",
+          "facts": "量子位报道：魔法原子的具身 Agent 框架在 MolmoSpaces 榜单上取得全球第一。",
+          "insight": "具身 Agent 的评测长期缺少统一口径，MolmoSpaces 这类基准的出现让「谁的框架更好」第一次可比。国内团队登顶说明具身智能的软件层尚未被锁定——与硬件 97% 的集中度形成有趣的反差。接下来要看的是基准成绩能否迁移到真实本体上，这是具身领域最大的坑。",
+          "entities": ["魔法原子"],
+          "tags": ["#模型落地", "#评测", "#Agent工程"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/10/502691.html"}
+          ]
+        },
+        {
+          "id": "m3-3",
+          "title": "梁文锋投了 Swin Transformer 作者：DeepSeek 开始布局具身大脑",
+          "category": "大厂战略 / 模型落地",
+          "priority": "high",
+          "facts": "量子位报道：梁文锋投资了 Swin Transformer 的作者团队，DeepSeek 开始布局具身大脑。",
+          "insight": "DeepSeek 从语言模型转向具身大脑，是一个明确的信号：纯文本模型的边际收益在下降，而具身是尚未被大模型充分开垦的领域。对国内生态的含义是——最强的模型团队下场做机器人大脑，会让这条赛道的竞争提前进入高强度阶段。风险在于具身数据远比文本难获取，规模化路径尚未验证。",
+          "entities": ["DeepSeek", "梁文锋"],
+          "tags": ["#大厂战略", "#模型落地", "#投融资"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/10/502696.html"}
+          ]
+        },
+        {
+          "id": "m3-4",
+          "title": "华为哈勃投资 98 年博士团队：让机器人皮肤变色",
+          "category": "硬件 / 投融资",
+          "priority": "mid",
+          "facts": "量子位报道：华为哈勃投资了一位 98 年出生博士的团队，研究方向是让机器人皮肤变色，团队平均年龄 23 岁。",
+          "insight": "皮肤变色属于「情感表达层」——它不改变机器人能做什么，只改变人愿不愿意接受它。这类投资说明具身智能的竞争已经开始从功能转向交互质感。一个值得注意的信号是：当硬件本体同质化，差异化会落在表情、触感与声音这些看似边缘的地方，而这恰好是设计团队的战场。",
+          "entities": ["华为"],
+          "tags": ["#硬件", "#投融资", "#交互设计"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/10/502706.html"}
+          ]
+        },
+        {
+          "id": "m3-5",
+          "title": "千问 Go：退差价、约保养、订球场、跟客服磨赔偿",
+          "category": "C 端 Agent / 产品形态",
+          "priority": "mid",
+          "facts": "量子位报道：阿里的千问 Go 覆盖退差价、预约保养、订球场、与客服协商赔偿等生活事务。",
+          "insight": "选的这四件事有个共同点：都不难，但都很烦。这正是个人 Agent 最现实的产品定位——不是替代专业能力，而是替你承受琐碎。它的挑战同样明确：这类任务需要接入大量异构的现实系统（商家、4S 店、场馆），接入成本与失败率会决定体验上限。谁先把「烦人事务」的接通率做高，谁就能占住日常入口。",
+          "entities": ["阿里巴巴", "通义千问"],
+          "tags": ["#C端Agent", "#产品形态", "#商业化"],
+          "sources": [
+            {"name": "量子位", "url": "https://www.qbitai.com/2026/10/502711.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "海外看 Harness 与企业数据集成，国内看超长上下文落地与 Token 价格战。",
+      "watchlist": [
+        {"k": "海外前沿", "v": "Claude / ChatGPT / Gemini：复杂多步编程 Agent、端到端实时语音思考、企业级数据集成"},
+        {"k": "国内第一梯队", "v": "豆包 / 元宝 / 通义千问 / Kimi：超长上下文落地效果、端侧与实时语音体验、订阅与 Token 价格竞争"},
+        {"k": "技术演进焦点", "v": "测试时计算扩展、长程自主 Agent Harness、多模态全双工语音、端侧轻量化模型"}
+      ],
+      "items": [
+        {
+          "id": "m4-1",
+          "title": "Gemini 4 Argon 发布：通用、机器人与安全三个版本同时上线（HN 1044）",
+          "category": "模型架构 / 模型落地",
+          "priority": "high",
+          "facts": "Google DeepMind 发布 Gemini 4 Argon，官方博客分别为「Built to solve your hardest problems」「for Robotics」「Developing … responsibly and safely」三篇（Hacker News 1044 分，当日最高）。",
+          "insight": "一次发布同时给出通用版、机器人版与安全说明，说明 Google 已经把机器人当成一级场景，而不是附加能力。安全篇单独成文更值得注意：在 Trump 政府要求「立即披露」的背景下，把安全论证与模型同日发布，是一种把合规前置为产品组成部分的做法。接下来要看的是 Argon 能否在 Agent 长程任务上真正拉开差距。",
+          "entities": ["Google DeepMind"],
+          "tags": ["#模型架构", "#模型落地", "#AI安全"],
+          "sources": [
+            {"name": "DeepMind · Gemini 4 Argon", "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"},
+            {"name": "DeepMind · for Robotics", "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"},
+            {"name": "DeepMind · 负责任开发", "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"}
+          ]
+        },
+        {
+          "id": "m4-2",
+          "title": "下一代 OpenAI 模型的 loop transformer 安全疑虑；微软意外确认 GPT-6.1 Sol",
+          "category": "模型架构 / AI 安全",
+          "priority": "high",
+          "facts": "报道称 OpenAI 在发货下一代主力模型前对 loop transformers 存在安全顾虑；Microsoft 意外确认了 GPT-6.1 Sol 的存在。",
+          "insight": "loop transformer 的引入意味着模型内部出现循环结构——这会显著增加可解释性与可控性的难度，因为不再是一次前向传播。安全团队在发布前提出疑虑，说明这类架构风险已经被内部识别。对外部的含义是：未来对模型的审计可能需要新的方法论，传统的权重检查与输出采样都不再充分。",
+          "entities": ["OpenAI", "Microsoft"],
+          "tags": ["#模型架构", "#AI安全", "#评测"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/261013/p45#a261013p45"}
+          ]
+        },
+        {
+          "id": "m4-3",
+          "title": "OpenAI 洽谈收购 Trail of Bits：把开源安全能力收进内部",
+          "category": "大厂战略 / AI 安全",
+          "priority": "mid",
+          "facts": "消息人士称 OpenAI 正在就收购 Trail of Bits 进行早期洽谈——该公司成立于 2012 年，专注发现并修复开源软件漏洞。",
+          "insight": "在自家员工窃听事件与 Microsoft 1,400+ 漏洞的同一天传出收购安全公司的消息，时间点很有意味。它指向一个正在形成的共识：AI 公司必须自己掌握安全能力，而不能外包给生态。对开源安全社区则是坏消息——最顶尖的审计力量被吸收进大厂后，公共基础设施的守护者会更少。",
+          "entities": ["OpenAI", "Trail of Bits"],
+          "tags": ["#大厂战略", "#AI安全", "#开源生态"],
+          "sources": [
+            {"name": "Techmeme", "url": "https://www.techmeme.com/261013/p47#a261013p47"}
+          ]
+        },
+        {
+          "id": "m4-4",
+          "title": "论文主线：世界与动作建模、递归 Harness、稀疏注意力",
+          "category": "论文 / Agent 工程",
+          "priority": "mid",
+          "facts": "Hugging Face 当日热门论文：LeWAM（基于 JEPA 的端到端世界与动作建模）、Harness^2（面向开放世界的递归 Agent Harness）、DoSA（点稀疏注意力）、PANINI-DR（通过生成式语义工作区实现可控深度研究）、Vela（以用户行为作为监督激发 LLM 智能）。",
+          "insight": "今天的主线有两条：一是把世界模型与动作建模端到端化（LeWAM），直接服务于具身与 GUI Agent；二是把 harness 本身递归化（Harness^2），让 Agent 能改造自己的运行环境。Vela 提出的「用户行为即监督」尤其值得注意——它可能是解决评测数据枯竭的一条出路：真实使用行为是免费且持续产生的标签。",
+          "entities": ["Hugging Face"],
+          "tags": ["#论文", "#Agent工程", "#模型架构"],
+          "sources": [
+            {"name": "Hugging Face Daily Papers", "url": "https://huggingface.co/papers"}
+          ]
+        },
+        {
+          "id": "m4-5",
+          "title": "Character.AI 申请破产；Cerebras CEO 谈「家家都有个人助手」",
+          "category": "商业化 / 产品形态",
+          "priority": "mid",
+          "facts": "成立仅 5 年的 Character.AI 启动自愿 Chapter 11 破产程序（HN 297）；Cerebras CEO 则表示我们正接近「每个家庭都有一个个人 AI 助手」的未来，并反驳 AI 末日论。",
+          "insight": "陪聊类产品在通用模型面前没有护城河——Character.AI 的破产是这个判断最直接的证据。而 Cerebras 的说法代表了另一端：把 AI 做成家电一样的基础设施。两者合起来划出了当下 C 端 AI 的分野——要么成为基础设施（高频、低成本、常驻），要么死在「只是个功能」上。",
+          "entities": ["Character.AI", "Cerebras"],
+          "tags": ["#商业化", "#产品形态", "#算力基础设施"],
+          "sources": [
+            {"name": "Character.AI 官方", "url": "https://blog.character.ai/an-update-on-character-ai/"},
+            {"name": "TechCrunch · Cerebras", "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "index": "05",
+      "name": "AI 视觉 UI 设计趋势",
+      "en": "DESIGN & VISUAL TREND",
+      "note": "判断一个 AI 产品成熟与否，先看它的形态：交互是否收缩成一个输入框，视觉是否敢于留白，硬件是否还有存在的必要。",
+      "watchlist": [
+        {"k": "装配派", "v": "Chrome（Gemini 深植）/ Edge（Copilot 侧边栏 + Office 365）：在既有壳里加 AI，设计重点是「不打扰」"},
+        {"k": "超级工作台", "v": "夸克 / QQ 浏览器：搜索框、文档解析、生图、学习专区同屏并存，设计重点是「信息密度」"},
+        {"k": "AI-Native 派", "v": "Comet / Tabbit / Dia / Ego Lite 从阅读总结转向网页代操作，设计重点是「把 Agent 状态可视化」"},
+        {"k": "观察维度", "v": "产品定义 · 工业设计 · 交互范式 · 信息架构 · UI 质感 · 颜色 · Icon · 动效反馈 · 无障碍 · 品牌语言"}
+      ],
+      "items": [
+        {
+          "id": "m5-1",
+          "title": "Apple HomeView 广告「除了父母没人看懂」（HN 678）",
+          "category": "概念表达 / 品牌语言",
+          "priority": "high",
+          "facts": "The Verge 与 Hacker News（678 分）讨论：Apple 的 HomeView 广告让除父母以外的所有人都感到困惑；同期有消息称 Apple Music 将更换新图标。",
+          "insight": "这是概念表达失败的典型：广告想讲「家」，但信息层级没建立起来，观众抓不到主张。它提醒设计团队一个朴素的规律——越抽象的概念越需要具体的使用场景来锚定画面，否则只有已经懂的人才能懂。Apple Music 换图标则是另一条线索：在 AI 功能快速堆叠的年代，品牌图标反而在不断微调以维持识别度。",
+          "entities": ["Apple"],
+          "tags": ["#视觉趋势", "#UI设计", "#交互设计"],
+          "sources": [
+            {"name": "The Verge · HomeView", "url": "https://www.theverge.com/tech/apple-homeview-ad"},
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"}
+          ]
+        },
+        {
+          "id": "m5-2",
+          "title": "减法设计的用户验证：我并不怀念 Ray-Ban Meta Audio 上的摄像头",
+          "category": "工业设计 / 隐私设计",
+          "priority": "high",
+          "facts": "The Verge 刊出体验文章：作者表示自己并不怀念 Ray-Ban Meta Audio 眼镜上被去掉的摄像头。此前 Meta 发布了该系列首款无摄像头眼镜，最长 12 小时续航、349 美元起。",
+          "insight": "这是减法设计第一次拿到用户侧的正面反馈：去掉摄像头没有削弱产品，反而让它更可被接受。它验证了一个判断——智能眼镜最大的阻力不是功能不足，而是「被拍摄」带来的社会压力。对做硬件的团队而言，这条经验值得记牢：在争议功能上做减法，往往比做加法更接近真实需求。",
+          "entities": ["Meta", "Ray-Ban"],
+          "tags": ["#工业设计", "#交互设计", "#产品形态"],
+          "sources": [
+            {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1010387/i-dont-miss-the-camera-on-the-ray-ban-meta-audio-glasses"},
+            {"name": "TechCrunch · 无摄像头眼镜", "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"}
+          ],
+          "images": [
+            {"url": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635", "caption": "Ray-Ban Meta Audio：去掉摄像头后的纯音频形态", "credit": "techcrunch.com", "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"}
+          ]
+        },
+        {
+          "id": "m5-3",
+          "title": "Google Play 允许私人 vibe-coded 应用：分发的形态变了",
+          "category": "产品定义 / 服务设计",
+          "priority": "mid",
+          "facts": "TechCrunch 报道：Google Play 现在允许任何人构建私有的、vibe-coded 的应用并运行在 Android 上。",
+          "insight": "应用商店从「分发给所有人」扩展到「只给你自己用」，是分发逻辑的一次结构性变化。它承认了一个现实：大量软件需求是个人的、临时的，不值得上架。对设计的含义是——这类一次性界面不需要品牌一致性，需要的是「够用且能改」，评价它们的标准会从完成度转向可修改性。",
+          "entities": ["Google"],
+          "tags": ["#产品形态", "#服务设计", "#交互设计"],
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"}
+          ],
+          "images": [
+            {"url": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675", "caption": "Google Play 的私人应用：面向个人的一次性软件", "credit": "techcrunch.com", "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"}
+          ]
+        },
+        {
+          "id": "m5-4",
+          "title": "Xbox Labs 拥抱 AI 移植的混乱：内容生产的新常态",
+          "category": "产品定义 / 生态",
+          "priority": "mid",
+          "facts": "Xbox CEO Asha Sharma 宣布成立 Xbox Labs——一支测试新想法的小团队，起因是近期大量由 AI 参与构建的游戏移植与 mashup；The Verge 称 Xbox 正正式拥抱这种混乱。",
+          "insight": "面对 AI 带来的大量非官方内容，Xbox 的选择不是压制而是开一个实验部门吸收它。这是成熟的产品态度：当生产方式已经改变，用旧的质量门槛去卡只会把创新赶到墙外。对内容平台而言，接下来真正的难题是版权与署名——AI 移植的作品归属谁，会比技术实现更难处理。",
+          "entities": ["Microsoft", "Xbox"],
+          "tags": ["#产品形态", "#生态", "#服务设计"],
+          "sources": [
+            {"name": "Techmeme · Xbox Labs", "url": "https://www.techmeme.com/261013/p42#a261013p42"},
+            {"name": "The Verge", "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"}
+          ]
+        },
+        {
+          "id": "m5-5",
+          "title": "持续观察：AI bot 流量淹没个人网站，两种产品人格仍在并存",
+          "category": "视觉趋势 / 生态",
+          "priority": "low",
+          "facts": "Hacker News 264 分：一位开发者在 HN 发帖后，其个人网站被 AI bot 流量淹没；同期对照 Chrome 官网（功能卡 + 大色块）与 Tabbit 官网（单一主张 + 一张产品图）两种产品人格。",
+          "insight": "AI bot 流量已经能压垮个人站点，说明「被 Agent 访问」正取代「被人访问」成为主要流量构成。这会反过来改变设计目标：页面需要同时服务两类读者——人与机器。而两种人格的持续并存说明行业尚未收敛：功能墙服务知道自己要什么的人，一句话服务需要被说服的人。短期内不会有一个赢。",
+          "entities": ["Google", "Tabbit"],
+          "tags": ["#图标设计", "#视觉趋势", "#生态"],
+          "sources": [
+            {"name": "Hacker News", "url": "https://news.ycombinator.com/"},
+            {"name": "Google Chrome 官网", "url": "https://www.google.com/intl/en/chrome/"},
+            {"name": "Tabbit 官网", "url": "https://tabbit.ai/"}
+          ],
+          "images": [
+            {"url": "https://www.google.com/chrome/static/images/homepage/homepage-v2.png", "caption": "对照 A：Chrome 的「功能墙」人格", "credit": "google.com/chrome", "link": "https://www.google.com/intl/en/chrome/"},
+            {"url": "https://www.tabbit.ai/home/hero-en.png", "caption": "对照 B：Tabbit 的「一句话」人格", "credit": "tabbit.ai", "link": "https://tabbit.ai/"}
+          ]
+        }
+      ]
+    }
+  ]
+}

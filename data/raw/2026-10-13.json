@@ -1,65 +1,55 @@
 {
   "date": "2026-10-13",
-  "fetched_at": "2026-10-13T09:27:54",
+  "fetched_at": "2026-10-13T07:40:16",
   "items": [
     {
       "title": "storytold/artcraft — GitHub Trending",
       "url": "https://github.com/storytold/artcraft",
       "source": "github_trending",
-      "published": "2026-10-13T01:27:47.231042+00:00",
+      "published": "2026-10-13T07:40:11.252813+00:00",
       "summary": "单日新增 4,095 stars",
       "points": 4095,
-      "_ts": 1791854867,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
       "title": "cathrynlavery/diagram-design — GitHub Trending",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "github_trending",
-      "published": "2026-10-13T01:27:47.232096+00:00",
+      "published": "2026-10-13T07:40:11.253332+00:00",
       "summary": "单日新增 2,081 stars",
       "points": 2081,
-      "_ts": 1791854867,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
       "title": "bilawalsidhu/gods-eye-view — GitHub Trending",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "source": "github_trending",
-      "published": "2026-10-13T01:27:47.229949+00:00",
+      "published": "2026-10-13T07:40:11.252302+00:00",
       "summary": "单日新增 1,895 stars",
       "points": 1895,
-      "_ts": 1791854867,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
       "title": "lyogavin/airllm — GitHub Trending",
       "url": "https://github.com/lyogavin/airllm",
       "source": "github_trending",
-      "published": "2026-10-13T01:27:47.232631+00:00",
+      "published": "2026-10-13T07:40:11.253611+00:00",
       "summary": "单日新增 879 stars",
       "points": 879,
-      "_ts": 1791854867,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Alishahryar1/free-claude-code — GitHub Trending",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "github_trending",
-      "published": "2026-10-13T01:27:47.233552+00:00",
-      "summary": "单日新增 626 stars",
-      "points": 626,
-      "_ts": 1791854867,
-      "weight": 0.8
-    },
-    {
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
       "source": "hn",
-      "published": "2026-10-12T10:21:27Z",
-      "summary": "",
-      "points": 586,
-      "_ts": 1791800487,
+      "published": "2026-10-12T12:16:42Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe...</a>, <a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo</a>, <a href=\"https:&#x2F;&#x2F;www.lemonde.fr&#x2F;en&#x2F;france&#x2F;article&#x2F;2026&#x2F;10&#x2F;12&#x2F;french-supermarket-chains-say-c",
+      "points": 628,
+      "_ts": 1791807402,
       "weight": 0.9
     },
     {
@@ -68,8 +58,28 @@
       "source": "hn",
       "published": "2026-10-12T16:48:01Z",
       "summary": "",
-      "points": 519,
+      "points": 616,
       "_ts": 1791823681,
+      "weight": 0.9
+    },
+    {
+      "title": "Alishahryar1/free-claude-code — GitHub Trending",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "github_trending",
+      "published": "2026-10-13T07:40:11.254062+00:00",
+      "summary": "单日新增 626 stars",
+      "points": 626,
+      "_ts": 1791877211,
+      "weight": 0.8
+    },
+    {
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "source": "hn",
+      "published": "2026-10-12T10:21:27Z",
+      "summary": "",
+      "points": 600,
+      "_ts": 1791800487,
       "weight": 0.9
     },
     {
@@ -78,18 +88,8 @@
       "source": "hn",
       "published": "2026-10-12T18:29:04Z",
       "summary": "",
-      "points": 452,
+      "points": 544,
       "_ts": 1791829744,
-      "weight": 0.9
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "source": "hn",
-      "published": "2026-10-12T12:16:42Z",
-      "summary": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe...</a>, <a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo</a>, <a href=\"https:&#x2F;&#x2F;www.lemonde.fr&#x2F;en&#x2F;france&#x2F;article&#x2F;2026&#x2F;10&#x2F;12&#x2F;french-supermarket-chains-say-c",
-      "points": 435,
-      "_ts": 1791807402,
       "weight": 0.9
     },
     {
@@ -98,7 +98,7 @@
       "source": "hn",
       "published": "2026-10-12T16:11:45Z",
       "summary": "",
-      "points": 422,
+      "points": 530,
       "_ts": 1791821505,
       "weight": 0.9
     },
@@ -108,7 +108,7 @@
       "source": "hn",
       "published": "2026-10-12T16:13:10Z",
       "summary": "",
-      "points": 389,
+      "points": 522,
       "_ts": 1791821590,
       "weight": 0.9
     },
@@ -118,18 +118,18 @@
       "source": "hn",
       "published": "2026-10-12T11:22:24Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-September&#x2F;068576.html\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...</a>",
-      "points": 363,
+      "points": 373,
       "_ts": 1791804144,
       "weight": 0.9
     },
     {
-      "title": "Why aren't AI companies being charged for hacking?",
-      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "source": "hn",
-      "published": "2026-10-12T14:52:37Z",
+      "published": "2026-10-12T21:40:18Z",
       "summary": "",
-      "points": 310,
-      "_ts": 1791816757,
+      "points": 370,
+      "_ts": 1791841218,
       "weight": 0.9
     },
     {
@@ -138,38 +138,8 @@
       "source": "hn",
       "published": "2026-10-12T17:14:01Z",
       "summary": "",
-      "points": 308,
+      "points": 331,
       "_ts": 1791825241,
-      "weight": 0.9
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "source": "hn",
-      "published": "2026-10-12T06:46:53Z",
-      "summary": "",
-      "points": 269,
-      "_ts": 1791787613,
-      "weight": 0.9
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "source": "hn",
-      "published": "2026-10-12T12:09:09Z",
-      "summary": "",
-      "points": 265,
-      "_ts": 1791806949,
-      "weight": 0.9
-    },
-    {
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "source": "hn",
-      "published": "2026-10-12T04:54:00Z",
-      "summary": "",
-      "points": 259,
-      "_ts": 1791780840,
       "weight": 0.9
     },
     {
@@ -178,48 +148,28 @@
       "source": "hn",
       "published": "2026-10-12T12:41:58Z",
       "summary": "",
-      "points": 256,
+      "points": 329,
       "_ts": 1791808918,
       "weight": 0.9
     },
     {
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "source": "hn",
-      "published": "2026-10-12T05:03:47Z",
+      "published": "2026-10-12T14:52:37Z",
       "summary": "",
-      "points": 238,
-      "_ts": 1791781427,
+      "points": 320,
+      "_ts": 1791816757,
       "weight": 0.9
     },
     {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
       "source": "hn",
-      "published": "2026-10-12T05:02:34Z",
+      "published": "2026-10-12T12:09:09Z",
       "summary": "",
-      "points": 238,
-      "_ts": 1791781354,
-      "weight": 0.9
-    },
-    {
-      "title": "mksglu/context-mode — GitHub Trending",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "github_trending",
-      "published": "2026-10-13T01:27:47.230561+00:00",
-      "summary": "单日新增 246 stars",
-      "points": 246,
-      "_ts": 1791854867,
-      "weight": 0.8
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "source": "hn",
-      "published": "2026-10-12T21:40:18Z",
-      "summary": "",
-      "points": 225,
-      "_ts": 1791841218,
+      "points": 318,
+      "_ts": 1791806949,
       "weight": 0.9
     },
     {
@@ -228,28 +178,8 @@
       "source": "hn",
       "published": "2026-10-12T16:54:08Z",
       "summary": "",
-      "points": 225,
+      "points": 270,
       "_ts": 1791824048,
-      "weight": 0.9
-    },
-    {
-      "title": "Yandex bot traffic down 99% after data center attack",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
-      "source": "hn",
-      "published": "2026-10-12T04:54:12Z",
-      "summary": "",
-      "points": 219,
-      "_ts": 1791780852,
-      "weight": 0.9
-    },
-    {
-      "title": "Fable Took My Job",
-      "url": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
-      "source": "hn",
-      "published": "2026-10-12T08:30:33Z",
-      "summary": "",
-      "points": 218,
-      "_ts": 1791793833,
       "weight": 0.9
     },
     {
@@ -258,8 +188,28 @@
       "source": "hn",
       "published": "2026-10-12T18:00:25Z",
       "summary": "<a href=\"https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b11c02\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b1...</a>",
-      "points": 214,
+      "points": 263,
       "_ts": 1791828025,
+      "weight": 0.9
+    },
+    {
+      "title": "mksglu/context-mode — GitHub Trending",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "github_trending",
+      "published": "2026-10-13T07:40:11.252587+00:00",
+      "summary": "单日新增 246 stars",
+      "points": 246,
+      "_ts": 1791877211,
+      "weight": 0.8
+    },
+    {
+      "title": "Fable Took My Job",
+      "url": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
+      "source": "hn",
+      "published": "2026-10-12T08:30:33Z",
+      "summary": "",
+      "points": 220,
+      "_ts": 1791793833,
       "weight": 0.9
     },
     {
@@ -268,18 +218,28 @@
       "source": "hn",
       "published": "2026-10-12T19:08:21Z",
       "summary": "",
-      "points": 199,
+      "points": 216,
       "_ts": 1791832101,
       "weight": 0.9
     },
     {
-      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "title": "RJ Mitte has died",
+      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
       "source": "hn",
-      "published": "2026-10-12T07:28:53Z",
+      "published": "2026-10-12T22:15:29Z",
       "summary": "",
-      "points": 184,
-      "_ts": 1791790133,
+      "points": 186,
+      "_ts": 1791843329,
+      "weight": 0.9
+    },
+    {
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "source": "hn",
+      "published": "2026-10-12T15:16:45Z",
+      "summary": "",
+      "points": 180,
+      "_ts": 1791818205,
       "weight": 0.9
     },
     {
@@ -288,18 +248,68 @@
       "source": "hn",
       "published": "2026-10-12T07:47:29Z",
       "summary": "",
-      "points": 177,
+      "points": 180,
       "_ts": 1791791249,
       "weight": 0.9
     },
     {
-      "title": "Postgres isn't slow, your storage is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
       "source": "hn",
-      "published": "2026-10-12T06:36:53Z",
+      "published": "2026-10-12T21:12:43Z",
       "summary": "",
-      "points": 168,
-      "_ts": 1791787013,
+      "points": 179,
+      "_ts": 1791839563,
+      "weight": 0.9
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "source": "hn",
+      "published": "2026-10-13T02:07:08Z",
+      "summary": "",
+      "points": 177,
+      "_ts": 1791857228,
+      "weight": 0.9
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "hn",
+      "published": "2026-10-12T21:35:35Z",
+      "summary": "",
+      "points": 177,
+      "_ts": 1791840935,
+      "weight": 0.9
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "source": "hn",
+      "published": "2026-10-12T19:36:02Z",
+      "summary": "",
+      "points": 177,
+      "_ts": 1791833762,
+      "weight": 0.9
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "source": "hn",
+      "published": "2026-10-12T14:19:04Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3</a>",
+      "points": 175,
+      "_ts": 1791814744,
+      "weight": 0.9
+    },
+    {
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "source": "hn",
+      "published": "2026-10-12T17:08:16Z",
+      "summary": "",
+      "points": 170,
+      "_ts": 1791824896,
       "weight": 0.9
     },
     {
@@ -308,8 +318,18 @@
       "source": "hn",
       "published": "2026-10-12T18:17:29Z",
       "summary": "",
-      "points": 154,
+      "points": 158,
       "_ts": 1791829049,
+      "weight": 0.9
+    },
+    {
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "source": "hn",
+      "published": "2026-10-12T12:23:51Z",
+      "summary": "",
+      "points": 155,
+      "_ts": 1791807831,
       "weight": 0.9
     },
     {
@@ -323,33 +343,33 @@
       "weight": 0.9
     },
     {
-      "title": "Incident with Actions, Pull Requests and Issues",
-      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "title": "Leaving Tech",
+      "url": "https://ryanbigg.com/2026/10/leaving-tech",
       "source": "hn",
-      "published": "2026-10-12T12:23:51Z",
+      "published": "2026-10-13T02:39:35Z",
       "summary": "",
-      "points": 154,
-      "_ts": 1791807831,
+      "points": 149,
+      "_ts": 1791859175,
       "weight": 0.9
     },
     {
-      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
-      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "url": "https://doi.org/10.1111/acel.70751",
       "source": "hn",
-      "published": "2026-10-12T17:08:16Z",
-      "summary": "",
-      "points": 148,
-      "_ts": 1791824896,
+      "published": "2026-10-12T23:34:22Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13634082&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13634082&#x2F;</a>",
+      "points": 147,
+      "_ts": 1791848062,
       "weight": 0.9
     },
     {
       "title": "open-webui/open-webui — GitHub Trending",
       "url": "https://github.com/open-webui/open-webui",
       "source": "github_trending",
-      "published": "2026-10-13T01:27:47.231574+00:00",
+      "published": "2026-10-13T07:40:11.253075+00:00",
       "summary": "单日新增 157 stars",
       "points": 157,
-      "_ts": 1791854867,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
@@ -363,63 +383,13 @@
       "weight": 0.9
     },
     {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
       "source": "hn",
-      "published": "2026-10-12T15:16:45Z",
+      "published": "2026-10-12T23:07:25Z",
       "summary": "",
-      "points": 138,
-      "_ts": 1791818205,
-      "weight": 0.9
-    },
-    {
-      "title": "RJ Mitte has died",
-      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-      "source": "hn",
-      "published": "2026-10-12T22:15:29Z",
-      "summary": "",
-      "points": 130,
-      "_ts": 1791843329,
-      "weight": 0.9
-    },
-    {
-      "title": "Attack of the Vibe Coded Photoshop Clones",
-      "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
-      "source": "hn",
-      "published": "2026-10-12T06:35:05Z",
-      "summary": "",
-      "points": 126,
-      "_ts": 1791786905,
-      "weight": 0.9
-    },
-    {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "source": "hn",
-      "published": "2026-10-12T21:12:43Z",
-      "summary": "",
-      "points": 109,
-      "_ts": 1791839563,
-      "weight": 0.9
-    },
-    {
-      "title": "Solar panels that plug into your wall",
-      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "source": "hn",
-      "published": "2026-10-12T14:19:04Z",
-      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3</a>",
-      "points": 107,
-      "_ts": 1791814744,
-      "weight": 0.9
-    },
-    {
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-      "source": "hn",
-      "published": "2026-10-12T18:27:26Z",
-      "summary": "",
-      "points": 106,
-      "_ts": 1791829646,
+      "points": 142,
+      "_ts": 1791846445,
       "weight": 0.9
     },
     {
@@ -428,148 +398,18 @@
       "source": "hn",
       "published": "2026-10-12T16:46:34Z",
       "summary": "Hey HN, I’m Vishnu from Agent37 (<a href=\"https:&#x2F;&#x2F;agent37.com\">https:&#x2F;&#x2F;agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x2F;month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses.<p>One of the goals I had at ",
-      "points": 99,
+      "points": 129,
       "_ts": 1791823594,
       "weight": 0.9
     },
     {
-      "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "url": "https://github.com/storytold/wordcraft",
+      "title": "Publishers Killed the Paperback, Then Blamed Readers",
+      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
       "source": "hn",
-      "published": "2026-10-12T01:57:39Z",
+      "published": "2026-10-12T18:27:26Z",
       "summary": "",
-      "points": 98,
-      "_ts": 1791770259,
-      "weight": 0.9
-    },
-    {
-      "title": "Living in the Weimar Era of Ruby",
-      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-      "source": "hn",
-      "published": "2026-10-12T10:53:41Z",
-      "summary": "",
-      "points": 87,
-      "_ts": 1791802421,
-      "weight": 0.9
-    },
-    {
-      "title": "microsoft/BitNet — GitHub Trending",
-      "url": "https://github.com/microsoft/BitNet",
-      "source": "github_trending",
-      "published": "2026-10-13T01:27:47.233089+00:00",
-      "summary": "单日新增 97 stars",
-      "points": 97,
-      "_ts": 1791854867,
-      "weight": 0.8
-    },
-    {
-      "title": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "source": "hn",
-      "published": "2026-10-12T19:36:02Z",
-      "summary": "",
-      "points": 86,
-      "_ts": 1791833762,
-      "weight": 0.9
-    },
-    {
-      "title": "(Post-Quantum) Cryptographic Right Answers",
-      "url": "https://words.filippo.io/right-answers/",
-      "source": "hn",
-      "published": "2026-10-12T12:26:32Z",
-      "summary": "",
-      "points": 84,
-      "_ts": 1791807992,
-      "weight": 0.9
-    },
-    {
-      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "source": "hn",
-      "published": "2026-10-12T23:07:25Z",
-      "summary": "",
-      "points": 83,
-      "_ts": 1791846445,
-      "weight": 0.9
-    },
-    {
-      "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "source": "hn",
-      "published": "2026-10-12T16:31:55Z",
-      "summary": "",
-      "points": 82,
-      "_ts": 1791822715,
-      "weight": 0.9
-    },
-    {
-      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
-      "source": "hn",
-      "published": "2026-10-12T10:09:37Z",
-      "summary": "",
-      "points": 81,
-      "_ts": 1791799777,
-      "weight": 0.9
-    },
-    {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "url": "https://doi.org/10.1111/acel.70751",
-      "source": "hn",
-      "published": "2026-10-12T23:34:22Z",
-      "summary": "",
-      "points": 80,
-      "_ts": 1791848062,
-      "weight": 0.9
-    },
-    {
-      "title": "My Reddit AMA on the Law of Web Scraping",
-      "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
-      "source": "hn",
-      "published": "2026-10-12T18:02:32Z",
-      "summary": "",
-      "points": 78,
-      "_ts": 1791828152,
-      "weight": 0.9
-    },
-    {
-      "title": "X Is Bad, Though",
-      "url": "https://lexontech.org/x-is-bad-though",
-      "source": "hn",
-      "published": "2026-10-12T03:50:58Z",
-      "summary": "",
-      "points": 78,
-      "_ts": 1791777058,
-      "weight": 0.9
-    },
-    {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "hn",
-      "published": "2026-10-12T19:25:29Z",
-      "summary": "",
-      "points": 77,
-      "_ts": 1791833129,
-      "weight": 0.9
-    },
-    {
-      "title": "Epic Games tells employees to use AI to get Disney game done",
-      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-      "source": "hn",
-      "published": "2026-10-12T20:07:42Z",
-      "summary": "",
-      "points": 76,
-      "_ts": 1791835662,
-      "weight": 0.9
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "source": "hn",
-      "published": "2026-10-12T19:40:00Z",
-      "summary": "",
-      "points": 76,
-      "_ts": 1791834000,
+      "points": 123,
+      "_ts": 1791829646,
       "weight": 0.9
     },
     {
@@ -578,8 +418,148 @@
       "source": "hn",
       "published": "2026-10-12T21:39:32Z",
       "summary": "",
-      "points": 68,
+      "points": 122,
       "_ts": 1791841172,
+      "weight": 0.9
+    },
+    {
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "source": "hn",
+      "published": "2026-10-13T02:25:00Z",
+      "summary": "",
+      "points": 120,
+      "_ts": 1791858300,
+      "weight": 0.9
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "hn",
+      "published": "2026-10-12T22:05:43Z",
+      "summary": "",
+      "points": 114,
+      "_ts": 1791842743,
+      "weight": 0.9
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "source": "hn",
+      "published": "2026-10-12T19:40:00Z",
+      "summary": "",
+      "points": 114,
+      "_ts": 1791834000,
+      "weight": 0.9
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "hn",
+      "published": "2026-10-13T02:46:43Z",
+      "summary": "",
+      "points": 106,
+      "_ts": 1791859603,
+      "weight": 0.9
+    },
+    {
+      "title": "My Reddit AMA on the Law of Web Scraping",
+      "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+      "source": "hn",
+      "published": "2026-10-12T18:02:32Z",
+      "summary": "",
+      "points": 92,
+      "_ts": 1791828152,
+      "weight": 0.9
+    },
+    {
+      "title": "Living in the Weimar Era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "source": "hn",
+      "published": "2026-10-12T10:53:41Z",
+      "summary": "",
+      "points": 92,
+      "_ts": 1791802421,
+      "weight": 0.9
+    },
+    {
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "url": "https://words.filippo.io/right-answers/",
+      "source": "hn",
+      "published": "2026-10-12T12:26:32Z",
+      "summary": "",
+      "points": 91,
+      "_ts": 1791807992,
+      "weight": 0.9
+    },
+    {
+      "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "source": "hn",
+      "published": "2026-10-12T16:31:55Z",
+      "summary": "",
+      "points": 88,
+      "_ts": 1791822715,
+      "weight": 0.9
+    },
+    {
+      "title": "microsoft/BitNet — GitHub Trending",
+      "url": "https://github.com/microsoft/BitNet",
+      "source": "github_trending",
+      "published": "2026-10-13T07:40:11.253838+00:00",
+      "summary": "单日新增 97 stars",
+      "points": 97,
+      "_ts": 1791877211,
+      "weight": 0.8
+    },
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "source": "hn",
+      "published": "2026-10-12T19:25:29Z",
+      "summary": "",
+      "points": 86,
+      "_ts": 1791833129,
+      "weight": 0.9
+    },
+    {
+      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+      "source": "hn",
+      "published": "2026-10-12T10:09:37Z",
+      "summary": "",
+      "points": 85,
+      "_ts": 1791799777,
+      "weight": 0.9
+    },
+    {
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "source": "hn",
+      "published": "2026-10-12T20:07:42Z",
+      "summary": "",
+      "points": 82,
+      "_ts": 1791835662,
+      "weight": 0.9
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "source": "hn",
+      "published": "2026-10-13T05:57:32Z",
+      "summary": "",
+      "points": 75,
+      "_ts": 1791871052,
+      "weight": 0.9
+    },
+    {
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "source": "hn",
+      "published": "2026-10-13T02:09:19Z",
+      "summary": "",
+      "points": 72,
+      "_ts": 1791857359,
       "weight": 0.9
     },
     {
@@ -588,8 +568,18 @@
       "source": "hn",
       "published": "2026-10-12T12:46:52Z",
       "summary": "",
-      "points": 65,
+      "points": 70,
       "_ts": 1791809212,
+      "weight": 0.9
+    },
+    {
+      "title": "NAZA: Netanyahu orders identification and prosecution of film's interviewees",
+      "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "source": "hn",
+      "published": "2026-10-13T02:51:50Z",
+      "summary": "",
+      "points": 69,
+      "_ts": 1791859910,
       "weight": 0.9
     },
     {
@@ -598,8 +588,18 @@
       "source": "hn",
       "published": "2026-10-12T14:34:25Z",
       "summary": "",
-      "points": 60,
+      "points": 65,
       "_ts": 1791815665,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "url": "https://brickbrag.com/",
+      "source": "hn",
+      "published": "2026-10-12T21:03:36Z",
+      "summary": "",
+      "points": 58,
+      "_ts": 1791839016,
       "weight": 0.9
     },
     {
@@ -613,13 +613,13 @@
       "weight": 0.9
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "title": "A decade after Stardew Valley, Eric Barone is still going it alone",
+      "url": "https://www.gq-magazine.co.uk/article/a-decade-after-stardew-valley-eric-barone-is-still-going-it-alone",
       "source": "hn",
-      "published": "2026-10-12T21:35:35Z",
+      "published": "2026-10-12T09:37:58Z",
       "summary": "",
-      "points": 52,
-      "_ts": 1791840935,
+      "points": 49,
+      "_ts": 1791797878,
       "weight": 0.9
     },
     {
@@ -628,29 +628,139 @@
       "source": "hn",
       "published": "2026-10-12T14:59:08Z",
       "summary": "",
-      "points": 47,
+      "points": 48,
       "_ts": 1791817148,
       "weight": 0.9
     },
     {
-      "title": "A decade after Stardew Valley, Eric Barone is still going it alone",
-      "url": "https://www.gq-magazine.co.uk/article/a-decade-after-stardew-valley-eric-barone-is-still-going-it-alone",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
       "source": "hn",
-      "published": "2026-10-12T09:37:58Z",
+      "published": "2026-10-12T23:21:12Z",
       "summary": "",
-      "points": 46,
-      "_ts": 1791797878,
+      "points": 47,
+      "_ts": 1791847272,
       "weight": 0.9
     },
     {
-      "title": "Sorry we made you grind LeetCode",
-      "url": "https://www.hackerrank.com/writing/why-were-sorry",
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
       "source": "hn",
-      "published": "2026-10-12T02:52:10Z",
+      "published": "2026-10-13T00:11:04Z",
+      "summary": "",
+      "points": 44,
+      "_ts": 1791850264,
+      "weight": 0.9
+    },
+    {
+      "title": "\"Today we're laying off a large part of the Airtable team \"",
+      "url": "https://twitter.com/fedesimio/status/2109713695165329511",
+      "source": "hn",
+      "published": "2026-10-12T19:56:16Z",
       "summary": "",
       "points": 41,
-      "_ts": 1791773530,
+      "_ts": 1791834976,
       "weight": 0.9
+    },
+    {
+      "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine",
+      "url": "https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/",
+      "source": "hn",
+      "published": "2026-10-12T19:18:42Z",
+      "summary": "",
+      "points": 41,
+      "_ts": 1791832722,
+      "weight": 0.9
+    },
+    {
+      "title": "A deep dive on Amazon's robotics efforts, resulting in 1M+ active warehouse robots; Amazon is still the world's 2nd-largest corporate employer with 1.5M workers (Jeremy Hsu/Ars Technica)",
+      "url": "https://www.techmeme.com/261013/p5#a261013p5",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 02:30:01 -0400",
+      "summary": "\n Jeremy Hsu / Ars Technica:\nA deep dive on Amazon's robotics efforts, resulting in 1M+ active warehouse robots; Amazon is still the world's 2nd-largest corporate employer with 1.5M workers&nbsp; &mdash;&nbsp; No organization in the world operates more robots than Amazon.&nbsp; The company already has more than 1 million robots working &hellip; ",
+      "points": 0,
+      "_ts": 1791873001,
+      "weight": 1.0
+    },
+    {
+      "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)",
+      "url": "https://www.techmeme.com/261013/p4#a261013p4",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 01:05:01 -0400",
+      "summary": "\n Financial Times:\nA global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4%&nbsp; &mdash;&nbsp; Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
+      "points": 0,
+      "_ts": 1791867901,
+      "weight": 1.0
+    },
+    {
+      "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
+      "url": "https://www.techmeme.com/261013/p3#a261013p3",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 00:55:02 -0400",
+      "summary": "\n Rhea Rose Abraham / Reuters:\nCharacter.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale&nbsp; &mdash;&nbsp; Character.AI said on Monday it had filed for Chapter 11 bankruptcy in the US and agreed to sell some of its assets to Walt Disney (DIS.N) for $20 million.",
+      "points": 0,
+      "_ts": 1791867302,
+      "weight": 1.0
+    },
+    {
+      "title": "IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
+      "url": "https://www.techmeme.com/261013/p2#a261013p2",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 00:45:01 -0400",
+      "summary": "\n Reuters:\nIDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition&nbsp; &mdash;&nbsp; Nvidia's (NVDA.O) share of China's market for data-centre AI chips fell to 34% in the first half of 2026, as US export controls restricted supplies &hellip; ",
+      "points": 0,
+      "_ts": 1791866701,
+      "weight": 1.0
+    },
+    {
+      "title": "China-based Transsion, which dominates the market for smartphones in Africa, raised $390M from a Hong Kong share sale after pricing the deal near the top end (Sangmi Cha/Bloomberg)",
+      "url": "https://www.techmeme.com/261013/p1#a261013p1",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 00:20:01 -0400",
+      "summary": "\n Sangmi Cha / Bloomberg:\nChina-based Transsion, which dominates the market for smartphones in Africa, raised $390M from a Hong Kong share sale after pricing the deal near the top end&nbsp; &mdash;&nbsp; Shenzhen Transsion Holdings Co., which dominates the market for smartphones in Africa, raised HK$3.1 billion ($390 million) &hellip; ",
+      "points": 0,
+      "_ts": 1791865201,
+      "weight": 1.0
+    },
+    {
+      "title": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% (Anthropic)",
+      "url": "https://www.techmeme.com/261012/p46#a261012p46",
+      "source": "techmeme",
+      "published": "Mon, 12 Oct 2026 23:45:01 -0400",
+      "summary": "\n Anthropic:\nAnthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99%&nbsp; &mdash;&nbsp; In recent months, we've made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog.",
+      "points": 0,
+      "_ts": 1791863101,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B (Nikkei Asia)",
+      "url": "https://www.techmeme.com/261012/p45#a261012p45",
+      "source": "techmeme",
+      "published": "Mon, 12 Oct 2026 23:15:01 -0400",
+      "summary": "\n Nikkei Asia:\nSources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B&nbsp; &mdash;&nbsp; TOKYO/OSAKA &mdash; NTT Data Group is in the final stages of talks to build a data center in western Japan for U.S. AI company Anthropic, multiple sources have told Nikkei.",
+      "points": 0,
+      "_ts": 1791861301,
+      "weight": 1.0
+    },
+    {
+      "title": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more (Cheeky Pint)",
+      "url": "https://www.techmeme.com/261012/p44#a261012p44",
+      "source": "techmeme",
+      "published": "Mon, 12 Oct 2026 22:50:01 -0400",
+      "summary": "\n Cheeky Pint:\nQ&amp;A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more&nbsp; &mdash;&nbsp; As Meta scales its AI infrastructure past five gigawatts, Mark Zuckerberg (founder and CEO, Meta) and Alexandr Wang &hellip; ",
+      "points": 0,
+      "_ts": 1791859801,
+      "weight": 1.0
+    },
+    {
+      "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
+      "url": "https://www.techmeme.com/261012/p43#a261012p43",
+      "source": "techmeme",
+      "published": "Mon, 12 Oct 2026 21:35:00 -0400",
+      "summary": "\n Anton Bridge / Reuters:\nJapanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &ldquo;physical AI&rdquo; efforts&nbsp; &mdash;&nbsp; Japanese manufacturer Omron (6645.T) will buy US industrial PC firm Onlogic and its parent company, Interlogic, for $675 million, the company said on Tuesday.",
+      "points": 0,
+      "_ts": 1791855300,
+      "weight": 1.0
     },
     {
       "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
@@ -710,96 +820,6 @@
       "summary": "\n Cara Lombardo / Wall Street Journal:\nSources: Bumble is in advanced talks to be taken private at a ~$1B valuation by Ithaca Holdings, founded recently by two Silicon Valley execs; BMBL jumps 49.61%&nbsp; &mdash;&nbsp; Founder Whitney Wolfe Herd expected to stay involved with company as part of deal&nbsp; &mdash;&nbsp; Bumble , the dating app founded by Whitney Wolfe Herd &hellip; ",
       "points": 0,
       "_ts": 1791830700,
-      "weight": 1.0
-    },
-    {
-      "title": "Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max) (@artificialanlys)",
-      "url": "https://www.techmeme.com/261012/p36#a261012p36",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:50:01 -0400",
-      "summary": "\n @artificialanlys:\nMuse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max)&nbsp; &mdash;&nbsp; Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks Muse Wonder is available for users on Meta's first-party ...",
-      "points": 0,
-      "_ts": 1791827401,
-      "weight": 1.0
-    },
-    {
-      "title": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers (Jonathan Vanian/CNBC)",
-      "url": "https://www.techmeme.com/261012/p35#a261012p35",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:30:12 -0400",
-      "summary": "\n Jonathan Vanian / CNBC:\nMuse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers&nbsp; &mdash;&nbsp; Meta debuted its latest artificial intelligence model, Muse Wonder, and says it's the most advanced option for powering digital assistants.&nbsp; But it doesn't come for free.",
-      "points": 0,
-      "_ts": 1791826212,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)",
-      "url": "https://www.techmeme.com/261012/p34#a261012p34",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:25:10 -0400",
-      "summary": " Ina Fried / Axios:\nMeta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods&nbsp; &mdash;&nbsp; Meta on Monday launched a new family of AI models that it says can compete at the technological frontier, marking a major milestone &hellip; ",
-      "points": 0,
-      "_ts": 1791825910,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\" (Robert Hart/The Verge)",
-      "url": "https://www.techmeme.com/261012/p33#a261012p33",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:20:01 -0400",
-      "summary": "\n Robert Hart / The Verge:\nMeta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it &ldquo;can bring to everyone using Muse&rdquo;&nbsp; &mdash;&nbsp; Meta says the models compete with the industry's best and will soon power its Muse agent. &hellip; Meta is making up for lost time in the AI race.",
-      "points": 0,
-      "_ts": 1791825601,
-      "weight": 1.0
-    },
-    {
-      "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)",
-      "url": "https://www.techmeme.com/261012/p32#a261012p32",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:15:01 -0400",
-      "summary": "\n Hannah Murphy / Financial Times:\nAn interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown&nbsp; &mdash;&nbsp; FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
-      "points": 0,
-      "_ts": 1791825301,
-      "weight": 1.0
-    },
-    {
-      "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
-      "url": "https://www.techmeme.com/261012/p31#a261012p31",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 13:00:13 -0400",
-      "summary": "\n Meta AI Research:\nMeta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks&nbsp; &mdash;&nbsp; Fourteen months ago, we began a ground-up overhaul of our artificial intelligence efforts.&nbsp; In that time, we've gone from rebuilding our stack from first principles to pushing the frontier.",
-      "points": 0,
-      "_ts": 1791824413,
-      "weight": 1.0
-    },
-    {
-      "title": "Getty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty (Anhata Rooprai/Reuters)",
-      "url": "https://www.techmeme.com/261012/p30#a261012p30",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 12:20:01 -0400",
-      "summary": "\n Anhata Rooprai / Reuters:\nGetty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty&nbsp; &mdash;&nbsp; Getty Images (GETY.PK) said on Monday it had secured support from major creditors and investors for a comprehensive restructuring that will cut debt &hellip; ",
-      "points": 0,
-      "_ts": 1791822001,
-      "weight": 1.0
-    },
-    {
-      "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out \"multi-gigawatt deployments\" of the chip starting next year (Reuters)",
-      "url": "https://www.techmeme.com/261012/p29#a261012p29",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 11:20:01 -0400",
-      "summary": "\n Reuters:\nMicrosoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out &ldquo;multi-gigawatt deployments&rdquo; of the chip starting next year&nbsp; &mdash;&nbsp; Microsoft (MSFT.O) announced the next generation of its custom AI chip on Monday and said it plans to deploy potentially &hellip; ",
-      "points": 0,
-      "_ts": 1791818401,
-      "weight": 1.0
-    },
-    {
-      "title": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it easier to run fake scams on sites like Facebook and Instagram (Bloomberg)",
-      "url": "https://www.techmeme.com/261012/p28#a261012p28",
-      "source": "techmeme",
-      "published": "Mon, 12 Oct 2026 10:50:00 -0400",
-      "summary": "\n Bloomberg:\nHow the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it easier to run fake scams on sites like Facebook and Instagram&nbsp; &mdash;&nbsp; Samsung computers, Huawei smartphones, Redmi handsets and dozens of Chinese and Malaysian passports.",
-      "points": 0,
-      "_ts": 1791816600,
       "weight": 1.0
     },
     {
@@ -873,223 +893,143 @@
       "weight": 0.9
     },
     {
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "source": "qbitai",
-      "published": "Mon, 12 Oct 2026 05:48:36 +0000",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "points": 0,
-      "_ts": 1791784116,
-      "weight": 0.9
-    },
-    {
-      "title": "智谱新模型，490 tokens/s！",
-      "url": "https://www.qbitai.com/2026/10/502649.html",
-      "source": "qbitai",
-      "published": "Mon, 12 Oct 2026 02:37:04 +0000",
-      "summary": "GLM「速度仙人」来了？",
-      "points": 0,
-      "_ts": 1791772624,
-      "weight": 0.9
-    },
-    {
-      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
-      "url": "https://huggingface.co/papers/2610.12572",
+      "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+      "url": "https://huggingface.co/papers/2610.13166",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210732+00:00",
+      "published": "2026-10-13T07:40:11.484680+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
-      "url": "https://huggingface.co/papers/2610.13527",
+      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "url": "https://huggingface.co/papers/2609.39601",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210783+00:00",
+      "published": "2026-10-13T07:40:11.484702+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Reflex: Visually Grounded Reactive Humanoid Control",
-      "url": "https://huggingface.co/papers/2610.12772",
+      "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+      "url": "https://huggingface.co/papers/2610.13361",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210816+00:00",
+      "published": "2026-10-13T07:40:11.484715+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments",
-      "url": "https://huggingface.co/papers/2610.12611",
+      "title": "Multi-Stream Attention Residuals",
+      "url": "https://huggingface.co/papers/2610.13630",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210857+00:00",
+      "published": "2026-10-13T07:40:11.484729+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
-      "url": "https://huggingface.co/papers/2610.13021",
+      "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
+      "url": "https://huggingface.co/papers/2609.33304",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210893+00:00",
+      "published": "2026-10-13T07:40:11.484741+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs",
-      "url": "https://huggingface.co/papers/2610.07987",
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "url": "https://huggingface.co/papers/2610.11765",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210934+00:00",
+      "published": "2026-10-13T07:40:11.484753+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation",
-      "url": "https://huggingface.co/papers/2609.38748",
+      "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2610.13832",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.210970+00:00",
+      "published": "2026-10-13T07:40:11.484764+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
-      "url": "https://huggingface.co/papers/2610.13395",
+      "title": "GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed",
+      "url": "https://huggingface.co/papers/2609.39600",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211025+00:00",
+      "published": "2026-10-13T07:40:11.484777+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Continually Post-training Small Models via Synthetic Self-distillation",
-      "url": "https://huggingface.co/papers/2610.13113",
+      "title": "Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+      "url": "https://huggingface.co/papers/2609.35965",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211060+00:00",
+      "published": "2026-10-13T07:40:11.484789+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
-      "url": "https://huggingface.co/papers/2610.12984",
+      "title": "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
+      "url": "https://huggingface.co/papers/2610.03308",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211084+00:00",
+      "published": "2026-10-13T07:40:11.484800+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "SepGen: Multi-Stem Audio-Video Separation and Generation in a Single Model",
-      "url": "https://huggingface.co/papers/2610.11361",
+      "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
+      "url": "https://huggingface.co/papers/2610.09326",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211115+00:00",
+      "published": "2026-10-13T07:40:11.484811+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition",
-      "url": "https://huggingface.co/papers/2610.12341",
+      "title": "ARCS: Towards Precise Text-to-SQL via Structured Disambiguation",
+      "url": "https://huggingface.co/papers/2610.09396",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211164+00:00",
+      "published": "2026-10-13T07:40:11.484821+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "SoloQ: Calibration-Free Quantization for Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2610.07121",
+      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+      "url": "https://huggingface.co/papers/2610.12933",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211197+00:00",
+      "published": "2026-10-13T07:40:11.484833+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
-      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-      "url": "https://huggingface.co/papers/2610.13912",
+      "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code",
+      "url": "https://huggingface.co/papers/2610.09116",
       "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211221+00:00",
+      "published": "2026-10-13T07:40:11.484843+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence",
-      "url": "https://huggingface.co/papers/2609.37712",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211255+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "Learning Representations to Guide Pixel Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.12978",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211289+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
-      "url": "https://huggingface.co/papers/2610.12570",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211322+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
-      "url": "https://huggingface.co/papers/2610.12569",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211368+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-      "url": "https://huggingface.co/papers/2610.13944",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211402+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
-      "weight": 0.8
-    },
-    {
-      "title": "Inducing Process Supervision from Outcome-Only Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.36641",
-      "source": "hf_papers",
-      "published": "2026-10-13T01:27:48.211435+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1791854868,
+      "_ts": 1791877211,
       "weight": 0.8
     },
     {
@@ -1193,23 +1133,63 @@
       "weight": 0.8
     },
     {
-      "title": "China faces uphill battle to wean tech firms off Nvidia chips",
-      "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+      "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
       "source": "ft_tech",
-      "published": "Tue, 13 Oct 2026 00:15:06 GMT",
-      "summary": "The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands",
+      "published": "Tue, 13 Oct 2026 05:44:06 GMT",
+      "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
       "points": 0,
-      "_ts": 1791850506,
+      "_ts": 1791870246,
       "weight": 0.8
     },
     {
-      "title": "FirstFT: Mark Zuckerberg says Meta has reached AI ‘frontier’",
-      "url": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
+      "title": "Who’s really hiring you — HR or cyber security?",
+      "url": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
       "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 21:40:26 GMT",
-      "summary": "Also in today’s newsletter: Musk injects $275mn into Republicans’ midterm fight and Riyadh strikes defiant tone after Houthi attacks",
+      "published": "Tue, 13 Oct 2026 04:00:19 GMT",
+      "summary": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
       "points": 0,
-      "_ts": 1791841226,
+      "_ts": 1791864019,
+      "weight": 0.8
+    },
+    {
+      "title": "Criminals could walk free without controls on AI use, police watchdog warns",
+      "url": "https://www.ft.com/content/2caa52e1-637a-4934-802e-418b649b4c12?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 04:00:19 GMT",
+      "summary": "‘Guidelines are vital’ to ensure overstretched forces in England and Wales can use systems to speed up investigations",
+      "points": 0,
+      "_ts": 1791864019,
+      "weight": 0.8
+    },
+    {
+      "title": "Will Accenture survive or thrive in the age of AI?",
+      "url": "https://www.ft.com/content/15ae6a2e-6010-4d78-a752-2eeeca1e1c55?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 04:00:10 GMT",
+      "summary": "The technology consultancy seeks to calm jitters with an investor day this week",
+      "points": 0,
+      "_ts": 1791864010,
+      "weight": 0.8
+    },
+    {
+      "title": "IMF upgrades outlook for UK as AI drives growth spurt",
+      "url": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 02:00:07 GMT",
+      "summary": "The fund believes Britain is emerging as one of the winners of the tech boom",
+      "points": 0,
+      "_ts": 1791856807,
+      "weight": 0.8
+    },
+    {
+      "title": "China resorts to Nvidia gaming chips in search for AI firepower",
+      "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 00:15:06 GMT",
+      "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+      "points": 0,
+      "_ts": 1791850506,
       "weight": 0.8
     },
     {
@@ -1243,54 +1223,14 @@
       "weight": 0.8
     },
     {
-      "title": "Is the US economy as narrow as its stock market?",
-      "url": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 05:30:05 GMT",
-      "summary": "No*",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "source": "nvidia_blog",
+      "published": "Tue, 13 Oct 2026 05:00:31 +0000",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.  France’s progress sits on deliberate groundwork.  The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments [&#8230;]",
       "points": 0,
-      "_ts": 1791783005,
-      "weight": 0.8
-    },
-    {
-      "title": "FTAV’s further read",
-      "url": "https://www.ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e",
-      "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 05:30:05 GMT",
-      "summary": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit",
-      "points": 0,
-      "_ts": 1791783005,
-      "weight": 0.8
-    },
-    {
-      "title": "‘Worrying omens’ stalk global economy despite resilient growth",
-      "url": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 04:00:16 GMT",
-      "summary": "Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings",
-      "points": 0,
-      "_ts": 1791777616,
-      "weight": 0.8
-    },
-    {
-      "title": "The huge lurking leverage of AI hyperscalers",
-      "url": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 04:00:07 GMT",
-      "summary": "While equity investors look to sunny futures, creditors are scrutinising liabilities like leases on data centres",
-      "points": 0,
-      "_ts": 1791777607,
-      "weight": 0.8
-    },
-    {
-      "title": "Houthis attack Riyadh airport",
-      "url": "https://www.ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Mon, 12 Oct 2026 04:00:00 GMT",
-      "summary": "Yemeni rebel group kills 12 and injures hundreds in attack on Saudi Arabian capital",
-      "points": 0,
-      "_ts": 1791777600,
-      "weight": 0.8
+      "_ts": 1791867631,
+      "weight": 0.7
     },
     {
       "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",

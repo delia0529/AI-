@@ -1,0 +1,1526 @@
+{
+  "date": "2026-10-14",
+  "fetched_at": "2026-10-14T06:06:36",
+  "items": [
+    {
+      "title": "morluto/rea — GitHub Trending",
+      "url": "https://github.com/morluto/rea",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.991479+00:00",
+      "summary": "单日新增 54,679 stars",
+      "points": 54679,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "storytold/artcraft — GitHub Trending",
+      "url": "https://github.com/storytold/artcraft",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.993634+00:00",
+      "summary": "单日新增 4,081 stars",
+      "points": 4081,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view — GitHub Trending",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.991787+00:00",
+      "summary": "单日新增 1,961 stars",
+      "points": 1961,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "cathrynlavery/diagram-design — GitHub Trending",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.992776+00:00",
+      "summary": "单日新增 1,815 stars",
+      "points": 1815,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "debpalash/VoiceStudio — GitHub Trending",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.992164+00:00",
+      "summary": "单日新增 1,748 stars",
+      "points": 1748,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "xtool-org/xtool — GitHub Trending",
+      "url": "https://github.com/xtool-org/xtool",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.993901+00:00",
+      "summary": "单日新增 1,198 stars",
+      "points": 1198,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "source": "hn",
+      "published": "2026-10-13T16:03:16Z",
+      "summary": "See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869</a>",
+      "points": 1174,
+      "_ts": 1791907396,
+      "weight": 0.9
+    },
+    {
+      "title": "lyogavin/airllm — GitHub Trending",
+      "url": "https://github.com/lyogavin/airllm",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.993371+00:00",
+      "summary": "单日新增 1,001 stars",
+      "points": 1001,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "mksglu/context-mode — GitHub Trending",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.992474+00:00",
+      "summary": "单日新增 969 stars",
+      "points": 969,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "source": "hn",
+      "published": "2026-10-13T13:02:12Z",
+      "summary": "",
+      "points": 707,
+      "_ts": 1791896532,
+      "weight": 0.9
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "hn",
+      "published": "2026-10-13T10:27:00Z",
+      "summary": "",
+      "points": 705,
+      "_ts": 1791887220,
+      "weight": 0.9
+    },
+    {
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "source": "hn",
+      "published": "2026-10-13T12:00:42Z",
+      "summary": "",
+      "points": 692,
+      "_ts": 1791892842,
+      "weight": 0.9
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "hn",
+      "published": "2026-10-13T15:49:56Z",
+      "summary": "",
+      "points": 672,
+      "_ts": 1791906596,
+      "weight": 0.9
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "source": "hn",
+      "published": "2026-10-13T20:23:55Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132</a>",
+      "points": 508,
+      "_ts": 1791923035,
+      "weight": 0.9
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "source": "hn",
+      "published": "2026-10-13T10:08:00Z",
+      "summary": "",
+      "points": 446,
+      "_ts": 1791886080,
+      "weight": 0.9
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "source": "hn",
+      "published": "2026-10-13T11:27:14Z",
+      "summary": "",
+      "points": 410,
+      "_ts": 1791890834,
+      "weight": 0.9
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "source": "hn",
+      "published": "2026-10-13T15:07:37Z",
+      "summary": "",
+      "points": 401,
+      "_ts": 1791904057,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "source": "hn",
+      "published": "2026-10-13T19:11:48Z",
+      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.<p>1 minute video demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;DtcluMLdSgs\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;DtcluMLdSgs</a><p>I would love feedback on how the strumming feels and sounds.",
+      "points": 374,
+      "_ts": 1791918708,
+      "weight": 0.9
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "source": "hn",
+      "published": "2026-10-13T13:21:35Z",
+      "summary": "",
+      "points": 323,
+      "_ts": 1791897695,
+      "weight": 0.9
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "source": "hn",
+      "published": "2026-10-13T07:28:34Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;character-ai-files-for-bankruptcy-disney\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;...</a> <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv...</a> <a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;character",
+      "points": 315,
+      "_ts": 1791876514,
+      "weight": 0.9
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "source": "hn",
+      "published": "2026-10-13T15:25:50Z",
+      "summary": "",
+      "points": 307,
+      "_ts": 1791905150,
+      "weight": 0.9
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "source": "hn",
+      "published": "2026-10-13T15:12:57Z",
+      "summary": "",
+      "points": 266,
+      "_ts": 1791904377,
+      "weight": 0.9
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "source": "hn",
+      "published": "2026-10-13T14:26:08Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;</a>",
+      "points": 244,
+      "_ts": 1791901568,
+      "weight": 0.9
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "source": "hn",
+      "published": "2026-10-13T12:26:36Z",
+      "summary": "",
+      "points": 243,
+      "_ts": 1791894396,
+      "weight": 0.9
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "source": "hn",
+      "published": "2026-10-13T16:55:47Z",
+      "summary": "Main thread: <i>Gemini 4 Argon</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879</a>",
+      "points": 206,
+      "_ts": 1791910547,
+      "weight": 0.9
+    },
+    {
+      "title": "vercel-labs/skills — GitHub Trending",
+      "url": "https://github.com/vercel-labs/skills",
+      "source": "github_trending",
+      "published": "2026-10-14T06:06:29.993044+00:00",
+      "summary": "单日新增 190 stars",
+      "points": 190,
+      "_ts": 1791957989,
+      "weight": 0.8
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "source": "hn",
+      "published": "2026-10-13T10:08:34Z",
+      "summary": "",
+      "points": 161,
+      "_ts": 1791886114,
+      "weight": 0.9
+    },
+    {
+      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+      "source": "hn",
+      "published": "2026-10-13T16:24:15Z",
+      "summary": "",
+      "points": 160,
+      "_ts": 1791908655,
+      "weight": 0.9
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "hn",
+      "published": "2026-10-13T11:24:08Z",
+      "summary": "",
+      "points": 145,
+      "_ts": 1791890648,
+      "weight": 0.9
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "source": "hn",
+      "published": "2026-10-13T14:14:23Z",
+      "summary": "",
+      "points": 143,
+      "_ts": 1791900863,
+      "weight": 0.9
+    },
+    {
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "source": "hn",
+      "published": "2026-10-13T22:33:33Z",
+      "summary": "",
+      "points": 125,
+      "_ts": 1791930813,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "source": "hn",
+      "published": "2026-10-13T16:57:57Z",
+      "summary": "",
+      "points": 121,
+      "_ts": 1791910677,
+      "weight": 0.9
+    },
+    {
+      "title": "A Visual Intro to Complex Numbers",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "source": "hn",
+      "published": "2026-10-13T12:00:04Z",
+      "summary": "",
+      "points": 121,
+      "_ts": 1791892804,
+      "weight": 0.9
+    },
+    {
+      "title": "AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "source": "hn",
+      "published": "2026-10-13T10:07:03Z",
+      "summary": "",
+      "points": 113,
+      "_ts": 1791886023,
+      "weight": 0.9
+    },
+    {
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "source": "hn",
+      "published": "2026-10-13T08:34:12Z",
+      "summary": "",
+      "points": 110,
+      "_ts": 1791880452,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "source": "hn",
+      "published": "2026-10-13T23:13:23Z",
+      "summary": "Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data.<p>Features-wise, Pulse local is a ",
+      "points": 96,
+      "_ts": 1791933203,
+      "weight": 0.9
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "source": "hn",
+      "published": "2026-10-13T22:46:49Z",
+      "summary": "",
+      "points": 95,
+      "_ts": 1791931609,
+      "weight": 0.9
+    },
+    {
+      "title": "Were software engineers blue-collar workers all along?",
+      "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+      "source": "hn",
+      "published": "2026-10-13T09:25:10Z",
+      "summary": "",
+      "points": 94,
+      "_ts": 1791883510,
+      "weight": 0.9
+    },
+    {
+      "title": "Worlds more habitable than Earth?",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "source": "hn",
+      "published": "2026-10-13T12:23:34Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;yIYpb\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;yIYpb</a>",
+      "points": 84,
+      "_ts": 1791894214,
+      "weight": 0.9
+    },
+    {
+      "title": "OpenAI finds recording device in one of their offices",
+      "url": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
+      "source": "hn",
+      "published": "2026-10-13T19:55:31Z",
+      "summary": "",
+      "points": 83,
+      "_ts": 1791921331,
+      "weight": 0.9
+    },
+    {
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "source": "hn",
+      "published": "2026-10-13T18:09:26Z",
+      "summary": "",
+      "points": 83,
+      "_ts": 1791914966,
+      "weight": 0.9
+    },
+    {
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "source": "hn",
+      "published": "2026-10-13T08:24:06Z",
+      "summary": "",
+      "points": 83,
+      "_ts": 1791879846,
+      "weight": 0.9
+    },
+    {
+      "title": "Denmark set to allow return of 'physical force' in school",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+      "source": "hn",
+      "published": "2026-10-13T06:27:03Z",
+      "summary": "",
+      "points": 78,
+      "_ts": 1791872823,
+      "weight": 0.9
+    },
+    {
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "source": "hn",
+      "published": "2026-10-13T21:01:37Z",
+      "summary": "",
+      "points": 71,
+      "_ts": 1791925297,
+      "weight": 0.9
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "source": "hn",
+      "published": "2026-10-14T04:42:33Z",
+      "summary": "",
+      "points": 67,
+      "_ts": 1791952953,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "source": "hn",
+      "published": "2026-10-13T11:32:00Z",
+      "summary": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.<p>One of the main issues I ran into were the Spotify web API rate limits. Third party clients like spotatui are dependent on a developer app made in the Spotify developer dashboard, which get rate limited a lot and Spotify has slowly been deprecating endpoints from it. The workaround for this used to be using a shared client id from ncspot but unfortunately that got rate limited too. This is when i started adding other",
+      "points": 67,
+      "_ts": 1791891120,
+      "weight": 0.9
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "source": "hn",
+      "published": "2026-10-14T01:09:13Z",
+      "summary": "",
+      "points": 66,
+      "_ts": 1791940153,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "source": "hn",
+      "published": "2026-10-13T17:43:05Z",
+      "summary": "I&#x27;ve been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.<p>The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).<p>I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.<p>I&#x27;ve found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested.",
+      "points": 65,
+      "_ts": 1791913385,
+      "weight": 0.9
+    },
+    {
+      "title": "BB(10) > Graham's Number",
+      "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+      "source": "hn",
+      "published": "2026-10-13T12:40:04Z",
+      "summary": "",
+      "points": 65,
+      "_ts": 1791895204,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "source": "hn",
+      "published": "2026-10-13T19:50:31Z",
+      "summary": "Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts &quot;coding units&quot;: syntax elements like statements, calls, names and literals. I didn&#x27;t use lines of code, so cramming code isn&#x27;t rewarded. Deleted code is subtracted, so it measures net units.<p>GPT-6 and Claude 5.5 have no publ",
+      "points": 63,
+      "_ts": 1791921031,
+      "weight": 0.9
+    },
+    {
+      "title": "AlphaNIST",
+      "url": "https://alpha-nist.github.io/",
+      "source": "hn",
+      "published": "2026-10-13T21:57:29Z",
+      "summary": "",
+      "points": 61,
+      "_ts": 1791928649,
+      "weight": 0.9
+    },
+    {
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "source": "hn",
+      "published": "2026-10-13T19:17:19Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender\" rel=\"nofollow\">https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender</a>",
+      "points": 57,
+      "_ts": 1791919039,
+      "weight": 0.9
+    },
+    {
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "source": "hn",
+      "published": "2026-10-13T08:34:35Z",
+      "summary": "",
+      "points": 57,
+      "_ts": 1791880475,
+      "weight": 0.9
+    },
+    {
+      "title": "Ukraine Is Successfully Bombing the Heart of Russia's Disinformation Machine",
+      "url": "https://cmarmitage.substack.com/p/ukraine-is-successfully-bombing-the",
+      "source": "hn",
+      "published": "2026-10-13T16:14:16Z",
+      "summary": "",
+      "points": 53,
+      "_ts": 1791908056,
+      "weight": 0.9
+    },
+    {
+      "title": "A Book That Will Never Be Read",
+      "url": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+      "source": "hn",
+      "published": "2026-10-13T14:21:40Z",
+      "summary": "",
+      "points": 52,
+      "_ts": 1791901300,
+      "weight": 0.9
+    },
+    {
+      "title": "Topgolf saved over $11.3M after leaving VMware",
+      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "source": "hn",
+      "published": "2026-10-14T00:54:12Z",
+      "summary": "",
+      "points": 49,
+      "_ts": 1791939252,
+      "weight": 0.9
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "source": "hn",
+      "published": "2026-10-13T21:55:25Z",
+      "summary": "",
+      "points": 48,
+      "_ts": 1791928525,
+      "weight": 0.9
+    },
+    {
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "source": "hn",
+      "published": "2026-10-13T08:24:51Z",
+      "summary": "",
+      "points": 46,
+      "_ts": 1791879891,
+      "weight": 0.9
+    },
+    {
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "source": "hn",
+      "published": "2026-10-14T03:10:25Z",
+      "summary": "",
+      "points": 45,
+      "_ts": 1791947425,
+      "weight": 0.9
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "source": "hn",
+      "published": "2026-10-14T01:05:23Z",
+      "summary": "",
+      "points": 45,
+      "_ts": 1791939923,
+      "weight": 0.9
+    },
+    {
+      "title": "Americans Trust in Federal Government Sinks to New Depths",
+      "url": "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx",
+      "source": "hn",
+      "published": "2026-10-13T16:48:18Z",
+      "summary": "",
+      "points": 45,
+      "_ts": 1791910098,
+      "weight": 0.9
+    },
+    {
+      "title": "Scientists wonder: Is my AI stealing my ideas?",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "source": "hn",
+      "published": "2026-10-13T16:05:51Z",
+      "summary": "",
+      "points": 44,
+      "_ts": 1791907551,
+      "weight": 0.9
+    },
+    {
+      "title": "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030 (Reuters)",
+      "url": "https://www.techmeme.com/261014/p3#a261014p3",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 02:00:35 -0400",
+      "summary": "\n Reuters:\nASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing &ldquo;strong interest&rdquo; in orders for 2029 and 2030&nbsp; &mdash;&nbsp; ASML (ASML.AS) said on Wednesday AI-driven demand for its chip-printing tools is so strong that it will not be able &hellip; ",
+      "points": 0,
+      "_ts": 1791957635,
+      "weight": 1.0
+    },
+    {
+      "title": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€44B to €44B-€45B (Arjun Kharpal/CNBC)",
+      "url": "https://www.techmeme.com/261014/p2#a261014p2",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 01:40:01 -0400",
+      "summary": "\n Arjun Kharpal / CNBC:\nASML reports Q3 net sales of &euro;11.66B, vs. &euro;11.72B est., a &euro;4.96B net profit, vs. &euro;4.1B est., and raises its 2026 net sales forecast from &euro;43B-&euro;44B to &euro;44B-&euro;45B&nbsp; &mdash;&nbsp; ASML said Wednesday that some of its customers are expressing interest in placing orders &hellip; ",
+      "points": 0,
+      "_ts": 1791956401,
+      "weight": 1.0
+    },
+    {
+      "title": "US defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain (Joyu Wang/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261014/p1#a261014p1",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 00:50:01 -0400",
+      "summary": "\n Joyu Wang / Wall Street Journal:\nUS defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain&nbsp; &mdash;&nbsp; American tech meets Taiwanese hardware in push to assemble uncrewed boats and aircraft using a &lsquo;non-red&rsquo; supply chain",
+      "points": 0,
+      "_ts": 1791953401,
+      "weight": 1.0
+    },
+    {
+      "title": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)",
+      "url": "https://www.techmeme.com/261013/p53#a261013p53",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 23:55:00 -0400",
+      "summary": "\n Leo Marchandon / Reuters:\nOpen letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting&nbsp; &mdash;&nbsp; Around 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, on Tuesday called for an international body &hellip; ",
+      "points": 0,
+      "_ts": 1791950100,
+      "weight": 1.0
+    },
+    {
+      "title": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)",
+      "url": "https://www.techmeme.com/261013/p52#a261013p52",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 23:10:01 -0400",
+      "summary": "\n Camila Grigera Na&oacute;n / Fortune:\nDelaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed&nbsp; &mdash;&nbsp; Artificial intelligence is becoming a fixture in the workplace.&nbsp; Soon, many firms will have agents that don't just operate within a business &hellip; ",
+      "points": 0,
+      "_ts": 1791947401,
+      "weight": 1.0
+    },
+    {
+      "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)",
+      "url": "https://www.techmeme.com/261013/p51#a261013p51",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 22:25:01 -0400",
+      "summary": "\n Brian Krebs / Krebs on Security:\nMicrosoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load&nbsp; &mdash;&nbsp; Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.",
+      "points": 0,
+      "_ts": 1791944701,
+      "weight": 1.0
+    },
+    {
+      "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)",
+      "url": "https://www.techmeme.com/261013/p50#a261013p50",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 21:35:02 -0400",
+      "summary": "\n Bloomberg:\nChinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains&nbsp; &mdash;&nbsp; Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
+      "points": 0,
+      "_ts": 1791941702,
+      "weight": 1.0
+    },
+    {
+      "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)",
+      "url": "https://www.techmeme.com/261013/p49#a261013p49",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 20:35:02 -0400",
+      "summary": "\n Bloomberg:\nFiling: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14&nbsp; &mdash;&nbsp; An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company's San Francisco offices &hellip; ",
+      "points": 0,
+      "_ts": 1791938102,
+      "weight": 1.0
+    },
+    {
+      "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
+      "url": "https://www.techmeme.com/261013/p48#a261013p48",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 20:05:01 -0400",
+      "summary": "\n Rashi Shrivastava / Forbes:\nAlbert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation&nbsp; &mdash;&nbsp; Scientists at manufacturing conglomerates like Kenvue and Henkel use Albert Invent's AI tools to design experiments.",
+      "points": 0,
+      "_ts": 1791936301,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
+      "url": "https://www.techmeme.com/261013/p47#a261013p47",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 19:20:01 -0400",
+      "summary": "\n The Information:\nSources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees&nbsp; &mdash;&nbsp; OpenAI, which is trying to develop a substantial cybersecurity business, is in early talks to buy Trail of Bits &hellip; ",
+      "points": 0,
+      "_ts": 1791933601,
+      "weight": 1.0
+    },
+    {
+      "title": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)",
+      "url": "https://www.techmeme.com/261013/p46#a261013p46",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 19:00:39 -0400",
+      "summary": "\n Reuters:\nTencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B&nbsp; &mdash;&nbsp; Tencent Holdings (0700.HK) has raised about $5.7 billion through US dollar and offshore yuan debt offerings on Tuesday &hellip; ",
+      "points": 0,
+      "_ts": 1791932439,
+      "weight": 1.0
+    },
+    {
+      "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
+      "url": "https://www.techmeme.com/261013/p45#a261013p45",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 17:56:04 -0400",
+      "summary": "\n The Information:\nA look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique&nbsp; &mdash;&nbsp; OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model &hellip; ",
+      "points": 0,
+      "_ts": 1791928564,
+      "weight": 1.0
+    },
+    {
+      "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)",
+      "url": "https://www.techmeme.com/261013/p44#a261013p44",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 17:26:05 -0400",
+      "summary": "\n Annelise Levy / Bloomberg Law:\nApple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents&nbsp; &mdash;&nbsp; Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft &hellip; ",
+      "points": 0,
+      "_ts": 1791926765,
+      "weight": 1.0
+    },
+    {
+      "title": "The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities (Dustin Volz/New York Times)",
+      "url": "https://www.techmeme.com/261013/p43#a261013p43",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 17:05:02 -0400",
+      "summary": "\n Dustin Volz / New York Times:\nThe FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities&nbsp; &mdash;&nbsp; F.B.I. investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.",
+      "points": 0,
+      "_ts": 1791925502,
+      "weight": 1.0
+    },
+    {
+      "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)",
+      "url": "https://www.techmeme.com/261013/p42#a261013p42",
+      "source": "techmeme",
+      "published": "Tue, 13 Oct 2026 16:40:59 -0400",
+      "summary": "\n Jon Hicks / GamesIndustry.biz:\nXbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools&nbsp; &mdash;&nbsp; New business unit is charged with testing new projects and judging them by user feedback, spurred by recent mashups and ports delivered with AI coding tools",
+      "points": 0,
+      "_ts": 1791924059,
+      "weight": 1.0
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "openai",
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "points": 0,
+      "_ts": 1791892800,
+      "weight": 1.0
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "points": 0,
+      "_ts": 1791933211,
+      "weight": 0.9
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "points": 0,
+      "_ts": 1791932734,
+      "weight": 0.9
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "points": 0,
+      "_ts": 1791932400,
+      "weight": 0.9
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "points": 0,
+      "_ts": 1791931019,
+      "weight": 0.9
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "points": 0,
+      "_ts": 1791923804,
+      "weight": 0.9
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 18:30:00 +0000",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "points": 0,
+      "_ts": 1791916200,
+      "weight": 0.9
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 18:05:24 +0000",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "points": 0,
+      "_ts": 1791914724,
+      "weight": 0.9
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "points": 0,
+      "_ts": 1791912600,
+      "weight": 0.9
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 17:18:25 +0000",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "points": 0,
+      "_ts": 1791911905,
+      "weight": 0.9
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "points": 0,
+      "_ts": 1791910800,
+      "weight": 0.9
+    },
+    {
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "points": 0,
+      "_ts": 1791909000,
+      "weight": 0.9
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 14:00:00 +0000",
+      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+      "points": 0,
+      "_ts": 1791900000,
+      "weight": 0.9
+    },
+    {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 13:50:19 +0000",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "points": 0,
+      "_ts": 1791899419,
+      "weight": 0.9
+    },
+    {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 13:28:06 +0000",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "points": 0,
+      "_ts": 1791898086,
+      "weight": 0.9
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 13:00:00 +0000",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "points": 0,
+      "_ts": 1791896400,
+      "weight": 0.9
+    },
+    {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 13 Oct 2026 12:23:42 +0000",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "points": 0,
+      "_ts": 1791894222,
+      "weight": 0.9
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "deepmind",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "points": 0,
+      "_ts": 1791943214,
+      "weight": 0.9
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "deepmind",
+      "published": "Tue, 13 Oct 2026 19:43:07 +0000",
+      "summary": "",
+      "points": 0,
+      "_ts": 1791920587,
+      "weight": 0.9
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "deepmind",
+      "published": "Tue, 13 Oct 2026 16:01:58 +0000",
+      "summary": "",
+      "points": 0,
+      "_ts": 1791907318,
+      "weight": 0.9
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "deepmind",
+      "published": "Tue, 13 Oct 2026 16:01:52 +0000",
+      "summary": "",
+      "points": 0,
+      "_ts": 1791907312,
+      "weight": 0.9
+    },
+    {
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "source": "qbitai",
+      "published": "Wed, 14 Oct 2026 04:51:32 +0000",
+      "summary": "给Ego补上缺失的交互信息",
+      "points": 0,
+      "_ts": 1791953492,
+      "weight": 0.9
+    },
+    {
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "source": "qbitai",
+      "published": "Wed, 14 Oct 2026 04:09:29 +0000",
+      "summary": "从“懂空间”到“能干活”",
+      "points": 0,
+      "_ts": 1791950969,
+      "weight": 0.9
+    },
+    {
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "qbitai",
+      "published": "Wed, 14 Oct 2026 03:32:48 +0000",
+      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "points": 0,
+      "_ts": 1791948768,
+      "weight": 0.9
+    },
+    {
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "url": "https://www.qbitai.com/2026/10/503157.html",
+      "source": "qbitai",
+      "published": "Wed, 14 Oct 2026 02:14:50 +0000",
+      "summary": "一次采集，反复使用",
+      "points": 0,
+      "_ts": 1791944090,
+      "weight": 0.9
+    },
+    {
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "url": "https://www.qbitai.com/2026/10/503109.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 20:55:15 +0000",
+      "summary": "面壁开源MiniCPM-V 4.7",
+      "points": 0,
+      "_ts": 1791924915,
+      "weight": 0.9
+    },
+    {
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 11:05:39 +0000",
+      "summary": "让VLA从“演示可用”逼近“产线可用”",
+      "points": 0,
+      "_ts": 1791889539,
+      "weight": 0.9
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 09:33:37 +0000",
+      "summary": "Winverse AI",
+      "points": 0,
+      "_ts": 1791884017,
+      "weight": 0.9
+    },
+    {
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "url": "https://www.qbitai.com/2026/10/502992.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 07:20:23 +0000",
+      "summary": "宝马保时捷缺席",
+      "points": 0,
+      "_ts": 1791876023,
+      "weight": 0.9
+    },
+    {
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "url": "https://www.qbitai.com/2026/10/502954.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 07:19:21 +0000",
+      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
+      "points": 0,
+      "_ts": 1791875961,
+      "weight": 0.9
+    },
+    {
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "url": "https://www.qbitai.com/2026/10/502920.html",
+      "source": "qbitai",
+      "published": "Tue, 13 Oct 2026 06:19:10 +0000",
+      "summary": "拉马克进化的幽灵",
+      "points": 0,
+      "_ts": 1791872350,
+      "weight": 0.9
+    },
+    {
+      "title": "DoSA: Dots Sparse Attention",
+      "url": "https://huggingface.co/papers/2610.13990",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156143+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
+      "url": "https://huggingface.co/papers/2610.14709",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156175+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "UltraBERT: Beyond the Limit of BERT Pre-Training",
+      "url": "https://huggingface.co/papers/2610.15028",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156195+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+      "url": "https://huggingface.co/papers/2610.14224",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156215+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+      "url": "https://huggingface.co/papers/2610.12818",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156234+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
+      "url": "https://huggingface.co/papers/2609.38847",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156253+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Learning How to Remember: Memory Modality Selection for GUI Agents",
+      "url": "https://huggingface.co/papers/2610.17928",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156265+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
+      "url": "https://huggingface.co/papers/2610.17201",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156279+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "SALD: Self-Referenced Advantage Learning for Diffusion Models",
+      "url": "https://huggingface.co/papers/2610.01496",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156293+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "TPPO: Tracking-Value PPO For Language Model Reasoning",
+      "url": "https://huggingface.co/papers/2610.16794",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156306+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter",
+      "url": "https://huggingface.co/papers/2610.17666",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156331+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "url": "https://huggingface.co/papers/2610.14118",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156349+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "VideoJev: System One Model for Video Understanding and Interaction",
+      "url": "https://huggingface.co/papers/2610.18615",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156361+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction",
+      "url": "https://huggingface.co/papers/2610.16577",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156377+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
+      "url": "https://huggingface.co/papers/2610.18872",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156394+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling",
+      "url": "https://huggingface.co/papers/2610.15166",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156412+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
+      "url": "https://huggingface.co/papers/2609.38377",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156423+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "url": "https://huggingface.co/papers/2610.18868",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156440+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning",
+      "url": "https://huggingface.co/papers/2610.16811",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156459+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+      "url": "https://huggingface.co/papers/2610.15208",
+      "source": "hf_papers",
+      "published": "2026-10-14T06:06:30.156472+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1791957990,
+      "weight": 0.8
+    },
+    {
+      "title": "Apple’s HomeView ad is confusing to everyone except parents",
+      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "source": "theverge",
+      "published": "2026-10-13T18:10:00-04:00",
+      "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
+      "points": 0,
+      "_ts": 1791929400,
+      "weight": 0.8
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "theverge",
+      "published": "2026-10-13T16:45:25-04:00",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
+      "points": 0,
+      "_ts": 1791924325,
+      "weight": 0.8
+    },
+    {
+      "title": "It looks like Apple Music is getting a new icon",
+      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "source": "theverge",
+      "published": "2026-10-13T16:05:02-04:00",
+      "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, [&#8230;]",
+      "points": 0,
+      "_ts": 1791921902,
+      "weight": 0.8
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "theverge",
+      "published": "2026-10-13T15:42:42-04:00",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
+      "points": 0,
+      "_ts": 1791920562,
+      "weight": 0.8
+    },
+    {
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source": "theverge",
+      "published": "2026-10-13T15:00:48-04:00",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web [&#8230;]",
+      "points": 0,
+      "_ts": 1791918048,
+      "weight": 0.8
+    },
+    {
+      "title": "The Nothing Headphone A are half off for the first time",
+      "url": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
+      "source": "theverge",
+      "published": "2026-10-13T14:33:14-04:00",
+      "summary": "One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll save 33 percent on your order, bringing the [&#8230;]",
+      "points": 0,
+      "_ts": 1791916394,
+      "weight": 0.8
+    },
+    {
+      "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
+      "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
+      "source": "theverge",
+      "published": "2026-10-13T14:31:31-04:00",
+      "summary": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\" Zelenskyy isn't the first to assert that the [&#8230;]",
+      "points": 0,
+      "_ts": 1791916291,
+      "weight": 0.8
+    },
+    {
+      "title": "Rivian partner Mind Robotics hires Doug Field as president",
+      "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+      "source": "theverge",
+      "published": "2026-10-13T14:30:00-04:00",
+      "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. [&#8230;]",
+      "points": 0,
+      "_ts": 1791916200,
+      "weight": 0.8
+    },
+    {
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "theverge",
+      "published": "2026-10-13T14:00:00-04:00",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to [&#8230;]",
+      "points": 0,
+      "_ts": 1791914400,
+      "weight": 0.8
+    },
+    {
+      "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+      "url": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+      "source": "theverge",
+      "published": "2026-10-13T13:40:15-04:00",
+      "summary": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office [&#8230;]",
+      "points": 0,
+      "_ts": 1791913215,
+      "weight": 0.8
+    },
+    {
+      "title": "By going private, Bumble may finally make a good match",
+      "url": "https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:21 GMT",
+      "summary": "Sharpening the AI tools at its disposal could improve outcomes and potentially enable  the dating app to get people to pay",
+      "points": 0,
+      "_ts": 1791950421,
+      "weight": 0.8
+    },
+    {
+      "title": "How Ukraine’s data centre strikes threw Russia into turmoil",
+      "url": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:21 GMT",
+      "summary": "Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise internet services under one company",
+      "points": 0,
+      "_ts": 1791950421,
+      "weight": 0.8
+    },
+    {
+      "title": "The battle over the AI-led future of banking has begun",
+      "url": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:12 GMT",
+      "summary": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
+      "points": 0,
+      "_ts": 1791950412,
+      "weight": 0.8
+    },
+    {
+      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+      "url": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:04 GMT",
+      "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
+      "points": 0,
+      "_ts": 1791950404,
+      "weight": 0.8
+    },
+    {
+      "title": "How I used AI to become a chess grandmaster at 16",
+      "url": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:03 GMT",
+      "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
+      "points": 0,
+      "_ts": 1791950403,
+      "weight": 0.8
+    },
+    {
+      "title": "Workplaces are bracing for the smart glasses era",
+      "url": "https://www.ft.com/content/bb6f87df-f523-40d6-91c2-20f4b298eb4d",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:03 GMT",
+      "summary": "New technology is an HR and data security minefield",
+      "points": 0,
+      "_ts": 1791950403,
+      "weight": 0.8
+    },
+    {
+      "title": "FT Weekend Fest: Could AI make us happier?",
+      "url": "https://www.ft.com/content/1435c4e4-6931-49a4-bd6f-9fd7efd82c39?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 04:00:00 GMT",
+      "summary": "Alain de Botton on AI’s therapy potential",
+      "points": 0,
+      "_ts": 1791950400,
+      "weight": 0.8
+    },
+    {
+      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 14 Oct 2026 01:59:24 GMT",
+      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "points": 0,
+      "_ts": 1791943164,
+      "weight": 0.8
+    },
+    {
+      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 20:28:15 GMT",
+      "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
+      "points": 0,
+      "_ts": 1791923295,
+      "weight": 0.8
+    },
+    {
+      "title": "Cyber attack on French supermarket fridges raises alarm over food security",
+      "url": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 20:15:57 GMT",
+      "summary": "Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food",
+      "points": 0,
+      "_ts": 1791922557,
+      "weight": 0.8
+    },
+    {
+      "title": "The ‘ungodly spending’ behind the creator economy",
+      "url": "https://www.ft.com/content/dbef1d8b-6bf7-4cc2-b2b7-e000eb101057?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 14:00:01 GMT",
+      "summary": "Top social media influencers will receive some payments from platforms like YouTube but the big money comes from brands",
+      "points": 0,
+      "_ts": 1791900001,
+      "weight": 0.8
+    },
+    {
+      "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices",
+      "url": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 10:11:23 GMT",
+      "summary": "Claude maker suggests models could act as ‘worms’ to spread across smart home appliances such as lawnmowers and TVs",
+      "points": 0,
+      "_ts": 1791886283,
+      "weight": 0.8
+    },
+    {
+      "title": "CNN launches international streaming push as David Ellison takes control",
+      "url": "https://www.ft.com/content/1e190204-ebe8-48d7-936e-72835fc49742?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 13 Oct 2026 09:30:07 GMT",
+      "summary": "News network targets $1bn in annual digital subscription revenue by 2030 as traditional cable television declines",
+      "points": 0,
+      "_ts": 1791883807,
+      "weight": 0.8
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "source": "nvidia_blog",
+      "published": "Tue, 13 Oct 2026 12:00:49 +0000",
+      "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and [&#8230;]",
+      "points": 0,
+      "_ts": 1791892849,
+      "weight": 0.7
+    }
+  ]
+}

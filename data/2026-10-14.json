@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-14",
+  "issue": "No.028",
+  "weekday": "周三",
+  "generated_at": "2026-10-14 06:06 CST",
+  "window": "2026-10-14 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-14 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 6,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Felix Rieseberg Homepage",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-14 的当日条目：Felix Rieseberg Homepage。讨论热度 67 分、25 条评论；出处 felixrieseberg.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 67 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "felixrieseberg.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Felix Rieseberg Homepage",
+              "url": "https://felixrieseberg.com/"
+            }
+          ]
+        },
+        {
+          "title": "I built a tool to track what AI leaders say and how their views change on video",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-14 的当日条目：I built a tool to track what AI leaders say and how their views change on video。讨论热度 66 分、46 条评论；出处 blumify.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 66 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blumify.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I built a tool to track what AI leaders ",
+              "url": "https://blumify.io/people"
+            }
+          ]
+        },
+        {
+          "title": "Topgolf saved over $11.3M after leaving VMware",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-14 的当日条目：Topgolf saved over $11.3M after leaving VMware。讨论热度 49 分、3 条评论；出处 arstechnica.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 49 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "arstechnica.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Topgolf saved over $11.3M after leaving ",
+              "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
+            }
+          ]
+        },
+        {
+          "title": "Is 'Attention' the Essence of Intelligence?",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-14 的当日条目：Is 'Attention' the Essence of Intelligence?。讨论热度 45 分、32 条评论；出处 quantamagazine.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 45 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "quantamagazine.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Is 'Attention' the Essence of Intelligen",
+              "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-14 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.13990"
+            }
+          ]
+        },
+        {
+          "title": "DoSA: Dots Sparse Attention",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-14 当日论文归档中的条目：DoSA: Dots Sparse Attention。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.13990"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 166,
+  "raw_count": 164,
   "clusters": [
     {
       "headline": "morluto/rea — GitHub Trending",
@@ -103,10 +103,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "",
+      "score": 962.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+          "title": "Things to know when you get cancer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "summary": "",
-      "score": 924.0,
+      "score": 936.0,
       "sources": [
         {
           "name": "hn",
@@ -117,24 +131,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Things to know when you get cancer – 2026 Edition",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "",
-      "score": 852.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-          "title": "Things to know when you get cancer – 2026 Edition"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "How Amazon pushes up prices all across the Internet",
       "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
       "summary": "",
-      "score": 801.0,
+      "score": 828.0,
       "sources": [
         {
           "name": "hn",
@@ -145,24 +145,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-      "summary": "",
-      "score": 578.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Passkeys are not a trap",
       "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
       "summary": "",
-      "score": 565.0,
+      "score": 599.0,
       "sources": [
         {
           "name": "hn",
@@ -173,10 +159,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "summary": "",
+      "score": 581.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Google is silently linking your phone number across all signed-in accounts",
       "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
       "summary": "",
-      "score": 467.0,
+      "score": 499.0,
       "sources": [
         {
           "name": "hn",
@@ -190,7 +190,7 @@
       "headline": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "summary": "",
-      "score": 379.0,
+      "score": 449.0,
       "sources": [
         {
           "name": "hn",
@@ -201,24 +201,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "",
-      "score": 372.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-          "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "summary": "",
-      "score": 369.0,
+      "score": 406.0,
       "sources": [
         {
           "name": "hn",
@@ -229,10 +215,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "summary": "",
+      "score": 391.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+          "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Suicide rates highest ever among middle-aged men",
       "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
       "summary": "",
-      "score": 343.0,
+      "score": 387.0,
       "sources": [
         {
           "name": "hn",
@@ -246,12 +246,26 @@
       "headline": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "summary": "",
-      "score": 337.0,
+      "score": 361.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://sunshowers.io/posts/anthropic-mononoke/",
           "title": "Anthropic's Scion is heavily inspired by Mononoke"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "summary": "",
+      "score": 347.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+          "title": "Americans' social activity has steeply declined in the past 30 years"
         }
       ],
       "duplicate_count": 1
@@ -271,29 +285,43 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "summary": "",
-      "score": 301.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-          "title": "Americans' social activity has steeply declined in the past 30 years"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Yandex outage: data shows that instead of going dark, malicious bots moved",
       "url": "https://blog.cloudflare.com/yandex-outage/",
       "summary": "",
-      "score": 294.0,
+      "score": 316.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://blog.cloudflare.com/yandex-outage/",
           "title": "Yandex outage: data shows that instead of going dark, malicious bots moved"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "summary": "",
+      "score": 301.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://go.dev/blog/http-connection-reuse",
+          "title": "Better HTTP/1 connection reuse in Go 1.27"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "",
+      "score": 298.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://typesafe.ai/blog/jev-1-14",
+          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
         }
       ],
       "duplicate_count": 1
@@ -313,24 +341,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "summary": "",
-      "score": 286.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://go.dev/blog/http-connection-reuse",
-          "title": "Better HTTP/1 connection reuse in Go 1.27"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "url": "https://github.com/timescale/pg_vectorsearch",
       "summary": "",
-      "score": 282.0,
+      "score": 286.0,
       "sources": [
         {
           "name": "hn",
@@ -341,15 +355,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
+      "headline": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
       "summary": "",
-      "score": 271.0,
+      "score": 274.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://typesafe.ai/blog/jev-1-14",
-          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+          "url": "https://tinylittleoffice.com/",
+          "title": "Tiny Little Office"
         }
       ],
       "duplicate_count": 1
@@ -383,10 +397,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "America didn't lose its rare earth industry, it sold it",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "summary": "",
+      "score": 252.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+          "title": "America didn't lose its rare earth industry, it sold it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Amsterdam police confiscates server left-wing ISP A/I at American request",
       "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
       "summary": "",
-      "score": 246.0,
+      "score": 249.0,
       "sources": [
         {
           "name": "hn",
@@ -397,15 +425,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "America didn't lose its rare earth industry, it sold it",
-      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "headline": "Starlink limit hits Ukraine's drones",
+      "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
       "summary": "",
-      "score": 243.0,
+      "score": 246.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-          "title": "America didn't lose its rare earth industry, it sold it"
+          "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
+          "title": "Starlink limit hits Ukraine's drones"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "summary": "",
+      "score": 245.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+          "title": "Why do LLM pelicans look like this?"
         }
       ],
       "duplicate_count": 1
@@ -425,38 +467,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Why do LLM pelicans look like this?",
-      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-      "summary": "",
-      "score": 242.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-          "title": "Why do LLM pelicans look like this?"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Starlink limit hits Ukraine's drones",
-      "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-      "summary": "",
-      "score": 241.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-          "title": "Starlink limit hits Ukraine's drones"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Apple Keynote now showing ads in its UI",
       "url": "https://mastodon.social/@marioguzman/117436264149891011",
       "summary": "",
-      "score": 233.0,
+      "score": 234.0,
       "sources": [
         {
           "name": "hn",
@@ -470,7 +484,7 @@
       "headline": "TV4 postpones show after AI agent erases edited material",
       "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
       "summary": "",
-      "score": 229.0,
+      "score": 232.0,
       "sources": [
         {
           "name": "hn",
@@ -481,15 +495,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
+      "headline": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
       "summary": "",
-      "score": 221.0,
+      "score": 226.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://tinylittleoffice.com/",
-          "title": "Tiny Little Office"
+          "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+          "title": "Submarine cable resilience"
         }
       ],
       "duplicate_count": 1
@@ -498,7 +512,7 @@
       "headline": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
       "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
       "summary": "",
-      "score": 219.0,
+      "score": 223.0,
       "sources": [
         {
           "name": "hn",
@@ -523,20 +537,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "summary": "",
-      "score": 217.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-          "title": "Submarine cable resilience"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
       "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
       "summary": "",
@@ -551,10 +551,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
+      "score": 211.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://petal.live/",
+          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Linus Torvalds's first LLM-assisted patch series",
       "url": "https://lwn.net/Articles/1100449/",
       "summary": "",
-      "score": 203.0,
+      "score": 204.0,
       "sources": [
         {
           "name": "hn",
@@ -565,15 +579,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
-      "score": 202.0,
+      "headline": "Smart people don't think others are stupid (2012)",
+      "url": "https://sive.rs/ss",
+      "summary": "",
+      "score": 189.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://petal.live/",
-          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
+          "url": "https://sive.rs/ss",
+          "title": "Smart people don't think others are stupid (2012)"
         }
       ],
       "duplicate_count": 1
@@ -593,20 +607,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Smart people don't think others are stupid (2012)",
-      "url": "https://sive.rs/ss",
-      "summary": "",
-      "score": 184.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://sive.rs/ss",
-          "title": "Smart people don't think others are stupid (2012)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "HKUDS/CLI-Anything — GitHub Trending",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "summary": "单日新增 103 stars",
@@ -621,10 +621,66 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
+      "score": 182.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://clova.email/",
+          "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "summary": "",
+      "score": 181.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nytpu.com/gemlog/2026-03-18",
+          "title": "Fancy Curl Sites"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "",
+      "score": 180.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+          "title": "Has AI tells"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "",
+      "score": 178.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+          "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "RIP Eric Binnion",
       "url": "https://ma.tt/2026/10/rip-eric/",
       "summary": "",
-      "score": 175.0,
+      "score": 176.0,
       "sources": [
         {
           "name": "hn",
@@ -652,7 +708,7 @@
       "headline": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
       "url": "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/",
       "summary": "",
-      "score": 173.0,
+      "score": 174.0,
       "sources": [
         {
           "name": "hn",
@@ -666,7 +722,7 @@
       "headline": "Running Windows desktop tests from Linux with disposable VMs",
       "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
       "summary": "",
-      "score": 171.0,
+      "score": 173.0,
       "sources": [
         {
           "name": "hn",
@@ -677,29 +733,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "headline": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
       "summary": "",
-      "score": 170.0,
+      "score": 172.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://nytpu.com/gemlog/2026-03-18",
-          "title": "Fancy Curl Sites"
+          "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+          "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
-      "score": 170.0,
+      "headline": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "url": "https://oxide.computer/blog/voxel-labs",
+      "summary": "",
+      "score": 168.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://clova.email/",
-          "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
+          "url": "https://oxide.computer/blog/voxel-labs",
+          "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
         }
       ],
       "duplicate_count": 1
@@ -708,26 +764,12 @@
       "headline": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "summary": "",
-      "score": 167.0,
+      "score": 168.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
           "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "summary": "",
-      "score": 166.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-          "title": "Has AI tells"
         }
       ],
       "duplicate_count": 1
@@ -761,34 +803,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "summary": "",
-      "score": 157.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://oxide.computer/blog/voxel-labs",
-          "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "What agents mean for Rust (and vice versa)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "summary": "",
-      "score": 155.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-          "title": "What agents mean for Rust (and vice versa)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
       "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
       "summary": "",
@@ -798,6 +812,20 @@
           "name": "hn",
           "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
           "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Gaming on Linux without cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "summary": "",
+      "score": 152.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+          "title": "Gaming on Linux without cheating"
         }
       ],
       "duplicate_count": 1
@@ -817,38 +845,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "",
-      "score": 148.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Gaming on Linux without cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-      "summary": "",
-      "score": 148.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-          "title": "Gaming on Linux without cheating"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "I let an AI run my startup for a week",
       "url": "https://daily.tinyprojects.dev/221",
       "summary": "",
-      "score": 147.0,
+      "score": 148.0,
       "sources": [
         {
           "name": "hn",
@@ -876,7 +876,7 @@
       "headline": "Ukraine says new Starlink restrictions disrupt their military",
       "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
       "summary": "",
-      "score": 143.0,
+      "score": 144.0,
       "sources": [
         {
           "name": "hn",
@@ -890,12 +890,26 @@
       "headline": "CPI-U rises 7.2% annualized in September (3.7% YoY)",
       "url": "https://www.bls.gov/news.release/cpi.nr0.htm?",
       "summary": "",
-      "score": 140.0,
+      "score": 141.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://www.bls.gov/news.release/cpi.nr0.htm?",
           "title": "CPI-U rises 7.2% annualized in September (3.7% YoY)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+          "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support"
         }
       ],
       "duplicate_count": 1
@@ -932,7 +946,7 @@
       "headline": "The Aaronson Oracle",
       "url": "https://aaronsonoracle.com/",
       "summary": "",
-      "score": 136.0,
+      "score": 137.0,
       "sources": [
         {
           "name": "hn",
@@ -946,7 +960,7 @@
       "headline": "Starlink restricted in Ukraine with no notice",
       "url": "https://malcontentnews.substack.com/p/starlink-restricted-in-ukraine-with",
       "summary": "",
-      "score": 136.0,
+      "score": 137.0,
       "sources": [
         {
           "name": "hn",
@@ -957,15 +971,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+      "headline": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
       "summary": "",
-      "score": 134.0,
+      "score": 132.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-          "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support"
+          "url": "https://github.com/graphicle-ai/graphicle",
+          "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents"
         }
       ],
       "duplicate_count": 1
@@ -985,20 +999,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "url": "https://github.com/graphicle-ai/graphicle",
-      "summary": "",
-      "score": 131.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://github.com/graphicle-ai/graphicle",
-          "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Ask HN: What is the current trajectory of a senior engineer?",
       "url": "https://news.ycombinator.com/item?id=50084969",
       "summary": "Been recently thinking about this more and more: When the need for a human in the design loop ceases?<p>Given that LLMs are RL&#x27;d to the max with everything that can be given a wrong&#x2F;right answer (code&#x2F;maths), what currently is stopping Anthropic, OpenAI et al. from internally building (and maybe buying) datasets of good and bad architecture, and RL&#x27;ing that?<p>Given that LLMs were a fancy autocomplete back in 2024, and now people are talking about building &quot;software factories&quot; with the agents, what in your mind is the stop to this development? Why software archite",
@@ -1008,6 +1008,34 @@
           "name": "hn",
           "url": "https://news.ycombinator.com/item?id=50084969",
           "title": "Ask HN: What is the current trajectory of a senior engineer?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers (Kashmir Hill/New York Times)",
+      "url": "https://www.techmeme.com/261014/p53#a261014p53",
+      "summary": "\n Kashmir Hill / New York Times:\nLetter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building &ldquo;experimental&rdquo; AI data centers&nbsp; &mdash;&nbsp; Democrats on the Senate Finance Committee sent a letter to Mark Zuckerberg, Meta's chief executive, questioning the company's $6.6 billion in tax breaks.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p53#a261014p53",
+          "title": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers (Kashmir Hill/New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that \"we shouldn't pause progress\" (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/261014/p52#a261014p52",
+      "summary": "\n Sarah Perez / TechCrunch:\nFlock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that &ldquo;we shouldn't pause progress&rdquo;&nbsp; &mdash;&nbsp; Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p52#a261014p52",
+          "title": "Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that \"we shouldn't pause progress\" (Sarah Perez/TechCrunch)"
         }
       ],
       "duplicate_count": 1
@@ -1113,7 +1141,7 @@
     {
       "headline": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
       "url": "https://www.techmeme.com/261014/p44#a261014p44",
-      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
+      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; Rapid growth is slower than some anticipated as fears about the AI trade rattle markets&nbsp; &mdash;&nbsp; Anthropic told investors &hellip; ",
       "score": 100.0,
       "sources": [
         {
@@ -1190,34 +1218,6 @@
           "name": "techmeme",
           "url": "https://www.techmeme.com/261014/p39#a261014p39",
           "title": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)",
-      "url": "https://www.techmeme.com/261014/p38#a261014p38",
-      "summary": "\n SpaceXSI:\nSpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min&nbsp; &mdash;&nbsp; The world's most intelligent voice model. &hellip; Today, we're announcing Grok Voice 3.0, the world's most intelligent speech-to-speech model.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p38#a261014p38",
-          "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)",
-      "url": "https://www.techmeme.com/261014/p37#a261014p37",
-      "summary": "\n Bloomberg:\nSources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May&nbsp; &mdash;&nbsp; Anduril Industries Inc. is allowing employees to sell shares as part of a tender that stands to value the defense technology startup &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p37#a261014p37",
-          "title": "Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)"
         }
       ],
       "duplicate_count": 1
@@ -1433,15 +1433,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "headline": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "summary": "给企业Agent打了个样",
       "score": 90.0,
       "sources": [
         {
-          "name": "deepmind",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/503303.html",
+          "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元"
         }
       ],
       "duplicate_count": 1
@@ -1573,295 +1573,267 @@
       "duplicate_count": 1
     },
     {
-      "headline": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-      "url": "https://www.qbitai.com/2026/10/503157.html",
-      "summary": "一次采集，反复使用",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/503157.html",
-          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Jeva: System One Models from First Principles",
-      "url": "https://huggingface.co/papers/2610.18773",
+      "headline": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "url": "https://huggingface.co/papers/2610.20571",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18773",
-          "title": "Jeva: System One Models from First Principles"
+          "url": "https://huggingface.co/papers/2610.20571",
+          "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
-      "url": "https://huggingface.co/papers/2610.17953",
+      "headline": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
+      "url": "https://huggingface.co/papers/2610.19975",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.17953",
-          "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively"
+          "url": "https://huggingface.co/papers/2610.19975",
+          "title": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "VideoJev: System One Model for Video Understanding and Interaction",
-      "url": "https://huggingface.co/papers/2610.18615",
+      "headline": "LensErase: A Foundation Model for Erase Anything",
+      "url": "https://huggingface.co/papers/2610.18072",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18615",
-          "title": "VideoJev: System One Model for Video Understanding and Interaction"
+          "url": "https://huggingface.co/papers/2610.18072",
+          "title": "LensErase: A Foundation Model for Erase Anything"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "url": "https://huggingface.co/papers/2610.18356",
+      "headline": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+      "url": "https://huggingface.co/papers/2610.19366",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18356",
-          "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes"
+          "url": "https://huggingface.co/papers/2610.19366",
+          "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "url": "https://huggingface.co/papers/2610.18868",
+      "headline": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.13521",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18868",
-          "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards"
+          "url": "https://huggingface.co/papers/2610.13521",
+          "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "GreenWAM: A World Foundation Model for Robotics",
-      "url": "https://huggingface.co/papers/2610.18774",
+      "headline": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
+      "url": "https://huggingface.co/papers/2610.18097",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18774",
-          "title": "GreenWAM: A World Foundation Model for Robotics"
+          "url": "https://huggingface.co/papers/2610.18097",
+          "title": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-      "url": "https://huggingface.co/papers/2610.18860",
+      "headline": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
+      "url": "https://huggingface.co/papers/2610.02089",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18860",
-          "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards"
+          "url": "https://huggingface.co/papers/2610.02089",
+          "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://huggingface.co/papers/2610.14224",
+      "headline": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19100",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.14224",
-          "title": "Harness^2: Recursive Agent Harnessing for an Open World"
+          "url": "https://huggingface.co/papers/2610.19100",
+          "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "TPPO: Tracking-Value PPO For Language Model Reasoning",
-      "url": "https://huggingface.co/papers/2610.16794",
+      "headline": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models",
+      "url": "https://huggingface.co/papers/2610.16302",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.16794",
-          "title": "TPPO: Tracking-Value PPO For Language Model Reasoning"
+          "url": "https://huggingface.co/papers/2610.16302",
+          "title": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
-      "url": "https://huggingface.co/papers/2610.14709",
+      "headline": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation",
+      "url": "https://huggingface.co/papers/2610.15425",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.14709",
-          "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence"
+          "url": "https://huggingface.co/papers/2610.15425",
+          "title": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "DoSA: Dots Sparse Attention",
-      "url": "https://huggingface.co/papers/2610.13990",
+      "headline": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19789",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.13990",
-          "title": "DoSA: Dots Sparse Attention"
+          "url": "https://huggingface.co/papers/2610.19789",
+          "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning",
-      "url": "https://huggingface.co/papers/2610.16811",
+      "headline": "Long-Horizon RL Needs Muon",
+      "url": "https://huggingface.co/papers/2610.20256",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.16811",
-          "title": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning"
+          "url": "https://huggingface.co/papers/2610.20256",
+          "title": "Long-Horizon RL Needs Muon"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-      "url": "https://huggingface.co/papers/2610.18067",
+      "headline": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.20572",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.18067",
-          "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution"
+          "url": "https://huggingface.co/papers/2610.20572",
+          "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling",
-      "url": "https://huggingface.co/papers/2610.15166",
+      "headline": "Acting Through Registers",
+      "url": "https://huggingface.co/papers/2610.17638",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.15166",
-          "title": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling"
+          "url": "https://huggingface.co/papers/2610.17638",
+          "title": "Acting Through Registers"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "LeWAM: End-to-End World and Action Modeling with JEPAs",
-      "url": "https://huggingface.co/papers/2610.12818",
+      "headline": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+      "url": "https://huggingface.co/papers/2610.20456",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.12818",
-          "title": "LeWAM: End-to-End World and Action Modeling with JEPAs"
+          "url": "https://huggingface.co/papers/2610.20456",
+          "title": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
-      "url": "https://huggingface.co/papers/2609.38847",
+      "headline": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+      "url": "https://huggingface.co/papers/2610.19118",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2609.38847",
-          "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics"
+          "url": "https://huggingface.co/papers/2610.19118",
+          "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
-      "url": "https://huggingface.co/papers/2610.17201",
+      "headline": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards",
+      "url": "https://huggingface.co/papers/2610.17893",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.17201",
-          "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication"
+          "url": "https://huggingface.co/papers/2610.17893",
+          "title": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
-      "url": "https://huggingface.co/papers/2610.14766",
+      "headline": "MA-Bench: Measuring Operational Planning in Language Models",
+      "url": "https://huggingface.co/papers/2610.19138",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.14766",
-          "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?"
+          "url": "https://huggingface.co/papers/2610.19138",
+          "title": "MA-Bench: Measuring Operational Planning in Language Models"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "UltraBERT: Beyond the Limit of BERT Pre-Training",
-      "url": "https://huggingface.co/papers/2610.15028",
+      "headline": "Continuum Attention",
+      "url": "https://huggingface.co/papers/2610.20586",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.15028",
-          "title": "UltraBERT: Beyond the Limit of BERT Pre-Training"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.17227",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.17227",
-          "title": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers"
+          "url": "https://huggingface.co/papers/2610.20586",
+          "title": "Continuum Attention"
         }
       ],
       "duplicate_count": 1
@@ -2007,15 +1979,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+      "headline": "Global tech sell-off deepens as Asian markets tumble",
+      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+          "title": "Global tech sell-off deepens as Asian markets tumble"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-      "summary": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
+      "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
       "score": 80.0,
       "sources": [
         {
           "name": "ft_tech",
           "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-          "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO"
+          "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
         }
       ],
       "duplicate_count": 1
@@ -2282,20 +2268,6 @@
           "name": "ft_tech",
           "url": "https://www.ft.com/content/1435c4e4-6931-49a4-bd6f-9fd7efd82c39?syn-25a6b1a6=1",
           "title": "FT Weekend Fest: Could AI make us happier?"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-          "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices"
         }
       ],
       "duplicate_count": 1

@@ -1,76 +1,86 @@
 {
   "date": "2026-10-15",
-  "fetched_at": "2026-10-15T09:26:40",
+  "fetched_at": "2026-10-15T03:00:22",
   "items": [
     {
       "title": "morluto/rea — GitHub Trending",
       "url": "https://github.com/morluto/rea",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.667536+00:00",
+      "published": "2026-10-15T03:00:17.204636+00:00",
       "summary": "单日新增 41,034 stars",
       "points": 41034,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "debpalash/VoiceStudio — GitHub Trending",
       "url": "https://github.com/debpalash/VoiceStudio",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.668020+00:00",
+      "published": "2026-10-15T03:00:17.205023+00:00",
       "summary": "单日新增 3,538 stars",
       "points": 3538,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "ifixai-ai/iFixAi — GitHub Trending",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.670077+00:00",
+      "published": "2026-10-15T03:00:17.206549+00:00",
       "summary": "单日新增 2,109 stars",
       "points": 2109,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "xtool-org/xtool — GitHub Trending",
       "url": "https://github.com/xtool-org/xtool",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.671255+00:00",
+      "published": "2026-10-15T03:00:17.207415+00:00",
       "summary": "单日新增 1,502 stars",
       "points": 1502,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "vxcontrol/pentagi — GitHub Trending",
       "url": "https://github.com/vxcontrol/pentagi",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.670469+00:00",
+      "published": "2026-10-15T03:00:17.206836+00:00",
       "summary": "单日新增 1,025 stars",
       "points": 1025,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "NationalSecurityAgency/ghidra — GitHub Trending",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.672123+00:00",
+      "published": "2026-10-15T03:00:17.208039+00:00",
       "summary": "单日新增 1,008 stars",
       "points": 1008,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
       "title": "mksglu/context-mode — GitHub Trending",
       "url": "https://github.com/mksglu/context-mode",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.668491+00:00",
+      "published": "2026-10-15T03:00:17.205383+00:00",
       "summary": "单日新增 947 stars",
       "points": 947,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "hn",
+      "published": "2026-10-14T19:26:30Z",
+      "summary": "",
+      "points": 872,
+      "_ts": 1792005990,
+      "weight": 0.9
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -78,18 +88,8 @@
       "source": "hn",
       "published": "2026-10-14T17:45:23Z",
       "summary": "",
-      "points": 834,
+      "points": 846,
       "_ts": 1791999923,
-      "weight": 0.9
-    },
-    {
-      "title": "Things to know when you get cancer – 2026 Edition",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "source": "hn",
-      "published": "2026-10-14T19:26:30Z",
-      "summary": "",
-      "points": 762,
-      "_ts": 1792005990,
       "weight": 0.9
     },
     {
@@ -98,18 +98,8 @@
       "source": "hn",
       "published": "2026-10-14T09:28:17Z",
       "summary": "",
-      "points": 711,
+      "points": 738,
       "_ts": 1791970097,
-      "weight": 0.9
-    },
-    {
-      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-      "source": "hn",
-      "published": "2026-10-14T16:24:11Z",
-      "summary": "",
-      "points": 488,
-      "_ts": 1791995051,
       "weight": 0.9
     },
     {
@@ -118,8 +108,18 @@
       "source": "hn",
       "published": "2026-10-14T15:15:45Z",
       "summary": "",
-      "points": 475,
+      "points": 509,
       "_ts": 1791990945,
+      "weight": 0.9
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "source": "hn",
+      "published": "2026-10-14T16:24:11Z",
+      "summary": "",
+      "points": 491,
+      "_ts": 1791995051,
       "weight": 0.9
     },
     {
@@ -128,7 +128,7 @@
       "source": "hn",
       "published": "2026-10-14T16:28:51Z",
       "summary": "",
-      "points": 377,
+      "points": 409,
       "_ts": 1791995331,
       "weight": 0.9
     },
@@ -138,18 +138,8 @@
       "source": "hn",
       "published": "2026-10-14T20:48:24Z",
       "summary": "",
-      "points": 289,
+      "points": 359,
       "_ts": 1792010904,
-      "weight": 0.9
-    },
-    {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "source": "hn",
-      "published": "2026-10-14T18:37:21Z",
-      "summary": "",
-      "points": 282,
-      "_ts": 1792003041,
       "weight": 0.9
     },
     {
@@ -158,8 +148,18 @@
       "source": "hn",
       "published": "2026-10-14T18:32:52Z",
       "summary": "",
-      "points": 279,
+      "points": 316,
       "_ts": 1792002772,
+      "weight": 0.9
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "source": "hn",
+      "published": "2026-10-14T18:37:21Z",
+      "summary": "",
+      "points": 301,
+      "_ts": 1792003041,
       "weight": 0.9
     },
     {
@@ -168,7 +168,7 @@
       "source": "hn",
       "published": "2026-10-14T19:03:58Z",
       "summary": "",
-      "points": 253,
+      "points": 297,
       "_ts": 1792004638,
       "weight": 0.9
     },
@@ -178,8 +178,18 @@
       "source": "hn",
       "published": "2026-10-14T20:30:54Z",
       "summary": "",
-      "points": 247,
+      "points": 271,
       "_ts": 1792009854,
+      "weight": 0.9
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "hn",
+      "published": "2026-10-14T16:09:00Z",
+      "summary": "",
+      "points": 257,
+      "_ts": 1791994140,
       "weight": 0.9
     },
     {
@@ -193,34 +203,14 @@
       "weight": 0.9
     },
     {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "source": "hn",
-      "published": "2026-10-14T16:09:00Z",
-      "summary": "",
-      "points": 211,
-      "_ts": 1791994140,
-      "weight": 0.9
-    },
-    {
       "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
       "url": "https://blog.cloudflare.com/yandex-outage/",
       "source": "hn",
       "published": "2026-10-14T20:29:13Z",
       "summary": "",
-      "points": 204,
+      "points": 226,
       "_ts": 1792009753,
       "weight": 0.9
-    },
-    {
-      "title": "rust-lang/rust — GitHub Trending",
-      "url": "https://github.com/rust-lang/rust",
-      "source": "github_trending",
-      "published": "2026-10-15T01:26:30.670857+00:00",
-      "summary": "单日新增 207 stars",
-      "points": 207,
-      "_ts": 1792027590,
-      "weight": 0.8
     },
     {
       "title": "Better HTTP/1 connection reuse in Go 1.27",
@@ -228,18 +218,8 @@
       "source": "hn",
       "published": "2026-10-14T16:29:33Z",
       "summary": "",
-      "points": 196,
+      "points": 211,
       "_ts": 1791995373,
-      "weight": 0.9
-    },
-    {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "source": "hn",
-      "published": "2026-10-14T11:47:53Z",
-      "summary": "",
-      "points": 192,
-      "_ts": 1791978473,
       "weight": 0.9
     },
     {
@@ -248,8 +228,38 @@
       "source": "hn",
       "published": "2026-10-14T21:11:03Z",
       "summary": "",
-      "points": 181,
+      "points": 208,
       "_ts": 1792012263,
+      "weight": 0.9
+    },
+    {
+      "title": "rust-lang/rust — GitHub Trending",
+      "url": "https://github.com/rust-lang/rust",
+      "source": "github_trending",
+      "published": "2026-10-15T03:00:17.207118+00:00",
+      "summary": "单日新增 207 stars",
+      "points": 207,
+      "_ts": 1792033217,
+      "weight": 0.8
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "source": "hn",
+      "published": "2026-10-14T11:47:53Z",
+      "summary": "",
+      "points": 196,
+      "_ts": 1791978473,
+      "weight": 0.9
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "source": "hn",
+      "published": "2026-10-14T22:10:08Z",
+      "summary": "",
+      "points": 184,
+      "_ts": 1792015808,
       "weight": 0.9
     },
     {
@@ -273,43 +283,23 @@
       "weight": 0.9
     },
     {
-      "title": "Amsterdam police confiscates server left-wing ISP A/I at American request",
-      "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
-      "source": "hn",
-      "published": "2026-10-14T16:16:25Z",
-      "summary": "",
-      "points": 156,
-      "_ts": 1791994585,
-      "weight": 0.9
-    },
-    {
       "title": "America didn't lose its rare earth industry, it sold it",
       "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
       "source": "hn",
       "published": "2026-10-14T17:50:26Z",
       "summary": "",
-      "points": 153,
+      "points": 162,
       "_ts": 1792000226,
       "weight": 0.9
     },
     {
-      "title": "K-Dense-AI/scientific-agent-skills — GitHub Trending",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "source": "github_trending",
-      "published": "2026-10-15T01:26:30.669276+00:00",
-      "summary": "单日新增 163 stars",
-      "points": 163,
-      "_ts": 1792027590,
-      "weight": 0.8
-    },
-    {
-      "title": "Why do LLM pelicans look like this?",
-      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "title": "Amsterdam police confiscates server left-wing ISP A/I at American request",
+      "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
       "source": "hn",
-      "published": "2026-10-14T16:33:34Z",
+      "published": "2026-10-14T16:16:25Z",
       "summary": "",
-      "points": 152,
-      "_ts": 1791995614,
+      "points": 159,
+      "_ts": 1791994585,
       "weight": 0.9
     },
     {
@@ -318,9 +308,29 @@
       "source": "hn",
       "published": "2026-10-14T09:10:37Z",
       "summary": "",
-      "points": 151,
+      "points": 156,
       "_ts": 1791969037,
       "weight": 0.9
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "source": "hn",
+      "published": "2026-10-14T16:33:34Z",
+      "summary": "",
+      "points": 155,
+      "_ts": 1791995614,
+      "weight": 0.9
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills — GitHub Trending",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "github_trending",
+      "published": "2026-10-15T03:00:17.205958+00:00",
+      "summary": "单日新增 163 stars",
+      "points": 163,
+      "_ts": 1792033217,
+      "weight": 0.8
     },
     {
       "title": "Apple Keynote now showing ads in its UI",
@@ -328,7 +338,7 @@
       "source": "hn",
       "published": "2026-10-14T13:31:27Z",
       "summary": "",
-      "points": 143,
+      "points": 144,
       "_ts": 1791984687,
       "weight": 0.9
     },
@@ -338,18 +348,18 @@
       "source": "hn",
       "published": "2026-10-14T10:28:26Z",
       "summary": "",
-      "points": 139,
+      "points": 142,
       "_ts": 1791973706,
       "weight": 0.9
     },
     {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
       "source": "hn",
-      "published": "2026-10-14T22:10:08Z",
+      "published": "2026-10-14T15:31:15Z",
       "summary": "",
-      "points": 131,
-      "_ts": 1792015808,
+      "points": 136,
+      "_ts": 1791991875,
       "weight": 0.9
     },
     {
@@ -358,7 +368,7 @@
       "source": "hn",
       "published": "2026-10-14T16:45:19Z",
       "summary": "",
-      "points": 129,
+      "points": 133,
       "_ts": 1791996319,
       "weight": 0.9
     },
@@ -366,21 +376,11 @@
       "title": "ntdevlabs/tiny11builder — GitHub Trending",
       "url": "https://github.com/ntdevlabs/tiny11builder",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.671721+00:00",
+      "published": "2026-10-15T03:00:17.207746+00:00",
       "summary": "单日新增 139 stars",
       "points": 139,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
-    },
-    {
-      "title": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "source": "hn",
-      "published": "2026-10-14T15:31:15Z",
-      "summary": "",
-      "points": 127,
-      "_ts": 1791991875,
-      "weight": 0.9
     },
     {
       "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
@@ -393,23 +393,33 @@
       "weight": 0.9
     },
     {
-      "title": "Linus Torvalds's first LLM-assisted patch series",
-      "url": "https://lwn.net/Articles/1100449/",
-      "source": "hn",
-      "published": "2026-10-14T16:55:07Z",
-      "summary": "",
-      "points": 113,
-      "_ts": 1791996907,
-      "weight": 0.9
-    },
-    {
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
       "url": "https://petal.live/",
       "source": "hn",
       "published": "2026-10-14T18:23:14Z",
       "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
-      "points": 112,
+      "points": 121,
       "_ts": 1792002194,
+      "weight": 0.9
+    },
+    {
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "url": "https://lwn.net/Articles/1100449/",
+      "source": "hn",
+      "published": "2026-10-14T16:55:07Z",
+      "summary": "",
+      "points": 114,
+      "_ts": 1791996907,
+      "weight": 0.9
+    },
+    {
+      "title": "Smart people don't think others are stupid (2012)",
+      "url": "https://sive.rs/ss",
+      "source": "hn",
+      "published": "2026-10-14T12:01:16Z",
+      "summary": "",
+      "points": 99,
+      "_ts": 1791979276,
       "weight": 0.9
     },
     {
@@ -423,24 +433,54 @@
       "weight": 0.9
     },
     {
-      "title": "Smart people don't think others are stupid (2012)",
-      "url": "https://sive.rs/ss",
-      "source": "hn",
-      "published": "2026-10-14T12:01:16Z",
-      "summary": "",
-      "points": 94,
-      "_ts": 1791979276,
-      "weight": 0.9
-    },
-    {
       "title": "HKUDS/CLI-Anything — GitHub Trending",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "github_trending",
-      "published": "2026-10-15T01:26:30.669677+00:00",
+      "published": "2026-10-15T03:00:17.206257+00:00",
       "summary": "单日新增 103 stars",
       "points": 103,
-      "_ts": 1792027590,
+      "_ts": 1792033217,
       "weight": 0.8
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "source": "hn",
+      "published": "2026-10-14T17:00:59Z",
+      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
+      "points": 92,
+      "_ts": 1791997259,
+      "weight": 0.9
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "source": "hn",
+      "published": "2026-10-14T19:29:12Z",
+      "summary": "",
+      "points": 91,
+      "_ts": 1792006152,
+      "weight": 0.9
+    },
+    {
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "source": "hn",
+      "published": "2026-10-14T16:52:42Z",
+      "summary": "",
+      "points": 90,
+      "_ts": 1791996762,
+      "weight": 0.9
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "hn",
+      "published": "2026-10-14T23:59:37Z",
+      "summary": "",
+      "points": 88,
+      "_ts": 1792022377,
+      "weight": 0.9
     },
     {
       "title": "RIP Eric Binnion",
@@ -448,7 +488,7 @@
       "source": "hn",
       "published": "2026-10-14T12:58:32Z",
       "summary": "",
-      "points": 85,
+      "points": 86,
       "_ts": 1791982712,
       "weight": 0.9
     },
@@ -468,7 +508,7 @@
       "source": "hn",
       "published": "2026-10-14T13:20:39Z",
       "summary": "",
-      "points": 83,
+      "points": 84,
       "_ts": 1791984039,
       "weight": 0.9
     },
@@ -478,28 +518,28 @@
       "source": "hn",
       "published": "2026-10-14T14:55:19Z",
       "summary": "",
-      "points": 81,
+      "points": 83,
       "_ts": 1791989719,
       "weight": 0.9
     },
     {
-      "title": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
       "source": "hn",
-      "published": "2026-10-14T19:29:12Z",
+      "published": "2026-10-15T01:07:15Z",
       "summary": "",
-      "points": 80,
-      "_ts": 1792006152,
+      "points": 82,
+      "_ts": 1792026435,
       "weight": 0.9
     },
     {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "url": "https://oxide.computer/blog/voxel-labs",
       "source": "hn",
-      "published": "2026-10-14T17:00:59Z",
-      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
-      "points": 80,
-      "_ts": 1791997259,
+      "published": "2026-10-14T18:21:14Z",
+      "summary": "",
+      "points": 78,
+      "_ts": 1792002074,
       "weight": 0.9
     },
     {
@@ -508,18 +548,8 @@
       "source": "hn",
       "published": "2026-10-14T18:20:44Z",
       "summary": "",
-      "points": 77,
+      "points": 78,
       "_ts": 1792002044,
-      "weight": 0.9
-    },
-    {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "source": "hn",
-      "published": "2026-10-14T16:52:42Z",
-      "summary": "",
-      "points": 76,
-      "_ts": 1791996762,
       "weight": 0.9
     },
     {
@@ -543,26 +573,6 @@
       "weight": 0.9
     },
     {
-      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "source": "hn",
-      "published": "2026-10-14T18:21:14Z",
-      "summary": "",
-      "points": 67,
-      "_ts": 1792002074,
-      "weight": 0.9
-    },
-    {
-      "title": "What agents mean for Rust (and vice versa)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "source": "hn",
-      "published": "2026-10-14T08:49:06Z",
-      "summary": "",
-      "points": 65,
-      "_ts": 1791967746,
-      "weight": 0.9
-    },
-    {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
       "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
       "source": "hn",
@@ -570,6 +580,16 @@
       "summary": "",
       "points": 62,
       "_ts": 1791992385,
+      "weight": 0.9
+    },
+    {
+      "title": "Gaming on Linux without cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "source": "hn",
+      "published": "2026-10-14T14:19:02Z",
+      "summary": "",
+      "points": 62,
+      "_ts": 1791987542,
       "weight": 0.9
     },
     {
@@ -583,32 +603,12 @@
       "weight": 0.9
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "source": "hn",
-      "published": "2026-10-14T23:59:37Z",
-      "summary": "",
-      "points": 58,
-      "_ts": 1792022377,
-      "weight": 0.9
-    },
-    {
-      "title": "Gaming on Linux without cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-      "source": "hn",
-      "published": "2026-10-14T14:19:02Z",
-      "summary": "",
-      "points": 58,
-      "_ts": 1791987542,
-      "weight": 0.9
-    },
-    {
       "title": "I let an AI run my startup for a week",
       "url": "https://daily.tinyprojects.dev/221",
       "source": "hn",
       "published": "2026-10-14T10:25:48Z",
       "summary": "",
-      "points": 57,
+      "points": 58,
       "_ts": 1791973548,
       "weight": 0.9
     },
@@ -628,7 +628,7 @@
       "source": "hn",
       "published": "2026-10-14T14:44:30Z",
       "summary": "",
-      "points": 53,
+      "points": 54,
       "_ts": 1791989070,
       "weight": 0.9
     },
@@ -638,8 +638,18 @@
       "source": "hn",
       "published": "2026-10-14T12:40:55Z",
       "summary": "",
-      "points": 50,
+      "points": 51,
       "_ts": 1791981655,
+      "weight": 0.9
+    },
+    {
+      "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+      "source": "hn",
+      "published": "2026-10-14T20:51:39Z",
+      "summary": "",
+      "points": 47,
+      "_ts": 1792011099,
       "weight": 0.9
     },
     {
@@ -668,7 +678,7 @@
       "source": "hn",
       "published": "2026-10-14T12:16:35Z",
       "summary": "",
-      "points": 46,
+      "points": 47,
       "_ts": 1791980195,
       "weight": 0.9
     },
@@ -678,29 +688,9 @@
       "source": "hn",
       "published": "2026-10-14T09:33:27Z",
       "summary": "",
-      "points": 46,
+      "points": 47,
       "_ts": 1791970407,
       "weight": 0.9
-    },
-    {
-      "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-      "source": "hn",
-      "published": "2026-10-14T20:51:39Z",
-      "summary": "",
-      "points": 44,
-      "_ts": 1792011099,
-      "weight": 0.9
-    },
-    {
-      "title": "nvm-sh/nvm — GitHub Trending",
-      "url": "https://github.com/nvm-sh/nvm",
-      "source": "github_trending",
-      "published": "2026-10-15T01:26:30.668881+00:00",
-      "summary": "单日新增 52 stars",
-      "points": 52,
-      "_ts": 1792027590,
-      "weight": 0.8
     },
     {
       "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
@@ -708,9 +698,19 @@
       "source": "hn",
       "published": "2026-10-14T15:00:41Z",
       "summary": "",
-      "points": 41,
+      "points": 42,
       "_ts": 1791990041,
       "weight": 0.9
+    },
+    {
+      "title": "nvm-sh/nvm — GitHub Trending",
+      "url": "https://github.com/nvm-sh/nvm",
+      "source": "github_trending",
+      "published": "2026-10-15T03:00:17.205672+00:00",
+      "summary": "单日新增 52 stars",
+      "points": 52,
+      "_ts": 1792033217,
+      "weight": 0.8
     },
     {
       "title": "Ask HN: What is the current trajectory of a senior engineer?",
@@ -721,6 +721,26 @@
       "points": 41,
       "_ts": 1791971663,
       "weight": 0.9
+    },
+    {
+      "title": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers (Kashmir Hill/New York Times)",
+      "url": "https://www.techmeme.com/261014/p53#a261014p53",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 22:20:02 -0400",
+      "summary": "\n Kashmir Hill / New York Times:\nLetter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building &ldquo;experimental&rdquo; AI data centers&nbsp; &mdash;&nbsp; Democrats on the Senate Finance Committee sent a letter to Mark Zuckerberg, Meta's chief executive, questioning the company's $6.6 billion in tax breaks.",
+      "points": 0,
+      "_ts": 1792030802,
+      "weight": 1.0
+    },
+    {
+      "title": "Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that \"we shouldn't pause progress\" (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/261014/p52#a261014p52",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 21:45:01 -0400",
+      "summary": "\n Sarah Perez / TechCrunch:\nFlock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that &ldquo;we shouldn't pause progress&rdquo;&nbsp; &mdash;&nbsp; Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards.",
+      "points": 0,
+      "_ts": 1792028701,
+      "weight": 1.0
     },
     {
       "title": "Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply (Reuters)",
@@ -797,7 +817,7 @@
       "url": "https://www.techmeme.com/261014/p44#a261014p44",
       "source": "techmeme",
       "published": "Wed, 14 Oct 2026 18:30:03 -0400",
-      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
+      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; Rapid growth is slower than some anticipated as fears about the AI trade rattle markets&nbsp; &mdash;&nbsp; Anthropic told investors &hellip; ",
       "points": 0,
       "_ts": 1792017003,
       "weight": 1.0
@@ -850,26 +870,6 @@
       "summary": "\n Mark Gurman / Bloomberg:\nSources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI&nbsp; &mdash;&nbsp; Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay &hellip; ",
       "points": 0,
       "_ts": 1792008302,
-      "weight": 1.0
-    },
-    {
-      "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)",
-      "url": "https://www.techmeme.com/261014/p38#a261014p38",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 15:25:03 -0400",
-      "summary": "\n SpaceXSI:\nSpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min&nbsp; &mdash;&nbsp; The world's most intelligent voice model. &hellip; Today, we're announcing Grok Voice 3.0, the world's most intelligent speech-to-speech model.",
-      "points": 0,
-      "_ts": 1792005903,
-      "weight": 1.0
-    },
-    {
-      "title": "Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)",
-      "url": "https://www.techmeme.com/261014/p37#a261014p37",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 13:50:01 -0400",
-      "summary": "\n Bloomberg:\nSources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May&nbsp; &mdash;&nbsp; Anduril Industries Inc. is allowing employees to sell shares as part of a tender that stands to value the defense technology startup &hellip; ",
-      "points": 0,
-      "_ts": 1792000201,
       "weight": 1.0
     },
     {
@@ -1023,13 +1023,13 @@
       "weight": 0.9
     },
     {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "deepmind",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "qbitai",
+      "published": "Thu, 15 Oct 2026 01:56:20 +0000",
+      "summary": "给企业Agent打了个样",
       "points": 0,
-      "_ts": 1791943214,
+      "_ts": 1792029380,
       "weight": 0.9
     },
     {
@@ -1123,213 +1123,193 @@
       "weight": 0.9
     },
     {
-      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-      "url": "https://www.qbitai.com/2026/10/503157.html",
-      "source": "qbitai",
-      "published": "Wed, 14 Oct 2026 02:14:50 +0000",
-      "summary": "一次采集，反复使用",
-      "points": 0,
-      "_ts": 1791944090,
-      "weight": 0.9
-    },
-    {
-      "title": "Jeva: System One Models from First Principles",
-      "url": "https://huggingface.co/papers/2610.18773",
+      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "url": "https://huggingface.co/papers/2610.20571",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.192978+00:00",
+      "published": "2026-10-15T03:00:17.489470+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
-      "url": "https://huggingface.co/papers/2610.17953",
+      "title": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
+      "url": "https://huggingface.co/papers/2610.19975",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193003+00:00",
+      "published": "2026-10-15T03:00:17.489496+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "VideoJev: System One Model for Video Understanding and Interaction",
-      "url": "https://huggingface.co/papers/2610.18615",
+      "title": "LensErase: A Foundation Model for Erase Anything",
+      "url": "https://huggingface.co/papers/2610.18072",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193017+00:00",
+      "published": "2026-10-15T03:00:17.489525+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "url": "https://huggingface.co/papers/2610.18356",
+      "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+      "url": "https://huggingface.co/papers/2610.19366",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193031+00:00",
+      "published": "2026-10-15T03:00:17.489544+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "url": "https://huggingface.co/papers/2610.18868",
+      "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.13521",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193045+00:00",
+      "published": "2026-10-15T03:00:17.489558+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "GreenWAM: A World Foundation Model for Robotics",
-      "url": "https://huggingface.co/papers/2610.18774",
+      "title": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
+      "url": "https://huggingface.co/papers/2610.18097",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193064+00:00",
+      "published": "2026-10-15T03:00:17.489572+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-      "url": "https://huggingface.co/papers/2610.18860",
+      "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
+      "url": "https://huggingface.co/papers/2610.02089",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193079+00:00",
+      "published": "2026-10-15T03:00:17.489589+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://huggingface.co/papers/2610.14224",
+      "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19100",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193093+00:00",
+      "published": "2026-10-15T03:00:17.489605+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "TPPO: Tracking-Value PPO For Language Model Reasoning",
-      "url": "https://huggingface.co/papers/2610.16794",
+      "title": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models",
+      "url": "https://huggingface.co/papers/2610.16302",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193108+00:00",
+      "published": "2026-10-15T03:00:17.489632+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
-      "url": "https://huggingface.co/papers/2610.14709",
+      "title": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation",
+      "url": "https://huggingface.co/papers/2610.15425",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193172+00:00",
+      "published": "2026-10-15T03:00:17.489656+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "DoSA: Dots Sparse Attention",
-      "url": "https://huggingface.co/papers/2610.13990",
+      "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19789",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193187+00:00",
+      "published": "2026-10-15T03:00:17.489670+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning",
-      "url": "https://huggingface.co/papers/2610.16811",
+      "title": "Long-Horizon RL Needs Muon",
+      "url": "https://huggingface.co/papers/2610.20256",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193202+00:00",
+      "published": "2026-10-15T03:00:17.489682+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-      "url": "https://huggingface.co/papers/2610.18067",
+      "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.20572",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193212+00:00",
+      "published": "2026-10-15T03:00:17.489700+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling",
-      "url": "https://huggingface.co/papers/2610.15166",
+      "title": "Acting Through Registers",
+      "url": "https://huggingface.co/papers/2610.17638",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193227+00:00",
+      "published": "2026-10-15T03:00:17.489717+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
-      "url": "https://huggingface.co/papers/2610.12818",
+      "title": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+      "url": "https://huggingface.co/papers/2610.20456",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193237+00:00",
+      "published": "2026-10-15T03:00:17.489730+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
-      "url": "https://huggingface.co/papers/2609.38847",
+      "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+      "url": "https://huggingface.co/papers/2610.19118",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193252+00:00",
+      "published": "2026-10-15T03:00:17.489743+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
-      "url": "https://huggingface.co/papers/2610.17201",
+      "title": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards",
+      "url": "https://huggingface.co/papers/2610.17893",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193266+00:00",
+      "published": "2026-10-15T03:00:17.489762+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
-      "url": "https://huggingface.co/papers/2610.14766",
+      "title": "MA-Bench: Measuring Operational Planning in Language Models",
+      "url": "https://huggingface.co/papers/2610.19138",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193280+00:00",
+      "published": "2026-10-15T03:00:17.489780+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
-      "title": "UltraBERT: Beyond the Limit of BERT Pre-Training",
-      "url": "https://huggingface.co/papers/2610.15028",
+      "title": "Continuum Attention",
+      "url": "https://huggingface.co/papers/2610.20586",
       "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193294+00:00",
+      "published": "2026-10-15T03:00:17.489796+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792027592,
-      "weight": 0.8
-    },
-    {
-      "title": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.17227",
-      "source": "hf_papers",
-      "published": "2026-10-15T01:26:32.193307+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792027592,
+      "_ts": 1792033217,
       "weight": 0.8
     },
     {
@@ -1433,11 +1413,21 @@
       "weight": 0.8
     },
     {
-      "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+      "title": "Global tech sell-off deepens as Asian markets tumble",
+      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 01:44:46 GMT",
+      "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+      "points": 0,
+      "_ts": 1792028686,
+      "weight": 0.8
+    },
+    {
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
       "source": "ft_tech",
       "published": "Thu, 15 Oct 2026 00:59:36 GMT",
-      "summary": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
+      "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
       "points": 0,
       "_ts": 1792025976,
       "weight": 0.8
@@ -1630,16 +1620,6 @@
       "summary": "Alain de Botton on AI’s therapy potential",
       "points": 0,
       "_ts": 1791950400,
-      "weight": 0.8
-    },
-    {
-      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-      "url": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 01:59:24 GMT",
-      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
-      "points": 0,
-      "_ts": 1791943164,
       "weight": 0.8
     },
     {

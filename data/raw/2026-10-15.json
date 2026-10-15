@@ -1,75 +1,45 @@
 {
   "date": "2026-10-15",
-  "fetched_at": "2026-10-15T03:00:22",
+  "fetched_at": "2026-10-15T05:52:03",
   "items": [
     {
       "title": "morluto/rea — GitHub Trending",
       "url": "https://github.com/morluto/rea",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.204636+00:00",
+      "published": "2026-10-15T05:51:57.669000+00:00",
       "summary": "单日新增 41,034 stars",
       "points": 41034,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
       "title": "debpalash/VoiceStudio — GitHub Trending",
       "url": "https://github.com/debpalash/VoiceStudio",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.205023+00:00",
+      "published": "2026-10-15T05:51:57.669296+00:00",
       "summary": "单日新增 3,538 stars",
       "points": 3538,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
       "title": "ifixai-ai/iFixAi — GitHub Trending",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.206549+00:00",
+      "published": "2026-10-15T05:51:57.670477+00:00",
       "summary": "单日新增 2,109 stars",
       "points": 2109,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
       "title": "xtool-org/xtool — GitHub Trending",
       "url": "https://github.com/xtool-org/xtool",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.207415+00:00",
+      "published": "2026-10-15T05:51:57.671158+00:00",
       "summary": "单日新增 1,502 stars",
       "points": 1502,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "vxcontrol/pentagi — GitHub Trending",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "source": "github_trending",
-      "published": "2026-10-15T03:00:17.206836+00:00",
-      "summary": "单日新增 1,025 stars",
-      "points": 1025,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "NationalSecurityAgency/ghidra — GitHub Trending",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "source": "github_trending",
-      "published": "2026-10-15T03:00:17.208039+00:00",
-      "summary": "单日新增 1,008 stars",
-      "points": 1008,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "mksglu/context-mode — GitHub Trending",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "github_trending",
-      "published": "2026-10-15T03:00:17.205383+00:00",
-      "summary": "单日新增 947 stars",
-      "points": 947,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
@@ -78,9 +48,39 @@
       "source": "hn",
       "published": "2026-10-14T19:26:30Z",
       "summary": "",
-      "points": 872,
+      "points": 1071,
       "_ts": 1792005990,
       "weight": 0.9
+    },
+    {
+      "title": "vxcontrol/pentagi — GitHub Trending",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "github_trending",
+      "published": "2026-10-15T05:51:57.670700+00:00",
+      "summary": "单日新增 1,025 stars",
+      "points": 1025,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra — GitHub Trending",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "github_trending",
+      "published": "2026-10-15T05:51:57.671648+00:00",
+      "summary": "单日新增 1,008 stars",
+      "points": 1008,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "mksglu/context-mode — GitHub Trending",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "github_trending",
+      "published": "2026-10-15T05:51:57.669557+00:00",
+      "summary": "单日新增 947 stars",
+      "points": 947,
+      "_ts": 1792043517,
+      "weight": 0.8
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -88,18 +88,8 @@
       "source": "hn",
       "published": "2026-10-14T17:45:23Z",
       "summary": "",
-      "points": 846,
+      "points": 862,
       "_ts": 1791999923,
-      "weight": 0.9
-    },
-    {
-      "title": "How Amazon pushes up prices all across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "source": "hn",
-      "published": "2026-10-14T09:28:17Z",
-      "summary": "",
-      "points": 738,
-      "_ts": 1791970097,
       "weight": 0.9
     },
     {
@@ -108,7 +98,7 @@
       "source": "hn",
       "published": "2026-10-14T15:15:45Z",
       "summary": "",
-      "points": 509,
+      "points": 550,
       "_ts": 1791990945,
       "weight": 0.9
     },
@@ -118,18 +108,8 @@
       "source": "hn",
       "published": "2026-10-14T16:24:11Z",
       "summary": "",
-      "points": 491,
+      "points": 499,
       "_ts": 1791995051,
-      "weight": 0.9
-    },
-    {
-      "title": "Google is silently linking your phone number across all signed-in accounts",
-      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "source": "hn",
-      "published": "2026-10-14T16:28:51Z",
-      "summary": "",
-      "points": 409,
-      "_ts": 1791995331,
       "weight": 0.9
     },
     {
@@ -138,28 +118,18 @@
       "source": "hn",
       "published": "2026-10-14T20:48:24Z",
       "summary": "",
-      "points": 359,
+      "points": 469,
       "_ts": 1792010904,
       "weight": 0.9
     },
     {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
       "source": "hn",
-      "published": "2026-10-14T18:32:52Z",
+      "published": "2026-10-14T16:28:51Z",
       "summary": "",
-      "points": 316,
-      "_ts": 1792002772,
-      "weight": 0.9
-    },
-    {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "source": "hn",
-      "published": "2026-10-14T18:37:21Z",
-      "summary": "",
-      "points": 301,
-      "_ts": 1792003041,
+      "points": 442,
+      "_ts": 1791995331,
       "weight": 0.9
     },
     {
@@ -168,8 +138,18 @@
       "source": "hn",
       "published": "2026-10-14T19:03:58Z",
       "summary": "",
-      "points": 297,
+      "points": 373,
       "_ts": 1792004638,
+      "weight": 0.9
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "source": "hn",
+      "published": "2026-10-14T18:32:52Z",
+      "summary": "",
+      "points": 355,
+      "_ts": 1792002772,
       "weight": 0.9
     },
     {
@@ -178,8 +158,18 @@
       "source": "hn",
       "published": "2026-10-14T20:30:54Z",
       "summary": "",
-      "points": 271,
+      "points": 335,
       "_ts": 1792009854,
+      "weight": 0.9
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "source": "hn",
+      "published": "2026-10-14T18:37:21Z",
+      "summary": "",
+      "points": 333,
+      "_ts": 1792003041,
       "weight": 0.9
     },
     {
@@ -188,68 +178,8 @@
       "source": "hn",
       "published": "2026-10-14T16:09:00Z",
       "summary": "",
-      "points": 257,
+      "points": 317,
       "_ts": 1791994140,
-      "weight": 0.9
-    },
-    {
-      "title": "Switzerland proposes banning profiling-based ads to minors",
-      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
-      "source": "hn",
-      "published": "2026-10-14T13:20:02Z",
-      "summary": "",
-      "points": 238,
-      "_ts": 1791984002,
-      "weight": 0.9
-    },
-    {
-      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-      "url": "https://blog.cloudflare.com/yandex-outage/",
-      "source": "hn",
-      "published": "2026-10-14T20:29:13Z",
-      "summary": "",
-      "points": 226,
-      "_ts": 1792009753,
-      "weight": 0.9
-    },
-    {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "source": "hn",
-      "published": "2026-10-14T16:29:33Z",
-      "summary": "",
-      "points": 211,
-      "_ts": 1791995373,
-      "weight": 0.9
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "source": "hn",
-      "published": "2026-10-14T21:11:03Z",
-      "summary": "",
-      "points": 208,
-      "_ts": 1792012263,
-      "weight": 0.9
-    },
-    {
-      "title": "rust-lang/rust — GitHub Trending",
-      "url": "https://github.com/rust-lang/rust",
-      "source": "github_trending",
-      "published": "2026-10-15T03:00:17.207118+00:00",
-      "summary": "单日新增 207 stars",
-      "points": 207,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "source": "hn",
-      "published": "2026-10-14T11:47:53Z",
-      "summary": "",
-      "points": 196,
-      "_ts": 1791978473,
       "weight": 0.9
     },
     {
@@ -258,8 +188,78 @@
       "source": "hn",
       "published": "2026-10-14T22:10:08Z",
       "summary": "",
-      "points": 184,
+      "points": 271,
       "_ts": 1792015808,
+      "weight": 0.9
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "source": "hn",
+      "published": "2026-10-14T21:11:03Z",
+      "summary": "",
+      "points": 251,
+      "_ts": 1792012263,
+      "weight": 0.9
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "source": "hn",
+      "published": "2026-10-14T20:29:13Z",
+      "summary": "",
+      "points": 245,
+      "_ts": 1792009753,
+      "weight": 0.9
+    },
+    {
+      "title": "Switzerland proposes banning profiling-based ads to minors",
+      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "source": "hn",
+      "published": "2026-10-14T13:20:02Z",
+      "summary": "",
+      "points": 239,
+      "_ts": 1791984002,
+      "weight": 0.9
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "source": "hn",
+      "published": "2026-10-14T16:29:33Z",
+      "summary": "",
+      "points": 225,
+      "_ts": 1791995373,
+      "weight": 0.9
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "source": "hn",
+      "published": "2026-10-14T11:47:53Z",
+      "summary": "",
+      "points": 199,
+      "_ts": 1791978473,
+      "weight": 0.9
+    },
+    {
+      "title": "rust-lang/rust — GitHub Trending",
+      "url": "https://github.com/rust-lang/rust",
+      "source": "github_trending",
+      "published": "2026-10-15T05:51:57.670928+00:00",
+      "summary": "单日新增 207 stars",
+      "points": 207,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "America didn't lose its rare earth industry, it sold it",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "source": "hn",
+      "published": "2026-10-14T17:50:26Z",
+      "summary": "",
+      "points": 172,
+      "_ts": 1792000226,
       "weight": 0.9
     },
     {
@@ -278,18 +278,8 @@
       "source": "hn",
       "published": "2026-10-14T18:43:57Z",
       "summary": "",
-      "points": 163,
+      "points": 165,
       "_ts": 1792003437,
-      "weight": 0.9
-    },
-    {
-      "title": "America didn't lose its rare earth industry, it sold it",
-      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-      "source": "hn",
-      "published": "2026-10-14T17:50:26Z",
-      "summary": "",
-      "points": 162,
-      "_ts": 1792000226,
       "weight": 0.9
     },
     {
@@ -298,18 +288,8 @@
       "source": "hn",
       "published": "2026-10-14T16:16:25Z",
       "summary": "",
-      "points": 159,
+      "points": 161,
       "_ts": 1791994585,
-      "weight": 0.9
-    },
-    {
-      "title": "Starlink limit hits Ukraine's drones",
-      "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-      "source": "hn",
-      "published": "2026-10-14T09:10:37Z",
-      "summary": "",
-      "points": 156,
-      "_ts": 1791969037,
       "weight": 0.9
     },
     {
@@ -318,7 +298,7 @@
       "source": "hn",
       "published": "2026-10-14T16:33:34Z",
       "summary": "",
-      "points": 155,
+      "points": 158,
       "_ts": 1791995614,
       "weight": 0.9
     },
@@ -326,11 +306,41 @@
       "title": "K-Dense-AI/scientific-agent-skills — GitHub Trending",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.205958+00:00",
+      "published": "2026-10-15T05:51:57.670026+00:00",
       "summary": "单日新增 163 stars",
       "points": 163,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "source": "hn",
+      "published": "2026-10-14T18:23:14Z",
+      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
+      "points": 148,
+      "_ts": 1792002194,
+      "weight": 0.9
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "hn",
+      "published": "2026-10-14T23:59:37Z",
+      "summary": "",
+      "points": 145,
+      "_ts": 1792022377,
+      "weight": 0.9
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "source": "hn",
+      "published": "2026-10-14T10:28:26Z",
+      "summary": "",
+      "points": 145,
+      "_ts": 1791973706,
+      "weight": 0.9
     },
     {
       "title": "Apple Keynote now showing ads in its UI",
@@ -343,22 +353,12 @@
       "weight": 0.9
     },
     {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "source": "hn",
-      "published": "2026-10-14T10:28:26Z",
-      "summary": "",
-      "points": 142,
-      "_ts": 1791973706,
-      "weight": 0.9
-    },
-    {
       "title": "Submarine cable resilience",
       "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
       "source": "hn",
       "published": "2026-10-14T15:31:15Z",
       "summary": "",
-      "points": 136,
+      "points": 143,
       "_ts": 1791991875,
       "weight": 0.9
     },
@@ -368,7 +368,7 @@
       "source": "hn",
       "published": "2026-10-14T16:45:19Z",
       "summary": "",
-      "points": 133,
+      "points": 137,
       "_ts": 1791996319,
       "weight": 0.9
     },
@@ -376,10 +376,10 @@
       "title": "ntdevlabs/tiny11builder — GitHub Trending",
       "url": "https://github.com/ntdevlabs/tiny11builder",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.207746+00:00",
+      "published": "2026-10-15T05:51:57.671420+00:00",
       "summary": "单日新增 139 stars",
       "points": 139,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
@@ -388,18 +388,8 @@
       "source": "hn",
       "published": "2026-10-14T09:37:24Z",
       "summary": "",
-      "points": 126,
+      "points": 127,
       "_ts": 1791970644,
-      "weight": 0.9
-    },
-    {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "source": "hn",
-      "published": "2026-10-14T18:23:14Z",
-      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
-      "points": 121,
-      "_ts": 1792002194,
       "weight": 0.9
     },
     {
@@ -408,48 +398,8 @@
       "source": "hn",
       "published": "2026-10-14T16:55:07Z",
       "summary": "",
-      "points": 114,
+      "points": 115,
       "_ts": 1791996907,
-      "weight": 0.9
-    },
-    {
-      "title": "Smart people don't think others are stupid (2012)",
-      "url": "https://sive.rs/ss",
-      "source": "hn",
-      "published": "2026-10-14T12:01:16Z",
-      "summary": "",
-      "points": 99,
-      "_ts": 1791979276,
-      "weight": 0.9
-    },
-    {
-      "title": "AI is mass decompiling games. That's both awesome and scary",
-      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "source": "hn",
-      "published": "2026-10-14T14:47:44Z",
-      "summary": "",
-      "points": 95,
-      "_ts": 1791989264,
-      "weight": 0.9
-    },
-    {
-      "title": "HKUDS/CLI-Anything — GitHub Trending",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "source": "github_trending",
-      "published": "2026-10-15T03:00:17.206257+00:00",
-      "summary": "单日新增 103 stars",
-      "points": 103,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "source": "hn",
-      "published": "2026-10-14T17:00:59Z",
-      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
-      "points": 92,
-      "_ts": 1791997259,
       "weight": 0.9
     },
     {
@@ -458,8 +408,28 @@
       "source": "hn",
       "published": "2026-10-14T19:29:12Z",
       "summary": "",
-      "points": 91,
+      "points": 109,
       "_ts": 1792006152,
+      "weight": 0.9
+    },
+    {
+      "title": "Smart people don't think others are stupid (2012)",
+      "url": "https://sive.rs/ss",
+      "source": "hn",
+      "published": "2026-10-14T12:01:16Z",
+      "summary": "",
+      "points": 105,
+      "_ts": 1791979276,
+      "weight": 0.9
+    },
+    {
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "url": "https://oxide.computer/blog/voxel-labs",
+      "source": "hn",
+      "published": "2026-10-14T18:21:14Z",
+      "summary": "",
+      "points": 104,
+      "_ts": 1792002074,
       "weight": 0.9
     },
     {
@@ -468,18 +438,58 @@
       "source": "hn",
       "published": "2026-10-14T16:52:42Z",
       "summary": "",
-      "points": 90,
+      "points": 101,
       "_ts": 1791996762,
       "weight": 0.9
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
       "source": "hn",
-      "published": "2026-10-14T23:59:37Z",
+      "published": "2026-10-15T01:07:15Z",
       "summary": "",
-      "points": 88,
-      "_ts": 1792022377,
+      "points": 97,
+      "_ts": 1792026435,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "source": "hn",
+      "published": "2026-10-14T17:00:59Z",
+      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
+      "points": 97,
+      "_ts": 1791997259,
+      "weight": 0.9
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "source": "hn",
+      "published": "2026-10-14T14:47:44Z",
+      "summary": "",
+      "points": 97,
+      "_ts": 1791989264,
+      "weight": 0.9
+    },
+    {
+      "title": "HKUDS/CLI-Anything — GitHub Trending",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "github_trending",
+      "published": "2026-10-15T05:51:57.670248+00:00",
+      "summary": "单日新增 103 stars",
+      "points": 103,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "source": "hn",
+      "published": "2026-10-14T14:55:19Z",
+      "summary": "",
+      "points": 86,
+      "_ts": 1791989719,
       "weight": 0.9
     },
     {
@@ -513,42 +523,12 @@
       "weight": 0.9
     },
     {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "source": "hn",
-      "published": "2026-10-14T14:55:19Z",
-      "summary": "",
-      "points": 83,
-      "_ts": 1791989719,
-      "weight": 0.9
-    },
-    {
-      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
-      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
-      "source": "hn",
-      "published": "2026-10-15T01:07:15Z",
-      "summary": "",
-      "points": 82,
-      "_ts": 1792026435,
-      "weight": 0.9
-    },
-    {
-      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "source": "hn",
-      "published": "2026-10-14T18:21:14Z",
-      "summary": "",
-      "points": 78,
-      "_ts": 1792002074,
-      "weight": 0.9
-    },
-    {
       "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "source": "hn",
       "published": "2026-10-14T18:20:44Z",
       "summary": "",
-      "points": 78,
+      "points": 79,
       "_ts": 1792002044,
       "weight": 0.9
     },
@@ -563,33 +543,23 @@
       "weight": 0.9
     },
     {
-      "title": "Nvidia's first GPU: GeForce 256",
-      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-      "source": "hn",
-      "published": "2026-10-14T12:05:44Z",
-      "summary": "",
-      "points": 69,
-      "_ts": 1791979544,
-      "weight": 0.9
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "source": "hn",
-      "published": "2026-10-14T15:39:45Z",
-      "summary": "",
-      "points": 62,
-      "_ts": 1791992385,
-      "weight": 0.9
-    },
-    {
       "title": "Gaming on Linux without cheating",
       "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
       "source": "hn",
       "published": "2026-10-14T14:19:02Z",
       "summary": "",
-      "points": 62,
+      "points": 72,
       "_ts": 1791987542,
+      "weight": 0.9
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "source": "hn",
+      "published": "2026-10-14T12:05:44Z",
+      "summary": "",
+      "points": 72,
+      "_ts": 1791979544,
       "weight": 0.9
     },
     {
@@ -598,8 +568,28 @@
       "source": "hn",
       "published": "2026-10-14T17:45:34Z",
       "summary": "",
-      "points": 61,
+      "points": 64,
       "_ts": 1791999934,
+      "weight": 0.9
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "source": "hn",
+      "published": "2026-10-14T15:39:45Z",
+      "summary": "",
+      "points": 63,
+      "_ts": 1791992385,
+      "weight": 0.9
+    },
+    {
+      "title": "One in ten people are older than 65. Three in four live under a leader who is",
+      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "source": "hn",
+      "published": "2026-10-15T02:53:29Z",
+      "summary": "",
+      "points": 61,
+      "_ts": 1792032809,
       "weight": 0.9
     },
     {
@@ -608,8 +598,18 @@
       "source": "hn",
       "published": "2026-10-14T10:25:48Z",
       "summary": "",
-      "points": 58,
+      "points": 61,
       "_ts": 1791973548,
+      "weight": 0.9
+    },
+    {
+      "title": "Ukraine says new Starlink restrictions disrupt their military",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
+      "source": "hn",
+      "published": "2026-10-14T14:44:30Z",
+      "summary": "",
+      "points": 55,
+      "_ts": 1791989070,
       "weight": 0.9
     },
     {
@@ -623,13 +623,13 @@
       "weight": 0.9
     },
     {
-      "title": "Ukraine says new Starlink restrictions disrupt their military",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
+      "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
       "source": "hn",
-      "published": "2026-10-14T14:44:30Z",
+      "published": "2026-10-14T20:51:39Z",
       "summary": "",
-      "points": 54,
-      "_ts": 1791989070,
+      "points": 52,
+      "_ts": 1792011099,
       "weight": 0.9
     },
     {
@@ -643,22 +643,12 @@
       "weight": 0.9
     },
     {
-      "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-      "source": "hn",
-      "published": "2026-10-14T20:51:39Z",
-      "summary": "",
-      "points": 47,
-      "_ts": 1792011099,
-      "weight": 0.9
-    },
-    {
       "title": "US report details extent of 'devastating' dating-app scams",
       "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
       "source": "hn",
       "published": "2026-10-14T17:31:24Z",
       "summary": "",
-      "points": 47,
+      "points": 49,
       "_ts": 1791999084,
       "weight": 0.9
     },
@@ -693,12 +683,22 @@
       "weight": 0.9
     },
     {
+      "title": "Future of Cancer Care Today (FCCT)",
+      "url": "https://sijbrandijfoundation.org/fcct",
+      "source": "hn",
+      "published": "2026-10-15T03:18:49Z",
+      "summary": "",
+      "points": 45,
+      "_ts": 1792034329,
+      "weight": 0.9
+    },
+    {
       "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
       "url": "https://github.com/graphicle-ai/graphicle",
       "source": "hn",
       "published": "2026-10-14T15:00:41Z",
       "summary": "",
-      "points": 42,
+      "points": 44,
       "_ts": 1791990041,
       "weight": 0.9
     },
@@ -706,10 +706,10 @@
       "title": "nvm-sh/nvm — GitHub Trending",
       "url": "https://github.com/nvm-sh/nvm",
       "source": "github_trending",
-      "published": "2026-10-15T03:00:17.205672+00:00",
+      "published": "2026-10-15T05:51:57.669797+00:00",
       "summary": "单日新增 52 stars",
       "points": 52,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
@@ -721,6 +721,106 @@
       "points": 41,
       "_ts": 1791971663,
       "weight": 0.9
+    },
+    {
+      "title": "Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents (Camila Grigera Naón/Fortune)",
+      "url": "https://www.techmeme.com/261015/p6#a261015p6",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 01:40:01 -0400",
+      "summary": "\n Camila Grigera Na&oacute;n / Fortune:\nChainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents&nbsp; &mdash;&nbsp; The field of agentic commerce, which describes the use of AI agents to carry out internet transactions, is rapidly maturing, and crypto is fueling the boom.",
+      "points": 0,
+      "_ts": 1792042801,
+      "weight": 1.0
+    },
+    {
+      "title": "A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)",
+      "url": "https://www.techmeme.com/261015/p5#a261015p5",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 01:10:02 -0400",
+      "summary": "\n Financial Times:\nA look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from &pound;6.2M in 2022 to &pound;32M+ in 2025, with the UK as its biggest market&nbsp; &mdash;&nbsp; UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain",
+      "points": 0,
+      "_ts": 1792041002,
+      "weight": 1.0
+    },
+    {
+      "title": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)",
+      "url": "https://www.techmeme.com/261015/p4#a261015p4",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 01:00:56 -0400",
+      "summary": " IDC:\nGlobal smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines&nbsp; &mdash;&nbsp; Apple and Samsung continue to benefit from a strong premium portfolio to gain share&nbsp; &mdash;&nbsp; The global smartphone market shrank 22.0% year &hellip; ",
+      "points": 0,
+      "_ts": 1792040456,
+      "weight": 1.0
+    },
+    {
+      "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261015/p3#a261015p3",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 00:35:04 -0400",
+      "summary": "\n Steven Rosenbush / Wall Street Journal:\nBloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data&nbsp; &mdash;&nbsp; Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
+      "points": 0,
+      "_ts": 1792038904,
+      "weight": 1.0
+    },
+    {
+      "title": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)",
+      "url": "https://www.techmeme.com/261015/p2#a261015p2",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 00:20:04 -0400",
+      "summary": "\n Xiaofei Xu / South China Morning Post:\nASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23%&nbsp; &mdash;&nbsp; Dutch semiconductor equipment giant ASML expects China to account for about 20 per cent of its total sales this year &hellip; ",
+      "points": 0,
+      "_ts": 1792038004,
+      "weight": 1.0
+    },
+    {
+      "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)",
+      "url": "https://www.techmeme.com/261015/p1#a261015p1",
+      "source": "techmeme",
+      "published": "Thu, 15 Oct 2026 00:05:01 -0400",
+      "summary": "\n Lee Ying Shan / CNBC:\nAsian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10%&nbsp; &mdash;&nbsp; A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns &hellip; ",
+      "points": 0,
+      "_ts": 1792037101,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)",
+      "url": "https://www.techmeme.com/261014/p57#a261014p57",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 23:45:01 -0400",
+      "summary": "\n Bloomberg:\nSources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google&nbsp; &mdash;&nbsp; ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components &hellip; ",
+      "points": 0,
+      "_ts": 1792035901,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)",
+      "url": "https://www.techmeme.com/261014/p56#a261014p56",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 23:40:00 -0400",
+      "summary": "\n Cory Weinberg / The Information:\nSources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation&nbsp; &mdash;&nbsp; Anthropic reported rapid-but-slowing revenue growth in a meeting with potential investors in its planned initial public offering &hellip; ",
+      "points": 0,
+      "_ts": 1792035600,
+      "weight": 1.0
+    },
+    {
+      "title": "Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year (Matt Kapko/CyberScoop)",
+      "url": "https://www.techmeme.com/261014/p55#a261014p55",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 23:35:01 -0400",
+      "summary": "\n Matt Kapko / CyberScoop:\nMicrosoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year&nbsp; &mdash;&nbsp; In less than 10 months, cybercriminals used the arsenal of customized, targeted phishing kits to send more than 1 billion malicious messages &hellip; ",
+      "points": 0,
+      "_ts": 1792035301,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Solidigm, SK Hynix's US unit, seeks US government approval to export US chipmaking equipment to Dalian, China, as a condition for building a US factory (Reuters)",
+      "url": "https://www.techmeme.com/261014/p54#a261014p54",
+      "source": "techmeme",
+      "published": "Wed, 14 Oct 2026 23:25:02 -0400",
+      "summary": "\n Reuters:\nSources: Solidigm, SK Hynix's US unit, seeks US government approval to export US chipmaking equipment to Dalian, China, as a condition for building a US factory&nbsp; &mdash;&nbsp; South Korea's SK Hynix is seeking approval from Washington to export US chipmaking equipment to China to increase production &hellip; ",
+      "points": 0,
+      "_ts": 1792034702,
+      "weight": 1.0
     },
     {
       "title": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers (Kashmir Hill/New York Times)",
@@ -773,106 +873,6 @@
       "weight": 1.0
     },
     {
-      "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261014/p48#a261014p48",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 19:40:01 -0400",
-      "summary": "\n Wall Street Journal:\nSources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium&nbsp; &mdash;&nbsp; The Alphabet-owned streamer is working on a feature for audiobooks, a bid to compete with offerings from Spotify and Audible",
-      "points": 0,
-      "_ts": 1792021201,
-      "weight": 1.0
-    },
-    {
-      "title": "Jio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)",
-      "url": "https://www.techmeme.com/261014/p47#a261014p47",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 19:15:00 -0400",
-      "summary": "\n Reuters:\nJio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23&nbsp; &mdash;&nbsp; Jio Platforms is set to raise up to $3.2 billion in India's largest IPO to date, which will value the group founded &hellip; ",
-      "points": 0,
-      "_ts": 1792019700,
-      "weight": 1.0
-    },
-    {
-      "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)",
-      "url": "https://www.techmeme.com/261014/p46#a261014p46",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 18:55:02 -0400",
-      "summary": "\n Cassandre Coyer / Bloomberg Law:\nEight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users&nbsp; &mdash;&nbsp; More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, including kids.",
-      "points": 0,
-      "_ts": 1792018502,
-      "weight": 1.0
-    },
-    {
-      "title": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
-      "url": "https://www.techmeme.com/261014/p45#a261014p45",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 18:40:01 -0400",
-      "summary": "\n Todd Spangler / Variety:\nShareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance&nbsp; &mdash;&nbsp; At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp. and Roku investors were in favor the deal.",
-      "points": 0,
-      "_ts": 1792017601,
-      "weight": 1.0
-    },
-    {
-      "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
-      "url": "https://www.techmeme.com/261014/p44#a261014p44",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 18:30:03 -0400",
-      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; Rapid growth is slower than some anticipated as fears about the AI trade rattle markets&nbsp; &mdash;&nbsp; Anthropic told investors &hellip; ",
-      "points": 0,
-      "_ts": 1792017003,
-      "weight": 1.0
-    },
-    {
-      "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)",
-      "url": "https://www.techmeme.com/261014/p43#a261014p43",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 18:15:02 -0400",
-      "summary": "\n Rolfe Winkler / Wall Street Journal:\nApple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously&nbsp; &mdash;&nbsp; To power Apple's next phase, CEO John Ternus needs to raise Apple's AI game&nbsp; &mdash;&nbsp; Apple became the second company to close above &hellip; ",
-      "points": 0,
-      "_ts": 1792016102,
-      "weight": 1.0
-    },
-    {
-      "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)",
-      "url": "https://www.techmeme.com/261014/p42#a261014p42",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 17:40:01 -0400",
-      "summary": "\n Ivan Mehta / TechCrunch:\nZenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others&nbsp; &mdash;&nbsp; Many businesses around the world use consumer-facing chat apps like WhatsApp, Telegram, Discord, or iMessage to talk and coordinate with staff, and exchange documents or data.",
-      "points": 0,
-      "_ts": 1792014001,
-      "weight": 1.0
-    },
-    {
-      "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)",
-      "url": "https://www.techmeme.com/261014/p41#a261014p41",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 17:15:03 -0400",
-      "summary": "\n Lauren Forristal / TechCrunch:\nYouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add &ldquo;Made With AI&rdquo; labels later this year&nbsp; &mdash;&nbsp; YouTube Music announced Wednesday the rollout of a new labeling system aimed at improving transparency around songs created with the help of generative AI.",
-      "points": 0,
-      "_ts": 1792012503,
-      "weight": 1.0
-    },
-    {
-      "title": "Elon Musk says the US government owns and controls Starshield systems and \"any limits on speed or usage are decided by the US military and ultimately POTUS\" (Elon Musk/@elonmusk)",
-      "url": "https://www.techmeme.com/261014/p40#a261014p40",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 16:35:02 -0400",
-      "summary": " Elon Musk / @elonmusk:\nElon Musk says the US government owns and controls Starshield systems and &ldquo;any limits on speed or usage are decided by the US military and ultimately POTUS&rdquo;&nbsp; &mdash;&nbsp; Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS. Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used f...",
-      "points": 0,
-      "_ts": 1792010102,
-      "weight": 1.0
-    },
-    {
-      "title": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/261014/p39#a261014p39",
-      "source": "techmeme",
-      "published": "Wed, 14 Oct 2026 16:05:02 -0400",
-      "summary": "\n Mark Gurman / Bloomberg:\nSources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI&nbsp; &mdash;&nbsp; Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay &hellip; ",
-      "points": 0,
-      "_ts": 1792008302,
-      "weight": 1.0
-    },
-    {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "source": "openai",
@@ -911,6 +911,16 @@
       "points": 0,
       "_ts": 1791961200,
       "weight": 1.0
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "points": 0,
+      "_ts": 1792038600,
+      "weight": 0.9
     },
     {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -1023,6 +1033,46 @@
       "weight": 0.9
     },
     {
+      "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
+      "url": "https://www.qbitai.com/2026/10/503353.html",
+      "source": "qbitai",
+      "published": "Thu, 15 Oct 2026 03:50:51 +0000",
+      "summary": "给视频模型套上Harness",
+      "points": 0,
+      "_ts": 1792036251,
+      "weight": 0.9
+    },
+    {
+      "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+      "url": "https://www.qbitai.com/2026/10/503350.html",
+      "source": "qbitai",
+      "published": "Thu, 15 Oct 2026 03:01:20 +0000",
+      "summary": "企业该如何打破海外认知壁垒？",
+      "points": 0,
+      "_ts": 1792033280,
+      "weight": 0.9
+    },
+    {
+      "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+      "url": "https://www.qbitai.com/2026/10/503341.html",
+      "source": "qbitai",
+      "published": "Thu, 15 Oct 2026 02:13:29 +0000",
+      "summary": "冷汗时刻",
+      "points": 0,
+      "_ts": 1792030409,
+      "weight": 0.9
+    },
+    {
+      "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+      "url": "https://www.qbitai.com/2026/10/503326.html",
+      "source": "qbitai",
+      "published": "Thu, 15 Oct 2026 02:04:09 +0000",
+      "summary": "网友集体崩溃：新模型要来了？",
+      "points": 0,
+      "_ts": 1792029849,
+      "weight": 0.9
+    },
+    {
       "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
       "url": "https://www.qbitai.com/2026/10/503303.html",
       "source": "qbitai",
@@ -1083,233 +1133,203 @@
       "weight": 0.9
     },
     {
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
-      "source": "qbitai",
-      "published": "Wed, 14 Oct 2026 06:24:00 +0000",
-      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-      "points": 0,
-      "_ts": 1791959040,
-      "weight": 0.9
-    },
-    {
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "source": "qbitai",
-      "published": "Wed, 14 Oct 2026 04:51:32 +0000",
-      "summary": "给Ego补上缺失的交互信息",
-      "points": 0,
-      "_ts": 1791953492,
-      "weight": 0.9
-    },
-    {
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "source": "qbitai",
-      "published": "Wed, 14 Oct 2026 04:09:29 +0000",
-      "summary": "从“懂空间”到“能干活”",
-      "points": 0,
-      "_ts": 1791950969,
-      "weight": 0.9
-    },
-    {
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "source": "qbitai",
-      "published": "Wed, 14 Oct 2026 03:32:48 +0000",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-      "points": 0,
-      "_ts": 1791948768,
-      "weight": 0.9
-    },
-    {
       "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
       "url": "https://huggingface.co/papers/2610.20571",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489470+00:00",
+      "published": "2026-10-15T05:51:57.884124+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "url": "https://huggingface.co/papers/2610.20584",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884151+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
       "title": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
       "url": "https://huggingface.co/papers/2610.19975",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489496+00:00",
+      "published": "2026-10-15T05:51:57.884167+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "LensErase: A Foundation Model for Erase Anything",
-      "url": "https://huggingface.co/papers/2610.18072",
+      "title": "ActionOPD: Distilling Decisions, Not Tokens",
+      "url": "https://huggingface.co/papers/2610.19820",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489525+00:00",
+      "published": "2026-10-15T05:51:57.884189+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
-      "url": "https://huggingface.co/papers/2610.19366",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489544+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.13521",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489558+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
-      "url": "https://huggingface.co/papers/2610.18097",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489572+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
-      "url": "https://huggingface.co/papers/2610.02089",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489589+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.19100",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489605+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models",
-      "url": "https://huggingface.co/papers/2610.16302",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489632+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation",
-      "url": "https://huggingface.co/papers/2610.15425",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489656+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.19789",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489670+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
-      "weight": 0.8
-    },
-    {
-      "title": "Long-Horizon RL Needs Muon",
-      "url": "https://huggingface.co/papers/2610.20256",
-      "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489682+00:00",
-      "summary": "Hugging Face Daily Papers",
-      "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
       "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
       "url": "https://huggingface.co/papers/2610.20572",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489700+00:00",
+      "published": "2026-10-15T05:51:57.884203+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "Acting Through Registers",
-      "url": "https://huggingface.co/papers/2610.17638",
+      "title": "LensErase: A Foundation Model for Erase Anything",
+      "url": "https://huggingface.co/papers/2610.18072",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489717+00:00",
+      "published": "2026-10-15T05:51:57.884220+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
-      "url": "https://huggingface.co/papers/2610.20456",
+      "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+      "url": "https://huggingface.co/papers/2610.19366",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489730+00:00",
+      "published": "2026-10-15T05:51:57.884234+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
-      "url": "https://huggingface.co/papers/2610.19118",
+      "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.13521",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489743+00:00",
+      "published": "2026-10-15T05:51:57.884251+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards",
-      "url": "https://huggingface.co/papers/2610.17893",
+      "title": "KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization",
+      "url": "https://huggingface.co/papers/2610.14448",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489762+00:00",
+      "published": "2026-10-15T05:51:57.884263+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "MA-Bench: Measuring Operational Planning in Language Models",
-      "url": "https://huggingface.co/papers/2610.19138",
+      "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+      "url": "https://huggingface.co/papers/2610.20344",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489780+00:00",
+      "published": "2026-10-15T05:51:57.884273+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
-      "title": "Continuum Attention",
-      "url": "https://huggingface.co/papers/2610.20586",
+      "title": "Hybrid Reasoning Agents",
+      "url": "https://huggingface.co/papers/2610.18861",
       "source": "hf_papers",
-      "published": "2026-10-15T03:00:17.489796+00:00",
+      "published": "2026-10-15T05:51:57.884288+00:00",
       "summary": "Hugging Face Daily Papers",
       "points": 0,
-      "_ts": 1792033217,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "Towards Agentic Robots: Model, Data, Environment, and Harness",
+      "url": "https://huggingface.co/papers/2610.20442",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884301+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
+      "url": "https://huggingface.co/papers/2610.18097",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884314+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
+      "url": "https://huggingface.co/papers/2610.02089",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884327+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models",
+      "url": "https://huggingface.co/papers/2610.16302",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884341+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
+      "url": "https://huggingface.co/papers/2610.19560",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884358+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19789",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884372+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation",
+      "url": "https://huggingface.co/papers/2610.18284",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884385+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate",
+      "url": "https://huggingface.co/papers/2610.04781",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884395+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
+      "weight": 0.8
+    },
+    {
+      "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19100",
+      "source": "hf_papers",
+      "published": "2026-10-15T05:51:57.884404+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1792043517,
       "weight": 0.8
     },
     {
@@ -1413,17 +1433,77 @@
       "weight": 0.8
     },
     {
-      "title": "Global tech sell-off deepens as Asian markets tumble",
+      "title": "Global AI sell-off deepens as Asian markets tumble",
       "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
       "source": "ft_tech",
-      "published": "Thu, 15 Oct 2026 01:44:46 GMT",
-      "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+      "published": "Thu, 15 Oct 2026 04:04:16 GMT",
+      "summary": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower",
       "points": 0,
-      "_ts": 1792028686,
+      "_ts": 1792037056,
       "weight": 0.8
     },
     {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "title": "The UK’s Fastest-Growing Companies",
+      "url": "https://www.ft.com/reports/uk-fastest-growing-companies?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:02:08 GMT",
+      "summary": "The FT’s inaugural ranking of the UK’s fastest-growing companies shows the diverse businesses powering ahead against a volatile backdrop, in markets from health and wellness to fried chicken and digital ID. Plus: why management is key and finding growth in the ageing population",
+      "points": 0,
+      "_ts": 1792036928,
+      "weight": 0.8
+    },
+    {
+      "title": "FCA plans to embrace AI to automate financial regulation",
+      "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:00:39 GMT",
+      "summary": "UK watchdog will set out its response to the rise of the latest frontier models",
+      "points": 0,
+      "_ts": 1792036839,
+      "weight": 0.8
+    },
+    {
+      "title": "How AI mega-rounds make life harder for VC firms",
+      "url": "https://www.ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:00:29 GMT",
+      "summary": "Fewer-but-bigger deals mean investors are having to put more eggs in a single basket",
+      "points": 0,
+      "_ts": 1792036829,
+      "weight": 0.8
+    },
+    {
+      "title": "Investor appetite for data centre IPOs is reaching its limit",
+      "url": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:00:29 GMT",
+      "summary": "The blend of property, infrastructure and fast-changing technology might be better suited to other kinds of funding.",
+      "points": 0,
+      "_ts": 1792036829,
+      "weight": 0.8
+    },
+    {
+      "title": "Yoti comes of age as demand for digital ID grows",
+      "url": "https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:00:10 GMT",
+      "summary": "UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain",
+      "points": 0,
+      "_ts": 1792036810,
+      "weight": 0.8
+    },
+    {
+      "title": "Zelenskyy doesn’t mince words about Trump",
+      "url": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "Ukrainian president calls Trump-Putin relationship a ‘mistake’",
+      "points": 0,
+      "_ts": 1792036800,
+      "weight": 0.8
+    },
+    {
+      "title": "Anthropic tells investors its quarterly revenue jumped 50%",
       "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
       "source": "ft_tech",
       "published": "Thu, 15 Oct 2026 00:59:36 GMT",
@@ -1563,64 +1643,14 @@
       "weight": 0.8
     },
     {
-      "title": "By going private, Bumble may finally make a good match",
-      "url": "https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:21 GMT",
-      "summary": "Sharpening the AI tools at its disposal could improve outcomes and potentially enable  the dating app to get people to pay",
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "source": "nvidia_blog",
+      "published": "Thu, 15 Oct 2026 05:00:12 +0000",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]",
       "points": 0,
-      "_ts": 1791950421,
-      "weight": 0.8
-    },
-    {
-      "title": "How Ukraine’s data centre strikes have thrown Russia into turmoil",
-      "url": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:21 GMT",
-      "summary": "Kyiv’s attacks expose vulnerabilities of Kremlin effort to centralise internet services under one company",
-      "points": 0,
-      "_ts": 1791950421,
-      "weight": 0.8
-    },
-    {
-      "title": "The battle over the AI-led future of banking has begun",
-      "url": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:12 GMT",
-      "summary": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
-      "points": 0,
-      "_ts": 1791950412,
-      "weight": 0.8
-    },
-    {
-      "title": "How I used AI to become a chess grandmaster at 16",
-      "url": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:03 GMT",
-      "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
-      "points": 0,
-      "_ts": 1791950403,
-      "weight": 0.8
-    },
-    {
-      "title": "Workplaces are bracing for the smart glasses era",
-      "url": "https://www.ft.com/content/bb6f87df-f523-40d6-91c2-20f4b298eb4d",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:03 GMT",
-      "summary": "New technology is an HR and data security minefield",
-      "points": 0,
-      "_ts": 1791950403,
-      "weight": 0.8
-    },
-    {
-      "title": "FT Weekend Fest: Could AI make us happier?",
-      "url": "https://www.ft.com/content/1435c4e4-6931-49a4-bd6f-9fd7efd82c39?syn-25a6b1a6=1",
-      "source": "ft_tech",
-      "published": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "summary": "Alain de Botton on AI’s therapy potential",
-      "points": 0,
-      "_ts": 1791950400,
-      "weight": 0.8
+      "_ts": 1792040412,
+      "weight": 0.7
     },
     {
       "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",

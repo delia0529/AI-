@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "method": "tfidf-fallback",
   "threshold": 0.52,
-  "raw_count": 164,
+  "raw_count": 167,
   "clusters": [
     {
       "headline": "morluto/rea — GitHub Trending",
@@ -61,6 +61,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "",
+      "score": 1161.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+          "title": "Things to know when you get cancer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "vxcontrol/pentagi — GitHub Trending",
       "url": "https://github.com/vxcontrol/pentagi",
       "summary": "单日新增 1,025 stars",
@@ -103,24 +117,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "",
-      "score": 962.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-          "title": "Things to know when you get cancer"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "summary": "",
-      "score": 936.0,
+      "score": 952.0,
       "sources": [
         {
           "name": "hn",
@@ -131,24 +131,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "How Amazon pushes up prices all across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "summary": "",
-      "score": 828.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-          "title": "How Amazon pushes up prices all across the Internet"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Passkeys are not a trap",
       "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
       "summary": "",
-      "score": 599.0,
+      "score": 640.0,
       "sources": [
         {
           "name": "hn",
@@ -162,7 +148,7 @@
       "headline": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
       "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
       "summary": "",
-      "score": 581.0,
+      "score": 589.0,
       "sources": [
         {
           "name": "hn",
@@ -173,24 +159,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Google is silently linking your phone number across all signed-in accounts",
-      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "summary": "",
-      "score": 499.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-          "title": "Google is silently linking your phone number across all signed-in accounts"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "summary": "",
-      "score": 449.0,
+      "score": 559.0,
       "sources": [
         {
           "name": "hn",
@@ -201,29 +173,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "headline": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
       "summary": "",
-      "score": 406.0,
+      "score": 532.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-          "title": "Banks are now trying to offload the AI data center debt they just underwrote"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "",
-      "score": 391.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-          "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
+          "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+          "title": "Google is silently linking your phone number across all signed-in accounts"
         }
       ],
       "duplicate_count": 1
@@ -232,7 +190,7 @@
       "headline": "Suicide rates highest ever among middle-aged men",
       "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
       "summary": "",
-      "score": 387.0,
+      "score": 463.0,
       "sources": [
         {
           "name": "hn",
@@ -243,10 +201,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "",
+      "score": 445.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "summary": "",
-      "score": 361.0,
+      "score": 425.0,
       "sources": [
         {
           "name": "hn",
@@ -257,10 +229,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "summary": "",
+      "score": 423.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+          "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Americans' social activity has steeply declined in the past 30 years",
       "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
       "summary": "",
-      "score": 347.0,
+      "score": 407.0,
       "sources": [
         {
           "name": "hn",
@@ -271,15 +257,29 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Switzerland proposes banning profiling-based ads to minors",
-      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "headline": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
       "summary": "",
-      "score": 328.0,
+      "score": 361.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
-          "title": "Switzerland proposes banning profiling-based ads to minors"
+          "url": "https://tinylittleoffice.com/",
+          "title": "Tiny Little Office"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "",
+      "score": 341.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://typesafe.ai/blog/jev-1-14",
+          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
         }
       ],
       "duplicate_count": 1
@@ -288,7 +288,7 @@
       "headline": "Yandex outage: data shows that instead of going dark, malicious bots moved",
       "url": "https://blog.cloudflare.com/yandex-outage/",
       "summary": "",
-      "score": 316.0,
+      "score": 335.0,
       "sources": [
         {
           "name": "hn",
@@ -299,10 +299,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Switzerland proposes banning profiling-based ads to minors",
+      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "summary": "",
+      "score": 329.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+          "title": "Switzerland proposes banning profiling-based ads to minors"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Better HTTP/1 connection reuse in Go 1.27",
       "url": "https://go.dev/blog/http-connection-reuse",
       "summary": "",
-      "score": 301.0,
+      "score": 315.0,
       "sources": [
         {
           "name": "hn",
@@ -313,15 +327,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
+      "headline": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
       "summary": "",
-      "score": 298.0,
+      "score": 289.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://typesafe.ai/blog/jev-1-14",
-          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+          "url": "https://github.com/timescale/pg_vectorsearch",
+          "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
         }
       ],
       "duplicate_count": 1
@@ -341,29 +355,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
+      "headline": "America didn't lose its rare earth industry, it sold it",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
       "summary": "",
-      "score": 286.0,
+      "score": 262.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://github.com/timescale/pg_vectorsearch",
-          "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "summary": "",
-      "score": 274.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://tinylittleoffice.com/",
-          "title": "Tiny Little Office"
+          "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+          "title": "America didn't lose its rare earth industry, it sold it"
         }
       ],
       "duplicate_count": 1
@@ -386,7 +386,7 @@
       "headline": "How the Military Will Hack the Election",
       "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
       "summary": "",
-      "score": 253.0,
+      "score": 255.0,
       "sources": [
         {
           "name": "hn",
@@ -397,24 +397,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "America didn't lose its rare earth industry, it sold it",
-      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-      "summary": "",
-      "score": 252.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-          "title": "America didn't lose its rare earth industry, it sold it"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Amsterdam police confiscates server left-wing ISP A/I at American request",
       "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
       "summary": "",
-      "score": 249.0,
+      "score": 251.0,
       "sources": [
         {
           "name": "hn",
@@ -425,24 +411,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Starlink limit hits Ukraine's drones",
-      "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-      "summary": "",
-      "score": 246.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-          "title": "Starlink limit hits Ukraine's drones"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Why do LLM pelicans look like this?",
       "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
       "summary": "",
-      "score": 245.0,
+      "score": 248.0,
       "sources": [
         {
           "name": "hn",
@@ -467,6 +439,48 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
+      "score": 238.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://petal.live/",
+          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "",
+      "score": 235.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+          "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "",
+      "score": 235.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+          "title": "TV4 postpones show after AI agent erases edited material"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Apple Keynote now showing ads in its UI",
       "url": "https://mastodon.social/@marioguzman/117436264149891011",
       "summary": "",
@@ -481,24 +495,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "summary": "",
-      "score": 232.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-          "title": "TV4 postpones show after AI agent erases edited material"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Submarine cable resilience",
       "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
       "summary": "",
-      "score": 226.0,
+      "score": 233.0,
       "sources": [
         {
           "name": "hn",
@@ -512,7 +512,7 @@
       "headline": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
       "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
       "summary": "",
-      "score": 223.0,
+      "score": 227.0,
       "sources": [
         {
           "name": "hn",
@@ -540,7 +540,7 @@
       "headline": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
       "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
       "summary": "",
-      "score": 216.0,
+      "score": 217.0,
       "sources": [
         {
           "name": "hn",
@@ -551,24 +551,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "summary": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p",
-      "score": 211.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://petal.live/",
-          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Linus Torvalds's first LLM-assisted patch series",
       "url": "https://lwn.net/Articles/1100449/",
       "summary": "",
-      "score": 204.0,
+      "score": 205.0,
       "sources": [
         {
           "name": "hn",
@@ -579,10 +565,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "summary": "",
+      "score": 199.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nytpu.com/gemlog/2026-03-18",
+          "title": "Fancy Curl Sites"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Smart people don't think others are stupid (2012)",
       "url": "https://sive.rs/ss",
       "summary": "",
-      "score": 189.0,
+      "score": 195.0,
       "sources": [
         {
           "name": "hn",
@@ -593,10 +593,66 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "url": "https://oxide.computer/blog/voxel-labs",
+      "summary": "",
+      "score": 194.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://oxide.computer/blog/voxel-labs",
+          "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "",
+      "score": 191.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+          "title": "Has AI tells"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+      "summary": "",
+      "score": 187.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+          "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
+      "score": 187.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://clova.email/",
+          "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "AI is mass decompiling games. That's both awesome and scary",
       "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
       "summary": "",
-      "score": 185.0,
+      "score": 187.0,
       "sources": [
         {
           "name": "hn",
@@ -621,57 +677,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&",
-      "score": 182.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://clova.email/",
-          "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "headline": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
       "summary": "",
-      "score": 181.0,
+      "score": 176.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://nytpu.com/gemlog/2026-03-18",
-          "title": "Fancy Curl Sites"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "summary": "",
-      "score": 180.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-          "title": "Has AI tells"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "",
-      "score": 178.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "title": "LFM2.5-24B-A2B: Built for fast on-device agents"
+          "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+          "title": "Running Windows desktop tests from Linux with disposable VMs"
         }
       ],
       "duplicate_count": 1
@@ -719,52 +733,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Running Windows desktop tests from Linux with disposable VMs",
-      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "summary": "",
-      "score": 173.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-          "title": "Running Windows desktop tests from Linux with disposable VMs"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
-      "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
-      "summary": "",
-      "score": 172.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
-          "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "summary": "",
-      "score": 168.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://oxide.computer/blog/voxel-labs",
-          "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "summary": "",
-      "score": 168.0,
+      "score": 169.0,
       "sources": [
         {
           "name": "hn",
@@ -789,38 +761,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Nvidia's first GPU: GeForce 256",
-      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-      "summary": "",
-      "score": 159.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-          "title": "Nvidia's first GPU: GeForce 256"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "summary": "",
-      "score": 152.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-          "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Gaming on Linux without cheating",
       "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
       "summary": "",
-      "score": 152.0,
+      "score": 162.0,
       "sources": [
         {
           "name": "hn",
@@ -831,10 +775,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Nvidia's first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "summary": "",
+      "score": 162.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+          "title": "Nvidia's first GPU: GeForce 256"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
       "url": "https://github.com/bealesh/neckbeard",
       "summary": "",
-      "score": 151.0,
+      "score": 154.0,
       "sources": [
         {
           "name": "hn",
@@ -845,15 +803,57 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "summary": "",
+      "score": 153.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+          "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "One in ten people are older than 65. Three in four live under a leader who is",
+      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "summary": "",
+      "score": 151.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+          "title": "One in ten people are older than 65. Three in four live under a leader who is"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "I let an AI run my startup for a week",
       "url": "https://daily.tinyprojects.dev/221",
       "summary": "",
-      "score": 148.0,
+      "score": 151.0,
       "sources": [
         {
           "name": "hn",
           "url": "https://daily.tinyprojects.dev/221",
           "title": "I let an AI run my startup for a week"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ukraine says new Starlink restrictions disrupt their military",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
+          "title": "Ukraine says new Starlink restrictions disrupt their military"
         }
       ],
       "duplicate_count": 1
@@ -873,15 +873,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Ukraine says new Starlink restrictions disrupt their military",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
+      "headline": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
       "summary": "",
-      "score": 144.0,
+      "score": 142.0,
       "sources": [
         {
           "name": "hn",
-          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
-          "title": "Ukraine says new Starlink restrictions disrupt their military"
+          "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+          "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support"
         }
       ],
       "duplicate_count": 1
@@ -901,24 +901,10 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-      "summary": "",
-      "score": 137.0,
-      "sources": [
-        {
-          "name": "hn",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-          "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "US report details extent of 'devastating' dating-app scams",
       "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
       "summary": "",
-      "score": 137.0,
+      "score": 139.0,
       "sources": [
         {
           "name": "hn",
@@ -971,10 +957,24 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Future of Cancer Care Today (FCCT)",
+      "url": "https://sijbrandijfoundation.org/fcct",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://sijbrandijfoundation.org/fcct",
+          "title": "Future of Cancer Care Today (FCCT)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
       "url": "https://github.com/graphicle-ai/graphicle",
       "summary": "",
-      "score": 132.0,
+      "score": 134.0,
       "sources": [
         {
           "name": "hn",
@@ -1008,6 +1008,146 @@
           "name": "hn",
           "url": "https://news.ycombinator.com/item?id=50084969",
           "title": "Ask HN: What is the current trajectory of a senior engineer?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents (Camila Grigera Naón/Fortune)",
+      "url": "https://www.techmeme.com/261015/p6#a261015p6",
+      "summary": "\n Camila Grigera Na&oacute;n / Fortune:\nChainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents&nbsp; &mdash;&nbsp; The field of agentic commerce, which describes the use of AI agents to carry out internet transactions, is rapidly maturing, and crypto is fueling the boom.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p6#a261015p6",
+          "title": "Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents (Camila Grigera Naón/Fortune)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)",
+      "url": "https://www.techmeme.com/261015/p5#a261015p5",
+      "summary": "\n Financial Times:\nA look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from &pound;6.2M in 2022 to &pound;32M+ in 2025, with the UK as its biggest market&nbsp; &mdash;&nbsp; UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p5#a261015p5",
+          "title": "A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)",
+      "url": "https://www.techmeme.com/261015/p4#a261015p4",
+      "summary": " IDC:\nGlobal smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines&nbsp; &mdash;&nbsp; Apple and Samsung continue to benefit from a strong premium portfolio to gain share&nbsp; &mdash;&nbsp; The global smartphone market shrank 22.0% year &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p4#a261015p4",
+          "title": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261015/p3#a261015p3",
+      "summary": "\n Steven Rosenbush / Wall Street Journal:\nBloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data&nbsp; &mdash;&nbsp; Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p3#a261015p3",
+          "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)",
+      "url": "https://www.techmeme.com/261015/p2#a261015p2",
+      "summary": "\n Xiaofei Xu / South China Morning Post:\nASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23%&nbsp; &mdash;&nbsp; Dutch semiconductor equipment giant ASML expects China to account for about 20 per cent of its total sales this year &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p2#a261015p2",
+          "title": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)",
+      "url": "https://www.techmeme.com/261015/p1#a261015p1",
+      "summary": "\n Lee Ying Shan / CNBC:\nAsian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10%&nbsp; &mdash;&nbsp; A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261015/p1#a261015p1",
+          "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)",
+      "url": "https://www.techmeme.com/261014/p57#a261014p57",
+      "summary": "\n Bloomberg:\nSources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google&nbsp; &mdash;&nbsp; ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p57#a261014p57",
+          "title": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)",
+      "url": "https://www.techmeme.com/261014/p56#a261014p56",
+      "summary": "\n Cory Weinberg / The Information:\nSources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation&nbsp; &mdash;&nbsp; Anthropic reported rapid-but-slowing revenue growth in a meeting with potential investors in its planned initial public offering &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p56#a261014p56",
+          "title": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year (Matt Kapko/CyberScoop)",
+      "url": "https://www.techmeme.com/261014/p55#a261014p55",
+      "summary": "\n Matt Kapko / CyberScoop:\nMicrosoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year&nbsp; &mdash;&nbsp; In less than 10 months, cybercriminals used the arsenal of customized, targeted phishing kits to send more than 1 billion malicious messages &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p55#a261014p55",
+          "title": "Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year (Matt Kapko/CyberScoop)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Solidigm, SK Hynix's US unit, seeks US government approval to export US chipmaking equipment to Dalian, China, as a condition for building a US factory (Reuters)",
+      "url": "https://www.techmeme.com/261014/p54#a261014p54",
+      "summary": "\n Reuters:\nSources: Solidigm, SK Hynix's US unit, seeks US government approval to export US chipmaking equipment to Dalian, China, as a condition for building a US factory&nbsp; &mdash;&nbsp; South Korea's SK Hynix is seeking approval from Washington to export US chipmaking equipment to China to increase production &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261014/p54#a261014p54",
+          "title": "Sources: Solidigm, SK Hynix's US unit, seeks US government approval to export US chipmaking equipment to Dalian, China, as a condition for building a US factory (Reuters)"
         }
       ],
       "duplicate_count": 1
@@ -1083,146 +1223,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261014/p48#a261014p48",
-      "summary": "\n Wall Street Journal:\nSources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium&nbsp; &mdash;&nbsp; The Alphabet-owned streamer is working on a feature for audiobooks, a bid to compete with offerings from Spotify and Audible",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p48#a261014p48",
-          "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Jio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)",
-      "url": "https://www.techmeme.com/261014/p47#a261014p47",
-      "summary": "\n Reuters:\nJio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23&nbsp; &mdash;&nbsp; Jio Platforms is set to raise up to $3.2 billion in India's largest IPO to date, which will value the group founded &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p47#a261014p47",
-          "title": "Jio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)",
-      "url": "https://www.techmeme.com/261014/p46#a261014p46",
-      "summary": "\n Cassandre Coyer / Bloomberg Law:\nEight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users&nbsp; &mdash;&nbsp; More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, including kids.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p46#a261014p46",
-          "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
-      "url": "https://www.techmeme.com/261014/p45#a261014p45",
-      "summary": "\n Todd Spangler / Variety:\nShareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance&nbsp; &mdash;&nbsp; At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp. and Roku investors were in favor the deal.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p45#a261014p45",
-          "title": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
-      "url": "https://www.techmeme.com/261014/p44#a261014p44",
-      "summary": "\n Financial Times:\nSources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3&nbsp; &mdash;&nbsp; Rapid growth is slower than some anticipated as fears about the AI trade rattle markets&nbsp; &mdash;&nbsp; Anthropic told investors &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p44#a261014p44",
-          "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)",
-      "url": "https://www.techmeme.com/261014/p43#a261014p43",
-      "summary": "\n Rolfe Winkler / Wall Street Journal:\nApple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously&nbsp; &mdash;&nbsp; To power Apple's next phase, CEO John Ternus needs to raise Apple's AI game&nbsp; &mdash;&nbsp; Apple became the second company to close above &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p43#a261014p43",
-          "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)",
-      "url": "https://www.techmeme.com/261014/p42#a261014p42",
-      "summary": "\n Ivan Mehta / TechCrunch:\nZenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others&nbsp; &mdash;&nbsp; Many businesses around the world use consumer-facing chat apps like WhatsApp, Telegram, Discord, or iMessage to talk and coordinate with staff, and exchange documents or data.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p42#a261014p42",
-          "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)",
-      "url": "https://www.techmeme.com/261014/p41#a261014p41",
-      "summary": "\n Lauren Forristal / TechCrunch:\nYouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add &ldquo;Made With AI&rdquo; labels later this year&nbsp; &mdash;&nbsp; YouTube Music announced Wednesday the rollout of a new labeling system aimed at improving transparency around songs created with the help of generative AI.",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p41#a261014p41",
-          "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Elon Musk says the US government owns and controls Starshield systems and \"any limits on speed or usage are decided by the US military and ultimately POTUS\" (Elon Musk/@elonmusk)",
-      "url": "https://www.techmeme.com/261014/p40#a261014p40",
-      "summary": " Elon Musk / @elonmusk:\nElon Musk says the US government owns and controls Starshield systems and &ldquo;any limits on speed or usage are decided by the US military and ultimately POTUS&rdquo;&nbsp; &mdash;&nbsp; Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS. Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used f...",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p40#a261014p40",
-          "title": "Elon Musk says the US government owns and controls Starshield systems and \"any limits on speed or usage are decided by the US military and ultimately POTUS\" (Elon Musk/@elonmusk)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/261014/p39#a261014p39",
-      "summary": "\n Mark Gurman / Bloomberg:\nSources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI&nbsp; &mdash;&nbsp; Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay &hellip; ",
-      "score": 100.0,
-      "sources": [
-        {
-          "name": "techmeme",
-          "url": "https://www.techmeme.com/261014/p39#a261014p39",
-          "title": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
@@ -1274,6 +1274,20 @@
           "name": "openai",
           "url": "https://openai.com/index/block-ai-powered-security",
           "title": "How Block is building AI-powered security with OpenAI technology"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "title": "Figma announces new features to define how agents work on its platform"
         }
       ],
       "duplicate_count": 1
@@ -1433,6 +1447,62 @@
       "duplicate_count": 1
     },
     {
+      "headline": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
+      "url": "https://www.qbitai.com/2026/10/503353.html",
+      "summary": "给视频模型套上Harness",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/503353.html",
+          "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+      "url": "https://www.qbitai.com/2026/10/503350.html",
+      "summary": "企业该如何打破海外认知壁垒？",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/503350.html",
+          "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+      "url": "https://www.qbitai.com/2026/10/503341.html",
+      "summary": "冷汗时刻",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/503341.html",
+          "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+      "url": "https://www.qbitai.com/2026/10/503326.html",
+      "summary": "网友集体崩溃：新模型要来了？",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/503326.html",
+          "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
       "url": "https://www.qbitai.com/2026/10/503303.html",
       "summary": "给企业Agent打了个样",
@@ -1517,62 +1587,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
-      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/503198.html",
-          "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "summary": "给Ego补上缺失的交互信息",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/503172.html",
-          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "summary": "从“懂空间”到“能干活”",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/503173.html",
-          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-      "score": 90.0,
-      "sources": [
-        {
-          "name": "qbitai",
-          "url": "https://www.qbitai.com/2026/10/503165.html",
-          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
       "url": "https://huggingface.co/papers/2610.20571",
       "summary": "Hugging Face Daily Papers",
@@ -1587,6 +1601,20 @@
       "duplicate_count": 1
     },
     {
+      "headline": "Player-1: Learning to Play from Synthetic Experience",
+      "url": "https://huggingface.co/papers/2610.20584",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.20584",
+          "title": "Player-1: Learning to Play from Synthetic Experience"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
       "url": "https://huggingface.co/papers/2610.19975",
       "summary": "Hugging Face Daily Papers",
@@ -1596,6 +1624,34 @@
           "name": "hf_papers",
           "url": "https://huggingface.co/papers/2610.19975",
           "title": "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ActionOPD: Distilling Decisions, Not Tokens",
+      "url": "https://huggingface.co/papers/2610.19820",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.19820",
+          "title": "ActionOPD: Distilling Decisions, Not Tokens"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.20572",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.20572",
+          "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation"
         }
       ],
       "duplicate_count": 1
@@ -1643,6 +1699,62 @@
       "duplicate_count": 1
     },
     {
+      "headline": "KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization",
+      "url": "https://huggingface.co/papers/2610.14448",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.14448",
+          "title": "KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+      "url": "https://huggingface.co/papers/2610.20344",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.20344",
+          "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Hybrid Reasoning Agents",
+      "url": "https://huggingface.co/papers/2610.18861",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.18861",
+          "title": "Hybrid Reasoning Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Towards Agentic Robots: Model, Data, Environment, and Harness",
+      "url": "https://huggingface.co/papers/2610.20442",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.20442",
+          "title": "Towards Agentic Robots: Model, Data, Environment, and Harness"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
       "headline": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
       "url": "https://huggingface.co/papers/2610.18097",
       "summary": "Hugging Face Daily Papers",
@@ -1671,20 +1783,6 @@
       "duplicate_count": 1
     },
     {
-      "headline": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.19100",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.19100",
-          "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
       "headline": "RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models",
       "url": "https://huggingface.co/papers/2610.16302",
       "summary": "Hugging Face Daily Papers",
@@ -1699,15 +1797,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation",
-      "url": "https://huggingface.co/papers/2610.15425",
+      "headline": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
+      "url": "https://huggingface.co/papers/2610.19560",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.15425",
-          "title": "Exploring the Limits of Combinatorial Generalization in Embodied Manipulation"
+          "url": "https://huggingface.co/papers/2610.19560",
+          "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions"
         }
       ],
       "duplicate_count": 1
@@ -1727,113 +1825,43 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Long-Horizon RL Needs Muon",
-      "url": "https://huggingface.co/papers/2610.20256",
+      "headline": "Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation",
+      "url": "https://huggingface.co/papers/2610.18284",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.20256",
-          "title": "Long-Horizon RL Needs Muon"
+          "url": "https://huggingface.co/papers/2610.18284",
+          "title": "Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.20572",
+      "headline": "Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate",
+      "url": "https://huggingface.co/papers/2610.04781",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.20572",
-          "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation"
+          "url": "https://huggingface.co/papers/2610.04781",
+          "title": "Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Acting Through Registers",
-      "url": "https://huggingface.co/papers/2610.17638",
+      "headline": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19100",
       "summary": "Hugging Face Daily Papers",
       "score": 80.0,
       "sources": [
         {
           "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.17638",
-          "title": "Acting Through Registers"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
-      "url": "https://huggingface.co/papers/2610.20456",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.20456",
-          "title": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
-      "url": "https://huggingface.co/papers/2610.19118",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.19118",
-          "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards",
-      "url": "https://huggingface.co/papers/2610.17893",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.17893",
-          "title": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "MA-Bench: Measuring Operational Planning in Language Models",
-      "url": "https://huggingface.co/papers/2610.19138",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.19138",
-          "title": "MA-Bench: Measuring Operational Planning in Language Models"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Continuum Attention",
-      "url": "https://huggingface.co/papers/2610.20586",
-      "summary": "Hugging Face Daily Papers",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "hf_papers",
-          "url": "https://huggingface.co/papers/2610.20586",
-          "title": "Continuum Attention"
+          "url": "https://huggingface.co/papers/2610.19100",
+          "title": "GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning"
         }
       ],
       "duplicate_count": 1
@@ -1979,21 +2007,105 @@
       "duplicate_count": 1
     },
     {
-      "headline": "Global tech sell-off deepens as Asian markets tumble",
+      "headline": "Global AI sell-off deepens as Asian markets tumble",
       "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-      "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+      "summary": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower",
       "score": 80.0,
       "sources": [
         {
           "name": "ft_tech",
           "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-          "title": "Global tech sell-off deepens as Asian markets tumble"
+          "title": "Global AI sell-off deepens as Asian markets tumble"
         }
       ],
       "duplicate_count": 1
     },
     {
-      "headline": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "headline": "The UK’s Fastest-Growing Companies",
+      "url": "https://www.ft.com/reports/uk-fastest-growing-companies?syn-25a6b1a6=1",
+      "summary": "The FT’s inaugural ranking of the UK’s fastest-growing companies shows the diverse businesses powering ahead against a volatile backdrop, in markets from health and wellness to fried chicken and digital ID. Plus: why management is key and finding growth in the ageing population",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/reports/uk-fastest-growing-companies?syn-25a6b1a6=1",
+          "title": "The UK’s Fastest-Growing Companies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FCA plans to embrace AI to automate financial regulation",
+      "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
+      "summary": "UK watchdog will set out its response to the rise of the latest frontier models",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
+          "title": "FCA plans to embrace AI to automate financial regulation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How AI mega-rounds make life harder for VC firms",
+      "url": "https://www.ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6?syn-25a6b1a6=1",
+      "summary": "Fewer-but-bigger deals mean investors are having to put more eggs in a single basket",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6?syn-25a6b1a6=1",
+          "title": "How AI mega-rounds make life harder for VC firms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Investor appetite for data centre IPOs is reaching its limit",
+      "url": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672?syn-25a6b1a6=1",
+      "summary": "The blend of property, infrastructure and fast-changing technology might be better suited to other kinds of funding.",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672?syn-25a6b1a6=1",
+          "title": "Investor appetite for data centre IPOs is reaching its limit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Yoti comes of age as demand for digital ID grows",
+      "url": "https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc",
+      "summary": "UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc",
+          "title": "Yoti comes of age as demand for digital ID grows"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Zelenskyy doesn’t mince words about Trump",
+      "url": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1",
+      "summary": "Ukrainian president calls Trump-Putin relationship a ‘mistake’",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1",
+          "title": "Zelenskyy doesn’t mince words about Trump"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic tells investors its quarterly revenue jumped 50%",
       "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
       "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
       "score": 80.0,
@@ -2001,7 +2113,7 @@
         {
           "name": "ft_tech",
           "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-          "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
+          "title": "Anthropic tells investors its quarterly revenue jumped 50%"
         }
       ],
       "duplicate_count": 1
@@ -2189,85 +2301,15 @@
       "duplicate_count": 1
     },
     {
-      "headline": "By going private, Bumble may finally make a good match",
-      "url": "https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1",
-      "summary": "Sharpening the AI tools at its disposal could improve outcomes and potentially enable  the dating app to get people to pay",
-      "score": 80.0,
+      "headline": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]",
+      "score": 70.0,
       "sources": [
         {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1",
-          "title": "By going private, Bumble may finally make a good match"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "How Ukraine’s data centre strikes have thrown Russia into turmoil",
-      "url": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
-      "summary": "Kyiv’s attacks expose vulnerabilities of Kremlin effort to centralise internet services under one company",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
-          "title": "How Ukraine’s data centre strikes have thrown Russia into turmoil"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "The battle over the AI-led future of banking has begun",
-      "url": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459?syn-25a6b1a6=1",
-      "summary": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459?syn-25a6b1a6=1",
-          "title": "The battle over the AI-led future of banking has begun"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "How I used AI to become a chess grandmaster at 16",
-      "url": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
-      "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
-          "title": "How I used AI to become a chess grandmaster at 16"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "Workplaces are bracing for the smart glasses era",
-      "url": "https://www.ft.com/content/bb6f87df-f523-40d6-91c2-20f4b298eb4d",
-      "summary": "New technology is an HR and data security minefield",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/bb6f87df-f523-40d6-91c2-20f4b298eb4d",
-          "title": "Workplaces are bracing for the smart glasses era"
-        }
-      ],
-      "duplicate_count": 1
-    },
-    {
-      "headline": "FT Weekend Fest: Could AI make us happier?",
-      "url": "https://www.ft.com/content/1435c4e4-6931-49a4-bd6f-9fd7efd82c39?syn-25a6b1a6=1",
-      "summary": "Alain de Botton on AI’s therapy potential",
-      "score": 80.0,
-      "sources": [
-        {
-          "name": "ft_tech",
-          "url": "https://www.ft.com/content/1435c4e4-6931-49a4-bd6f-9fd7efd82c39?syn-25a6b1a6=1",
-          "title": "FT Weekend Fest: Could AI make us happier?"
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+          "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing"
         }
       ],
       "duplicate_count": 1

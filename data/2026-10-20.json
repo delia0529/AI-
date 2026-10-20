@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-20",
+  "issue": "No.034",
+  "weekday": "周二",
+  "generated_at": "2026-10-20 05:58 CST",
+  "window": "2026-10-20 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-20 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 7,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-20 的当日条目：U.S. Supreme Court to review 1868 federal ban on home distilling of liquor。讨论热度 43 分、45 条评论；出处 staradvertiser.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 43 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "staradvertiser.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · U.S. Supreme Court to review 1868 federa",
+              "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-20 的当日条目：Lula supporters protest against Meta to denounce its 'electoral interference'。讨论热度 253 分、144 条评论；出处 efe.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 253 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "efe.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Lula supporters protest against Meta to ",
+              "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/"
+            }
+          ]
+        },
+        {
+          "title": "OpenBSD 8.0",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-20 的当日条目：OpenBSD 8.0。讨论热度 144 分、39 条评论；出处 openbsd.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 144 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "openbsd.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · OpenBSD 8.0",
+              "url": "https://www.openbsd.org/80.html"
+            }
+          ]
+        },
+        {
+          "title": "France's supermarket fridges were vulnerable online for months",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-20 的当日条目：France's supermarket fridges were vulnerable online for months。讨论热度 98 分、78 条评论；出处 ipinfo.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 98 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "ipinfo.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · France's supermarket fridges were vulner",
+              "url": "https://ipinfo.io/blog/france-fridges-hack"
+            }
+          ]
+        },
+        {
+          "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-20 的当日条目：Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD。讨论热度 62 分、43 条评论；出处 trial.medpath.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 62 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "trial.medpath.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Novo Nordisk, Eli Lilly Report GLP-1 Sig",
+              "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-20 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.25736"
+            }
+          ]
+        },
+        {
+          "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-20 当日论文归档中的条目：Learning from Fleet Experience: A Collective Learning Paradigm for Robots。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.25736"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

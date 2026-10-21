@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-21",
+  "issue": "No.035",
+  "weekday": "周三",
+  "generated_at": "2026-10-21 05:59 CST",
+  "window": "2026-10-21 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-21 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 7,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "The Future of CSS",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-21 的当日条目：The Future of CSS。讨论热度 171 分、55 条评论；出处 joshwcomeau.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 171 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "joshwcomeau.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The Future of CSS",
+              "url": "https://www.joshwcomeau.com/css/interop-2027/"
+            }
+          ]
+        },
+        {
+          "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-21 的当日条目：PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)。讨论热度 106 分、30 条评论；出处 jackalsyn.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 106 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "jackalsyn.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · PHP session.upload_progress heap UAF (CV",
+              "url": "https://jackalsyn.com/posts/php-up-2026.html"
+            }
+          ]
+        },
+        {
+          "title": "Good type against all odds",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-21 的当日条目：Good type against all odds。讨论热度 73 分、8 条评论；出处 unsung.aresluna.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 73 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "unsung.aresluna.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Good type against all odds",
+              "url": "https://unsung.aresluna.org/good-type-against-all-odds/"
+            }
+          ]
+        },
+        {
+          "title": "Muse exposes users' personal and business secrets when they share conversations",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-21 的当日条目：Muse exposes users' personal and business secrets when they share conversations。讨论热度 65 分、12 条评论；出处 arstechnica.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 65 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "arstechnica.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Muse exposes users' personal and busines",
+              "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+            }
+          ]
+        },
+        {
+          "title": "In Hilbert space, all things are quantumly possible",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-21 的当日条目：In Hilbert space, all things are quantumly possible。讨论热度 57 分、25 条评论；出处 quantamagazine.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 57 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "quantamagazine.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · In Hilbert space, all things are quantum",
+              "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-21 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.26203"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

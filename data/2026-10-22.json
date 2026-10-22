@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-22",
+  "issue": "No.036",
+  "weekday": "周四",
+  "generated_at": "2026-10-22 06:05 CST",
+  "window": "2026-10-22 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-22 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 7,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Epic Games Inc v Apple Inc",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-22 的当日条目：Epic Games Inc v Apple Inc。讨论热度 133 分、102 条评论；出处 judgments.fedcourt.gov.au。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 133 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "judgments.fedcourt.gov.au"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Epic Games Inc v Apple Inc",
+              "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552"
+            }
+          ]
+        },
+        {
+          "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-22 的当日条目：The recently proposed o(n log n) integer multiplication algorithm [pdf]。讨论热度 109 分、66 条评论；出处 web.maths.unsw.edu.au。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 109 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "web.maths.unsw.edu.au"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The recently proposed o(n log n) integer",
+              "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Tesla profits drop 43% in Q3",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-22 的当日条目：Tesla profits drop 43% in Q3。讨论热度 48 分、12 条评论；出处 arstechnica.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 48 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "arstechnica.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tesla profits drop 43% in Q3",
+              "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
+            }
+          ]
+        },
+        {
+          "title": "I can't believe PowerShell is good",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-22 的当日条目：I can't believe PowerShell is good。讨论热度 42 分、34 条评论；出处 spacebar.news。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 42 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "spacebar.news"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I can't believe PowerShell is good",
+              "url": "https://www.spacebar.news/powershell-is-actually-good/"
+            }
+          ]
+        },
+        {
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-22 的当日条目：WorldTUI: I trained a 360M model to pretend to be a terminal。讨论热度 42 分、14 条评论；出处 simedw.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 42 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "simedw.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · WorldTUI: I trained a 360M model to pret",
+              "url": "https://simedw.com/2026/10/21/world-model-terminal/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-22 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.26828"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-24",
+  "issue": "No.038",
+  "weekday": "周六",
+  "generated_at": "2026-10-24 05:46 CST",
+  "window": "2026-10-24 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-24 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 5 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 5,
+    "items": 5,
+    "clusters": 5,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Twelve years of distributed SQLite",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-24 的当日条目：Twelve years of distributed SQLite。讨论热度 108 分、10 条评论；出处 philipotoole.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 108 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "philipotoole.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Twelve years of distributed SQLite",
+              "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+            }
+          ]
+        },
+        {
+          "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-24 的当日条目：Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques。讨论热度 60 分、17 条评论；出处 sciencedaily.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 60 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "sciencedaily.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Alzheimer's breakthrough: 2 hrs of sleep",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm"
+            }
+          ]
+        },
+        {
+          "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-24 的当日条目：Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax。讨论热度 57 分、71 条评论；出处 nytimes.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 57 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "nytimes.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Mark Zuckerberg Pushed Meta to Shield Hi",
+              "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-24 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.31329"
+            }
+          ]
+        },
+        {
+          "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-24 当日论文归档中的条目：WeVisOne-VL: Unified Visual Perception from Objects to Pixels。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.31329"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

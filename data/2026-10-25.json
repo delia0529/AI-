@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-25",
+  "issue": "No.039",
+  "weekday": "周日",
+  "generated_at": "2026-10-25 06:02 CST",
+  "window": "2026-10-25 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-25 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 6,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+          "category": "国内厂商与生态",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-25 的当日条目：Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness。讨论热度 102 分、30 条评论；出处 github.com。",
+          "insight": "该条属于国内厂商与生态方向，当日获得 102 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Five Qwen3.8-27B models match Fable 5 Us",
+              "url": "https://github.com/slee-persis/GVS5H"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-25 的当日条目：Meta employees say Lula’s accounts restricted in Brazil election: Report。讨论热度 110 分、36 条评论；出处 aljazeera.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 110 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "aljazeera.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Meta employees say Lula’s accounts restr",
+              "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report"
+            }
+          ]
+        },
+        {
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-25 的当日条目：Cerebras Deploys Trillion-Parameter AI Models。讨论热度 78 分、24 条评论；出处 cerebras.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 78 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "cerebras.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Cerebras Deploys Trillion-Parameter AI M",
+              "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+            }
+          ]
+        },
+        {
+          "title": "Xbox Turns Down Netflix $500M Offer",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-25 的当日条目：Xbox Turns Down Netflix $500M Offer。讨论热度 74 分、94 条评论；出处 darkhorizons.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 74 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "darkhorizons.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Xbox Turns Down Netflix $500M Offer",
+              "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-25 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.31329"
+            }
+          ]
+        },
+        {
+          "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-25 当日论文归档中的条目：WeVisOne-VL: Unified Visual Perception from Objects to Pixels。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.31329"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

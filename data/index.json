@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-25 06:02 CST",
-  "latest": "2026-10-25",
+  "updated_at": "2026-10-26 06:06 CST",
+  "latest": "2026-10-26",
   "issues": [
+    {
+      "date": "2026-10-26",
+      "issue": "No.040",
+      "weekday": "周一",
+      "headline": "补录 · 2026-10-26 当日可回溯条目",
+      "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+      "items": 6,
+      "sources": 2,
+      "clusters": 6,
+      "url": "archive/2026-10-26.html",
+      "data": "data/2026-10-26.json",
+      "tags": [
+        "#补录",
+        "#模型架构"
+      ],
+      "backfill": true,
+      "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考"
+    },
     {
       "date": "2026-10-25",
       "issue": "No.039",

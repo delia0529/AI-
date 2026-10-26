@@ -1,0 +1,1427 @@
+{
+  "date": "2026-10-26",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 102,
+  "clusters": [
+    {
+      "headline": "cloudflare/security-audit-skill — GitHub Trending",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "单日新增 2,878 stars",
+      "score": 2958.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "title": "cloudflare/security-audit-skill — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "debpalash/VoiceStudio — GitHub Trending",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "单日新增 1,592 stars",
+      "score": 1672.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "title": "debpalash/VoiceStudio — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nutlope/hallmark — GitHub Trending",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "单日新增 1,317 stars",
+      "score": 1397.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Nutlope/hallmark",
+          "title": "Nutlope/hallmark — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "pbakaus/impeccable — GitHub Trending",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "单日新增 1,092 stars",
+      "score": 1172.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/pbakaus/impeccable",
+          "title": "pbakaus/impeccable — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "makecindy/cindy — GitHub Trending",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "单日新增 675 stars",
+      "score": 755.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/makecindy/cindy",
+          "title": "makecindy/cindy — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "pollen-robotics/microduck — GitHub Trending",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "summary": "单日新增 647 stars",
+      "score": 727.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "title": "pollen-robotics/microduck — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "",
+      "score": 596.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "summary": "With today&#x27;s news, I thought I&#x27;d share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”",
+      "score": 575.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://imaginationlibrary.com/",
+          "title": "Dolly Parton's Imagination Library"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "summary": "",
+      "score": 564.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+          "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "",
+      "score": 534.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "summary": "",
+      "score": 525.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TauricResearch/TradingAgents — GitHub Trending",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "单日新增 381 stars",
+      "score": 461.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "title": "TauricResearch/TradingAgents — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "summary": "",
+      "score": 381.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+          "title": "Lula wins election after final votes tallied"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "",
+      "score": 378.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "summary": "",
+      "score": 352.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "title": "Serbia's Vucic concedes election defeat in historic win for student movement"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "",
+      "score": 327.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "",
+      "score": 302.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "summary": "",
+      "score": 294.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/ihhub/fheroes2",
+          "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "",
+      "score": 290.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "title": "JetBrains Thinkrail"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Renhuai123/ziwei-doushu — GitHub Trending",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "summary": "单日新增 199 stars",
+      "score": 279.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "title": "Renhuai123/ziwei-doushu — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AgriciDaniel/claude-seo — GitHub Trending",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "summary": "单日新增 197 stars",
+      "score": 277.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "title": "AgriciDaniel/claude-seo — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "",
+      "score": 276.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+          "title": "Why I Am a Programmer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "summary": "",
+      "score": 271.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "summary": "I was playing around with visualising the S&amp;P 500 by market cap and decided to add employees to each company&#x27;s bubble.<p>What surprised me was how empty some of the biggest companies looked.<p>Nvidia is worth $5.2 trillion but employs only 42,000 people. That&#x27;s around $124 million in market cap per employee. Meanwhile, Accenture employs 814,000 people and is worth $146 billion.<p>Each stick figure represents 10,000 employees. You can zoom in and explore individual companies.<p>I wrote a bit more about what I found here: <a href=\"https:&#x2F;&#x2F;bigwhalehunting.com&#x2F;blog&#x2",
+      "score": 261.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://bigwhalehunting.com/workforce/",
+          "title": "Show HN: I put employees inside S&P 500 market-cap bubbles"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "summary": "",
+      "score": 252.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://loeffelholz-codex.org/en/",
+          "title": "Tool book of a Nuremberg knight from 1505"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "summary": "",
+      "score": 239.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+          "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "coollabsio/coolify — GitHub Trending",
+      "url": "https://github.com/coollabsio/coolify",
+      "summary": "单日新增 152 stars",
+      "score": 232.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/coollabsio/coolify",
+          "title": "coollabsio/coolify — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "",
+      "score": 228.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+          "title": "The State of Context Engineering"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "summary": "",
+      "score": 228.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "title": "Nikon photography contest winner loses title after scientists spot signs of AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "summary": "",
+      "score": 227.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.dreamhoststatus.com/",
+          "title": "Active incident at Dreamhost forcing password reset"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+      "url": "https://twitter.com/freddier/status/2114042326758867453",
+      "summary": "",
+      "score": 226.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/freddier/status/2114042326758867453",
+          "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "",
+      "score": 220.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+          "title": "IBM CEO says open weight models are now good and cheap on-prem"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "summary": "",
+      "score": 216.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.disneyanimation.com/process/",
+          "title": "What goes into making an animated film?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Online censorship is crushing indie webcomics",
+      "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "summary": "",
+      "score": 212.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+          "title": "Online censorship is crushing indie webcomics"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US Wages Share of GDI at 75 Year Low",
+      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+      "summary": "",
+      "score": 193.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+          "title": "US Wages Share of GDI at 75 Year Low"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Proton Flock Camera Map",
+      "url": "https://proton.me/flock-camera-map",
+      "summary": "",
+      "score": 193.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://proton.me/flock-camera-map",
+          "title": "Proton Flock Camera Map"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "iPhone Duo Teardown",
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "summary": "",
+      "score": 186.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+          "title": "iPhone Duo Teardown"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "",
+      "score": 186.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+          "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "summary": "",
+      "score": 186.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+          "title": "Imagine an AI future where being banned means you are now economically useless"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "",
+      "score": 183.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+          "title": "F-Zero X on Nintendo 3DS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "summary": "",
+      "score": 178.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+          "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\""
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What Adobe v ArtCraft teaches us",
+      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "summary": "",
+      "score": 178.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+          "title": "What Adobe v ArtCraft teaches us"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "summary": "",
+      "score": 175.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+          "title": "R/open source bans all solo projects and projects using LLMs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "summary": "",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://titleart.dvy.io/",
+          "title": "Show HN: TitleArt – Make text like it's 1997"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lego collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "summary": "",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+          "title": "Lego collaboration with Daft Punk"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US inequality is getting worse in ways you might not expect",
+      "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+      "summary": "",
+      "score": 166.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+          "title": "US inequality is getting worse in ways you might not expect"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "summary": "",
+      "score": 163.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+          "title": "Where the Romans Fought (interactive map)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "",
+      "score": 162.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://armincat.com/articles/eunice-is-almost-here",
+          "title": "Eunice is almost here"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "summary": "",
+      "score": 160.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arxiv.org/abs/2512.19428",
+          "title": "Attention Is Not What You Need (2025)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "summary": "",
+      "score": 159.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+          "title": "Brazil elections: Lula secures fourth term after dramatic comeback"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Challenge Is Gone",
+      "url": "https://blog.alxgsv.com/challenge-is-gone/",
+      "summary": "",
+      "score": 157.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.alxgsv.com/challenge-is-gone/",
+          "title": "Challenge Is Gone"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "summary": "",
+      "score": 156.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+          "title": "Steal My Bitcoin CTF PoC"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lula Wins Brazilian Election",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+      "summary": "",
+      "score": 153.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+          "title": "Lula Wins Brazilian Election"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A few thoughts on intensity (2024)",
+      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "summary": "",
+      "score": 153.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+          "title": "A few thoughts on intensity (2024)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Farol – A risk map of a pull request for the person who approves it",
+      "url": "https://github.com/winnin/farol",
+      "summary": "",
+      "score": 150.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/winnin/farol",
+          "title": "Show HN: Farol – A risk map of a pull request for the person who approves it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Scientists rediscover how to make ancient Roman colour-changing glass",
+      "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+      "summary": "",
+      "score": 147.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+          "title": "Scientists rediscover how to make ancient Roman colour-changing glass"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "summary": "",
+      "score": 147.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+          "title": "A mathematician reads the AI future"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sabre Wulf Remastered",
+      "url": "https://gp-64.com/swr/",
+      "summary": "",
+      "score": 146.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://gp-64.com/swr/",
+          "title": "Sabre Wulf Remastered"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+          "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "summary": "",
+      "score": 141.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+          "title": "Behind the scenes at the NeXT Computer office"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry"
+        },
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+          "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "India's chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization (Ananta Agarwal/Nikkei Asia)",
+      "url": "https://www.techmeme.com/261026/p3#a261026p3",
+      "summary": "\n Ananta Agarwal / Nikkei Asia:\nIndia's chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization&nbsp; &mdash;&nbsp; BENGALURU &mdash; Propelled by government support, India's chip design startups are nearing commercial production &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261026/p3#a261026p3",
+          "title": "India's chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization (Ananta Agarwal/Nikkei Asia)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
+      "url": "https://www.techmeme.com/261026/p2#a261026p2",
+      "summary": "\n M.G. Siegler / Spyglass:\nAmazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions&nbsp; &mdash;&nbsp; Amazon's quiet, listening AI wearable is also pretty killer?&nbsp; &mdash;&nbsp; I'm not sure people really understand what is coming with AI and wearables.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261026/p2#a261026p2",
+          "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)",
+      "url": "https://www.techmeme.com/261026/p1#a261026p1",
+      "summary": "\n Financial Times:\nA look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China&nbsp; &mdash;&nbsp; Japanese group uses 20 years of research to commercialise intelligent robots&nbsp; &mdash;&nbsp; Toyota is setting its sights on becoming &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261026/p1#a261026p1",
+          "title": "A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)",
+      "url": "https://www.techmeme.com/261025/p16#a261025p16",
+      "summary": "\n Bloomberg:\nReport: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend&nbsp; &mdash;&nbsp; SK Hynix Inc.'s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a hefty dividend payout related &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p16#a261025p16",
+          "title": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)",
+      "url": "https://www.techmeme.com/261025/p15#a261025p15",
+      "summary": "\n Bloomberg:\nHigh-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era&nbsp; &mdash;&nbsp; High-frequency trading firms are even building their own data centers as they compete for an edge in the AI era.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p15#a261025p15",
+          "title": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)",
+      "url": "https://www.techmeme.com/261025/p14#a261025p14",
+      "summary": "\n Michael Roddan / The Information:\nSources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal&nbsp; &mdash;&nbsp; In April 2025, Eric Glyman, co-founder and co-CEO of Ramp, received some bad news: A deal was falling apart.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p14#a261025p14",
+          "title": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)",
+      "url": "https://www.techmeme.com/261025/p13#a261025p13",
+      "summary": "\n Elizabeth Chamberlain / iFixit News:\niPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough&nbsp; &mdash;&nbsp; Apple's folding iPhone finally made it to our teardown table.&nbsp; Some owners' screens didn't make it through setup.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p13#a261025p13",
+          "title": "iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
+      "url": "https://www.techmeme.com/261025/p12#a261025p12",
+      "summary": "\n Terrence O'Brien / The Verge:\nModerators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more&nbsp; &mdash;&nbsp; The opensource subreddit's new rules against AI have sparked a revolt. &hellip; The post made Saturday evening opens by saying &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p12#a261025p12",
+          "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
+      "url": "https://www.techmeme.com/261025/p11#a261025p11",
+      "summary": " Elon Musk / @elonmusk:\nElon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &ldquo;death and consolidation&rdquo;&nbsp; &mdash;&nbsp; Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers. SpaceX closed $40B of debt for GPUs, but we're investment grade and have Starlink &amp; launch revenue. That means...",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p11#a261025p11",
+          "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
+      "url": "https://www.techmeme.com/261025/p10#a261025p10",
+      "summary": "\n Ann Davis Vaughan / The Information:\nData center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &ldquo;delay-in-delivery&rdquo; coverage from brokers like Marsh&nbsp; &mdash;&nbsp; This spring, Mike Mathews, who leads the global digital infrastructure practice at insurance broker Marsh &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p10#a261025p10",
+          "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
+      "url": "https://www.techmeme.com/261025/p9#a261025p9",
+      "summary": "\n Tom Matsuda / Financial Times:\nThe iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions&nbsp; &mdash;&nbsp; Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p9#a261025p9",
+          "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)",
+      "url": "https://www.techmeme.com/261025/p8#a261025p8",
+      "summary": "\n Mark Gurman / Bloomberg:\nSources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used&nbsp; &mdash;&nbsp; Also: The company rolls out a retail store tool to reduce wasted inventory.&nbsp; &mdash;&nbsp; Apple's touch-screen MacBook Pro will arrive on Wednesday &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p8#a261025p8",
+          "title": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
+      "url": "https://www.techmeme.com/261025/p7#a261025p7",
+      "summary": "\n Maria Curi / Axios:\nLawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers&nbsp; &mdash;&nbsp; Washington has always viewed Silicon Valley as culturally strange.&nbsp; But the current crop of AI leaders is becoming &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261025/p7#a261025p7",
+          "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "title": "The hottest AI wearables and gadgets you should know about"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "url": "https://huggingface.co/papers/2610.30932",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.30932",
+          "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+      "url": "https://huggingface.co/papers/2610.31162",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31162",
+          "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "url": "https://huggingface.co/papers/2610.32253",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.32253",
+          "title": "RSIHub: A Composable Framework for Agent-Evolution Methods"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "url": "https://huggingface.co/papers/2610.27103",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.27103",
+          "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RynnUnify: Towards Unified Embodied Brain",
+      "url": "https://huggingface.co/papers/2610.32965",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.32965",
+          "title": "RynnUnify: Towards Unified Embodied Brain"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+      "url": "https://huggingface.co/papers/2610.31066",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31066",
+          "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+      "url": "https://huggingface.co/papers/2610.32250",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.32250",
+          "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models",
+      "url": "https://huggingface.co/papers/2610.31569",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31569",
+          "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FLOMSS: Generative Music Source Separation by Flow Matching",
+      "url": "https://huggingface.co/papers/2610.17821",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.17821",
+          "title": "FLOMSS: Generative Music Source Separation by Flow Matching"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding",
+      "url": "https://huggingface.co/papers/2610.29552",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.29552",
+          "title": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model",
+      "url": "https://huggingface.co/papers/2610.31734",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31734",
+          "title": "DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training",
+      "url": "https://huggingface.co/papers/2610.32909",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.32909",
+          "title": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Every Weight Is a Path of Shared Discrete Decisions",
+      "url": "https://huggingface.co/papers/2610.31931",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31931",
+          "title": "Every Weight Is a Path of Shared Discrete Decisions"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Scott Walker’s The Drift will get under your skin",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "title": "Scott Walker’s The Drift will get under your skin"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Zen Browser is the Arc replacement I was looking for",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+          "title": "Zen Browser is the Arc replacement I was looking for"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+          "title": "Now you can watch Instagram Reels on your Apple TV"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "title": "r/opensource just banned AI, non-English speakers, and more"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "title": "Google’s AI search changes upended online publishing"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI has changed banking — but not the lessons I learnt",
+      "url": "https://www.ft.com/content/16a51be0-ddfd-4e45-ae8b-236d6ff99d63",
+      "summary": "A long career brings experience in human behaviour and institutional politics that is valuable even as tech reshapes industry",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/16a51be0-ddfd-4e45-ae8b-236d6ff99d63",
+          "title": "AI has changed banking — but not the lessons I learnt"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Toyota takes on Tesla and China in humanoid robot race",
+      "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "summary": "Japanese group uses 20 years of research to commercialise intelligent robots",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+          "title": "Toyota takes on Tesla and China in humanoid robot race"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why students in a midterm battleground fear AI will ruin their future",
+      "url": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+      "summary": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+          "title": "Why students in a midterm battleground fear AI will ruin their future"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-29",
+  "issue": "No.043",
+  "weekday": "周四",
+  "generated_at": "2026-10-29 07:00 CST",
+  "window": "2026-10-29 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-29 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 8,
+    "clusters": 8,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-29 的当日条目：MicroZig to Adopt Strict No LLM / No AI Policy。讨论热度 51 分、67 条评论；出处 github.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 51 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · MicroZig to Adopt Strict No LLM / No AI ",
+              "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "index": "03",
+      "name": "国内三巨头与本土生态",
+      "en": "CHINA BIG THREE",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "category": "国内厂商与生态",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-29 的当日条目：Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5。讨论热度 318 分、75 条评论；出处 divagr.com。",
+          "insight": "该条属于国内厂商与生态方向，当日获得 318 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "divagr.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Qwenputer: A functioning, deterministic ",
+              "url": "https://divagr.com/blog/qwenputer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Claude Code regularly sends each background agent’s transcript to its model",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-10-29 的当日条目：Claude Code regularly sends each background agent’s transcript to its model。讨论热度 251 分、76 条评论；出处 gist.github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 251 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "gist.github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Claude Code regularly sends each backgro",
+              "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+            }
+          ]
+        },
+        {
+          "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-29 的当日条目：Richest 0.1% (8M) produce more carbon pollution than 3.5B。讨论热度 84 分、32 条评论；出处 oxfam.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 84 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "oxfam.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Richest 0.1% (8M) produce more carbon po",
+              "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing"
+            }
+          ]
+        },
+        {
+          "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-29 的当日条目：The Milwaukee Brewers win the first World Series title in franchise history。讨论热度 75 分、41 条评论；出处 cnn.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 75 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "cnn.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The Milwaukee Brewers win the first Worl",
+              "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"
+            }
+          ]
+        },
+        {
+          "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-29 的当日条目：New York Times adds more AI features to its Cooking app. Users aren't thrilled。讨论热度 48 分、93 条评论；出处 niemanlab.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 48 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "niemanlab.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · New York Times adds more AI features to ",
+              "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-29 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.35201"
+            }
+          ]
+        },
+        {
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-29 当日论文归档中的条目：DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.35201"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

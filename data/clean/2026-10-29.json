@@ -1,0 +1,1913 @@
+{
+  "date": "2026-10-29",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 138,
+  "clusters": [
+    {
+      "headline": "HKUDS/DeepTutor — GitHub Trending",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "单日新增 2,371 stars",
+      "score": 2451.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "title": "HKUDS/DeepTutor — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "elayadesign/ai-design-skills — GitHub Trending",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "summary": "单日新增 2,139 stars",
+      "score": 2219.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "title": "elayadesign/ai-design-skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nutlope/hallmark — GitHub Trending",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "单日新增 2,110 stars",
+      "score": 2190.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Nutlope/hallmark",
+          "title": "Nutlope/hallmark — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "hmjz100/LinkSwift — GitHub Trending",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "summary": "单日新增 1,616 stars",
+      "score": 1696.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "title": "hmjz100/LinkSwift — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "togg53192-cmd/jailbreaks — GitHub Trending",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "summary": "单日新增 1,477 stars",
+      "score": 1557.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "title": "togg53192-cmd/jailbreaks — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "pbakaus/impeccable — GitHub Trending",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "单日新增 1,472 stars",
+      "score": 1552.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/pbakaus/impeccable",
+          "title": "pbakaus/impeccable — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Evidence of a spying operation by ICE against left-wing social movements",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "summary": "",
+      "score": 1213.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+          "title": "Evidence of a spying operation by ICE against left-wing social movements"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "",
+      "score": 1189.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "title": "Apple's git still trusts the compromised eMudhra certificates"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "obra/superpowers — GitHub Trending",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "单日新增 1,095 stars",
+      "score": 1175.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/obra/superpowers",
+          "title": "obra/superpowers — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JetBrains/thinkrail — GitHub Trending",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "单日新增 1,068 stars",
+      "score": 1148.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "title": "JetBrains/thinkrail — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "summary": "",
+      "score": 1145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "title": "Why is this fingerprinting script creating bioweapons?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "nightly-labs/openbot — GitHub Trending",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "单日新增 1,054 stars",
+      "score": 1134.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/nightly-labs/openbot",
+          "title": "nightly-labs/openbot — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "summary": "",
+      "score": 971.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "title": "Gemini 4 Carbon"
+        },
+        {
+          "name": "deepmind",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "title": "Gemini 4 Carbon: Our next frontier model"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "makecindy/cindy — GitHub Trending",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "单日新增 728 stars",
+      "score": 808.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/makecindy/cindy",
+          "title": "makecindy/cindy — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundb...</a>",
+      "score": 645.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "title": "MacBook Pro with PROLED XDR Display and Touch"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ruvnet/RuView — GitHub Trending",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "单日新增 557 stars",
+      "score": 637.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/ruvnet/RuView",
+          "title": "ruvnet/RuView — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "summary": "",
+      "score": 562.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+          "title": "Emacs Turns 50"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "summary": "",
+      "score": 543.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+          "title": "Kentucky man becomes the first humanist granted religious exemption from AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "summary": "",
+      "score": 541.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://carmelitegothic.com/cnc-stone-carving/",
+          "title": "CNC Stone Carving"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Wealth Inequality in America drawn to scale",
+      "url": "https://dreamagainusa.org/",
+      "summary": "",
+      "score": 422.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dreamagainusa.org/",
+          "title": "Wealth Inequality in America drawn to scale"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "summary": "",
+      "score": 408.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://divagr.com/blog/qwenputer",
+          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "summary": "",
+      "score": 402.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+          "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "summary": "",
+      "score": 386.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "title": "StackOverflow now gets fewer than 1000 questions a month"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "summary": "",
+      "score": 353.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+          "title": "Meta censored the No Kings Instagram account during a nationwide campaign"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "",
+      "score": 340.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+          "title": "Claude Code regularly sends each background agent’s transcript to its model"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "summary": "Previously: <i>Amazon to acquire Globalstar and expand Amazon Leo satellite network</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47775183\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47775183</a> - April 2026 (119 comments)",
+      "score": 319.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+          "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "",
+      "score": 313.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Archive.today links going forward",
+      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "summary": "",
+      "score": 290.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+          "title": "Archive.today links going forward"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "summary": "",
+      "score": 287.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://wiki.alpinebsd.org",
+          "title": "AlpineBSD"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "summary": "",
+      "score": 281.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://furbo.org/2026/10/28/a-health-update/",
+          "title": "A Health Update"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Two high-speed trains collide near Toledo, Spain",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "summary": "",
+      "score": 280.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+          "title": "Two high-speed trains collide near Toledo, Spain"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "summary": "",
+      "score": 252.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+          "title": "Formlabs Studio 1 $699 Resin Printer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "summary": "",
+      "score": 250.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://support.apple.com/en-us/149555",
+          "title": "About the compromised eMudhra intermediate CAs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "summary": "",
+      "score": 235.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "summary": "",
+      "score": 233.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+          "title": "Google AI gets cagey when asked who won the 2020 elections"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "xiaolai/the-craft-of-selfteaching — GitHub Trending",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "summary": "单日新增 148 stars",
+      "score": 228.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "title": "xiaolai/the-craft-of-selfteaching — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Leak website releases data on DHS employees",
+      "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+      "summary": "",
+      "score": 209.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+          "title": "Leak website releases data on DHS employees"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "",
+      "score": 206.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "summary": "",
+      "score": 205.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://cursor.com/blog/agent-sdk",
+          "title": "The Agent SDK"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "macro-inc/macro — GitHub Trending",
+      "url": "https://github.com/macro-inc/macro",
+      "summary": "单日新增 117 stars",
+      "score": 197.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/macro-inc/macro",
+          "title": "macro-inc/macro — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The case of the 9 bit AES key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "summary": "",
+      "score": 193.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+          "title": "The case of the 9 bit AES key"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Spain train crash: 'At least 10 dead' in high-speed collision",
+      "url": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
+      "summary": "",
+      "score": 185.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
+          "title": "Spain train crash: 'At least 10 dead' in high-speed collision"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tesla Semi catches fire on I-880",
+      "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+      "summary": "",
+      "score": 182.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+          "title": "Tesla Semi catches fire on I-880"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "It's now official, tech is the new tobacco",
+      "url": "https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new",
+      "summary": "",
+      "score": 176.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new",
+          "title": "It's now official, tech is the new tobacco"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+      "summary": "",
+      "score": 174.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+          "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "expo/skills — GitHub Trending",
+      "url": "https://github.com/expo/skills",
+      "summary": "单日新增 90 stars",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/expo/skills",
+          "title": "expo/skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+      "url": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+      "summary": "",
+      "score": 167.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+          "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Milwaukee Brewers win the first World Series title in franchise history",
+      "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+      "summary": "",
+      "score": 165.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+          "title": "The Milwaukee Brewers win the first World Series title in franchise history"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Alphabet Announces Third Quarter 2026 Results [pdf]",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+      "summary": "",
+      "score": 165.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+          "title": "Alphabet Announces Third Quarter 2026 Results [pdf]"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "url": "https://slidebyside.com/",
+      "summary": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online.",
+      "score": 159.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://slidebyside.com/",
+          "title": "Show HN: SlideBySide – Present slides without sharing your screen"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+      "url": "https://github.com/thomasunise/casecite",
+      "summary": "",
+      "score": 159.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/thomasunise/casecite",
+          "title": "Harvey raised 500M for legal AI, I built the same and open sourced it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "summary": "",
+      "score": 159.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+          "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Valve Responds to Developers Fearing AI Slop and Clones",
+      "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "summary": "",
+      "score": 155.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+          "title": "Valve Responds to Developers Fearing AI Slop and Clones"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The first wired XR glasses powered by Android XR",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "summary": "",
+      "score": 151.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+          "title": "The first wired XR glasses powered by Android XR"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Scaling Hierarchical Networks",
+      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+      "summary": "",
+      "score": 148.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+          "title": "Scaling Hierarchical Networks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mac Studio M5 Ultra 512GB Officially Released",
+      "url": "https://www.apple.com/shop/buy-mac/mac-studio",
+      "summary": "",
+      "score": 148.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.apple.com/shop/buy-mac/mac-studio",
+          "title": "Mac Studio M5 Ultra 512GB Officially Released"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Suffering as a Feature",
+      "url": "https://blog.codinghorror.com/suffering-as-a-feature/",
+      "summary": "",
+      "score": 148.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.codinghorror.com/suffering-as-a-feature/",
+          "title": "Suffering as a Feature"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "summary": "",
+      "score": 147.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+          "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rising rates of colorectal cancer found in nearly all age groups",
+      "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+          "title": "Rising rates of colorectal cancer found in nearly all age groups"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tell HN: I'm going on strike this November",
+      "url": "https://news.ycombinator.com/item?id=50271808",
+      "summary": "Text too big for this (limit 4000 chars), so I&#x27;ll post in comments.<p>How to join the strike: You simplify inform your employer that you are going on strike. Feel free to send them a link to this thread. Inform them how you feel about your specific situation.<p>There is no need to debate whether you can do this or not. If enough of us do this, it will work.",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=50271808",
+          "title": "Tell HN: I'm going on strike this November"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "summary": "",
+      "score": 141.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+          "title": "MicroZig to Adopt Strict No LLM / No AI Policy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+          "title": "AI execs may be too out of touch to build for the general public"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+          "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Big Tech's thirst for water is sparking a global resistance",
+      "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+          "title": "Big Tech's thirst for water is sparking a global resistance"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon rainforest cut down to build highway for COP climate summit (2025)",
+      "url": "https://www.bbc.com/news/articles/c9vy191rgn1o",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.com/news/articles/c9vy191rgn1o",
+          "title": "Amazon rainforest cut down to build highway for COP climate summit (2025)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety (Olivia Carville/Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p11#a261029p11",
+      "summary": "\n Olivia Carville / Bloomberg:\nHow Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety&nbsp; &mdash;&nbsp; The rain had only just let up when the night shift ended at the Bay Breeze Seafood Restaurant in Lovejoy, Georgia.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p11#a261029p11",
+          "title": "How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety (Olivia Carville/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)",
+      "url": "https://www.techmeme.com/261029/p10#a261029p10",
+      "summary": "\n Reuters:\nSTMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est.&nbsp; &mdash;&nbsp; STMicroelectronics (STMPA.PA) reported a third-quarter operating profit above market expectations on Thursday &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p10#a261029p10",
+          "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p9#a261029p9",
+      "summary": "\n Bloomberg:\nA profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy&nbsp; &mdash;&nbsp; When Pony Ma called Tencent Holdings Ltd.'s AI endeavor &ldquo;a leaky ship&rdquo; this summer, the billionaire founder sent ripples through &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p9#a261029p9",
+          "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)",
+      "url": "https://www.techmeme.com/261029/p8#a261029p8",
+      "summary": "\n Wired:\nBluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was &ldquo;shared without their authorization&rdquo;&nbsp; &mdash;&nbsp; Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p8#a261029p8",
+          "title": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p7#a261029p7",
+      "summary": " Elizabeth Rembert / Bloomberg:\nNational Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs&nbsp; &mdash;&nbsp; Computer and information science departments at US colleges saw an exodus of students this fall, with enrollment declining more than 12% &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p7#a261029p7",
+          "title": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)",
+      "url": "https://www.techmeme.com/261029/p6#a261029p6",
+      "summary": "\n Lauren Forristal / TechCrunch:\nGoogle announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows&nbsp; &mdash;&nbsp; Google is bringing ads in its AI-powered Search experiences to international markets, betting that generative AI can open up new revenue opportunities &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p6#a261029p6",
+          "title": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment (Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p5#a261029p5",
+      "summary": "\n Bloomberg:\nSamsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment&nbsp; &mdash;&nbsp; Samsung Electronics Co. shares reversed earlier gains to slide as much as 6.6% as the lack of a new shareholder return plan in its earnings disappointed investors.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p5#a261029p5",
+          "title": "Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p4#a261029p4",
+      "summary": "\n Bloomberg:\nSamsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers&nbsp; &mdash;&nbsp; Samsung Electronics Co. plans to hike spending more than 60% this year after selling out of high-end chips for 2027 &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p4#a261029p4",
+          "title": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
+      "url": "https://www.techmeme.com/261029/p3#a261029p3",
+      "summary": "\n Simon Sharwood / The Register:\nGoogle's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to &ldquo;lower monetization&rdquo; in AI Mode&nbsp; &mdash;&nbsp; Shares in Google's parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p3#a261029p3",
+          "title": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart (Ville Heiskanen/Bloomberg)",
+      "url": "https://www.techmeme.com/261029/p2#a261029p2",
+      "summary": " Ville Heiskanen / Bloomberg:\nDoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart&nbsp; &mdash;&nbsp; DoorDash Inc., the food delivery provider in talks to take over Instacart, moved its earnings release date forward by almost a week.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p2#a261029p2",
+          "title": "DoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart (Ville Heiskanen/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)",
+      "url": "https://www.techmeme.com/261029/p1#a261029p1",
+      "summary": "\n Chris Metinko / Axios:\nFragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others&nbsp; &mdash;&nbsp; Procurement startup Fragment is exiting stealth with $56 million raised, CEO Pranav Mulgund tells Axios Pro exclusively.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261029/p1#a261029p1",
+          "title": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261028/p65#a261028p65",
+      "summary": "\n Rolfe Winkler / Wall Street Journal:\nHow surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia&nbsp; &mdash;&nbsp; The iPhone maker for years bullied flash-storage makers into steep discounts&mdash;until AI hyperscalers bid up prices and gobbled up supply",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261028/p65#a261028p65",
+          "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)",
+      "url": "https://www.techmeme.com/261028/p64#a261028p64",
+      "summary": "\n Jenny Lee / CNBC:\nSamsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates&nbsp; &mdash;&nbsp; - Samsung Electronics reported third-quarter earnings on Thursday, with operating profit broadly in line with analysts' estimates",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261028/p64#a261028p64",
+          "title": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)",
+      "url": "https://www.techmeme.com/261028/p63#a261028p63",
+      "summary": "\n Carl Franzen / VentureBeat:\nGoogle is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later&nbsp; &mdash;&nbsp; Google announced its latest and most intelligent frontier AI model today: Gemini 4 Carbon promises improvements in cybersecurity &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261028/p63#a261028p63",
+          "title": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system (Wired)",
+      "url": "https://www.techmeme.com/261028/p62#a261028p62",
+      "summary": "\n Wired:\nThe personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system&nbsp; &mdash;&nbsp; The leaked records include the locations of ICE and CBP facilities, workers' cell phone numbers, and the members of groups tied &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261028/p62#a261028p62",
+          "title": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system (Wired)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "title": "The future of the firm"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/legora",
+          "title": "Legora is building the agentic operating system for legal work"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "title": "Google expands AI Search ads globally as core ad growth slows"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’"
+        },
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+          "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+          "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+          "title": "Voice AI in vogue: Nvidia releases new open transcription model"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+          "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506281.html",
+          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506273.html",
+          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "summary": "用扩散模型怎么做做Agent？",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/505934.html",
+          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506246.html",
+          "title": "24万开卖！理想重造i6，李想：目标全球畅销"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "summary": "能连肝数日修Bug，免疫提示词注入",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506227.html",
+          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
+      "summary": "让基建作为常驻buff",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506194.html",
+          "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告"
+        },
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506098.html",
+          "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "威卡：用数据集链接具身智能和工程机械",
+      "url": "https://www.qbitai.com/2026/10/506063.html",
+      "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506063.html",
+          "title": "威卡：用数据集链接具身智能和工程机械"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "url": "https://www.qbitai.com/2026/10/506055.html",
+      "summary": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506055.html",
+          "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "url": "https://www.qbitai.com/2026/10/506042.html",
+      "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/10/506042.html",
+          "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.35201",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.35201",
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "url": "https://huggingface.co/papers/2610.32749",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.32749",
+          "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+      "url": "https://huggingface.co/papers/2610.35684",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.35684",
+          "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "url": "https://huggingface.co/papers/2610.37230",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.37230",
+          "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "url": "https://huggingface.co/papers/2610.31670",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.31670",
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning",
+      "url": "https://huggingface.co/papers/2601.15351",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2601.15351",
+          "title": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+          "title": "A hacker stole more than 40,000 DHS employee records"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+          "title": "Akai is embracing vibe-coded mods with an open-source MPC"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google says its investments in AI are driving more searches",
+      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "title": "Google says its investments in AI are driving more searches"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+          "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US tech stocks set to fall after earnings fuel AI spending concerns",
+      "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+      "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EU can compete with US AI giants, says Brussels’ frontier-model champion",
+      "url": "https://www.ft.com/content/5e343e5c-5e4a-41a7-87b0-4850c77d9aec?syn-25a6b1a6=1",
+      "summary": "Also in this newsletter: Are the EU’s short seller rules fit for purpose?",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5e343e5c-5e4a-41a7-87b0-4850c77d9aec?syn-25a6b1a6=1",
+          "title": "EU can compete with US AI giants, says Brussels’ frontier-model champion"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Copper’s AI-fuelled boom gets a reality check",
+      "url": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6=1",
+      "summary": "Tariff threats from the US may have driven up the price but the industry has shifted spending on the basis of long-term demand",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6=1",
+          "title": "Copper’s AI-fuelled boom gets a reality check"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Museums urged to boost sensory experiences for blind visitors",
+      "url": "https://www.ft.com/content/a8549f8c-7ac3-4504-b107-ca7a1498e1d9?syn-25a6b1a6=1",
+      "summary": "From audio trails to AI tech, projects around the world are elevating interactivity beyond simple Braille labels",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a8549f8c-7ac3-4504-b107-ca7a1498e1d9?syn-25a6b1a6=1",
+          "title": "Museums urged to boost sensory experiences for blind visitors"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why Ghana’s Ananse tales have a story for us all about AI and creativity",
+      "url": "https://www.ft.com/content/b6bd02fe-d72f-45e4-8289-2f0539caadf0",
+      "summary": "The ways whole peoples argue, bargain, joke and tell stories will ultimately prove more powerful than the technology — if we interpret the African spider fables correctly",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b6bd02fe-d72f-45e4-8289-2f0539caadf0",
+          "title": "Why Ghana’s Ananse tales have a story for us all about AI and creativity"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Theatres embrace immersive tech — are they going in too deep?",
+      "url": "https://www.ft.com/content/02449567-f12d-4cfb-99f4-81d0fb375251?syn-25a6b1a6=1",
+      "summary": "Devices such as digital avatars are the modern iteration of age-old stage tricks, but some warn they threaten to overwhelm the storytelling",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/02449567-f12d-4cfb-99f4-81d0fb375251?syn-25a6b1a6=1",
+          "title": "Theatres embrace immersive tech — are they going in too deep?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Will digital technology strike the right chord with musicians?",
+      "url": "https://www.ft.com/content/4836eaaa-dfd3-412e-a3c8-7c11b38f28e4?syn-25a6b1a6=1",
+      "summary": "Musical instruments will always benefit from technical innovations. The challenge is to do it well",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4836eaaa-dfd3-412e-a3c8-7c11b38f28e4?syn-25a6b1a6=1",
+          "title": "Will digital technology strike the right chord with musicians?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Samsung shares slide on lack of detail about investor returns",
+      "url": "https://www.ft.com/content/0d692019-82b6-4d1f-bd4b-8cc85482c976?syn-25a6b1a6=1",
+      "summary": "World’s largest memory-chip maker offers bullish outlook as quarterly profits fall just short of analyst estimates",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0d692019-82b6-4d1f-bd4b-8cc85482c976?syn-25a6b1a6=1",
+          "title": "Samsung shares slide on lack of detail about investor returns"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+      "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "summary": "Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+          "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Microsoft blames data centre delays for lower capital expenditure",
+      "url": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+      "summary": "Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+          "title": "Microsoft blames data centre delays for lower capital expenditure"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Oracle rallies after telling investors its AI bet will pay off sooner than expected",
+      "url": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
+      "summary": "Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
+          "title": "Oracle rallies after telling investors its AI bet will pay off sooner than expected"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Risky business? Why failure may be the new normal",
+      "url": "https://www.ft.com/content/0cd47fb7-6de2-476f-a557-6f9647c9de88?syn-25a6b1a6=1",
+      "summary": "One forecaster thinks only the daring will survive in an AI-run business landscape",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0cd47fb7-6de2-476f-a557-6f9647c9de88?syn-25a6b1a6=1",
+          "title": "Risky business? Why failure may be the new normal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mubadala Capital dealmaker to launch his own venture fund",
+      "url": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1",
+      "summary": "Ibrahim Ajami, a senior executive at the private capital arm of Abu Dhabi’s sovereign wealth fund, is set to leave next year",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1",
+          "title": "Mubadala Capital dealmaker to launch his own venture fund"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI agents need middle managers too",
+      "url": "https://www.ft.com/content/b25a880c-cd64-49d1-ba5f-7d077eb1adac?syn-25a6b1a6=1",
+      "summary": "When the cost of moving and reconciling corporate information collapses, the roles built to perform these functions must change",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b25a880c-cd64-49d1-ba5f-7d077eb1adac?syn-25a6b1a6=1",
+          "title": "AI agents need middle managers too"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+          "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-31",
+  "issue": "No.045",
+  "weekday": "周六",
+  "generated_at": "2026-10-31 06:57 CST",
+  "window": "2026-10-31 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-10-31 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 5 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 5,
+    "items": 5,
+    "clusters": 5,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Tell HN: Scribd Breached",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-31 的当日条目：Tell HN: Scribd Breached。讨论热度 139 分、57 条评论；出处 news.ycombinator.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 139 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "news.ycombinator.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tell HN: Scribd Breached",
+              "url": "https://news.ycombinator.com/item?id=50312756"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI raises less than half of $30B target",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-31 的当日条目：OpenAI raises less than half of $30B target。讨论热度 137 分、115 条评论；出处 wsj.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 137 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wsj.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · OpenAI raises less than half of $30B tar",
+              "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+            }
+          ]
+        },
+        {
+          "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-10-31 的当日条目：Flock camera searches fell 95% after a dispatcher's misconduct was caught。讨论热度 77 分、10 条评论；出处 wkyc.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 77 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wkyc.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Flock camera searches fell 95% after a d",
+              "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-31 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.39633"
+            }
+          ]
+        },
+        {
+          "title": "Intrinsic Distribution Matching",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-10-31 当日论文归档中的条目：Intrinsic Distribution Matching。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.39633"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

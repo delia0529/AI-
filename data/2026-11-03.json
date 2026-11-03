@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-03",
+  "issue": "No.048",
+  "weekday": "周二",
+  "generated_at": "2026-11-03 07:52 CST",
+  "window": "2026-11-03 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-03 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 7,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-03 的当日条目：Intel stock collapse worsens as $3.5T chip rout spreads。讨论热度 194 分、149 条评论；出处 finance.yahoo.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 194 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "finance.yahoo.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Intel stock collapse worsens as $3.5T ch",
+              "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-03 的当日条目：Show HN: Hacker Times, a New York Times-inspired version of Hacker News。讨论热度 199 分、61 条评论；出处 hackertimes.ca。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 199 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "hackertimes.ca"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Show HN: Hacker Times, a New York Times-",
+              "url": "https://hackertimes.ca/"
+            }
+          ]
+        },
+        {
+          "title": "Net worth for people aged 30–33 in the U.S.",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-03 的当日条目：Net worth for people aged 30–33 in the U.S.。讨论热度 186 分、90 条评论；出处 keepingup.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 186 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "keepingup.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Net worth for people aged 30–33 in the U",
+              "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33"
+            }
+          ]
+        },
+        {
+          "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-03 的当日条目：DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs。讨论热度 156 分、35 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 156 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · DiscImageStudio: burn visible artwork on",
+              "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+            }
+          ]
+        },
+        {
+          "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-03 的当日条目：Ask HN: Does anyone have a contact with Cleveland-area Ham club?。讨论热度 129 分、21 条评论；出处 news.ycombinator.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 129 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "news.ycombinator.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Ask HN: Does anyone have a contact with ",
+              "url": "https://news.ycombinator.com/item?id=50346164"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-03 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.00859"
+            }
+          ]
+        },
+        {
+          "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-03 当日论文归档中的条目：Wave Forcing: Towards Speed-of-Light Streaming Video Generation。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.00859"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

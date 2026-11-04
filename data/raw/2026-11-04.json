@@ -1,0 +1,1406 @@
+{
+  "date": "2026-11-04",
+  "fetched_at": "2026-11-04T07:28:27",
+  "items": [
+    {
+      "title": "vercel-labs/agent-desktop — GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.543191+00:00",
+      "summary": "单日新增 3,791 stars",
+      "points": 3791,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "D4Vinci/Scrapling — GitHub Trending",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.544850+00:00",
+      "summary": "单日新增 1,658 stars",
+      "points": 1658,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "hn",
+      "published": "2026-11-03T17:22:37Z",
+      "summary": "",
+      "points": 1192,
+      "_ts": 1793726557,
+      "weight": 0.9
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios — GitHub Trending",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.545246+00:00",
+      "summary": "单日新增 1,182 stars",
+      "points": 1182,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "mattpocock/skills — GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.543692+00:00",
+      "summary": "单日新增 1,164 stars",
+      "points": 1164,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "thedotmack/claude-mem — GitHub Trending",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.542985+00:00",
+      "summary": "单日新增 1,139 stars",
+      "points": 1139,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "source": "hn",
+      "published": "2026-11-03T12:21:17Z",
+      "summary": "",
+      "points": 959,
+      "_ts": 1793708477,
+      "weight": 0.9
+    },
+    {
+      "title": "JustVugg/colibri — GitHub Trending",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.543515+00:00",
+      "summary": "单日新增 802 stars",
+      "points": 802,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "p-e-w/heretic — GitHub Trending",
+      "url": "https://github.com/p-e-w/heretic",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.543858+00:00",
+      "summary": "单日新增 701 stars",
+      "points": 701,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "hn",
+      "published": "2026-11-03T17:40:00Z",
+      "summary": "",
+      "points": 579,
+      "_ts": 1793727600,
+      "weight": 0.9
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "hn",
+      "published": "2026-11-03T16:47:29Z",
+      "summary": "",
+      "points": 530,
+      "_ts": 1793724449,
+      "weight": 0.9
+    },
+    {
+      "title": "shiyu-coder/Kronos — GitHub Trending",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.545033+00:00",
+      "summary": "单日新增 503 stars",
+      "points": 503,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "floci-io/floci — GitHub Trending",
+      "url": "https://github.com/floci-io/floci",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.544235+00:00",
+      "summary": "单日新增 482 stars",
+      "points": 482,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "source": "hn",
+      "published": "2026-11-03T15:29:15Z",
+      "summary": "",
+      "points": 467,
+      "_ts": 1793719755,
+      "weight": 0.9
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "source": "hn",
+      "published": "2026-11-03T07:56:21Z",
+      "summary": "",
+      "points": 465,
+      "_ts": 1793692581,
+      "weight": 0.9
+    },
+    {
+      "title": "max-sixty/worktrunk — GitHub Trending",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.543352+00:00",
+      "summary": "单日新增 438 stars",
+      "points": 438,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "anomalyco/hex — GitHub Trending",
+      "url": "https://github.com/anomalyco/hex",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.544605+00:00",
+      "summary": "单日新增 410 stars",
+      "points": 410,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "source": "hn",
+      "published": "2026-11-03T21:39:05Z",
+      "summary": "",
+      "points": 399,
+      "_ts": 1793741945,
+      "weight": 0.9
+    },
+    {
+      "title": "Mac at any scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "source": "hn",
+      "published": "2026-11-03T14:53:42Z",
+      "summary": "",
+      "points": 367,
+      "_ts": 1793717622,
+      "weight": 0.9
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "source": "hn",
+      "published": "2026-11-03T21:26:44Z",
+      "summary": "",
+      "points": 331,
+      "_ts": 1793741204,
+      "weight": 0.9
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "hn",
+      "published": "2026-11-03T21:40:53Z",
+      "summary": "",
+      "points": 318,
+      "_ts": 1793742053,
+      "weight": 0.9
+    },
+    {
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+      "source": "hn",
+      "published": "2026-11-03T15:38:04Z",
+      "summary": "",
+      "points": 258,
+      "_ts": 1793720284,
+      "weight": 0.9
+    },
+    {
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "source": "hn",
+      "published": "2026-11-04T00:33:22Z",
+      "summary": "",
+      "points": 243,
+      "_ts": 1793752402,
+      "weight": 0.9
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "source": "hn",
+      "published": "2026-11-03T21:51:06Z",
+      "summary": "",
+      "points": 238,
+      "_ts": 1793742666,
+      "weight": 0.9
+    },
+    {
+      "title": "Usagi-org/ai-goofish-monitor — GitHub Trending",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.544423+00:00",
+      "summary": "单日新增 228 stars",
+      "points": 228,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "source": "hn",
+      "published": "2026-11-03T19:32:13Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;docs.flipper.net&#x2F;one\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.flipper.net&#x2F;one</a>",
+      "points": 200,
+      "_ts": 1793734333,
+      "weight": 0.9
+    },
+    {
+      "title": "Revolut moves to self-hosted GLM",
+      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "source": "hn",
+      "published": "2026-11-03T09:53:59Z",
+      "summary": "",
+      "points": 189,
+      "_ts": 1793699639,
+      "weight": 0.9
+    },
+    {
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "source": "hn",
+      "published": "2026-11-03T14:14:12Z",
+      "summary": "",
+      "points": 173,
+      "_ts": 1793715252,
+      "weight": 0.9
+    },
+    {
+      "title": "I dumped Apple’s word list",
+      "url": "https://helgesver.re/articles/macos-vulgar-word-flags",
+      "source": "hn",
+      "published": "2026-11-03T20:33:23Z",
+      "summary": "",
+      "points": 147,
+      "_ts": 1793738003,
+      "weight": 0.9
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "source": "hn",
+      "published": "2026-11-03T18:11:11Z",
+      "summary": "",
+      "points": 143,
+      "_ts": 1793729471,
+      "weight": 0.9
+    },
+    {
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "source": "hn",
+      "published": "2026-11-04T03:40:50Z",
+      "summary": "",
+      "points": 138,
+      "_ts": 1793763650,
+      "weight": 0.9
+    },
+    {
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "source": "hn",
+      "published": "2026-11-03T07:36:47Z",
+      "summary": "",
+      "points": 133,
+      "_ts": 1793691407,
+      "weight": 0.9
+    },
+    {
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "source": "hn",
+      "published": "2026-11-03T19:27:53Z",
+      "summary": "",
+      "points": 127,
+      "_ts": 1793734073,
+      "weight": 0.9
+    },
+    {
+      "title": "AI is destroying my CS degree",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "source": "hn",
+      "published": "2026-11-03T15:35:06Z",
+      "summary": "",
+      "points": 123,
+      "_ts": 1793720106,
+      "weight": 0.9
+    },
+    {
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "source": "hn",
+      "published": "2026-11-03T12:42:30Z",
+      "summary": "",
+      "points": 116,
+      "_ts": 1793709750,
+      "weight": 0.9
+    },
+    {
+      "title": "Bear turns 10, and it still feels like day one",
+      "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+      "source": "hn",
+      "published": "2026-11-03T15:41:46Z",
+      "summary": "",
+      "points": 111,
+      "_ts": 1793720506,
+      "weight": 0.9
+    },
+    {
+      "title": "Quili AI",
+      "url": "https://www.quili.ai/",
+      "source": "hn",
+      "published": "2026-11-03T15:49:02Z",
+      "summary": "",
+      "points": 98,
+      "_ts": 1793720942,
+      "weight": 0.9
+    },
+    {
+      "title": "Democrats win control of the House of Representatives",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397",
+      "source": "hn",
+      "published": "2026-11-04T03:36:23Z",
+      "summary": "",
+      "points": 96,
+      "_ts": 1793763383,
+      "weight": 0.9
+    },
+    {
+      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+      "url": "https://jivx.com/yt",
+      "source": "hn",
+      "published": "2026-11-03T14:41:02Z",
+      "summary": "",
+      "points": 96,
+      "_ts": 1793716862,
+      "weight": 0.9
+    },
+    {
+      "title": "Google researchers demand freedom to tell the world what they know about AI",
+      "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+      "source": "hn",
+      "published": "2026-11-03T17:55:26Z",
+      "summary": "",
+      "points": 89,
+      "_ts": 1793728526,
+      "weight": 0.9
+    },
+    {
+      "title": "Binance hackers used fake job interview to breach PC before $6.3B attack",
+      "url": "https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/",
+      "source": "hn",
+      "published": "2026-11-03T16:10:43Z",
+      "summary": "",
+      "points": 89,
+      "_ts": 1793722243,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "source": "hn",
+      "published": "2026-11-03T21:16:48Z",
+      "summary": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.<p>1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models su",
+      "points": 85,
+      "_ts": 1793740608,
+      "weight": 0.9
+    },
+    {
+      "title": "Getting hit with \"Prove you are a human\" at every other website",
+      "url": "https://news.ycombinator.com/item?id=50355959",
+      "source": "hn",
+      "published": "2026-11-03T18:22:22Z",
+      "summary": "I click on websites posted here to read the articles and every other one of them requires me to solve some fking puzzle or click on a checkbox or some other bullshit. With cloudflare acting like a bouncer at almost 50-60% of the pages and the weird anime girl on 10-20% of the pages doing some fuck all calculations on my browser and google capctha requiring me to play the damn select crosswalks which is impossible to get correct in tbe first try. I am tired and sick of it. I dont even bother anymore I close the browser page and move on nowadays. Or just come back read the comments on hn for tha",
+      "points": 81,
+      "_ts": 1793730142,
+      "weight": 0.9
+    },
+    {
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "source": "hn",
+      "published": "2026-11-03T11:16:07Z",
+      "summary": "",
+      "points": 81,
+      "_ts": 1793704567,
+      "weight": 0.9
+    },
+    {
+      "title": "spotify/portal-ai-plugins — GitHub Trending",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "source": "github_trending",
+      "published": "2026-11-04T07:28:22.544008+00:00",
+      "summary": "单日新增 91 stars",
+      "points": 91,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+      "source": "hn",
+      "published": "2026-11-03T21:25:48Z",
+      "summary": "",
+      "points": 72,
+      "_ts": 1793741148,
+      "weight": 0.9
+    },
+    {
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "source": "hn",
+      "published": "2026-11-04T06:00:30Z",
+      "summary": "",
+      "points": 70,
+      "_ts": 1793772030,
+      "weight": 0.9
+    },
+    {
+      "title": "Snapchat Is Harming Children at an Industrial Scale (2025)",
+      "url": "https://www.afterbabel.com/p/industrial-scale-snapchat",
+      "source": "hn",
+      "published": "2026-11-03T16:59:19Z",
+      "summary": "",
+      "points": 70,
+      "_ts": 1793725159,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+      "url": "https://hissingkitty.com/hacker-churn",
+      "source": "hn",
+      "published": "2026-11-03T15:41:52Z",
+      "summary": "",
+      "points": 70,
+      "_ts": 1793720512,
+      "weight": 0.9
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "source": "hn",
+      "published": "2026-11-04T01:40:42Z",
+      "summary": "",
+      "points": 68,
+      "_ts": 1793756442,
+      "weight": 0.9
+    },
+    {
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "source": "hn",
+      "published": "2026-11-03T19:25:18Z",
+      "summary": "",
+      "points": 68,
+      "_ts": 1793733918,
+      "weight": 0.9
+    },
+    {
+      "title": "Tiny Basic for Arduino",
+      "url": "https://dilshan.github.io/tiny-basic/",
+      "source": "hn",
+      "published": "2026-11-03T15:17:07Z",
+      "summary": "",
+      "points": 66,
+      "_ts": 1793719027,
+      "weight": 0.9
+    },
+    {
+      "title": "No Vehicles in the Park",
+      "url": "https://novehiclesinthepark.com/",
+      "source": "hn",
+      "published": "2026-11-03T09:21:14Z",
+      "summary": "",
+      "points": 66,
+      "_ts": 1793697674,
+      "weight": 0.9
+    },
+    {
+      "title": "The AI Bubble Monitor",
+      "url": "https://cepr.net/publications/ai-bubble-monitor/",
+      "source": "hn",
+      "published": "2026-11-03T14:51:31Z",
+      "summary": "",
+      "points": 65,
+      "_ts": 1793717491,
+      "weight": 0.9
+    },
+    {
+      "title": "Handles are the better pointers (2018)",
+      "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+      "source": "hn",
+      "published": "2026-11-03T14:54:30Z",
+      "summary": "",
+      "points": 62,
+      "_ts": 1793717670,
+      "weight": 0.9
+    },
+    {
+      "title": "Apple opens the door to a nightmare world of always-listening tech",
+      "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+      "source": "hn",
+      "published": "2026-11-03T20:25:05Z",
+      "summary": "",
+      "points": 60,
+      "_ts": 1793737505,
+      "weight": 0.9
+    },
+    {
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "source": "hn",
+      "published": "2026-11-04T03:20:13Z",
+      "summary": "",
+      "points": 59,
+      "_ts": 1793762413,
+      "weight": 0.9
+    },
+    {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "source": "hn",
+      "published": "2026-11-03T12:58:43Z",
+      "summary": "",
+      "points": 59,
+      "_ts": 1793710723,
+      "weight": 0.9
+    },
+    {
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "source": "hn",
+      "published": "2026-11-03T14:45:47Z",
+      "summary": "",
+      "points": 58,
+      "_ts": 1793717147,
+      "weight": 0.9
+    },
+    {
+      "title": "$20M in Fines and Vizio Smart TVs Opt Out of Spying Option Does Nothing",
+      "url": "https://pcper.com/2026/11/20-million-in-fines-and-still-vizio-smart-tvs-opt-out-of-spying-option-does-nothing/",
+      "source": "hn",
+      "published": "2026-11-03T19:52:07Z",
+      "summary": "",
+      "points": 56,
+      "_ts": 1793735527,
+      "weight": 0.9
+    },
+    {
+      "title": "Proton Colleagues, Unionize Now",
+      "url": "https://molecule.build/",
+      "source": "hn",
+      "published": "2026-11-03T17:32:32Z",
+      "summary": "",
+      "points": 55,
+      "_ts": 1793727152,
+      "weight": 0.9
+    },
+    {
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "url": "https://github.com/Muvon/octomind",
+      "source": "hn",
+      "published": "2026-11-03T15:02:58Z",
+      "summary": "",
+      "points": 53,
+      "_ts": 1793718178,
+      "weight": 0.9
+    },
+    {
+      "title": "Pratt parsing is a black box",
+      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "source": "hn",
+      "published": "2026-11-03T20:07:41Z",
+      "summary": "",
+      "points": 51,
+      "_ts": 1793736461,
+      "weight": 0.9
+    },
+    {
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "url": "https://arxiv.org/abs/2611.02618",
+      "source": "hn",
+      "published": "2026-11-03T16:40:02Z",
+      "summary": "",
+      "points": 47,
+      "_ts": 1793724002,
+      "weight": 0.9
+    },
+    {
+      "title": "Google Will Turn Off Search for Schools That Reject A.I",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "hn",
+      "published": "2026-11-03T16:15:53Z",
+      "summary": "",
+      "points": 45,
+      "_ts": 1793722553,
+      "weight": 0.9
+    },
+    {
+      "title": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
+      "url": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+      "source": "hn",
+      "published": "2026-11-03T19:12:22Z",
+      "summary": "",
+      "points": 43,
+      "_ts": 1793733142,
+      "weight": 0.9
+    },
+    {
+      "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+      "url": "https://www.techmeme.com/261104/p7#a261104p7",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 02:20:02 -0500",
+      "summary": "\n Reuters:\nITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI&nbsp; &mdash;&nbsp; After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge &hellip; ",
+      "points": 0,
+      "_ts": 1793776802,
+      "weight": 1.0
+    },
+    {
+      "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback (Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p6#a261104p6",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 01:55:07 -0500",
+      "summary": "\n Bloomberg:\nDemocratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback&nbsp; &mdash;&nbsp; Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing &hellip; ",
+      "points": 0,
+      "_ts": 1793775307,
+      "weight": 1.0
+    },
+    {
+      "title": "AMD projects ~$17B in Q4 2026 revenue, compared to Intel's $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time (Simon Sharwood/The Register)",
+      "url": "https://www.techmeme.com/261104/p5#a261104p5",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 01:35:00 -0500",
+      "summary": "\n Simon Sharwood / The Register:\nAMD projects ~$17B in Q4 2026 revenue, compared to Intel's $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time&nbsp; &mdash;&nbsp; AMD has predicted it will win more revenue than Intel in its next quarter, potentially marking the first time it becomes &hellip; ",
+      "points": 0,
+      "_ts": 1793774100,
+      "weight": 1.0
+    },
+    {
+      "title": "India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)",
+      "url": "https://www.techmeme.com/261104/p4#a261104p4",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 01:25:00 -0500",
+      "summary": "\n Ivan Mehta / TechCrunch:\nIndia-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation&nbsp; &mdash;&nbsp; More than 118 million users watch microdramas every month as the serialized format has taken off in India.",
+      "points": 0,
+      "_ts": 1793773500,
+      "weight": 1.0
+    },
+    {
+      "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p3#a261104p3",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 01:15:04 -0500",
+      "summary": "\n Bloomberg:\nA Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto&nbsp; &mdash;&nbsp; Global markets pared a selloff sparked by a Democratic sweep of the US Congress, as investors weighed tougher scrutiny &hellip; ",
+      "points": 0,
+      "_ts": 1793772904,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
+      "url": "https://www.techmeme.com/261104/p2#a261104p2",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 01:05:02 -0500",
+      "summary": "\n Financial Times:\nSources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration&nbsp; &mdash;&nbsp; Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants.",
+      "points": 0,
+      "_ts": 1793772302,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p1#a261104p1",
+      "source": "techmeme",
+      "published": "Wed, 04 Nov 2026 00:55:00 -0500",
+      "summary": "\n Bloomberg:\nSources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months&nbsp; &mdash;&nbsp; Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they've ordered over the next several months &hellip; ",
+      "points": 0,
+      "_ts": 1793771700,
+      "weight": 1.0
+    },
+    {
+      "title": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)",
+      "url": "https://www.techmeme.com/261103/p49#a261103p49",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 23:40:01 -0500",
+      "summary": "\n Mario Gabriele / The Generalist:\nQ&amp;A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more&nbsp; &mdash;&nbsp; Inside Simile with Joon Sung Park. &hellip; Before Joon Sung Park and I had ever met, he simulated the conversation.",
+      "points": 0,
+      "_ts": 1793767201,
+      "weight": 1.0
+    },
+    {
+      "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261103/p48#a261103p48",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 23:20:01 -0500",
+      "summary": "\n Xavier Martinez / Wall Street Journal:\nPharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs&nbsp; &mdash;&nbsp; No drug designed by artificial intelligence has won FDA clearance, and pharma leaders say biology is the obstacle",
+      "points": 0,
+      "_ts": 1793766001,
+      "weight": 1.0
+    },
+    {
+      "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)",
+      "url": "https://www.techmeme.com/261103/p47#a261103p47",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 22:55:01 -0500",
+      "summary": "\n Bloomberg:\nMeta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering&nbsp; &mdash;&nbsp; Meta Platforms Inc. raised $15 billion from a US dollar bond sale, drawing solid demand as it became the latest Big Tech company &hellip; ",
+      "points": 0,
+      "_ts": 1793764501,
+      "weight": 1.0
+    },
+    {
+      "title": "California accepts $1.42B in federal broadband funding, but challenges the Trump administration's demand that it stop enforcing state net neutrality rules (Jon Brodkin/Ars Technica)",
+      "url": "https://www.techmeme.com/261103/p46#a261103p46",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 21:40:01 -0500",
+      "summary": "\n Jon Brodkin / Ars Technica:\nCalifornia accepts $1.42B in federal broadband funding, but challenges the Trump administration's demand that it stop enforcing state net neutrality rules&nbsp; &mdash;&nbsp; California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting &hellip; ",
+      "points": 0,
+      "_ts": 1793760001,
+      "weight": 1.0
+    },
+    {
+      "title": "Q&A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more (Katie Drummond/Wired)",
+      "url": "https://www.techmeme.com/261103/p45#a261103p45",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 20:45:01 -0500",
+      "summary": "\n Katie Drummond / Wired:\nQ&amp;A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more&nbsp; &mdash;&nbsp; Ahead of the midterms, WIRED talked to New York City's mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "points": 0,
+      "_ts": 1793756701,
+      "weight": 1.0
+    },
+    {
+      "title": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)",
+      "url": "https://www.techmeme.com/261103/p44#a261103p44",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 20:10:05 -0500",
+      "summary": "\n Isabel O'Brien / CNBC:\nFollowing backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually&nbsp; &mdash;&nbsp; Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial intelligence in schools.",
+      "points": 0,
+      "_ts": 1793754605,
+      "weight": 1.0
+    },
+    {
+      "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+      "url": "https://www.techmeme.com/261103/p43#a261103p43",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 19:40:00 -0500",
+      "summary": "\n Stephen Council / Business Insider:\nCat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month&nbsp; &mdash;&nbsp; - Cat Wu, who helped scale Claude Code into one of tech's most important products, has left Anthropic.&nbsp; &mdash; She joined the startup in 2024 &hellip; ",
+      "points": 0,
+      "_ts": 1793752800,
+      "weight": 1.0
+    },
+    {
+      "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+      "url": "https://www.techmeme.com/261103/p42#a261103p42",
+      "source": "techmeme",
+      "published": "Tue, 03 Nov 2026 19:20:01 -0500",
+      "summary": "\n The Information:\nHow Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia&nbsp; &mdash;&nbsp; Last month, OpenAI Senior Research Scientist Noam Brown posted a link in a company Slack channel to a news story &hellip; ",
+      "points": 0,
+      "_ts": 1793751601,
+      "weight": 1.0
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "openai",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "points": 0,
+      "_ts": 1793707200,
+      "weight": 1.0
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "openai",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "points": 0,
+      "_ts": 1793692800,
+      "weight": 1.0
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "openai",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "points": 0,
+      "_ts": 1793692800,
+      "weight": 1.0
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "points": 0,
+      "_ts": 1793745663,
+      "weight": 0.9
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "points": 0,
+      "_ts": 1793744393,
+      "weight": 0.9
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "points": 0,
+      "_ts": 1793742188,
+      "weight": 0.9
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "points": 0,
+      "_ts": 1793739955,
+      "weight": 0.9
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "points": 0,
+      "_ts": 1793734483,
+      "weight": 0.9
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "points": 0,
+      "_ts": 1793731336,
+      "weight": 0.9
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "points": 0,
+      "_ts": 1793725621,
+      "weight": 0.9
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "points": 0,
+      "_ts": 1793723434,
+      "weight": 0.9
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "points": 0,
+      "_ts": 1793720307,
+      "weight": 0.9
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "points": 0,
+      "_ts": 1793716200,
+      "weight": 0.9
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "techcrunch_ai",
+      "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "points": 0,
+      "_ts": 1793714400,
+      "weight": 0.9
+    },
+    {
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "source": "qbitai",
+      "published": "Wed, 04 Nov 2026 02:49:02 +0000",
+      "summary": "长视频记忆精度飙升，问答时延最高降97%",
+      "points": 0,
+      "_ts": 1793760542,
+      "weight": 0.9
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "source": "qbitai",
+      "published": "Tue, 03 Nov 2026 13:57:11 +0000",
+      "summary": "AI接管调度运营，仓库越干越聪明",
+      "points": 0,
+      "_ts": 1793714231,
+      "weight": 0.9
+    },
+    {
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "url": "https://www.qbitai.com/2026/11/507473.html",
+      "source": "qbitai",
+      "published": "Tue, 03 Nov 2026 12:57:35 +0000",
+      "summary": "两位CTO，关起门来吵架",
+      "points": 0,
+      "_ts": 1793710655,
+      "weight": 0.9
+    },
+    {
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "source": "qbitai",
+      "published": "Tue, 03 Nov 2026 11:13:49 +0000",
+      "summary": "AI的下一程是生产力系统之争",
+      "points": 0,
+      "_ts": 1793704429,
+      "weight": 0.9
+    },
+    {
+      "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+      "url": "https://huggingface.co/papers/2611.04916",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686171+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+      "url": "https://huggingface.co/papers/2611.02737",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686194+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+      "url": "https://huggingface.co/papers/2611.03233",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686206+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+      "url": "https://huggingface.co/papers/2611.00617",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686223+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild",
+      "url": "https://huggingface.co/papers/2611.02497",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686234+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2611.05036",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686244+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction",
+      "url": "https://huggingface.co/papers/2611.05280",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686254+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "url": "https://huggingface.co/papers/2611.05275",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686268+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
+      "url": "https://huggingface.co/papers/2610.39813",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686282+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2611.02501",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686290+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "url": "https://huggingface.co/papers/2611.05377",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686301+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks",
+      "url": "https://huggingface.co/papers/2611.04418",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686309+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost",
+      "url": "https://huggingface.co/papers/2611.02079",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686323+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "url": "https://huggingface.co/papers/2611.03634",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686329+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+      "url": "https://huggingface.co/papers/2610.40753",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686340+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
+      "url": "https://huggingface.co/papers/2611.04035",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686351+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+      "url": "https://huggingface.co/papers/2611.04870",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686359+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery",
+      "url": "https://huggingface.co/papers/2610.39714",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686369+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+      "url": "https://huggingface.co/papers/2610.40747",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686380+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",
+      "url": "https://huggingface.co/papers/2611.04303",
+      "source": "hf_papers",
+      "published": "2026-11-04T07:28:22.686388+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1793777302,
+      "weight": 0.8
+    },
+    {
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "source": "theverge",
+      "published": "2026-11-03T20:15:34-05:00",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [&#8230;]",
+      "points": 0,
+      "_ts": 1793754934,
+      "weight": 0.8
+    },
+    {
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "source": "theverge",
+      "published": "2026-11-03T20:02:53-05:00",
+      "summary": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and [&#8230;]",
+      "points": 0,
+      "_ts": 1793754173,
+      "weight": 0.8
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "theverge",
+      "published": "2026-11-03T19:42:10-05:00",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+      "points": 0,
+      "_ts": 1793752930,
+      "weight": 0.8
+    },
+    {
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "theverge",
+      "published": "2026-11-03T18:37:45-05:00",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+      "points": 0,
+      "_ts": 1793749065,
+      "weight": 0.8
+    },
+    {
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "source": "theverge",
+      "published": "2026-11-03T17:59:36-05:00",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have [&#8230;]",
+      "points": 0,
+      "_ts": 1793746776,
+      "weight": 0.8
+    },
+    {
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "source": "theverge",
+      "published": "2026-11-03T17:20:50-05:00",
+      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you [&#8230;]",
+      "points": 0,
+      "_ts": 1793744450,
+      "weight": 0.8
+    },
+    {
+      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+      "source": "theverge",
+      "published": "2026-11-03T17:15:33-05:00",
+      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times [&#8230;]",
+      "points": 0,
+      "_ts": 1793744133,
+      "weight": 0.8
+    },
+    {
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "source": "theverge",
+      "published": "2026-11-03T17:04:02-05:00",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [&#8230;]",
+      "points": 0,
+      "_ts": 1793743442,
+      "weight": 0.8
+    },
+    {
+      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+      "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+      "source": "theverge",
+      "published": "2026-11-03T16:21:04-05:00",
+      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next [&#8230;]",
+      "points": 0,
+      "_ts": 1793740864,
+      "weight": 0.8
+    },
+    {
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "source": "theverge",
+      "published": "2026-11-03T16:01:07-05:00",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved [&#8230;]",
+      "points": 0,
+      "_ts": 1793739667,
+      "weight": 0.8
+    },
+    {
+      "title": "The economic risks of the AI boom",
+      "url": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 04 Nov 2026 05:00:18 GMT",
+      "summary": "The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends",
+      "points": 0,
+      "_ts": 1793768418,
+      "weight": 0.8
+    },
+    {
+      "title": "AI cyber breach of a bank is a matter of when, not if",
+      "url": "https://www.ft.com/content/41f0e298-42f9-4bb5-8a48-090db4d493ef",
+      "source": "ft_tech",
+      "published": "Wed, 04 Nov 2026 05:00:18 GMT",
+      "summary": "Binance hack is a warning of potentially far worse things to come",
+      "points": 0,
+      "_ts": 1793768418,
+      "weight": 0.8
+    },
+    {
+      "title": "Accenture accused of publishing AI paper littered with AI hallucinations",
+      "url": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 04 Nov 2026 05:00:09 GMT",
+      "summary": "Consultancy says it will correct report but blames ‘human error’ for problems",
+      "points": 0,
+      "_ts": 1793768409,
+      "weight": 0.8
+    },
+    {
+      "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
+      "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 04 Nov 2026 05:00:09 GMT",
+      "summary": "Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants",
+      "points": 0,
+      "_ts": 1793768409,
+      "weight": 0.8
+    },
+    {
+      "title": "Behind Musk and Zuckerberg’s decade-long efforts to repel investor lawsuits",
+      "url": "https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Wed, 04 Nov 2026 05:00:09 GMT",
+      "summary": "SpaceX-Tesla merger and Meta’s new share class expected to fend off legal challenges after shareholder rights diminished in Delaware and Texas",
+      "points": 0,
+      "_ts": 1793768409,
+      "weight": 0.8
+    },
+    {
+      "title": "A chill wind in the AI credit market",
+      "url": "https://www.ft.com/content/5f08f1fb-4948-4420-8fe4-3c8c8cc492ef?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 03 Nov 2026 18:18:22 GMT",
+      "summary": "Investors are demanding more to finance the data centre boom",
+      "points": 0,
+      "_ts": 1793729902,
+      "weight": 0.8
+    },
+    {
+      "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
+      "url": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 03 Nov 2026 17:00:20 GMT",
+      "summary": "Crypto exchange’s internal investigation reveals the role of human error in the biggest theft in history",
+      "points": 0,
+      "_ts": 1793725220,
+      "weight": 0.8
+    },
+    {
+      "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+      "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 03 Nov 2026 14:48:05 GMT",
+      "summary": "Shares in iPhone maker slip as warning overshadows forecast for robust sales during the key holiday season",
+      "points": 0,
+      "_ts": 1793717285,
+      "weight": 0.8
+    },
+    {
+      "title": "Our current AI moment has darker historical echoes",
+      "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
+      "source": "ft_tech",
+      "published": "Tue, 03 Nov 2026 11:40:10 GMT",
+      "summary": "If you are looking for past instances of transformative capitalist mobilisation, you need to consider the age of empire",
+      "points": 0,
+      "_ts": 1793706010,
+      "weight": 0.8
+    },
+    {
+      "title": "How did dozens of supermarket freezers get hacked?",
+      "url": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Tue, 03 Nov 2026 10:01:21 GMT",
+      "summary": "Temperatures were turned up remotely to as high as 55C ruining food worth millions of euros",
+      "points": 0,
+      "_ts": 1793700081,
+      "weight": 0.8
+    },
+    {
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "source": "nvidia_blog",
+      "published": "Tue, 03 Nov 2026 16:00:45 +0000",
+      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [&#8230;]",
+      "points": 0,
+      "_ts": 1793721645,
+      "weight": 0.7
+    }
+  ]
+}

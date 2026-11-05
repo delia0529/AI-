@@ -1,0 +1,2221 @@
+{
+  "date": "2026-11-05",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 160,
+  "clusters": [
+    {
+      "headline": "vercel-labs/agent-desktop — GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "summary": "单日新增 2,470 stars",
+      "score": 2550.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "title": "vercel-labs/agent-desktop — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "NVIDIA/auto-ontology — GitHub Trending",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "单日新增 2,050 stars",
+      "score": 2130.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "title": "NVIDIA/auto-ontology — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "D4Vinci/Scrapling — GitHub Trending",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "单日新增 2,005 stars",
+      "score": 2085.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "title": "D4Vinci/Scrapling — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JiaFeiMiao-K-Cat/DiscImageStudio — GitHub Trending",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "summary": "单日新增 1,778 stars",
+      "score": 1858.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "title": "JiaFeiMiao-K-Cat/DiscImageStudio — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mattpocock/skills — GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "单日新增 1,379 stars",
+      "score": 1459.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mattpocock/skills",
+          "title": "mattpocock/skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "",
+      "score": 1254.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "title": "AI is forcing us to pay off 40 years of technical debt"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "thedotmack/claude-mem — GitHub Trending",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "单日新增 1,172 stars",
+      "score": 1252.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "title": "thedotmack/claude-mem — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "floci-io/floci — GitHub Trending",
+      "url": "https://github.com/floci-io/floci",
+      "summary": "单日新增 1,090 stars",
+      "score": 1170.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/floci-io/floci",
+          "title": "floci-io/floci — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "",
+      "score": 1041.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "title": "Residential proxies detected on White House network"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "github/spec-kit — GitHub Trending",
+      "url": "https://github.com/github/spec-kit",
+      "summary": "单日新增 808 stars",
+      "score": 888.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/github/spec-kit",
+          "title": "github/spec-kit — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "harry0703/MoneyPrinterTurbo — GitHub Trending",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "单日新增 617 stars",
+      "score": 697.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "title": "harry0703/MoneyPrinterTurbo — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "summary": "",
+      "score": 691.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+          "title": "North Korean fake job interview led to $6.3B Binance heist"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "",
+      "score": 689.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "summary": "",
+      "score": 620.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "max-sixty/worktrunk — GitHub Trending",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "summary": "单日新增 531 stars",
+      "score": 611.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "title": "max-sixty/worktrunk — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "",
+      "score": 585.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "title": "Kimi K3.1 Pro model weights are out"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "summary": "",
+      "score": 462.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+          "title": "Kitty 0.50"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FareedKhan-dev/kimi-k3-in-c — GitHub Trending",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "summary": "单日新增 351 stars",
+      "score": 431.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+          "title": "FareedKhan-dev/kimi-k3-in-c — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US voters roundly reject data centers in ballot measures",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "summary": "",
+      "score": 416.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+          "title": "US voters roundly reject data centers in ballot measures"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "summary": "",
+      "score": 394.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "title": "Geoffrey Hinton: it might turn out we were better off without AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "summary": "",
+      "score": 383.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://go.dev/blog/jsonv2",
+          "title": "A new Go API for JSON"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "summary": "",
+      "score": 380.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+          "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "",
+      "score": 379.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+          "title": "A thousand fewer paths to root"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "summary": "",
+      "score": 370.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.ricursive.com/ripple",
+          "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "garrytan/gstack — GitHub Trending",
+      "url": "https://github.com/garrytan/gstack",
+      "summary": "单日新增 290 stars",
+      "score": 370.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/garrytan/gstack",
+          "title": "garrytan/gstack — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The-PR-Agent/pr-agent — GitHub Trending",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "summary": "单日新增 280 stars",
+      "score": 360.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/The-PR-Agent/pr-agent",
+          "title": "The-PR-Agent/pr-agent — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "summary": "",
+      "score": 352.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+          "title": "Incident with Pull Requests, Git Operations and Issues"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "",
+      "score": 336.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://openai.com/index/introducing-images-2-6/",
+          "title": "Images 2.6"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "summary": "",
+      "score": 322.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://hy.tencent.ai/research/hy4",
+          "title": "Tencent Hy4"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "summary": "",
+      "score": 321.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+          "title": "Insects don't swarm at LED lights"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "summary": "",
+      "score": 321.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+          "title": "Verification Is Not Knowledge: Science needs more than answers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;2117999036175188183\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...</a>",
+      "score": 320.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://openai.com/index/openai-to-acquire-pierre/",
+          "title": "OpenAI to acquire Pierre Computer Company"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "summary": "",
+      "score": 304.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+          "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "scenario-labs/skills — GitHub Trending",
+      "url": "https://github.com/scenario-labs/skills",
+      "summary": "单日新增 224 stars",
+      "score": 304.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/scenario-labs/skills",
+          "title": "scenario-labs/skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "summary": "",
+      "score": 299.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "title": "Progress on provable inference for large language models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Starfall – Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "summary": "",
+      "score": 292.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.spacex.com/starfall",
+          "title": "Starfall – Affordable, routine access to microgravity"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "summary": "",
+      "score": 256.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.conductor.build/announcement",
+          "title": "Conductor is joining Meta"
+        },
+        {
+          "name": "hn",
+          "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+          "title": "Conductor is joining Meta"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "summary": "",
+      "score": 251.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://fireflyk64.github.io/wcmulti/",
+          "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "summary": "",
+      "score": 231.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+          "title": "Debian apt security update (man-in-the-middle)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "summary": "",
+      "score": 230.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "summary": "",
+      "score": 225.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+          "title": "Everything is an AI scam now"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+      "summary": "",
+      "score": 216.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+          "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Education shouldn't be held for ransom",
+      "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+      "summary": "",
+      "score": 212.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+          "title": "Education shouldn't be held for ransom"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Have I befriended a murderer?",
+      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+      "summary": "",
+      "score": 208.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+          "title": "Have I befriended a murderer?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "This Month in Ladybird – October 2026",
+      "url": "https://ladybird.org/newsletter/2026-10-31/",
+      "summary": "",
+      "score": 204.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://ladybird.org/newsletter/2026-10-31/",
+          "title": "This Month in Ladybird – October 2026"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Thysrael/Horizon — GitHub Trending",
+      "url": "https://github.com/Thysrael/Horizon",
+      "summary": "单日新增 121 stars",
+      "score": 201.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Thysrael/Horizon",
+          "title": "Thysrael/Horizon — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "summary": "",
+      "score": 198.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+          "title": "'It's just vape, nail, charity shops': Can anything save UK high street?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "summary": "",
+      "score": 196.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://icode4.coffee/?p=1746",
+          "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "summary": "",
+      "score": 196.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://evergreenlang.net",
+          "title": "Evergreen: A Provably Safe Systems Language"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "summary": "I&#x27;ve missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Tpft--x3WlI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Tpft--x3WlI</a>",
+      "score": 193.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://pcdealcheck.com/",
+          "title": "Show HN: I built a tool that prices a pre-built PC part by part"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "summary": "",
+      "score": 183.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://markblah.github.io/lemmings/",
+          "title": "Lemmings CSS Animation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MichaelCade/90DaysOfDevOps — GitHub Trending",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "summary": "单日新增 97 stars",
+      "score": 177.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+          "title": "MichaelCade/90DaysOfDevOps — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Milkman – The Better Alternative to Postman",
+      "url": "https://milkman.dev/",
+      "summary": "",
+      "score": 172.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://milkman.dev/",
+          "title": "Milkman – The Better Alternative to Postman"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "",
+      "score": 171.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A wave of plastic-free coffee pods and machines",
+      "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "summary": "",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+          "title": "A wave of plastic-free coffee pods and machines"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Hackers hit French national blood bank",
+      "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
+      "summary": "",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
+          "title": "Hackers hit French national blood bank"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A map of 5000+ midterm ads",
+      "url": "https://admap.org/",
+      "summary": "",
+      "score": 167.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://admap.org/",
+          "title": "A map of 5000+ midterm ads"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Death Comes for XSLT",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "summary": "",
+      "score": 155.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+          "title": "Death Comes for XSLT"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI data centers comprehensively defeated at US midterm elections",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+          "title": "AI data centers comprehensively defeated at US midterm elections"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+      "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+          "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+      "url": "https://news.ycombinator.com/item?id=50372294",
+      "summary": "I recently commented on the &quot;who wants to be hired&quot; this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=50372294",
+          "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+      "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+      "summary": "",
+      "score": 139.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+          "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "You'll need nerves of steel to work with AI agents",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+          "title": "You'll need nerves of steel to work with AI agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterm",
+      "url": "https://www.bbc.com/news/articles/cv8ez3p3ge5ko",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.com/news/articles/cv8ez3p3ge5ko",
+          "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterm"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "summary": "",
+      "score": 137.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.karthihegde.dev/posts/dns_tampering",
+          "title": "So my ISP was hijacking my DNS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+      "url": "https://github.com/openai/codex/issues/59060",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/openai/codex/issues/59060",
+          "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Less Popular Than Coal",
+      "url": "https://www.argmin.net/p/less-popular-than-coal",
+      "summary": "",
+      "score": 134.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.argmin.net/p/less-popular-than-coal",
+          "title": "Less Popular Than Coal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Adding Window Functions to a Spreadsheet",
+      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "summary": "",
+      "score": 134.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+          "title": "Adding Window Functions to a Spreadsheet"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jaron Lanier on parallels between AI and social media",
+      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "summary": "",
+      "score": 133.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+          "title": "Jaron Lanier on parallels between AI and social media"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "American Voters Overwhelmingly Reject AI Data Centers",
+      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+          "title": "American Voters Overwhelmingly Reject AI Data Centers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Codemap – one-page interactive map of any Go repository",
+      "url": "https://github.com/peterretief/codemap",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/peterretief/codemap",
+          "title": "Show HN: Codemap – one-page interactive map of any Go repository"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI President Greg Brockman says H1 2026 was \"pretty rough\", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a \"revenue inflection\" in Q3 (Maxwell Zeff/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261105/p8#a261105p8",
+      "summary": "\n Maxwell Zeff / Wall Street Journal:\nOpenAI President Greg Brockman says H1 2026 was &ldquo;pretty rough&rdquo;, but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a &ldquo;revenue inflection&rdquo; in Q3&nbsp; &mdash;&nbsp; The ChatGPT maker's president said it experienced a &lsquo;revenue inflection&rsquo; in the third quarter of 2026, driven by a growing enterprise business",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p8#a261105p8",
+          "title": "OpenAI President Greg Brockman says H1 2026 was \"pretty rough\", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a \"revenue inflection\" in Q3 (Maxwell Zeff/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY (Irina Anghel/Bloomberg)",
+      "url": "https://www.techmeme.com/261105/p7#a261105p7",
+      "summary": "\n Irina Anghel / Bloomberg:\nAdzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY&nbsp; &mdash;&nbsp; Artificial intelligence skills are no longer optional for the hundreds of thousands of young Britons seeking their first job &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p7#a261105p7",
+          "title": "Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY (Irina Anghel/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)",
+      "url": "https://www.techmeme.com/261105/p6#a261105p6",
+      "summary": "\n Tess Owen / Wired:\nPro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat&nbsp; &mdash;&nbsp; Leading the Future, backed by Silicon Valley's biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p6#a261105p6",
+          "title": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Chinese chipmakers' aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea (Jenny Lee/CNBC)",
+      "url": "https://www.techmeme.com/261105/p5#a261105p5",
+      "summary": "\n Jenny Lee / CNBC:\nChinese chipmakers' aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea&nbsp; &mdash;&nbsp; A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p5#a261105p5",
+          "title": "Chinese chipmakers' aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea (Jenny Lee/CNBC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)",
+      "url": "https://www.techmeme.com/261105/p4#a261105p4",
+      "summary": "\n Cheng Ting-Fang / Nikkei Asia:\nSources: China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates&nbsp; &mdash;&nbsp; TAIPEI &mdash; China's export controls on critical metals have disrupted supplies of micro drill bits, little-known but critical components &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p4#a261105p4",
+          "title": "Sources: China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)",
+      "url": "https://www.techmeme.com/261105/p3#a261105p3",
+      "summary": "\n Reuters:\nSources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B&nbsp; &mdash;&nbsp; Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO on hold, according to a company memo and three people &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p3#a261105p3",
+          "title": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)",
+      "url": "https://www.techmeme.com/261105/p2#a261105p2",
+      "summary": "\n Financial Times:\nSources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO&nbsp; &mdash;&nbsp; Fresh blow ahead of start-up's IPO as tech giant turns down option to more than double Texas data centre contract",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p2#a261105p2",
+          "title": "Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)"
+        },
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
+          "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Microsoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller (XBOX Wire)",
+      "url": "https://www.techmeme.com/261105/p1#a261105p1",
+      "summary": "\n XBOX Wire:\nMicrosoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller&nbsp; &mdash;&nbsp; Starting today, we're rolling out two previews for XBOX Cloud Gaming.&nbsp; On supported Smart TVs, you can use your phone as a controller when you don't have one nearby.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261105/p1#a261105p1",
+          "title": "Microsoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller (XBOX Wire)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
+      "url": "https://www.techmeme.com/261104/p66#a261104p66",
+      "summary": "\n Charles Rollet / Business Insider:\nSource: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named &ldquo;Watermelon&rdquo;&nbsp; &mdash;&nbsp; Meta is done with fruits.&nbsp; &mdash;&nbsp; The social media giant has internally decided to stop naming its AI models after fruit, a person familiar with the matter said.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p66#a261104p66",
+          "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)",
+      "url": "https://www.techmeme.com/261104/p65#a261104p65",
+      "summary": "\n David Keohane / Financial Times:\nSources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market&nbsp; &mdash;&nbsp; Swiss-Swedish company's unit is focused on Chinese market and has mega-factory in Pudong&nbsp; &mdash;&nbsp; China has told SoftBank it will not allow &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p65#a261104p65",
+          "title": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)",
+      "url": "https://www.techmeme.com/261104/p64#a261104p64",
+      "summary": "\n Valida Pau / The Information:\nSources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M&nbsp; &mdash;&nbsp; Palo Alto Networks is in talks to buy three-year-old Israeli security startup Clutch Security for around $500 million, according to people familiar with the matter.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p64#a261104p64",
+          "title": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)",
+      "url": "https://www.techmeme.com/261104/p63#a261104p63",
+      "summary": "\n Cristian Dina / The Next Web:\nBerlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents&nbsp; &mdash;&nbsp; Claude, ChatGPT and in-house AI agents can now run business payments through Pliant.&nbsp; The Berlin fintech, past $100M in recurring revenue, will expand in North America.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p63#a261104p63",
+          "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)",
+      "url": "https://www.techmeme.com/261104/p62#a261104p62",
+      "summary": "\n OpenAI:\nOpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs&nbsp; &mdash;&nbsp; Security research that once required a separate, sustained investigation for each finding can increasingly be run as a systematic process.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p62#a261104p62",
+          "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)",
+      "url": "https://www.techmeme.com/261104/p61#a261104p61",
+      "summary": " William Gavin / MarketWatch:\nAppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours&nbsp; &mdash;&nbsp; AppLovin's stock is popping after &lsquo;clearly positive&rsquo; earnings results&nbsp; &mdash;&nbsp; AppLovin's forecast impressed investors.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p61#a261104p61",
+          "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
+      "url": "https://www.techmeme.com/261104/p60#a261104p60",
+      "summary": "\n Stephen Council / Business Insider:\nCat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code&nbsp; &mdash;&nbsp; Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile product managers, is joining OpenAI.&nbsp; She announced the news on X.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261104/p60#a261104p60",
+          "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "title": "Apple is reportedly cutting budgets for its internal AI usage"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+          "title": "After the midterms, a bigger clash over data centers could be coming"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+          "title": "AI PACs spent millions trying to shape Congress — here’s how they fared"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+          "title": "Almost no one uses AI agents to book their Uber, company says"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+          "title": "OpenAI is already trying to shape the 2028 election"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "title": "Meta acquires AI coding startup Conductor"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "title": "Open source AI is booming. Hugging Face explains who profits."
+        },
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+          "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+          "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+          "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "summary": "像雇人一样雇机器人",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507767.html",
+          "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "summary": "Data + AI 技术实践巡展 · 上海站",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507696.html",
+          "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "summary": "最快6秒出图",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507707.html",
+          "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "url": "https://www.qbitai.com/2026/11/507697.html",
+      "summary": "被轰成筛子了…",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507697.html",
+          "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "url": "https://www.qbitai.com/2026/11/507688.html",
+      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507688.html",
+          "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "url": "https://www.qbitai.com/2026/11/507675.html",
+      "summary": "薪资+期权不限！实习生也能训核心模型",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507675.html",
+          "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "url": "https://www.qbitai.com/2026/11/507647.html",
+      "summary": "连路人都有自己的想法",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507647.html",
+          "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "summary": "仅激活3B参数，十项基准全线提升！",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507586.html",
+          "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "url": "https://www.qbitai.com/2026/11/507574.html",
+      "summary": "一场别开生面的具身智能科技盛宴",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507574.html",
+          "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling",
+      "url": "https://huggingface.co/papers/2610.37257",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.37257",
+          "title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "https://huggingface.co/papers/2611.06910",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06910",
+          "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2611.06918",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06918",
+          "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+      "url": "https://huggingface.co/papers/2611.05320",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.05320",
+          "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "url": "https://huggingface.co/papers/2611.06483",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06483",
+          "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+      "url": "https://huggingface.co/papers/2611.01120",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.01120",
+          "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Solv3R: 3D Looped Transformer as a Multi-view Solver",
+      "url": "https://huggingface.co/papers/2611.02857",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.02857",
+          "title": "Solv3R: 3D Looped Transformer as a Multi-view Solver"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
+      "url": "https://huggingface.co/papers/2611.06518",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06518",
+          "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs",
+      "url": "https://huggingface.co/papers/2611.04391",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.04391",
+          "title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+      "url": "https://huggingface.co/papers/2611.06796",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06796",
+          "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+      "url": "https://huggingface.co/papers/2610.41104",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.41104",
+          "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds",
+      "url": "https://huggingface.co/papers/2611.03228",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.03228",
+          "title": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2611.02846",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.02846",
+          "title": "SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+      "url": "https://huggingface.co/papers/2611.06728",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06728",
+          "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
+      "url": "https://huggingface.co/papers/2610.40131",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.40131",
+          "title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+      "url": "https://huggingface.co/papers/2611.06083",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06083",
+          "title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
+      "url": "https://huggingface.co/papers/2611.04634",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.04634",
+          "title": "VeriSpoof: Beyond Real or Fake with One Audio LLM"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+      "url": "https://huggingface.co/papers/2611.05304",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.05304",
+          "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates",
+      "url": "https://huggingface.co/papers/2610.40516",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.40516",
+          "title": "How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+      "url": "https://huggingface.co/papers/2611.05609",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.05609",
+          "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While Ocarina's remake was led by [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "title": "X says its updated web app is way faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "title": "Qualcomm is betting big on data centers as smartphone sales sink"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "17 better ways Elon Musk could have wasted $446 million",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+          "title": "17 better ways Elon Musk could have wasted $446 million"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How I learned to love an obnoxious phone grip",
+      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+      "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+          "title": "How I learned to love an obnoxious phone grip"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bose’s QuietComfort Headphones are more than half off",
+      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+      "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+          "title": "Bose’s QuietComfort Headphones are more than half off"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google’s Pixel 11 phones are up to 27 percent off",
+      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+      "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+          "title": "Google’s Pixel 11 phones are up to 27 percent off"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Xbox previews two new ways to control cloud games",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+          "title": "Xbox previews two new ways to control cloud games"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+          "title": "Nothing teases a screen-free AI device ahead of launch next month"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Taiwan’s chipmakers shine brightest in living memory",
+      "url": "https://www.ft.com/content/55cfdc9f-e465-4969-b8a5-f0cc52f43550?syn-25a6b1a6=1",
+      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/55cfdc9f-e465-4969-b8a5-f0cc52f43550?syn-25a6b1a6=1",
+          "title": "Taiwan’s chipmakers shine brightest in living memory"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "China’s ‘swarm’ strategy for the space race",
+      "url": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1",
+      "summary": "Beijing has fostered a new national champion in LandSpace",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1",
+          "title": "China’s ‘swarm’ strategy for the space race"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Asian tech stocks slide on post-midterm AI fears",
+      "url": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+      "summary": "Concerns mount that Democratic control of Congress will slow data centre build-out",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+          "title": "Asian tech stocks slide on post-midterm AI fears"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Wall Street after the anti-Trump tsunami",
+      "url": "https://www.ft.com/content/1ec65f1e-fa8e-4e47-8b9e-612be738a900?syn-25a6b1a6=1",
+      "summary": "Here’s what the US midterm elections mean for the AI supply chain and dealmaking",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/1ec65f1e-fa8e-4e47-8b9e-612be738a900?syn-25a6b1a6=1",
+          "title": "Wall Street after the anti-Trump tsunami"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Thieves revealed how feeble my digital defences were",
+      "url": "https://www.ft.com/content/5a7fe0b8-07f0-4c29-b19a-1480b1978778",
+      "summary": "What remains of my hair stood on end when I remembered I had kept a full list of online passwords in the missing bag",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5a7fe0b8-07f0-4c29-b19a-1480b1978778",
+          "title": "Thieves revealed how feeble my digital defences were"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Russia deepened Iran support with missile launcher deal",
+      "url": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+      "summary": "Moscow increased military aid for Tehran despite strains from Ukraine war",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+          "title": "Russia deepened Iran support with missile launcher deal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A&O Shearman invests $1.1bn in AI",
+      "url": "https://www.ft.com/content/b832654a-79d1-4db0-9de8-d1a65251539d?syn-25a6b1a6=1",
+      "summary": "The ‘magic circle’ firm has told lawyers each practice area must commit at least 3% of billable time to creating AI tools",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b832654a-79d1-4db0-9de8-d1a65251539d?syn-25a6b1a6=1",
+          "title": "A&O Shearman invests $1.1bn in AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Building a UK answer to Anthropic requires more than tax relief",
+      "url": "https://www.ft.com/content/23fa78e3-7be3-46e1-9ae2-8e0656e1f3d5?syn-25a6b1a6=1",
+      "summary": "New tax break for start-up founders is too small to make a difference but it may yet deliver some utility — if it lasts",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/23fa78e3-7be3-46e1-9ae2-8e0656e1f3d5?syn-25a6b1a6=1",
+          "title": "Building a UK answer to Anthropic requires more than tax relief"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US stocks post best day since August after Democrats sweep midterms",
+      "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+      "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+          "title": "US stocks post best day since August after Democrats sweep midterms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division",
+      "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+      "summary": "Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+          "title": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+      "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+      "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+          "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Voters have put a helpful chill on the US data centre boom",
+      "url": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+      "summary": "Midterm results could affect 45 per cent of planned expansion, but there is a silver lining for investors",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+          "title": "Voters have put a helpful chill on the US data centre boom"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bill Gates: AI bioweapons ‘could be worse than Covid’",
+      "url": "https://www.ft.com/content/8ede113c-1e4a-49a6-8199-3936b7d58340?syn-25a6b1a6=1",
+      "summary": "AI needs more government oversight amid risks, says the Microsoft co-founder",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8ede113c-1e4a-49a6-8199-3936b7d58340?syn-25a6b1a6=1",
+          "title": "Bill Gates: AI bioweapons ‘could be worse than Covid’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Gates says Trump inaction leaves world exposed to AI bioweapons",
+      "url": "https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85?syn-25a6b1a6=1",
+      "summary": "Billionaire Microsoft co-founder tells FT’s Future of AI Summit that AI could lead to pandemic ‘significantly worse than Covid’",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85?syn-25a6b1a6=1",
+          "title": "Gates says Trump inaction leaves world exposed to AI bioweapons"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How do you sleep at night?",
+      "url": "https://www.ft.com/content/8e6d1ee5-daf5-462b-a213-4224e7afe232?syn-25a6b1a6=1",
+      "summary": "When leaders don’t get enough sleep, the resulting impaired judgment impacts the individual — and their staff",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8e6d1ee5-daf5-462b-a213-4224e7afe232?syn-25a6b1a6=1",
+          "title": "How do you sleep at night?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sequoia shuts London office as VC firm refocuses on Silicon Valley",
+      "url": "https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0?syn-25a6b1a6=1",
+      "summary": "Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0?syn-25a6b1a6=1",
+          "title": "Sequoia shuts London office as VC firm refocuses on Silicon Valley"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "‘Population collapse’ makes AI productivity gains vital, says top Meta executive",
+      "url": "https://www.ft.com/content/5e84ee60-4ccf-4b67-b2f6-d26cd2b27e7e?syn-25a6b1a6=1",
+      "summary": "Alex Schultz tells FT’s Future of AI summit that falling birth rates mean AI will be needed to support dwindling numbers of people",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5e84ee60-4ccf-4b67-b2f6-d26cd2b27e7e?syn-25a6b1a6=1",
+          "title": "‘Population collapse’ makes AI productivity gains vital, says top Meta executive"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Uber picks up pace in robotaxi race",
+      "url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af?syn-25a6b1a6=1",
+      "summary": "Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but will still trail rival Waymo",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af?syn-25a6b1a6=1",
+          "title": "Uber picks up pace in robotaxi race"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic is an opportunity to rethink IPO rules",
+      "url": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
+      "summary": "To protect retail investors, we should stop permitting the deferral of stock-based employee compensation costs",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
+          "title": "Anthropic is an opportunity to rethink IPO rules"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ahold Delhaize cuts profit forecast after cyber attack",
+      "url": "https://www.ft.com/content/c65eb5ae-0d16-4786-a8db-9db28d1791d7?syn-25a6b1a6=1",
+      "summary": "Dutch supermarket group says last month’s hack will hit sales and profit in the fourth quarter",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c65eb5ae-0d16-4786-a8db-9db28d1791d7?syn-25a6b1a6=1",
+          "title": "Ahold Delhaize cuts profit forecast after cyber attack"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

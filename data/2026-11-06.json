@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-06",
+  "issue": "No.051",
+  "weekday": "周五",
+  "generated_at": "2026-11-06 07:53 CST",
+  "window": "2026-11-06 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-06 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 8,
+    "clusters": 8,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-06 的当日条目：Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation。讨论热度 81 分、92 条评论；出处 wsj.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 81 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wsj.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Major Investors Are Skeptical Anthropic ",
+              "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia Kubernetes Engine (NVKE)",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-06 的当日条目：Nvidia Kubernetes Engine (NVKE)。讨论热度 65 分、18 条评论；出处 github.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 65 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Nvidia Kubernetes Engine (NVKE)",
+              "url": "https://github.com/dsx-ai-factory/nvke"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Inkling 2 Small",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-06 的当日条目：Inkling 2 Small。讨论热度 176 分、62 条评论；出处 thinkingmachines.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 176 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "thinkingmachines.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Inkling 2 Small",
+              "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+            }
+          ]
+        },
+        {
+          "title": "Pwn.college",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-06 的当日条目：Pwn.college。讨论热度 116 分、10 条评论；出处 pwn.college。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 116 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "pwn.college"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Pwn.college",
+              "url": "https://pwn.college/"
+            }
+          ]
+        },
+        {
+          "title": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-06 的当日条目：Tesla and SpaceX lose over $420B in combined market cap in the two days。讨论热度 74 分、48 条评论；出处 techlaws.pages.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 74 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "techlaws.pages.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tesla and SpaceX lose over $420B in comb",
+              "url": "https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/"
+            }
+          ]
+        },
+        {
+          "title": "Closed AI models dominate the price-performance frontier",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-06 的当日条目：Closed AI models dominate the price-performance frontier。讨论热度 66 分、52 条评论；出处 village.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 66 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "village.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Closed AI models dominate the price-perf",
+              "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-06 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.08449"
+            }
+          ]
+        },
+        {
+          "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-06 当日论文归档中的条目：VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.08449"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-07",
+  "issue": "No.052",
+  "weekday": "周六",
+  "generated_at": "2026-11-07 07:03 CST",
+  "window": "2026-11-07 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-07 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 5 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 5,
+    "items": 5,
+    "clusters": 5,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "I toured Unitree's factory. I'm more bullish on the West",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-07 的当日条目：I toured Unitree's factory. I'm more bullish on the West。讨论热度 99 分、61 条评论；出处 josef.cn。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 99 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "josef.cn"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I toured Unitree's factory. I'm more bul",
+              "url": "https://josef.cn/blog/unitree"
+            }
+          ]
+        },
+        {
+          "title": "Asahi Linux Progress Linux 7.3",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-07 的当日条目：Asahi Linux Progress Linux 7.3。讨论热度 63 分、23 条评论；出处 asahilinux.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 63 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "asahilinux.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Asahi Linux Progress Linux 7.3",
+              "url": "https://asahilinux.org/2026/11/progress-report-7-3/"
+            }
+          ]
+        },
+        {
+          "title": "The AI sell-off compared to well-known stock market crashes",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-07 的当日条目：The AI sell-off compared to well-known stock market crashes。讨论热度 54 分、45 条评论；出处 kadoa.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 54 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "kadoa.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The AI sell-off compared to well-known s",
+              "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-07 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.08373"
+            }
+          ]
+        },
+        {
+          "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-07 当日论文归档中的条目：SLA: Scaling Spatial-Language-Action Model via Continual Pre-training。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.08373"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

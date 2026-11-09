@@ -1,0 +1,1390 @@
+{
+  "date": "2026-11-09",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 100,
+  "clusters": [
+    {
+      "headline": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "summary": "",
+      "score": 824.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-affair-email-to-company\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-aff...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5h\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5h</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;06&#x2F;us&#x2F;politics&#x2F;chinese-spy-agency-nvidia-jensen-huang.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;06&#x2F;us&#x2F;politics&#x2F;chinese-spy",
+      "score": 667.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+          "title": "Nvidia CEO Jensen Huang's letter to staff about affair"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Statement from Nvidia board of directors",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "summary": "",
+      "score": 553.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "title": "Statement from Nvidia board of directors"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "summary": "",
+      "score": 512.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://ketchup3d.github.io/app/",
+          "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "summary": "",
+      "score": 500.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "",
+      "score": 460.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+          "title": "Outlook.com is rejecting email from domains without DMARC"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "summary": "",
+      "score": 430.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+          "title": "Writing as a thinking tool"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "summary": "",
+      "score": 398.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://aphyr.com/posts/427-rip-harvest",
+          "title": "RIP, Harvest"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "summary": "",
+      "score": 392.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://krthr.co/person-of-interest/",
+          "title": "Person of Interest"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "summary": "",
+      "score": 357.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+          "title": "Unlocking any car from X brand in most of the world"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "summary": "",
+      "score": 354.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://duxlabs.dev/",
+          "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "summary": "",
+      "score": 315.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "title": "How I Fight AI Brain Fry"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "summary": "",
+      "score": 312.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+          "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC"
+        },
+        {
+          "name": "hn",
+          "url": "https://ram-altman.lol/",
+          "title": "RAM-Altman: a bash script that emails Sam Altman about your unused RAM"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "",
+      "score": 301.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+          "title": "I'm not convinced the AI bubble exists"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+      "summary": "",
+      "score": 289.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+          "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "summary": "What are you working on? What have you been curious about lately?",
+      "score": 287.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=50417407",
+          "title": "Ask HN: What are you working on? (November 2026)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "summary": "",
+      "score": 276.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+          "title": "OpenAI raises $11B at a $1.25T valuation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "summary": "",
+      "score": 272.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://chimera-vocal-synth.vercel.app/",
+          "title": "Chimera Vocal Synth"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "summary": "",
+      "score": 269.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+          "title": "Agent memory needs its OpenTelemetry moment"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "summary": "",
+      "score": 252.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://aworkinglibrary.com/writing/petered",
+          "title": "Petered"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "summary": "",
+      "score": 215.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+          "title": "The Web Is More Than Enough, by Paul Ford"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GitHub Down Again?",
+      "url": "https://github.com/torvalds/linux",
+      "summary": "",
+      "score": 210.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/torvalds/linux",
+          "title": "GitHub Down Again?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "summary": "",
+      "score": 208.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "summary": "",
+      "score": 208.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+          "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "summary": "",
+      "score": 203.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+          "title": "When a language's creator and its owners strongly disagree [pdf]"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "summary": "",
+      "score": 202.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "title": "Why I will not be using LLMs in my coding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A Little Snitch for Windows",
+      "url": "https://packethound.app/",
+      "summary": "",
+      "score": 201.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://packethound.app/",
+          "title": "A Little Snitch for Windows"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "",
+      "score": 190.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://linebender.org/blog/jit-bitmap-text/",
+          "title": "JIT bitmap text rendering for microcontrollers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "summary": "",
+      "score": 187.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://goldstein.lol/posts/deno-security/",
+          "title": "I'm not a fan of Deno's security model (2024)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "summary": "",
+      "score": 185.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
+      "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+      "summary": "",
+      "score": 174.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+          "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "summary": "",
+      "score": 167.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+          "title": "A Critique of GPUI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple capped engineers at a $200 daily AI budget",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "summary": "",
+      "score": 165.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+          "title": "Apple capped engineers at a $200 daily AI budget"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How to prove equations using diagrams, part 1",
+      "url": "https://www.epatters.org/post/e-graphs-1/",
+      "summary": "",
+      "score": 160.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.epatters.org/post/e-graphs-1/",
+          "title": "How to prove equations using diagrams, part 1"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Top Astrophysicist Leaves U.S.",
+      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+      "summary": "",
+      "score": 148.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+          "title": "Top Astrophysicist Leaves U.S."
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "summary": "",
+      "score": 147.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+          "title": "Playing with the STM32MP2"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "summary": "",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+          "title": "Drones built to look like birds evaded detection at Air Force tech exercise"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A lack of male protagonists is making it harder to get young boys into books",
+      "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+          "title": "A lack of male protagonists is making it harder to get young boys into books"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A field guide to CAPTCHA types and how they break",
+      "url": "https://github.com/vsmutok/FuckCaptcha",
+      "summary": "",
+      "score": 133.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/vsmutok/FuckCaptcha",
+          "title": "A field guide to CAPTCHA types and how they break"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+      "summary": "",
+      "score": 131.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+          "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
+      "url": "https://www.techmeme.com/261109/p4#a261109p4",
+      "summary": "\n Jay Bonggolto / Android Central:\nGoogle rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more&nbsp; &mdash;&nbsp; Google's latest Googlebook update frees up to 6GB of RAM and fixes Chrome crashes. &hellip; Google is rolling out its November update for Googlebook &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p4#a261109p4",
+          "title": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project (Peter Millard/Bloomberg)",
+      "url": "https://www.techmeme.com/261109/p3#a261109p3",
+      "summary": "\n Peter Millard / Bloomberg:\nSources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project&nbsp; &mdash;&nbsp; TikTok owner ByteDance is considering expanding a data center project in northeastern Brazil, a move that would strengthen its standing &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p3#a261109p3",
+          "title": "Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project (Peter Millard/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+      "url": "https://www.techmeme.com/261109/p2#a261109p2",
+      "summary": "\n CBS News:\nWhen talking about AI safety, President Trump says &ldquo;I don't mind guardrails. But I don't wanna put us in a deep second position&rdquo;, and &ldquo;China has no guardrails&rdquo;&nbsp; &mdash;&nbsp; This past Tuesday, President Donald Trump's Republican Party suffered an extraordinary midterm repudiation &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p2#a261109p2",
+          "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261109/p1#a261109p1",
+      "summary": "\n Wall Street Journal:\nSources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley&nbsp; &mdash;&nbsp; The Nvidia CEO has elevated his children to prominence.&nbsp; His board is investigating reports that he was an espionage target.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p1#a261109p1",
+          "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+      "url": "https://www.techmeme.com/261108/p23#a261108p23",
+      "summary": "\n Andrew Edgecliffe-Johnson / Semafor:\nJensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race&nbsp; &mdash;&nbsp; There's little precedent in US corporate history for the crisis facing Nvidia after reports that Jensen Huang was targeted by a Chinese &ldquo;honeytrap&rdquo; operation.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p23#a261108p23",
+          "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+      "url": "https://www.techmeme.com/261108/p22#a261108p22",
+      "summary": "\n Nilay Patel / The Verge:\nAn interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more&nbsp; &mdash;&nbsp; Today, I'm talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p22#a261108p22",
+          "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+      "url": "https://www.techmeme.com/261108/p21#a261108p21",
+      "summary": "\n Vincent Chow / South China Morning Post:\nTencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it &ldquo;possible to do harm&rdquo; and Anthropic has a &ldquo;strong argument&rdquo; for closed models&nbsp; &mdash;&nbsp; Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p21#a261108p21",
+          "title": "Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)",
+      "url": "https://www.techmeme.com/261108/p20#a261108p20",
+      "summary": "\n Annie Palmer / CNBC:\nJob listings show Amazon is building a &ldquo;new-to-world&rdquo; home robot to operate &ldquo;alongside family members&rdquo;, after its $1,450 Astro reached only a few thousand homes&nbsp; &mdash;&nbsp; Jeff Bezos made a bold bet in 2017.&nbsp; A sci-fi and robotics enthusiast, Bezos was convinced that consumers &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p20#a261108p20",
+          "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven't heard he's done anything wrong\" (Kate Sullivan/Bloomberg)",
+      "url": "https://www.techmeme.com/261108/p19#a261108p19",
+      "summary": "\n Kate Sullivan / Bloomberg:\nTrump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &ldquo;fine person&rdquo; and &ldquo;I haven't heard he's done anything wrong&rdquo;&nbsp; &mdash;&nbsp; President Donald Trump called Jensen Huang a &ldquo;fine person&rdquo; and said he should stay on as the chief executive officer &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p19#a261108p19",
+          "title": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven't heard he's done anything wrong\" (Kate Sullivan/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs (Financial Times)",
+      "url": "https://www.techmeme.com/261108/p18#a261108p18",
+      "summary": "\n Financial Times:\nHow Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs&nbsp; &mdash;&nbsp; Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p18#a261108p18",
+          "title": "How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy (New York Times)",
+      "url": "https://www.techmeme.com/261108/p17#a261108p17",
+      "summary": "\n New York Times:\nSources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy&nbsp; &mdash;&nbsp; The secretary of state's role in drafting a secret memo highlights how top officials were concerned by last spring &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p17#a261108p17",
+          "title": "Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy (New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+      "url": "https://www.techmeme.com/261108/p16#a261108p16",
+      "summary": "\n Garance Burke / Associated Press:\nSources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns&nbsp; &mdash;&nbsp; With public anxiety growing over mounting reports about out-of-control artificial intelligence agents, the tiny U.S. government division charged &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p16#a261108p16",
+          "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261108/p15#a261108p15",
+      "summary": "\n Ian Hodgson / Wall Street Journal:\nUS professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears&nbsp; &mdash;&nbsp; Strong hiring at law offices, consulting firms staves off fears of job apocalypse&nbsp; &mdash;&nbsp; Consulting firms, law offices &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p15#a261108p15",
+          "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+      "url": "https://www.techmeme.com/261108/p14#a261108p14",
+      "summary": "\n Madison Mills / Axios:\nEmail to staff: Jensen Huang admits an affair, takes &ldquo;full responsibility&rdquo;, and says he fell short of his duties to Nvidia's board, shareholders, and employees&nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang admitted to having a romantic relationship with a suspected Chinese spy in a message to his company.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p14#a261108p14",
+          "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+      "url": "https://www.techmeme.com/261108/p13#a261108p13",
+      "summary": "\n Ian King / Bloomberg:\nNvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised&nbsp; &mdash;&nbsp; Nvidia Corp.'s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261108/p13#a261108p13",
+          "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+      "url": "https://huggingface.co/papers/2611.08264",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.08264",
+          "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+      "url": "https://huggingface.co/papers/2611.06856",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06856",
+          "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+      "url": "https://huggingface.co/papers/2611.07624",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.07624",
+          "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
+      "url": "https://huggingface.co/papers/2611.06748",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06748",
+          "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "url": "https://huggingface.co/papers/2611.06043",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06043",
+          "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+      "url": "https://huggingface.co/papers/2611.03953",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.03953",
+          "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+      "url": "https://huggingface.co/papers/2611.09894",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.09894",
+          "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AgentBaton: Efficient Model Collaboration in Agentic Tasks",
+      "url": "https://huggingface.co/papers/2610.35959",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.35959",
+          "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+      "url": "https://huggingface.co/papers/2611.09382",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.09382",
+          "title": "Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+      "url": "https://huggingface.co/papers/2611.09017",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.09017",
+          "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets",
+      "url": "https://huggingface.co/papers/2610.36896",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.36896",
+          "title": "PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OmniLatent: Unified Latent for 3D Part Modeling",
+      "url": "https://huggingface.co/papers/2611.09055",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.09055",
+          "title": "OmniLatent: Unified Latent for 3D Part Modeling"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "\"PRISM\" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval",
+      "url": "https://huggingface.co/papers/2611.01362",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.01362",
+          "title": "\"PRISM\" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting",
+      "url": "https://huggingface.co/papers/2611.06808",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.06808",
+          "title": "LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
+      "url": "https://huggingface.co/papers/2611.07461",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.07461",
+          "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sketchpad: certified exact arithmetic with a small vision-language model",
+      "url": "https://huggingface.co/papers/2611.04434",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.04434",
+          "title": "Sketchpad: certified exact arithmetic with a small vision-language model"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding",
+      "url": "https://huggingface.co/papers/2611.07723",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.07723",
+          "title": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer",
+      "url": "https://huggingface.co/papers/2611.04720",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.04720",
+          "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia"
+        },
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Epic Games Launcher is coming to SteamOS",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "title": "Epic Games Launcher is coming to SteamOS"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "title": "Apple is racing to make Siri more agentic"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "title": "Elvis and Eminem rights holders are suing Suno"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "title": "Apple’s M5 MacBook Air is down to its lowest price since July"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "title": "Chatbots might be coming to Apple’s HomeView"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost exactly a decade [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "title": "There’s no slowing down media’s pivot-to-video 2.0"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Asian stocks rebound after AI rout",
+      "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+      "summary": "Declines last week had pushed many indices into bear market territory",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+          "title": "Asian stocks rebound after AI rout"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mark Blyth: ‘I call it the barbell from hell’",
+      "url": "https://www.ft.com/content/92bcf6f9-619c-4f24-82ea-425984d3ecaf?syn-25a6b1a6=1",
+      "summary": "The political economist on AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/92bcf6f9-619c-4f24-82ea-425984d3ecaf?syn-25a6b1a6=1",
+          "title": "Mark Blyth: ‘I call it the barbell from hell’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Democrat triumph offers China ‘window to catch up’ on AI",
+      "url": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
+      "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
+          "title": "Democrat triumph offers China ‘window to catch up’ on AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tech’s teetering towers",
+      "url": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
+      "summary": "The AI race is defined by vertical integration. Will it withstand a storm?",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
+          "title": "Tech’s teetering towers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Palantir alumni launch plan to ‘wake sleeping giants’ of European defence",
+      "url": "https://www.ft.com/content/e6a98d84-eadc-40c4-81b9-bff70d4c70b2?syn-25a6b1a6=1",
+      "summary": "Dutch start-up Onodrim raises $300mn at $1.3bn valuation as it seeks to buy and scale up smaller companies to build region’s production capacity",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e6a98d84-eadc-40c4-81b9-bff70d4c70b2?syn-25a6b1a6=1",
+          "title": "Palantir alumni launch plan to ‘wake sleeping giants’ of European defence"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Russian military turns to deepfake videos to claim battlefield success",
+      "url": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1",
+      "summary": "Army units and pro-war military bloggers are posting videos researchers say have been manipulated",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1",
+          "title": "Russian military turns to deepfake videos to claim battlefield success"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
+      "url": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
+      "summary": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
+          "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+      "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+      "url": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+      "summary": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+          "title": "Sequoia’s new chiefs sweep away last remnants of Botha era"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Hacks expose the flaws of the connected world",
+      "url": "https://www.ft.com/content/26687a2b-85ef-4ea8-94d3-07debe920f5f?syn-25a6b1a6=1",
+      "summary": "Binance and supermarket freezers reveal the costs of digitisation",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/26687a2b-85ef-4ea8-94d3-07debe920f5f?syn-25a6b1a6=1",
+          "title": "Hacks expose the flaws of the connected world"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+      "summary": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+          "title": "Korea Advances Physical AI Across Industries With NVIDIA"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+          "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+          "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+          "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

@@ -1,0 +1,1917 @@
+{
+  "date": "2026-11-10",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 137,
+  "clusters": [
+    {
+      "headline": "sherlock-project/sherlock — GitHub Trending",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "单日新增 4,267 stars",
+      "score": 4347.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "title": "sherlock-project/sherlock — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "meta/astryx — GitHub Trending",
+      "url": "https://github.com/meta/astryx",
+      "summary": "单日新增 3,278 stars",
+      "score": 3358.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/meta/astryx",
+          "title": "meta/astryx — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "milind-soni/OpenMausBot — GitHub Trending",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "单日新增 1,587 stars",
+      "score": 1667.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "title": "milind-soni/OpenMausBot — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "anthropics/skills — GitHub Trending",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "单日新增 1,038 stars",
+      "score": 1118.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/anthropics/skills",
+          "title": "anthropics/skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "summary": "",
+      "score": 1076.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.foldableflight.com",
+          "title": "Foldable Flight: The Best Paper Airplanes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "summary": "",
+      "score": 1065.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "title": "Claude Fable 5.2 and Mythos 5.2"
+        },
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "vercel-labs/agent-browser — GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "单日新增 916 stars",
+      "score": 996.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "title": "vercel-labs/agent-browser — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "summary": "",
+      "score": 695.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://postalpro.usps.com/zcb",
+          "title": "USPS now offers official ZIP Code boundary polygons"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "summary": "",
+      "score": 662.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/thisisme6598/gemini_files/",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "google-deepmind/mujoco — GitHub Trending",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "summary": "单日新增 574 stars",
+      "score": 654.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "title": "google-deepmind/mujoco — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "anthropics/claude-quickstarts — GitHub Trending",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "summary": "单日新增 551 stars",
+      "score": 631.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "title": "anthropics/claude-quickstarts — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "summary": "",
+      "score": 612.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ZhuLinsen/daily_stock_analysis — GitHub Trending",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "单日新增 506 stars",
+      "score": 586.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "title": "ZhuLinsen/daily_stock_analysis — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Humans will never again create a project quite like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "summary": "",
+      "score": 565.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+          "title": "Humans will never again create a project quite like Wikipedia"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I saw your HN comment",
+      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "summary": "",
+      "score": 509.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+          "title": "I saw your HN comment"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "summary": "",
+      "score": 469.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://e-means.github.io/",
+          "title": "E-means: Outperforming k-means in one-tenth the epochs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "summary": "",
+      "score": 454.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+          "title": "Fable 5.2 one-shotted my nephew's dream game"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "summary": "",
+      "score": 432.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Too many men suffering in silence, national health report finds",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+      "summary": "",
+      "score": 421.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+          "title": "Too many men suffering in silence, national health report finds"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "summary": "hey HN, i built this because I&#x27;m a satellite nerd who was bored this past weekend.<p>type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, tracking 17k+ objects and runs in your browser in about half a second), then pulls the real Sentinel-2 &#x2F; Landsat &#x2F; NASA images from those passes.<p>fun fact: all ~17k objects in orbit are drawn on the GPU, solving Kepler&#x27;s equation every frame. also cool is that Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, so some cool math was i",
+      "score": 414.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.watched.earth",
+          "title": "Show HN: Every satellite that passed over any place this week, and its photos"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Going back two years on Hacker News is like entering another, better universe",
+      "url": "https://news.ycombinator.com/front?day=2024-11-08",
+      "summary": "",
+      "score": 411.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/front?day=2024-11-08",
+          "title": "Going back two years on Hacker News is like entering another, better universe"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "summary": "",
+      "score": 402.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+          "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.cell.com&#x2F;cell-reports-physical-science&#x2F;fulltext&#x2F;S2666-3864(26)00461-3\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cell.com&#x2F;cell-reports-physical-science&#x2F;fulltext&#x2F;...</a>",
+      "score": 396.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+          "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "summary": "",
+      "score": 384.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "title": "Muse Ember: Our smallest, most efficient model"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "",
+      "score": 336.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "title": "TPU 8tx and TPU 8i Max"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What is malloc doing, anyway?",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "summary": "",
+      "score": 336.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+          "title": "What is malloc doing, anyway?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "garrytan/gbrain — GitHub Trending",
+      "url": "https://github.com/garrytan/gbrain",
+      "summary": "单日新增 216 stars",
+      "score": 296.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/garrytan/gbrain",
+          "title": "garrytan/gbrain — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "summary": "",
+      "score": 293.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+          "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\""
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Children of Men: The future is a mirror for the present",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "summary": "",
+      "score": 263.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+          "title": "Children of Men: The future is a mirror for the present"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "CUI – Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
+      "summary": "",
+      "score": 262.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://yappologistic.github.io/CUI/",
+          "title": "CUI – Native UI components for C"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "summary": "",
+      "score": 260.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "summary": "",
+      "score": 260.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+          "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ruvnet/RuView — GitHub Trending",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "单日新增 172 stars",
+      "score": 252.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/ruvnet/RuView",
+          "title": "ruvnet/RuView — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "summary": "",
+      "score": 242.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+          "title": "DeepX claims inference up to 100B parameters at less than 5 W"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "summary": "",
+      "score": 239.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+          "title": "Locating the source of a mysterious beep"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "summary": "",
+      "score": 234.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://maurycyz.com/projects/badcert/",
+          "title": "Horible public key tricks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "summary": "",
+      "score": 224.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+          "title": "The first 300-millimeter power silicon carbide (SiC) wafer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "summary": "",
+      "score": 220.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "title": "CoreWeave bond yield tops 16% as AI credit stress rises"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Try Gleam",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "summary": "",
+      "score": 218.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+          "title": "Try Gleam"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;redlib.catsarch.com&#x2F;r&#x2F;ClaudeCode&#x2F;comments&#x2F;1xq2n3t&#x2F;a_year_after_the_100_ai_mandate_nobody&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;redlib.catsarch.com&#x2F;r&#x2F;ClaudeCode&#x2F;comments&#x2F;1xq2n3t&#x2F;a_...</a>",
+      "score": 212.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+          "title": "A year after the 100% AI mandate nobody understands our code"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "summary": "",
+      "score": 204.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/expo/exact",
+          "title": "Exact – a new cross platform UI framework"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Zebkit – Chromium as an embeddable library",
+      "url": "https://github.com/ikey4u/zebkit",
+      "summary": "",
+      "score": 204.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/ikey4u/zebkit",
+          "title": "Zebkit – Chromium as an embeddable library"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "summary": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use).<p>For my workflow I’ve always looked for performance, especially since some time ago I had a really outdated machine and any kind of bloat was really noticeable, I remember using DBeaver and it just crashing on me multiple times, I also had to use postGIS which just made it worse. I migrated all my essential dev tools to use the ones with performance in mind (Ze",
+      "score": 193.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=50427934",
+          "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "summary": "",
+      "score": 191.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+          "title": "Fun things to do with your VM/370 CE machine – Fun with big computers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "summary": "Hey HN and Cats, thank you for checking this out!<p>Github:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;raiseCatError&#x2F;meowdisplay\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;raiseCatError&#x2F;meowdisplay</a><p>EDIT 2: I should&#x27;ve mentioned that MeowDisplay started as a fork of OpenDisplay: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;peetzweg&#x2F;opendisplay\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;peetzweg&#x2F;opendisplay</a>\nwhich provided the foundational screen capture, virtual display, encoding and iPhone&#x2F;iPad receivers. I&#x27;ve since taken it in a more pho",
+      "score": 187.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://meowdisplay.app/",
+          "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "url": "https://someonewashere.app/",
+      "summary": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.<p>It takes a photo of whoever uses your Mac while you&#x27;re away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn&#x27;t yours.<p>I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads.<p>Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone&#x2F;iPad app, Pushover, ntfy, Telegram or a webhook.",
+      "score": 184.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://someonewashere.app/",
+          "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "On Being an Engineer in 2026",
+      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+      "summary": "<a href=\"https:&#x2F;&#x2F;nitter.cf&#x2F;shaharglazner&#x2F;article&#x2F;2119796029256032278\" rel=\"nofollow\">https:&#x2F;&#x2F;nitter.cf&#x2F;shaharglazner&#x2F;article&#x2F;2119796029256032278</a>",
+      "score": 183.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+          "title": "On Being an Engineer in 2026"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "summary": "",
+      "score": 174.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/Dodaios/ste80-humanizer",
+          "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "summary": "",
+      "score": 168.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/samir-sarwar/samir-vllm",
+          "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "summary": "",
+      "score": 166.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://parkgraph.com/parking-app-fees",
+          "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Pigshell: Unix the Web",
+      "url": "http://pigshell.com/v/0.6.4/",
+      "summary": "",
+      "score": 163.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "http://pigshell.com/v/0.6.4/",
+          "title": "Pigshell: Unix the Web"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
+      "summary": "",
+      "score": 160.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://maurycyz.com/projects/fading/",
+          "title": "Your TV can see through walls"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "summary": "",
+      "score": 152.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "RAM-Altman reports unused RAM on your machine, one email a day",
+      "url": "https://github.com/IainKay/ram-altman",
+      "summary": "",
+      "score": 150.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/IainKay/ram-altman",
+          "title": "RAM-Altman reports unused RAM on your machine, one email a day"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Terminal2Shell",
+      "url": "https://terminal2shell.com/",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://terminal2shell.com/",
+          "title": "Terminal2Shell"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "More than 400k Russians killed fighting in Ukraine war, leaked data suggests",
+      "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
+      "summary": "",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
+          "title": "More than 400k Russians killed fighting in Ukraine war, leaked data suggests"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Formalizing CPython",
+      "url": "https://broyojo.com/python-formalization/",
+      "summary": "",
+      "score": 143.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://broyojo.com/python-formalization/",
+          "title": "Formalizing CPython"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention",
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "summary": "",
+      "score": 141.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+          "title": "Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Castration extends life span, but in a surprising way, mouse study suggests",
+      "url": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+          "title": "Castration extends life span, but in a surprising way, mouse study suggests"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+      "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+          "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "summary": "",
+      "score": 135.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.ultorg.com/",
+          "title": "Ultorg: The User Interface for Relational Databases"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang scandal sparks divorce speculation",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+      "summary": "",
+      "score": 134.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+          "title": "Jensen Huang scandal sparks divorce speculation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "homeassistant-ai/ha-mcp — GitHub Trending",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "summary": "单日新增 31 stars",
+      "score": 111.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "title": "homeassistant-ai/ha-mcp — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)",
+      "url": "https://www.techmeme.com/261110/p4#a261110p4",
+      "summary": "\n Jenny Lee / CNBC:\nSoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9%&nbsp; &mdash;&nbsp; - SoftBank Group reported a fiscal second-quarter net loss of 1.12 trillion yen&nbsp; &mdash;&nbsp; SoftBank reported a fiscal second-quarter net loss &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261110/p4#a261110p4",
+          "title": "SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
+      "url": "https://www.techmeme.com/261110/p3#a261110p3",
+      "summary": "\n Ryan Lawler / Axios:\nGeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A&nbsp; &mdash;&nbsp; GeniosAI, which develops AI software for financial analysis and modeling, has raised $19.1 million in combined seed and Series A funding, CEO PD Singh tells Axios Pro exclusively.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261110/p3#a261110p3",
+          "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
+      "url": "https://www.techmeme.com/261110/p2#a261110p2",
+      "summary": "\n Andy Lin / Bloomberg:\nFilings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules&nbsp; &mdash;&nbsp; Moonshot AI accessed a trove of Nvidia Corp.'s most advanced chips this summer, according to documents filed with Beijing regulators &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261110/p2#a261110p2",
+          "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)",
+      "url": "https://www.techmeme.com/261110/p1#a261110p1",
+      "summary": " Reuters:\nThe White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen&nbsp; &mdash;&nbsp; The White House said on Monday it has nominated Michael LoSapio to be the director of the US Department of Homeland Security's Cybersecurity &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261110/p1#a261110p1",
+          "title": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+      "url": "https://www.techmeme.com/261109/p53#a261109p53",
+      "summary": "\n James Mayger / Bloomberg:\nAustralia is drafting legislation for an AI safety regulator empowered to impose &ldquo;significant penalties&rdquo; after an OpenAI model hacked a government site in Sept.&nbsp; &mdash;&nbsp; Australia will create a new artificial-intelligence safety regulator that will have the power to impose &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p53#a261109p53",
+          "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)",
+      "url": "https://www.techmeme.com/261109/p52#a261109p52",
+      "summary": "\n Mackenzie Hawkins / Bloomberg:\nAnalysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure&nbsp; &mdash;&nbsp; Nvidia Corp.'s general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p52#a261109p52",
+          "title": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations (Kanishka Singh/Reuters)",
+      "url": "https://www.techmeme.com/261109/p51#a261109p51",
+      "summary": "\n Kanishka Singh / Reuters:\nThe US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations&nbsp; &mdash;&nbsp; The US Justice Department sued Lyft (LYFT.O) on Monday, alleging the ride-hailing services provider discriminated against passengers with disabilities &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p51#a261109p51",
+          "title": "The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations (Kanishka Singh/Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care (Associated Press)",
+      "url": "https://www.techmeme.com/261109/p50#a261109p50",
+      "summary": "\n Associated Press:\nCalifornia voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care&nbsp; &mdash;&nbsp; California voters have rejected a first-in-the-nation tax on the net worth of billionaires following a contentious ballot fight &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p50#a261109p50",
+          "title": "California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care (Associated Press)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261109/p49#a261109p49",
+      "summary": "\n Elias Schisgall / Wall Street Journal:\nTrump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+&nbsp; &mdash;&nbsp; The parent of Truth Social reported a profit of $409.7 million in the third quarter&nbsp; &mdash;&nbsp; Trump Media &amp; Technology Group &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p49#a261109p49",
+          "title": "Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
+      "url": "https://www.techmeme.com/261109/p48#a261109p48",
+      "summary": "\n Echo Wang / Reuters:\nEmails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate&nbsp; &mdash;&nbsp; Anthropic sent out and then retracted details of its blockbuster IPO filing, according to emails to bankers seen by Reuters late on Monday.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p48#a261109p48",
+          "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)",
+      "url": "https://www.techmeme.com/261109/p47#a261109p47",
+      "summary": "\n Jason Schreier / Bloomberg:\nTake-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI&nbsp; &mdash;&nbsp; The video-game publisher may have hurt one game's sales with another of its own games&nbsp; &mdash;&nbsp; Take-Two Interactive Software Inc &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p47#a261109p47",
+          "title": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/261109/p46#a261109p46",
+      "summary": "\n Sarah Perez / TechCrunch:\nA report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as &ldquo;uncomfortably close&rdquo;&nbsp; &mdash;&nbsp; Six months before the Nvidia spy scandal emerged, the New York-based short seller firm Culper Research &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p46#a261109p46",
+          "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+      "url": "https://www.techmeme.com/261109/p45#a261109p45",
+      "summary": "\n Ryan Christoffel / 9to5Mac:\nApple is now offering additional AI access via one-time $50 &ldquo;intelligence usage packs&rdquo; when monthly usage caps are met, starting in its Creator Studio apps&nbsp; &mdash;&nbsp; Apple has said it will eventually charge for expanded usage of select AI features.&nbsp; Now the first 'intelligence usage packs &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p45#a261109p45",
+          "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+      "url": "https://www.techmeme.com/261109/p44#a261109p44",
+      "summary": "\n Associated Press:\nTrump says the FBI is &ldquo;looking into&rdquo; Jensen Huang's affair, and the Nvidia CEO told him he &ldquo;had absolutely no idea that the person in question was a spy&rdquo;&nbsp; &mdash;&nbsp; President Donald Trump said Monday that Nvidia CEO Jensen Huang should not worry about the FBI looking &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p44#a261109p44",
+          "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+      "url": "https://www.techmeme.com/261109/p43#a261109p43",
+      "summary": "\n Semafor:\nJensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company&nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang's spy scandal shines a spotlight on thin corporate governance and opaque succession planning at what has become the world's most important company.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261109/p43#a261109p43",
+          "title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "openai",
+          "url": "https://openai.com/index/control-room",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+          "title": "Otter AI can now follow conversations across 30+ languages"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "title": "Anthropic reportedly plans to move forward with IPO plans"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+          "title": "The race is on to sue Nvidia"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "title": "Meta releases Muse Ember, a new lightweight model for agent execution"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+          "title": "Medium’s new TK app brings AI assistance directly into the writing process"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+          "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "summary": "教授也用Claude糊弄…",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/508706.html",
+          "title": "“AI毁了我的计算机学位”"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "summary": "",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/507843.html",
+          "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/508694.html",
+          "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/508690.html",
+          "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+      "url": "https://huggingface.co/papers/2611.10771",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.10771",
+          "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "url": "https://huggingface.co/papers/2611.12762",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.12762",
+          "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "url": "https://huggingface.co/papers/2611.08452",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.08452",
+          "title": "ReproBridge: Building Reproducibility into ML Research Artifacts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "url": "https://huggingface.co/papers/2610.42148",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.42148",
+          "title": "Flide: Accelerating Decision Inference with Exact State Forking"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+      "url": "https://huggingface.co/papers/2611.10329",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.10329",
+          "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2611.02810",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.02810",
+          "title": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2611.08240",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.08240",
+          "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "https://huggingface.co/papers/2611.12806",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.12806",
+          "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+      "url": "https://huggingface.co/papers/2611.12324",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.12324",
+          "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+      "url": "https://huggingface.co/papers/2610.36980",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2610.36980",
+          "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation",
+      "url": "https://huggingface.co/papers/2611.10690",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.10690",
+          "title": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Horizon-Scalable Q-Learning",
+      "url": "https://huggingface.co/papers/2611.10987",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.10987",
+          "title": "Horizon-Scalable Q-Learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+      "url": "https://huggingface.co/papers/2611.08969",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.08969",
+          "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+      "url": "https://huggingface.co/papers/2611.10123",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.10123",
+          "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+      "url": "https://huggingface.co/papers/2611.05791",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.05791",
+          "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "title": "What could China get from Jensen Huang?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+          "title": "Here’s what Trump said he knew about Jensen Huang"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-inch screen is well-featured [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+          "title": "The global pledge to use AI for climate good is a cruel joke"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+          "title": "You can grab three months of Game Pass Ultimate for under $20 per month"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "title": "Instagram’s Effect Builder makes new filters from AI prompts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Too big to fire",
+      "url": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+      "summary": "Should Jensen Huang stay or go?",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+          "title": "Too big to fire"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Britain throws weight behind idea for new subsea data link to Norway",
+      "url": "https://www.ft.com/content/b2319b74-f4e7-4fc9-bac4-34eb43f47ba4?syn-25a6b1a6=1",
+      "summary": "Feasibility study into proposed UK-Norway digital corridor comes at a time of increasing foreign threats to infrastructure",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b2319b74-f4e7-4fc9-bac4-34eb43f47ba4?syn-25a6b1a6=1",
+          "title": "Britain throws weight behind idea for new subsea data link to Norway"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI’s affair to remember",
+      "url": "https://www.ft.com/content/4bf7b037-7ef1-4421-b298-7c2ecf4bf870?syn-25a6b1a6=1",
+      "summary": "Nvidia’s boardroom crisis raises questions about the future of the company that has become the bank of AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4bf7b037-7ef1-4421-b298-7c2ecf4bf870?syn-25a6b1a6=1",
+          "title": "AI’s affair to remember"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "BT cools on Starlink satellite tie-up after Musk Ukraine controversy",
+      "url": "https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839",
+      "summary": "Launch will not proceed until ‘noise has died down’ over battlefield service disruptions, says CEO Allison Kirkby",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839",
+          "title": "BT cools on Starlink satellite tie-up after Musk Ukraine controversy"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Photography education navigates the rise of artificial imagery",
+      "url": "https://www.ft.com/content/c074c438-0f16-48d5-a4cf-fdea1d642eec",
+      "summary": "Art schools are grappling with how to teach students to use AI-generated imagery in ways that do not undermine the reasons for studying photography",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c074c438-0f16-48d5-a4cf-fdea1d642eec",
+          "title": "Photography education navigates the rise of artificial imagery"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+      "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+      "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+          "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+      "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+      "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+          "title": "Nvidia shares fall as it probes alleged Chinese spy scandal"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US stocks rebound after AI rout",
+      "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+      "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+          "title": "US stocks rebound after AI rout"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "France accuses Iran of cyber attacks on supermarket refrigerators",
+      "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+      "summary": "Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+          "title": "France accuses Iran of cyber attacks on supermarket refrigerators"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang and Nvidia’s ‘key man’ risk",
+      "url": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
+      "summary": "Some of the leading AI companies are dangerously reliant on single executives",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
+          "title": "Jensen Huang and Nvidia’s ‘key man’ risk"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How the world became too reliant on Jensen Huang",
+      "url": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+      "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+          "title": "How the world became too reliant on Jensen Huang"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+      "url": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+      "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+          "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
+      "url": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
+      "summary": "Stockpicker hopes his investment strategy is past its ‘nadir’ after bruising few years",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
+          "title": "Fund manager Nick Train has best month since 2000 on back of AI sell-off"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+      "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+      "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+          "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+      "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+      "summary": "Founder Masayoshi Son grapples with falling values of holdings ahead of earnings report",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+          "title": "Tech sell-off raises risks for SoftBank’s massive AI bet"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in [&#8230;]",
+      "score": 70.0,
+      "sources": [
+        {
+          "name": "nvidia_blog",
+          "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+          "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

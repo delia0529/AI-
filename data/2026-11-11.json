@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-11",
+  "issue": "No.056",
+  "weekday": "周三",
+  "generated_at": "2026-11-11 07:43 CST",
+  "window": "2026-11-11 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-11 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "A great old-timey game-programming hack (2013)",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：A great old-timey game-programming hack (2013)。讨论热度 118 分、17 条评论；出处 blog.moertel.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 118 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.moertel.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · A great old-timey game-programming hack ",
+              "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+            }
+          ]
+        },
+        {
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：Protecting SSH Keys with macOS Secure Enclave。讨论热度 117 分、42 条评论；出处 gatezh.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 117 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "gatezh.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Protecting SSH Keys with macOS Secure En",
+              "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+            }
+          ]
+        },
+        {
+          "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA。讨论热度 73 分、41 条评论；出处 science.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 73 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "science.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · To deter bioterrorism, U.S. imposes new ",
+              "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+            }
+          ]
+        },
+        {
+          "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：AI is becoming an information gateway. Audiences still don’t want it making news。讨论热度 50 分、32 条评论；出处 niemanlab.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 50 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "niemanlab.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · AI is becoming an information gateway. A",
+              "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
+            }
+          ]
+        },
+        {
+          "title": "LLMs Play Zachtronics' TIS-100",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：LLMs Play Zachtronics' TIS-100。讨论热度 46 分、8 条评论；出处 tis-100.wincon.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 46 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "tis-100.wincon.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · LLMs Play Zachtronics' TIS-100",
+              "url": "https://tis-100.wincon.dev/"
+            }
+          ]
+        },
+        {
+          "title": "The Apple Support Community will permanently close on November 20, 2026",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-11 的当日条目：The Apple Support Community will permanently close on November 20, 2026。讨论热度 44 分、20 条评论；出处 discussions.apple.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 44 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "discussions.apple.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · The Apple Support Community will permane",
+              "url": "https://discussions.apple.com/welcome"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

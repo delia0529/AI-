@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-12",
+  "issue": "No.057",
+  "weekday": "周四",
+  "generated_at": "2026-11-12 08:15 CST",
+  "window": "2026-11-12 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-12 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 4 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 4,
+    "items": 4,
+    "clusters": 4,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Critical RCE Vulnerability in Apache HTTP Server",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-12 的当日条目：Critical RCE Vulnerability in Apache HTTP Server。讨论热度 155 分、69 条评论；出处 wiz.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 155 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wiz.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Critical RCE Vulnerability in Apache HTT",
+              "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+            }
+          ]
+        },
+        {
+          "title": "Humble Bundle just killed most of their security through vibecoding",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-12 的当日条目：Humble Bundle just killed most of their security through vibecoding。讨论热度 117 分、33 条评论；出处 forums.spacebattles.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 117 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "forums.spacebattles.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Humble Bundle just killed most of their ",
+              "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-12 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.40394"
+            }
+          ]
+        },
+        {
+          "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-12 当日论文归档中的条目：Scaling Mathematical Proof Supervision from Structured Textbooks。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2610.40394"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

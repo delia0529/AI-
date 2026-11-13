@@ -1,0 +1,1656 @@
+{
+  "date": "2026-11-13",
+  "fetched_at": "2026-11-13T07:52:42",
+  "items": [
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "hn",
+      "published": "2026-11-12T13:52:29Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-transition\" rel=\"nofollow\">https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-...</a>, <a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12&#",
+      "points": 3399,
+      "_ts": 1794491549,
+      "weight": 0.9
+    },
+    {
+      "title": "meta/astryx — GitHub Trending",
+      "url": "https://github.com/meta/astryx",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.877370+00:00",
+      "summary": "单日新增 1,830 stars",
+      "points": 1830,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "we-promise/sure — GitHub Trending",
+      "url": "https://github.com/we-promise/sure",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.875946+00:00",
+      "summary": "单日新增 967 stars",
+      "points": 967,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "hn",
+      "published": "2026-11-12T11:46:41Z",
+      "summary": "",
+      "points": 904,
+      "_ts": 1794484001,
+      "weight": 0.9
+    },
+    {
+      "title": "addyosmani/agent-skills — GitHub Trending",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.877117+00:00",
+      "summary": "单日新增 816 stars",
+      "points": 816,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "hn",
+      "published": "2026-11-12T18:20:48Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affects-users-worldwide&#x2F;107381050\" rel=\"nofollow\">https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affe...</a><p><a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft_office_seems_to_be_down&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;microsoft-365&#x2F;\" rel=\"nofollow\">https:&",
+      "points": 790,
+      "_ts": 1794507648,
+      "weight": 0.9
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src — GitHub Trending",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.874880+00:00",
+      "summary": "单日新增 739 stars",
+      "points": 739,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "openai/codex-security — GitHub Trending",
+      "url": "https://github.com/openai/codex-security",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.875168+00:00",
+      "summary": "单日新增 643 stars",
+      "points": 643,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "hn",
+      "published": "2026-11-12T18:39:05Z",
+      "summary": "",
+      "points": 624,
+      "_ts": 1794508745,
+      "weight": 0.9
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "hn",
+      "published": "2026-11-12T18:01:48Z",
+      "summary": "",
+      "points": 518,
+      "_ts": 1794506508,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "hn",
+      "published": "2026-11-12T17:02:42Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876</a>",
+      "points": 481,
+      "_ts": 1794502962,
+      "weight": 0.9
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "hn",
+      "published": "2026-11-13T02:16:24Z",
+      "summary": "",
+      "points": 478,
+      "_ts": 1794536184,
+      "weight": 0.9
+    },
+    {
+      "title": "Alishahryar1/free-claude-code — GitHub Trending",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.877899+00:00",
+      "summary": "单日新增 415 stars",
+      "points": 415,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "source": "hn",
+      "published": "2026-11-12T18:17:13Z",
+      "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won&#x27;t even load.",
+      "points": 401,
+      "_ts": 1794507433,
+      "weight": 0.9
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "hn",
+      "published": "2026-11-12T18:52:01Z",
+      "summary": "",
+      "points": 400,
+      "_ts": 1794509521,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "source": "hn",
+      "published": "2026-11-12T13:56:11Z",
+      "summary": "",
+      "points": 375,
+      "_ts": 1794491771,
+      "weight": 0.9
+    },
+    {
+      "title": "Writing correct software is hard and math alone won’t help us (2016)",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "source": "hn",
+      "published": "2026-11-12T10:28:26Z",
+      "summary": "",
+      "points": 361,
+      "_ts": 1794479306,
+      "weight": 0.9
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "hn",
+      "published": "2026-11-12T15:23:10Z",
+      "summary": "",
+      "points": 342,
+      "_ts": 1794496990,
+      "weight": 0.9
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "source": "hn",
+      "published": "2026-11-12T18:24:06Z",
+      "summary": "",
+      "points": 311,
+      "_ts": 1794507846,
+      "weight": 0.9
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "source": "hn",
+      "published": "2026-11-12T16:29:13Z",
+      "summary": "",
+      "points": 303,
+      "_ts": 1794500953,
+      "weight": 0.9
+    },
+    {
+      "title": "CopilotKit/OpenBot — GitHub Trending",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.877632+00:00",
+      "summary": "单日新增 298 stars",
+      "points": 298,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "source": "hn",
+      "published": "2026-11-12T19:05:33Z",
+      "summary": "",
+      "points": 278,
+      "_ts": 1794510333,
+      "weight": 0.9
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "hn",
+      "published": "2026-11-12T21:56:11Z",
+      "summary": "",
+      "points": 277,
+      "_ts": 1794520571,
+      "weight": 0.9
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "source": "hn",
+      "published": "2026-11-12T14:18:49Z",
+      "summary": "",
+      "points": 265,
+      "_ts": 1794493129,
+      "weight": 0.9
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "source": "hn",
+      "published": "2026-11-12T19:51:33Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-...</a>",
+      "points": 233,
+      "_ts": 1794513093,
+      "weight": 0.9
+    },
+    {
+      "title": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "source": "hn",
+      "published": "2026-11-12T14:05:28Z",
+      "summary": "",
+      "points": 216,
+      "_ts": 1794492328,
+      "weight": 0.9
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "source": "hn",
+      "published": "2026-11-12T14:12:37Z",
+      "summary": "",
+      "points": 213,
+      "_ts": 1794492757,
+      "weight": 0.9
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "hn",
+      "published": "2026-11-12T23:06:17Z",
+      "summary": "",
+      "points": 212,
+      "_ts": 1794524777,
+      "weight": 0.9
+    },
+    {
+      "title": "pookjw/HermesEnabler — GitHub Trending",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.875685+00:00",
+      "summary": "单日新增 218 stars",
+      "points": 218,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "source": "hn",
+      "published": "2026-11-12T21:13:26Z",
+      "summary": "",
+      "points": 197,
+      "_ts": 1794518006,
+      "weight": 0.9
+    },
+    {
+      "title": "Data centers need power – lower income, rural residents pay the price",
+      "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+      "source": "hn",
+      "published": "2026-11-12T19:53:54Z",
+      "summary": "",
+      "points": 184,
+      "_ts": 1794513234,
+      "weight": 0.9
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "source": "hn",
+      "published": "2026-11-12T18:22:22Z",
+      "summary": "",
+      "points": 175,
+      "_ts": 1794507742,
+      "weight": 0.9
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+      "source": "hn",
+      "published": "2026-11-12T13:56:38Z",
+      "summary": "",
+      "points": 168,
+      "_ts": 1794491798,
+      "weight": 0.9
+    },
+    {
+      "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "source": "hn",
+      "published": "2026-11-12T18:14:18Z",
+      "summary": "",
+      "points": 167,
+      "_ts": 1794507258,
+      "weight": 0.9
+    },
+    {
+      "title": "ggml-org/llama.cpp — GitHub Trending",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.878155+00:00",
+      "summary": "单日新增 176 stars",
+      "points": 176,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "source": "hn",
+      "published": "2026-11-12T21:09:49Z",
+      "summary": "",
+      "points": 158,
+      "_ts": 1794517789,
+      "weight": 0.9
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/",
+      "source": "hn",
+      "published": "2026-11-12T14:11:58Z",
+      "summary": "",
+      "points": 142,
+      "_ts": 1794492718,
+      "weight": 0.9
+    },
+    {
+      "title": "QwenLM/qwen-code — GitHub Trending",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.876205+00:00",
+      "summary": "单日新增 151 stars",
+      "points": 151,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "source": "hn",
+      "published": "2026-11-12T10:46:20Z",
+      "summary": "",
+      "points": 127,
+      "_ts": 1794480380,
+      "weight": 0.9
+    },
+    {
+      "title": "Africa's solar revolution is vast and speedy",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "source": "hn",
+      "published": "2026-11-13T02:28:15Z",
+      "summary": "",
+      "points": 120,
+      "_ts": 1794536895,
+      "weight": 0.9
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "url": "https://github.com/chocoford/ExcalidrawZ",
+      "source": "hn",
+      "published": "2026-11-12T15:25:52Z",
+      "summary": "",
+      "points": 119,
+      "_ts": 1794497152,
+      "weight": 0.9
+    },
+    {
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "source": "hn",
+      "published": "2026-11-13T04:54:53Z",
+      "summary": "",
+      "points": 105,
+      "_ts": 1794545693,
+      "weight": 0.9
+    },
+    {
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "source": "hn",
+      "published": "2026-11-12T14:25:23Z",
+      "summary": "",
+      "points": 105,
+      "_ts": 1794493523,
+      "weight": 0.9
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "source": "hn",
+      "published": "2026-11-12T14:30:38Z",
+      "summary": "",
+      "points": 99,
+      "_ts": 1794493838,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "hn",
+      "published": "2026-11-12T18:15:48Z",
+      "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: <a href=\"https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-agents-use-fewer-tokens\" rel=\"nofollow\">https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag...</a>.<p>It includes what we originally built for our own agent harness:<p>- Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents beh",
+      "points": 96,
+      "_ts": 1794507348,
+      "weight": 0.9
+    },
+    {
+      "title": "Why You Should Expect an AI Crash",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "source": "hn",
+      "published": "2026-11-12T23:08:31Z",
+      "summary": "",
+      "points": 92,
+      "_ts": 1794524911,
+      "weight": 0.9
+    },
+    {
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "source": "hn",
+      "published": "2026-11-13T03:14:59Z",
+      "summary": "",
+      "points": 86,
+      "_ts": 1794539699,
+      "weight": 0.9
+    },
+    {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "source": "hn",
+      "published": "2026-11-12T15:14:52Z",
+      "summary": "",
+      "points": 85,
+      "_ts": 1794496492,
+      "weight": 0.9
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "source": "hn",
+      "published": "2026-11-13T03:08:08Z",
+      "summary": "",
+      "points": 74,
+      "_ts": 1794539288,
+      "weight": 0.9
+    },
+    {
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "source": "hn",
+      "published": "2026-11-13T00:38:41Z",
+      "summary": "",
+      "points": 74,
+      "_ts": 1794530321,
+      "weight": 0.9
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "source": "hn",
+      "published": "2026-11-12T16:59:26Z",
+      "summary": "",
+      "points": 73,
+      "_ts": 1794502766,
+      "weight": 0.9
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "source": "hn",
+      "published": "2026-11-12T14:00:54Z",
+      "summary": "",
+      "points": 72,
+      "_ts": 1794492054,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "url": "https://fable52.games",
+      "source": "hn",
+      "published": "2026-11-12T15:30:01Z",
+      "summary": "",
+      "points": 68,
+      "_ts": 1794497401,
+      "weight": 0.9
+    },
+    {
+      "title": "Adapting CPython for Yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "source": "hn",
+      "published": "2026-11-12T12:51:38Z",
+      "summary": "",
+      "points": 68,
+      "_ts": 1794487898,
+      "weight": 0.9
+    },
+    {
+      "title": "Electric ship batteries promise compact, cooler power",
+      "url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "source": "hn",
+      "published": "2026-11-12T14:06:03Z",
+      "summary": "",
+      "points": 67,
+      "_ts": 1794492363,
+      "weight": 0.9
+    },
+    {
+      "title": "Vibes Don't Maintain",
+      "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+      "source": "hn",
+      "published": "2026-11-12T19:06:29Z",
+      "summary": "",
+      "points": 65,
+      "_ts": 1794510389,
+      "weight": 0.9
+    },
+    {
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "source": "hn",
+      "published": "2026-11-13T05:08:23Z",
+      "summary": "",
+      "points": 60,
+      "_ts": 1794546503,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang Third Affair Allegations Revealed",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/",
+      "source": "hn",
+      "published": "2026-11-12T20:36:59Z",
+      "summary": "",
+      "points": 58,
+      "_ts": 1794515819,
+      "weight": 0.9
+    },
+    {
+      "title": "Scientists claim the universe is twice as old as believed",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "source": "hn",
+      "published": "2026-11-13T05:13:30Z",
+      "summary": "",
+      "points": 55,
+      "_ts": 1794546810,
+      "weight": 0.9
+    },
+    {
+      "title": "nvm-sh/nvm — GitHub Trending",
+      "url": "https://github.com/nvm-sh/nvm",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.875427+00:00",
+      "summary": "单日新增 63 stars",
+      "points": 63,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "nodejs/node — GitHub Trending",
+      "url": "https://github.com/nodejs/node",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.876855+00:00",
+      "summary": "单日新增 62 stars",
+      "points": 62,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "NYC Council passes ban on 'surveillance pricing'",
+      "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+      "source": "hn",
+      "published": "2026-11-13T02:04:39Z",
+      "summary": "",
+      "points": 49,
+      "_ts": 1794535479,
+      "weight": 0.9
+    },
+    {
+      "title": "ashhart/TensorFold — GitHub Trending",
+      "url": "https://github.com/ashhart/TensorFold",
+      "source": "github_trending",
+      "published": "2026-11-13T07:52:33.876506+00:00",
+      "summary": "单日新增 54 stars",
+      "points": 54,
+      "_ts": 1794556353,
+      "weight": 0.8
+    },
+    {
+      "title": "Richard Posner has died",
+      "url": "https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge",
+      "source": "hn",
+      "published": "2026-11-12T23:19:53Z",
+      "summary": "",
+      "points": 43,
+      "_ts": 1794525593,
+      "weight": 0.9
+    },
+    {
+      "title": "Distributed Ray Tracer",
+      "url": "https://ray.hatchet.run",
+      "source": "hn",
+      "published": "2026-11-12T19:06:23Z",
+      "summary": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly. All of this would be possible on a single machine, but would be much slower without dedicated hardware (RT cores, etc).<p>The renderer itself is using well-known ",
+      "points": 42,
+      "_ts": 1794510383,
+      "weight": 0.9
+    },
+    {
+      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+      "source": "hn",
+      "published": "2026-11-13T05:10:27Z",
+      "summary": "",
+      "points": 41,
+      "_ts": 1794546627,
+      "weight": 0.9
+    },
+    {
+      "title": "PCMag demands $12000 to link to an article",
+      "url": "https://twitter.com/rickbrewPDN/status/2120970541331050926",
+      "source": "hn",
+      "published": "2026-11-12T21:36:06Z",
+      "summary": "",
+      "points": 41,
+      "_ts": 1794519366,
+      "weight": 0.9
+    },
+    {
+      "title": "Show HN: Apron Chat Protocol",
+      "url": "https://apron.chat/",
+      "source": "hn",
+      "published": "2026-11-12T16:52:31Z",
+      "summary": "Hi HN friends - I&#x27;ve been obsessed with chat protocols for ages - one previous project is ssh-chat (<a href=\"https:&#x2F;&#x2F;ssh.chat&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;ssh.chat&#x2F;</a>)<p>I come bringing a new kind of chat protocol that I&#x27;ve been working on since I spent quite a lot of time exploring the 14 other competing standards we&#x27;ve come up with in the past few decades.<p>The protocol details are here: <a href=\"https:&#x2F;&#x2F;apron.chat\" rel=\"nofollow\">https:&#x2F;&#x2F;apron.chat</a><p>I&#x27;m hoping that Apron will better reflect our needs beyond 2026, whic",
+      "points": 41,
+      "_ts": 1794502351,
+      "weight": 0.9
+    },
+    {
+      "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)",
+      "url": "https://www.techmeme.com/261113/p5#a261113p5",
+      "source": "techmeme",
+      "published": "Fri, 13 Nov 2026 02:25:02 -0500",
+      "summary": "\n Jessica Lyons / The Register:\nOpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them&nbsp; &mdash;&nbsp; OpenAI has launched two new security products, one for penetration testing and another for defense, and warned organizations &hellip; ",
+      "points": 0,
+      "_ts": 1794554702,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine's market value is $5.6B (Bloomberg)",
+      "url": "https://www.techmeme.com/261113/p4#a261113p4",
+      "source": "techmeme",
+      "published": "Fri, 13 Nov 2026 01:30:00 -0500",
+      "summary": "\n Bloomberg:\nSources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine's market value is $5.6B&nbsp; &mdash;&nbsp; Samsung Electronics Co. is in talks to acquire Modine Manufacturing Co., a maker of cooling systems for data centers, according to people familiar with the matter.",
+      "points": 0,
+      "_ts": 1794551400,
+      "weight": 1.0
+    },
+    {
+      "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
+      "url": "https://www.techmeme.com/261113/p3#a261113p3",
+      "source": "techmeme",
+      "published": "Fri, 13 Nov 2026 01:01:16 -0500",
+      "summary": "\n Financial Times:\nFiling: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO&nbsp; &mdash;&nbsp; Nvidia-backed &lsquo;neocloud&rsquo; tells investors it must obtain additional financing to fulfil Anthropic contracts",
+      "points": 0,
+      "_ts": 1794549676,
+      "weight": 1.0
+    },
+    {
+      "title": "Nscale's updated IPO prospectus shows Q3 revenue up 1,344% YoY to $307.5M, up from $140.6M in Q2; net loss widened to $1.69B, up from $1.02B in Q2 (Jordan Novet/CNBC)",
+      "url": "https://www.techmeme.com/261113/p2#a261113p2",
+      "source": "techmeme",
+      "published": "Fri, 13 Nov 2026 00:50:02 -0500",
+      "summary": "\n Jordan Novet / CNBC:\nNscale's updated IPO prospectus shows Q3 revenue up 1,344% YoY to $307.5M, up from $140.6M in Q2; net loss widened to $1.69B, up from $1.02B in Q2&nbsp; &mdash;&nbsp; Nvidia-backed neocloud Nscale on Thursday released updated paperwork for a U.S. initial public offering.&nbsp; &mdash;&nbsp; The company had a third-quarter net loss &hellip; ",
+      "points": 0,
+      "_ts": 1794549002,
+      "weight": 1.0
+    },
+    {
+      "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/261113/p1#a261113p1",
+      "source": "techmeme",
+      "published": "Fri, 13 Nov 2026 00:05:01 -0500",
+      "summary": "\n Sarah Perez / TechCrunch:\nMeta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option&nbsp; &mdash;&nbsp; After initially testing the feature in September, Meta's consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users.",
+      "points": 0,
+      "_ts": 1794546301,
+      "weight": 1.0
+    },
+    {
+      "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261112/p74#a261112p74",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 23:45:01 -0500",
+      "summary": "\n Sarah Klearman / Wall Street Journal:\nMirendil, founded by former Anthropic researchers to build tools for frontier AI R&amp;D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital&nbsp; &mdash;&nbsp; The fundraise comes six months after Mirendil, founded by Anthropic alumni, announced a $200 million seed round",
+      "points": 0,
+      "_ts": 1794545101,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks (Olivia Carville/Bloomberg)",
+      "url": "https://www.techmeme.com/261112/p73#a261112p73",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 23:15:00 -0500",
+      "summary": "\n Olivia Carville / Bloomberg:\nSources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks&nbsp; &mdash;&nbsp; Seven confidential deals with young plaintiffs ranged from $2 million to $2.5 million.&nbsp; And the remaining personal injury lawsuits &hellip; ",
+      "points": 0,
+      "_ts": 1794543300,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn't prove it (CNN)",
+      "url": "https://www.techmeme.com/261112/p72#a261112p72",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 22:40:01 -0500",
+      "summary": "\n CNN:\nSources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn't prove it&nbsp; &mdash;&nbsp; The US intelligence community is still working to understand the relationship between a Chinese businesswoman who had an affair &hellip; ",
+      "points": 0,
+      "_ts": 1794541201,
+      "weight": 1.0
+    },
+    {
+      "title": "Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback (The Information)",
+      "url": "https://www.techmeme.com/261112/p71#a261112p71",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 22:20:00 -0500",
+      "summary": "\n The Information:\nLetter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback&nbsp; &mdash;&nbsp; ByteDance, the Chinese owner of TikTok, is planning to buy back up to $6 billion worth of shares from existing investors &hellip; ",
+      "points": 0,
+      "_ts": 1794540000,
+      "weight": 1.0
+    },
+    {
+      "title": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
+      "url": "https://www.techmeme.com/261112/p70#a261112p70",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 22:01:46 -0500",
+      "summary": "\n Jasper Goodman / Politico:\nSenate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear&nbsp; &mdash;&nbsp; Senate Banking Chair Tim Scott on Thursday called on fallen Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify &hellip; ",
+      "points": 0,
+      "_ts": 1794538906,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit (Bloomberg)",
+      "url": "https://www.techmeme.com/261112/p69#a261112p69",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 21:11:02 -0500",
+      "summary": "\n Bloomberg:\nSources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit&nbsp; &mdash;&nbsp; Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative &hellip; ",
+      "points": 0,
+      "_ts": 1794535862,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a \"piece of shit\", and claims to not care what happens to himself (Bloomberg)",
+      "url": "https://www.techmeme.com/261112/p68#a261112p68",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 20:50:02 -0500",
+      "summary": "\n Bloomberg:\nSources close to Jensen Huang say he has taken a penitent turn, castigated himself as a &ldquo;piece of shit&rdquo;, and claims to not care what happens to himself&nbsp; &mdash;&nbsp; At the end, Jensen Huang looked broken and shattered, his legendary energy depleted.&nbsp; After weeks spent denying the allegations &hellip; ",
+      "points": 0,
+      "_ts": 1794534602,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
+      "url": "https://www.techmeme.com/261112/p67#a261112p67",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 20:35:01 -0500",
+      "summary": "\n New York Times:\nSources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales&nbsp; &mdash;&nbsp; Howard Lutnick has frequently clashed with top officials over how to regulate sales of advanced technology to Asia &hellip; ",
+      "points": 0,
+      "_ts": 1794533701,
+      "weight": 1.0
+    },
+    {
+      "title": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
+      "url": "https://www.techmeme.com/261112/p66#a261112p66",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 19:35:01 -0500",
+      "summary": "\n New York Times:\nSources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail&nbsp; &mdash;&nbsp; The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
+      "points": 0,
+      "_ts": 1794530101,
+      "weight": 1.0
+    },
+    {
+      "title": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A (CJ Fairfield/CRN)",
+      "url": "https://www.techmeme.com/261112/p65#a261112p65",
+      "source": "techmeme",
+      "published": "Thu, 12 Nov 2026 19:30:00 -0500",
+      "summary": "\n CJ Fairfield / CRN:\nNew York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A&nbsp; &mdash;&nbsp; 'Small businesses are trying to figure out how to transform themselves right now into being AI-first or AI-native, and it's a job that's very, very hard to do without help.",
+      "points": 0,
+      "_ts": 1794529800,
+      "weight": 1.0
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "openai",
+      "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "points": 0,
+      "_ts": 1794513600,
+      "weight": 1.0
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "openai",
+      "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "points": 0,
+      "_ts": 1794484800,
+      "weight": 1.0
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "openai",
+      "published": "Thu, 12 Nov 2026 09:30:00 GMT",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "points": 0,
+      "_ts": 1794475800,
+      "weight": 1.0
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "points": 0,
+      "_ts": 1794523371,
+      "weight": 0.9
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "points": 0,
+      "_ts": 1794522148,
+      "weight": 0.9
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "points": 0,
+      "_ts": 1794519300,
+      "weight": 0.9
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "points": 0,
+      "_ts": 1794518830,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 20:26:47 +0000",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "points": 0,
+      "_ts": 1794515207,
+      "weight": 0.9
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 19:27:45 +0000",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "points": 0,
+      "_ts": 1794511665,
+      "weight": 0.9
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "points": 0,
+      "_ts": 1794510660,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 18:39:23 +0000",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "points": 0,
+      "_ts": 1794508763,
+      "weight": 0.9
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 17:36:40 +0000",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "points": 0,
+      "_ts": 1794505000,
+      "weight": 0.9
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 17:17:58 +0000",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "points": 0,
+      "_ts": 1794503878,
+      "weight": 0.9
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 17:00:52 +0000",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "points": 0,
+      "_ts": 1794502852,
+      "weight": 0.9
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "points": 0,
+      "_ts": 1794502800,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 16:36:37 +0000",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "points": 0,
+      "_ts": 1794501397,
+      "weight": 0.9
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 16:32:33 +0000",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "points": 0,
+      "_ts": 1794501153,
+      "weight": 0.9
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 16:12:44 +0000",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "points": 0,
+      "_ts": 1794499964,
+      "weight": 0.9
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 15:37:29 +0000",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "points": 0,
+      "_ts": 1794497849,
+      "weight": 0.9
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 15:18:14 +0000",
+      "summary": "This is the investment firm's largest fund to date.",
+      "points": 0,
+      "_ts": 1794496694,
+      "weight": 0.9
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 15:02:28 +0000",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "points": 0,
+      "_ts": 1794495748,
+      "weight": 0.9
+    },
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "techcrunch_ai",
+      "published": "Thu, 12 Nov 2026 13:26:25 +0000",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+      "points": 0,
+      "_ts": 1794489985,
+      "weight": 0.9
+    },
+    {
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 11:36:20 +0000",
+      "summary": "「CAD拆解」",
+      "points": 0,
+      "_ts": 1794483380,
+      "weight": 0.9
+    },
+    {
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 10:45:33 +0000",
+      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "points": 0,
+      "_ts": 1794480333,
+      "weight": 0.9
+    },
+    {
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 10:11:29 +0000",
+      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+      "points": 0,
+      "_ts": 1794478289,
+      "weight": 0.9
+    },
+    {
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "url": "https://www.qbitai.com/2026/11/509355.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 10:08:24 +0000",
+      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "points": 0,
+      "_ts": 1794478104,
+      "weight": 0.9
+    },
+    {
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "url": "https://www.qbitai.com/2026/11/509349.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 09:34:06 +0000",
+      "summary": "企业 AI 的难题，不只是模型够不够强",
+      "points": 0,
+      "_ts": 1794476046,
+      "weight": 0.9
+    },
+    {
+      "title": "马斯克已准备好聘请黄仁勋",
+      "url": "https://www.qbitai.com/2026/11/509334.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 08:16:11 +0000",
+      "summary": "老黄出轨认错、再曝婚外恋",
+      "points": 0,
+      "_ts": 1794471371,
+      "weight": 0.9
+    },
+    {
+      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "url": "https://www.qbitai.com/2026/11/509291.html",
+      "source": "qbitai",
+      "published": "Thu, 12 Nov 2026 07:55:11 +0000",
+      "summary": "只管挖不管埋。",
+      "points": 0,
+      "_ts": 1794470111,
+      "weight": 0.9
+    },
+    {
+      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "url": "https://huggingface.co/papers/2611.14815",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003258+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "url": "https://huggingface.co/papers/2611.15131",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003324+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+      "url": "https://huggingface.co/papers/2611.05984",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003344+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "url": "https://huggingface.co/papers/2611.15777",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003372+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2611.17167",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003400+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+      "url": "https://huggingface.co/papers/2611.16748",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003426+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "url": "https://huggingface.co/papers/2611.16217",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003452+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+      "url": "https://huggingface.co/papers/2611.16905",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003494+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+      "url": "https://huggingface.co/papers/2611.13004",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003520+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "url": "https://huggingface.co/papers/2611.17060",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003546+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2611.16517",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003570+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+      "url": "https://huggingface.co/papers/2610.41453",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003587+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+      "url": "https://huggingface.co/papers/2611.17331",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003608+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?",
+      "url": "https://huggingface.co/papers/2611.00428",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003625+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
+      "url": "https://huggingface.co/papers/2611.00359",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003646+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+      "url": "https://huggingface.co/papers/2611.16321",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003667+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "url": "https://huggingface.co/papers/2611.08219",
+      "source": "hf_papers",
+      "published": "2026-11-13T07:52:34.003695+00:00",
+      "summary": "Hugging Face Daily Papers",
+      "points": 0,
+      "_ts": 1794556354,
+      "weight": 0.8
+    },
+    {
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "theverge",
+      "published": "2026-11-12T19:46:07-05:00",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]",
+      "points": 0,
+      "_ts": 1794530767,
+      "weight": 0.8
+    },
+    {
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "theverge",
+      "published": "2026-11-12T19:11:44-05:00",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]",
+      "points": 0,
+      "_ts": 1794528704,
+      "weight": 0.8
+    },
+    {
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "theverge",
+      "published": "2026-11-12T18:43:22-05:00",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" [&#8230;]",
+      "points": 0,
+      "_ts": 1794527002,
+      "weight": 0.8
+    },
+    {
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "source": "theverge",
+      "published": "2026-11-12T18:30:52-05:00",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer [&#8230;]",
+      "points": 0,
+      "_ts": 1794526252,
+      "weight": 0.8
+    },
+    {
+      "title": "Microsoft Outlook is still down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "theverge",
+      "published": "2026-11-12T18:24:13-05:00",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which [&#8230;]",
+      "points": 0,
+      "_ts": 1794525853,
+      "weight": 0.8
+    },
+    {
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "source": "theverge",
+      "published": "2026-11-12T18:00:00-05:00",
+      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" [&#8230;]",
+      "points": 0,
+      "_ts": 1794524400,
+      "weight": 0.8
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "theverge",
+      "published": "2026-11-12T16:55:32-05:00",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
+      "points": 0,
+      "_ts": 1794520532,
+      "weight": 0.8
+    },
+    {
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "source": "theverge",
+      "published": "2026-11-12T16:45:00-05:00",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other [&#8230;]",
+      "points": 0,
+      "_ts": 1794519900,
+      "weight": 0.8
+    },
+    {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "source": "theverge",
+      "published": "2026-11-12T16:28:53-05:00",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price [&#8230;]",
+      "points": 0,
+      "_ts": 1794518933,
+      "weight": 0.8
+    },
+    {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "source": "theverge",
+      "published": "2026-11-12T16:00:00-05:00",
+      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just [&#8230;]",
+      "points": 0,
+      "_ts": 1794517200,
+      "weight": 0.8
+    },
+    {
+      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 07:39:08 GMT",
+      "summary": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
+      "points": 0,
+      "_ts": 1794555548,
+      "weight": 0.8
+    },
+    {
+      "title": "AI agents shouldn’t have to pretend to be us",
+      "url": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 07:12:26 GMT",
+      "summary": "Service providers from banks to online platforms need to offer a standard channel of access on fair terms",
+      "points": 0,
+      "_ts": 1794553946,
+      "weight": 0.8
+    },
+    {
+      "title": "Value Nvidia, not Huang",
+      "url": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 06:30:07 GMT",
+      "summary": "Plus, sclerotic labour markets",
+      "points": 0,
+      "_ts": 1794551407,
+      "weight": 0.8
+    },
+    {
+      "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
+      "url": "https://www.ft.com/content/a343d340-cdab-4c70-966e-795efd99bdbb?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 06:21:29 GMT",
+      "summary": "Japanese group overordered small turbines for US data centres as industry shifted to more energy-efficient models",
+      "points": 0,
+      "_ts": 1794550889,
+      "weight": 0.8
+    },
+    {
+      "title": "Microsoft races to restore services after global outage",
+      "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 06:03:26 GMT",
+      "summary": "Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says",
+      "points": 0,
+      "_ts": 1794549806,
+      "weight": 0.8
+    },
+    {
+      "title": "Jensen Huang’s Icarus moment",
+      "url": "https://www.ft.com/content/8d885f43-5277-46e0-a67c-ce94aa820ef1?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:28 GMT",
+      "summary": "Have AI billionaires been flying too close to the sun?",
+      "points": 0,
+      "_ts": 1794546028,
+      "weight": 0.8
+    },
+    {
+      "title": "Surging British tech sector helps drive UK economy",
+      "url": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:27 GMT",
+      "summary": "Growing adoption of AI believed to be supporting growth, stoking optimism that there could be improvements ahead",
+      "points": 0,
+      "_ts": 1794546027,
+      "weight": 0.8
+    },
+    {
+      "title": "Don’t scoff at the dangers of tokenisation",
+      "url": "https://www.ft.com/content/91e8c6d1-54ab-48b6-a6ad-ea3b8dc3843f?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:17 GMT",
+      "summary": "The obvious response is to create better cyber defences and central bank safety nets for hyper-liquid, high-speed shocks",
+      "points": 0,
+      "_ts": 1794546017,
+      "weight": 0.8
+    },
+    {
+      "title": "Where is Europe’s AI boom?",
+      "url": "https://www.ft.com/content/7ed32b6b-1e32-4046-88b6-f026339bdef4?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:17 GMT",
+      "summary": "Squint, and it’s showing up in the data",
+      "points": 0,
+      "_ts": 1794546017,
+      "weight": 0.8
+    },
+    {
+      "title": "Business school teaching case study: How to power a data centre",
+      "url": "https://www.ft.com/content/903b4224-9d47-49ee-8534-1161b6c731db",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:09 GMT",
+      "summary": "Oracle’s Project Jupiter, part of the Stargate infrastructure build-out, highlights the challenge of securing electricity supplies",
+      "points": 0,
+      "_ts": 1794546009,
+      "weight": 0.8
+    },
+    {
+      "title": "Europe’s AI story. With Philip Lane",
+      "url": "https://www.ft.com/content/715c417d-b8e7-476e-bc66-95acc371987e?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 05:00:00 GMT",
+      "summary": "How AI is already reshaping Europe's economy",
+      "points": 0,
+      "_ts": 1794546000,
+      "weight": 0.8
+    },
+    {
+      "title": "Nscale warns it needs more cash ahead of $35bn IPO",
+      "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 04:10:06 GMT",
+      "summary": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts",
+      "points": 0,
+      "_ts": 1794543006,
+      "weight": 0.8
+    },
+    {
+      "title": "Watchmakers wrestle with influence of AI on buyers",
+      "url": "https://www.ft.com/content/dd653a19-492a-41d1-b459-3a2b7d2f0e86",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 04:00:08 GMT",
+      "summary": "Brands are under pressure to rethink how they reach consumers and ensure that searches present their products accurately and create desirability",
+      "points": 0,
+      "_ts": 1794542408,
+      "weight": 0.8
+    },
+    {
+      "title": "The downfall of Jensen Huang",
+      "url": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 03:47:19 GMT",
+      "summary": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks",
+      "points": 0,
+      "_ts": 1794541639,
+      "weight": 0.8
+    },
+    {
+      "title": "The Silicon Valley veterans now steering Nvidia",
+      "url": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 01:42:30 GMT",
+      "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
+      "points": 0,
+      "_ts": 1794534150,
+      "weight": 0.8
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia chief executive",
+      "url": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 00:17:59 GMT",
+      "summary": "Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head",
+      "points": 0,
+      "_ts": 1794529079,
+      "weight": 0.8
+    },
+    {
+      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+      "url": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Fri, 13 Nov 2026 00:07:33 GMT",
+      "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
+      "points": 0,
+      "_ts": 1794528453,
+      "weight": 0.8
+    },
+    {
+      "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
+      "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 23:35:11 GMT",
+      "summary": "Legislators demand commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
+      "points": 0,
+      "_ts": 1794526511,
+      "weight": 0.8
+    },
+    {
+      "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+      "url": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 23:26:26 GMT",
+      "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
+      "points": 0,
+      "_ts": 1794525986,
+      "weight": 0.8
+    },
+    {
+      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+      "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 22:50:43 GMT",
+      "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
+      "points": 0,
+      "_ts": 1794523843,
+      "weight": 0.8
+    },
+    {
+      "title": "Nvidia sends a painful message on how to value a CEO",
+      "url": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 18:40:46 GMT",
+      "summary": "More clarity about why founders matter — and how much — should help everyone",
+      "points": 0,
+      "_ts": 1794508846,
+      "weight": 0.8
+    },
+    {
+      "title": "Quantum Systems drones grounded by German military after cyber attack",
+      "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 17:32:13 GMT",
+      "summary": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
+      "points": 0,
+      "_ts": 1794504733,
+      "weight": 0.8
+    },
+    {
+      "title": "Nvidia shares slide as Huang resigns",
+      "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 17:26:15 GMT",
+      "summary": "Stock falls as much as 14% before recovering to trade 5% down on Thursday",
+      "points": 0,
+      "_ts": 1794504375,
+      "weight": 0.8
+    },
+    {
+      "title": "Meet the contenders to succeed Jensen Huang",
+      "url": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 17:24:08 GMT",
+      "summary": "From chief executives of rival companies to the former CEO’s own children, the race to lead Nvidia has begun",
+      "points": 0,
+      "_ts": 1794504248,
+      "weight": 0.8
+    },
+    {
+      "title": "Jensen jeopardy will disrupt the AI industry",
+      "url": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
+      "source": "ft_tech",
+      "published": "Thu, 12 Nov 2026 15:56:31 GMT",
+      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
+      "points": 0,
+      "_ts": 1794498991,
+      "weight": 0.8
+    },
+    {
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "source": "nvidia_blog",
+      "published": "Thu, 12 Nov 2026 14:00:59 +0000",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales [&#8230;]",
+      "points": 0,
+      "_ts": 1794492059,
+      "weight": 0.7
+    }
+  ]
+}

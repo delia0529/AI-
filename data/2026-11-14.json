@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-14",
+  "issue": "No.059",
+  "weekday": "周六",
+  "generated_at": "2026-11-14 07:34 CST",
+  "window": "2026-11-14 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-14 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 8,
+    "clusters": 8,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs。讨论热度 405 分、205 条评论；出处 techpowerup.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 405 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "techpowerup.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Nvidia Allegedly Engineered Scarcity by ",
+              "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+          "category": "政策、资本与算力供给",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal。讨论热度 196 分、41 条评论；出处 finance.yahoo.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 196 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "finance.yahoo.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Nvidia director sold nearly $1B in stock",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks。讨论热度 234 分、149 条评论；出处 english.nv.ua。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 234 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "english.nv.ua"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Ukraine knocks out 36% of Russia's oil r",
+              "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
+            }
+          ]
+        },
+        {
+          "title": "FAA lifted National Ground Stop at 0119Z",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：FAA lifted National Ground Stop at 0119Z。讨论热度 208 分、2 条评论；出处 fly.faa.gov。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 208 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "fly.faa.gov"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · FAA lifted National Ground Stop at 0119Z",
+              "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+            }
+          ]
+        },
+        {
+          "title": "Ggml v1.0.0",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：Ggml v1.0.0。讨论热度 187 分、30 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 187 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Ggml v1.0.0",
+              "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+            }
+          ]
+        },
+        {
+          "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-14 的当日条目：Amtrak booking system experiencing major issues amid nationwide FAA ground stop。讨论热度 160 分、49 条评论；出处 fox5dc.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 160 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "fox5dc.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Amtrak booking system experiencing major",
+              "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-14 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.15777"
+            }
+          ]
+        },
+        {
+          "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-14 当日论文归档中的条目：SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.15777"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

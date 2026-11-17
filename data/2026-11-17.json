@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-17",
+  "issue": "No.062",
+  "weekday": "周二",
+  "generated_at": "2026-11-17 09:09 CST",
+  "window": "2026-11-17 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-17 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：If an App Asks for Full Disk Access or System and App Protection Override。讨论热度 117 分、61 条评论；出处 support.apple.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 117 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "support.apple.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · If an App Asks for Full Disk Access or S",
+              "url": "https://support.apple.com/en-us/149699"
+            }
+          ]
+        },
+        {
+          "title": "Why 3dfx 1 cards had such a washed out color output?",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：Why 3dfx 1 cards had such a washed out color output?。讨论热度 115 分、30 条评论；出处 twitter.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 115 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "twitter.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Why 3dfx 1 cards had such a washed out c",
+              "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513"
+            }
+          ]
+        },
+        {
+          "title": "Running coding agents without handing them my credentials",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：Running coding agents without handing them my credentials。讨论热度 111 分、70 条评论；出处 blog.antonio.cx。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 111 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "blog.antonio.cx"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Running coding agents without handing th",
+              "url": "https://blog.antonio.cx/running-agents-with-lend"
+            }
+          ]
+        },
+        {
+          "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：Pentagon fails ninth straight audit despite progress in organizing finances。讨论热度 109 分、34 条评论；出处 reuters.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 109 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "reuters.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Pentagon fails ninth straight audit desp",
+              "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/"
+            }
+          ]
+        },
+        {
+          "title": "Mem Is Shutting Down",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：Mem Is Shutting Down。讨论热度 55 分、78 条评论；出处 get.mem.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 55 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "get.mem.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Mem Is Shutting Down",
+              "url": "https://get.mem.ai/blog/mem-is-shutting-down"
+            }
+          ]
+        },
+        {
+          "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-17 的当日条目：Claude Mythos slashed software work to onboard AMD GPUs to around three days。讨论热度 44 分、14 条评论；出处 tomshardware.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 44 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "tomshardware.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Claude Mythos slashed software work to o",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

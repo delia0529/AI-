@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-18",
+  "issue": "No.063",
+  "weekday": "周三",
+  "generated_at": "2026-11-18 08:30 CST",
+  "window": "2026-11-18 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-18 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-18 的当日条目：Google's AI answers reducing search traffic by 40%。讨论热度 339 分、258 条评论；出处 revscope.co。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 339 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "revscope.co"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Google's AI answers reducing search traf",
+              "url": "https://revscope.co/blog/search-seo-geo-2026/"
+            }
+          ]
+        },
+        {
+          "title": "ID.me terms required for IRS sign-in",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-18 的当日条目：ID.me terms required for IRS sign-in。讨论热度 335 分、146 条评论；出处 consumerrights.wiki。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 335 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "consumerrights.wiki"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · ID.me terms required for IRS sign-in",
+              "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+            }
+          ]
+        },
+        {
+          "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-18 的当日条目：Interviewed at a YC startup, found out they used my LinkedIn without permission。讨论热度 313 分、64 条评论；出处 reddit.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 313 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "reddit.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Interviewed at a YC startup, found out t",
+              "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"
+            }
+          ]
+        },
+        {
+          "title": "AI is killing All About Berlin",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-18 的当日条目：AI is killing All About Berlin。讨论热度 199 分、140 条评论；出处 nicolasbouliane.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 199 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "nicolasbouliane.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · AI is killing All About Berlin",
+              "url": "https://nicolasbouliane.com/blog/death-by-ai"
+            }
+          ]
+        },
+        {
+          "title": "Cerebras Disaggregated Inference",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-18 的当日条目：Cerebras Disaggregated Inference。讨论热度 74 分、17 条评论；出处 cerebras.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 74 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "cerebras.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Cerebras Disaggregated Inference",
+              "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+            }
+          ]
+        },
+        {
+          "title": "Why is Gemini 4 Carbon taking so long?",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-18 的当日条目：Why is Gemini 4 Carbon taking so long?。讨论热度 69 分、40 条评论；出处 kernel.dev。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 69 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "kernel.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Why is Gemini 4 Carbon taking so long?",
+              "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

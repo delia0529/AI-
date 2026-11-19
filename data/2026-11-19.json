@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-19",
+  "issue": "No.064",
+  "weekday": "周四",
+  "generated_at": "2026-11-19 08:42 CST",
+  "window": "2026-11-19 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-19 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 8 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 8,
+    "clusters": 8,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-19 的当日条目：Black high school students sue after AI mistakes Doritos bag for gun。讨论热度 84 分、46 条评论；出处 lawyerscommittee.org。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 84 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "lawyerscommittee.org"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Black high school students sue after AI ",
+              "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Unreal Tournament 2004 in the Browser",
+          "category": "浏览器 / 端侧工作流",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-19 的当日条目：Unreal Tournament 2004 in the Browser。讨论热度 151 分、70 条评论；出处 ut2004.dev。",
+          "insight": "该条属于浏览器 / 端侧工作流方向，当日获得 151 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "ut2004.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#端侧AI"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Unreal Tournament 2004 in the Browser",
+              "url": "https://ut2004.dev/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-19 的当日条目：Gemini 4 Neon looks like an Opus 5.5 competitor。讨论热度 219 分、69 条评论；出处 micjm.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 219 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "micjm.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Gemini 4 Neon looks like an Opus 5.5 com",
+              "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+            }
+          ]
+        },
+        {
+          "title": "AI will not make you rich (2025)",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-19 的当日条目：AI will not make you rich (2025)。讨论热度 95 分、55 条评论；出处 colossus.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 95 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "colossus.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · AI will not make you rich (2025)",
+              "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
+            }
+          ]
+        },
+        {
+          "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-19 的当日条目：15M web servers on one VM – smoltcp, DPDK, AF_XDP。讨论热度 77 分、12 条评论；出处 kapteko.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 77 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "kapteko.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · 15M web servers on one VM – smoltcp, DPD",
+              "url": "https://kapteko.com/15-million-webservers/"
+            }
+          ]
+        },
+        {
+          "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-19 的当日条目：Fable: Written, painted and directed by Claude Fable 5.2。讨论热度 57 分、58 条评论；出处 claudia.gallery。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 57 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "claudia.gallery"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Fable: Written, painted and directed by ",
+              "url": "https://claudia.gallery/fable/"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-19 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.14848"
+            }
+          ]
+        },
+        {
+          "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-19 当日论文归档中的条目：Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.14848"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

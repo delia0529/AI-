@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-23",
+  "issue": "No.068",
+  "weekday": "周一",
+  "generated_at": "2026-11-23 08:57 CST",
+  "window": "2026-11-23 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-23 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-23 的当日条目：Free alternative TV network built from the Internet Archive's forgotten videos。讨论热度 487 分、74 条评论；出处 spelunkr.tv。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 487 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "spelunkr.tv"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Free alternative TV network built from t",
+              "url": "https://spelunkr.tv"
+            }
+          ]
+        },
+        {
+          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-23 的当日条目：XNU Linux: Full OS X GUI Userspace on Linux。讨论热度 250 分、106 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 250 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · XNU Linux: Full OS X GUI Userspace on Li",
+              "url": "https://github.com/AFK-surf/xnulinux"
+            }
+          ]
+        },
+        {
+          "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-23 的当日条目：DeFlock Amerca Facebook Group Suspended as a Dangerous Organization。讨论热度 124 分、45 条评论；出处 facebook.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 124 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "facebook.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · DeFlock Amerca Facebook Group Suspended ",
+              "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/"
+            }
+          ]
+        },
+        {
+          "title": "Treemap of the Riemann Hypothesis Lean Proof",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-23 的当日条目：Treemap of the Riemann Hypothesis Lean Proof。讨论热度 75 分、22 条评论；出处 pengowray.github.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 75 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "pengowray.github.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Treemap of the Riemann Hypothesis Lean P",
+              "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/"
+            }
+          ]
+        },
+        {
+          "title": "A Partial Evaluator for C",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-23 的当日条目：A Partial Evaluator for C。讨论热度 54 分、2 条评论；出处 phoenix.labri.fr。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 54 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "phoenix.labri.fr"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · A Partial Evaluator for C",
+              "url": "https://phoenix.labri.fr/software/tempo/"
+            }
+          ]
+        },
+        {
+          "title": "'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-23 的当日条目：'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC。讨论热度 50 分、54 条评论；出处 finance.yahoo.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 50 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "finance.yahoo.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · 'It's greed': Zohran Mamdani blasts Amaz",
+              "url": "https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

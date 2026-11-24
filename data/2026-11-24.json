@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-24",
+  "issue": "No.069",
+  "weekday": "周二",
+  "generated_at": "2026-11-24 10:52 CST",
+  "window": "2026-11-24 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-24 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-24 的当日条目：New York Bans Subscription and Post-Purchase Fees on Cars。讨论热度 382 分、120 条评论；出处 governor.ny.gov。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 382 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "governor.ny.gov"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · New York Bans Subscription and Post-Purc",
+              "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
+            }
+          ]
+        },
+        {
+          "title": "2035 Came Early",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-24 的当日条目：2035 Came Early。讨论热度 263 分、72 条评论；出处 fzakaria.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 263 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "fzakaria.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · 2035 Came Early",
+              "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+            }
+          ]
+        },
+        {
+          "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-24 的当日条目：India's opposition storms Meta's offices to get its Instagram accounts back。讨论热度 203 分、88 条评论；出处 korben.info。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 203 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "korben.info"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · India's opposition storms Meta's offices",
+              "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
+            }
+          ]
+        },
+        {
+          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-24 的当日条目：New York Bans Subscription and Post-Purchase Fees on Cars。讨论热度 140 分、56 条评论；出处 wgna.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 140 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "wgna.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · New York Bans Subscription and Post-Purc",
+              "url": "https://wgna.com/car-bill-extra-fees/"
+            }
+          ]
+        },
+        {
+          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-24 的当日条目：AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years。讨论热度 99 分、42 条评论；出处 phoronix.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 99 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "phoronix.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · AMD EPYC Zen 6 vs. Zen 1 Performance: 12",
+              "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+            }
+          ]
+        },
+        {
+          "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-24 的当日条目：Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity。讨论热度 90 分、67 条评论；出处 science.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 90 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "science.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Alcohol use reduces efficacy of immunoth",
+              "url": "https://www.science.org/doi/10.1126/scisignal.aef1375"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

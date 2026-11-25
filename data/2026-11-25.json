@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-25",
+  "issue": "No.070",
+  "weekday": "周三",
+  "generated_at": "2026-11-25 09:47 CST",
+  "window": "2026-11-25 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-25 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+          "category": "浏览器 / 端侧工作流",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native。讨论热度 178 分、69 条评论；出处 rida.dev。",
+          "insight": "该条属于浏览器 / 端侧工作流方向，当日获得 178 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "rida.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#端侧AI"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Bypassing iOS Safari's 60 FPS Limit to B",
+              "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：Matrix Multiplication is Θ(n^2.25) [pdf]。讨论热度 620 分、322 条评论；出处 github.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 620 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "github.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Matrix Multiplication is Θ(n^2.25) [pdf]",
+              "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：Button Sounds – collection of professionally-recorded button clicks and presses。讨论热度 365 分、45 条评论；出处 buttons.joshwcomeau.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 365 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "buttons.joshwcomeau.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Button Sounds – collection of profession",
+              "url": "https://buttons.joshwcomeau.com/"
+            }
+          ]
+        },
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：PenGPT: A Generative Transformer for Handwriting and Sketches。讨论热度 247 分、44 条评论；出处 greydanus.github.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 247 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "greydanus.github.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · PenGPT: A Generative Transformer for Han",
+              "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+            }
+          ]
+        },
+        {
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：Models Can Communicate via Inference Servers Despite Being Sandboxed。讨论热度 224 分、82 条评论；出处 lesswrong.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 224 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "lesswrong.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Models Can Communicate via Inference Ser",
+              "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+            }
+          ]
+        },
+        {
+          "title": "I've been drinking wine in my kitchen",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-25 的当日条目：I've been drinking wine in my kitchen。讨论热度 195 分、164 条评论；出处 scottaaronson.blog。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 195 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "scottaaronson.blog"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · I've been drinking wine in my kitchen",
+              "url": "https://scottaaronson.blog/?p=10362"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-25 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.31205"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

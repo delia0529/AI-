@@ -1,0 +1,1694 @@
+{
+  "date": "2026-11-26",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 123,
+  "clusters": [
+    {
+      "headline": "elementalsouls/Claude-BugHunter — GitHub Trending",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "单日新增 1,652 stars",
+      "score": 1732.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "title": "elementalsouls/Claude-BugHunter — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "summary": "See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220</a>",
+      "score": 1585.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "",
+      "score": 1502.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password Security Incident"
+        },
+        {
+          "name": "hn",
+          "url": "https://defang.io/blog/post/security-incident-november-2026/",
+          "title": "Defang Security Incident"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "cathrynlavery/diagram-design — GitHub Trending",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "单日新增 1,141 stars",
+      "score": 1221.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "title": "cathrynlavery/diagram-design — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "firecrawl/firecrawl — GitHub Trending",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "单日新增 1,135 stars",
+      "score": 1215.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "title": "firecrawl/firecrawl — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HKUDS/CLI-Anything — GitHub Trending",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "单日新增 1,106 stars",
+      "score": 1186.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "title": "HKUDS/CLI-Anything — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "XiaoYouChR/Ghost-Downloader-3 — GitHub Trending",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "summary": "单日新增 951 stars",
+      "score": 1031.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "title": "XiaoYouChR/Ghost-Downloader-3 — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mvanhorn/last30days-skill — GitHub Trending",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "单日新增 945 stars",
+      "score": 1025.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "title": "mvanhorn/last30days-skill — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "obra/superpowers — GitHub Trending",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "单日新增 903 stars",
+      "score": 983.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/obra/superpowers",
+          "title": "obra/superpowers — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "zhouxiaoka/autoclip — GitHub Trending",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "单日新增 880 stars",
+      "score": 960.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "title": "zhouxiaoka/autoclip — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mjmirza/app-store-compliance — GitHub Trending",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "summary": "单日新增 858 stars",
+      "score": 938.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "title": "mjmirza/app-store-compliance — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "jingyaogong/minimind — GitHub Trending",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "单日新增 826 stars",
+      "score": 906.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/jingyaogong/minimind",
+          "title": "jingyaogong/minimind — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "toeverything/AFFiNE — GitHub Trending",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "summary": "单日新增 574 stars",
+      "score": 654.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "title": "toeverything/AFFiNE — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "",
+      "score": 583.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "summary": "",
+      "score": 580.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+          "title": "Rumors swirling that labs might have cracked Factoring in P"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "summary": "",
+      "score": 565.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "summary": "",
+      "score": 540.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/lsernau/grh-lean",
+          "title": "Much shorter version of GRH Lean verification from Anthropic"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "cursor/plugins — GitHub Trending",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "单日新增 416 stars",
+      "score": 496.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/cursor/plugins",
+          "title": "cursor/plugins — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy</a>",
+      "score": 468.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "title": "The New York Times warns photographers not to update Photoshop over AI features"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "google-labs-code/stitch-skills — GitHub Trending",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "单日新增 355 stars",
+      "score": 435.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "title": "google-labs-code/stitch-skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tracer-Cloud/opensre — GitHub Trending",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "summary": "单日新增 348 stars",
+      "score": 428.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "title": "Tracer-Cloud/opensre — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "summary": "",
+      "score": 426.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/xoxorwr/pw-loudness-eq",
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "summary": "",
+      "score": 398.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://modaic.dev/blog/latency-doesnt-lie",
+          "title": "Jev is probably Qwen3.5-35B-A3B"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "",
+      "score": 372.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+          "title": "Slow Ubuntu security response times"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "There have been questions about why the &#x2F;ask page (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask</a>) was running dry of Ask HNs - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49984484\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on &quot;Ask HN&quot;, and showing only 19 items?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50280719\">https:&#x2F;&#x",
+      "score": 345.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.ycombinator.com/item?id=50649864",
+          "title": "Tell HN: Lots of Ask HNs again"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "72-hour fasting can reset your immune system, USC study shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "summary": "",
+      "score": 326.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+          "title": "72-hour fasting can reset your immune system, USC study shows"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "summary": "",
+      "score": 318.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "summary": "",
+      "score": 311.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://s.conao3.com/blog/2026/e4f733",
+          "title": "I checked Clojure's core with Lean and found unreported bugs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "summary": "",
+      "score": 275.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+          "title": "Investigating degraded experiences across GitHub products"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "openvinotoolkit/openvino — GitHub Trending",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "单日新增 191 stars",
+      "score": 271.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "title": "openvinotoolkit/openvino — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "nginx/nginx — GitHub Trending",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "单日新增 176 stars",
+      "score": 256.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/nginx/nginx",
+          "title": "nginx/nginx — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "summary": "",
+      "score": 250.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://aresluna.org/ui-style-guides/",
+          "title": "Collection of preserved UI style guides"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+      "summary": "",
+      "score": 250.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+          "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "summary": "",
+      "score": 243.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+          "title": "The polynomial Hirsch conjecture is false [pdf]"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "",
+      "score": 234.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+          "title": "Bare Metal Qwen"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "summary": "",
+      "score": 231.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+          "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;pfVdX\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;pfVdX</a>",
+      "score": 212.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+          "title": "Britain's ghost stations"
+        },
+        {
+          "name": "hn",
+          "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+          "title": "Mirror life is dangerous. Regulators must act before it becomes real"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "summary": "",
+      "score": 206.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://progrium.github.io/minipg/",
+          "title": "Minipg: PostgreSQL as a Single Executable"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "summary": "",
+      "score": 206.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+          "title": "In C++, = default and {} are not the same constructor"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The year the web industry gave up",
+      "url": "https://dbushell.com/2026/11/25/web-industry/",
+      "summary": "",
+      "score": 185.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dbushell.com/2026/11/25/web-industry/",
+          "title": "The year the web industry gave up"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "",
+      "score": 184.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+          "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "",
+      "score": 183.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Deriving Black-Scholes",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "summary": "",
+      "score": 164.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+          "title": "Deriving Black-Scholes"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "summary": "",
+      "score": 160.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+          "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites"
+        },
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+          "title": "US authorizes SpaceX to deploy 1M satellites for data centers in space"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK",
+      "url": "https://mastodon.social/@sundogplanets/117678381079935502",
+      "summary": "",
+      "score": 158.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://mastodon.social/@sundogplanets/117678381079935502",
+          "title": "Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Multiagent coding is the future",
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "summary": "",
+      "score": 153.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+          "title": "Multiagent coding is the future"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why aren't we working 2-days a week?",
+      "url": "https://anihil.com/why-arent-we-working-2-days-a-week",
+      "summary": "",
+      "score": 152.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://anihil.com/why-arent-we-working-2-days-a-week",
+          "title": "Why aren't we working 2-days a week?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+      "url": "https://danprice.ai/blog/opus-symphony",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://danprice.ai/blog/opus-symphony",
+          "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "New York bans AI toys, including those using internet to talk to children",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "summary": "",
+      "score": 143.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+          "title": "New York bans AI toys, including those using internet to talk to children"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://commandcode.ai/moat",
+          "title": "Moat: Your OpenRouter Replacement"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+          "title": "Qualcomm's Oryon 3 Reaches the Top"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+          "title": "Duran Duran guitarist Andy Taylor dies aged 65"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+      "url": "https://github.com/click6067-ship-it/token-tv",
+      "summary": "",
+      "score": 136.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/click6067-ship-it/token-tv",
+          "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map",
+      "url": "https://marioschlosser.org/riemann/",
+      "summary": "",
+      "score": 132.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://marioschlosser.org/riemann/",
+          "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&#8230;]",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "techcrunch_ai",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "极客公园创新大会 2027 全议程公布！",
+      "url": "https://www.qbitai.com/2026/11/512952.html",
+      "summary": "今天，IF 2027 全议程揭晓。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512952.html",
+          "title": "极客公园创新大会 2027 全议程公布！"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "url": "https://www.qbitai.com/2026/11/512942.html",
+      "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512942.html",
+          "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "summary": "30秒一镜到底，可自动编排镜头",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512916.html",
+          "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "summary": "李斌坦言：不做AI变革可能活不下去",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512897.html",
+          "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "沈向洋刚讲了好多AI非共识啊",
+      "url": "https://www.qbitai.com/2026/11/512840.html",
+      "summary": "“灵巧手是人类最后的尊严”",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512840.html",
+          "title": "沈向洋刚讲了好多AI非共识啊"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "url": "https://www.qbitai.com/2026/11/512828.html",
+      "summary": "叠满海淀最强AI Buff。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512828.html",
+          "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+      "url": "https://www.qbitai.com/2026/11/512819.html",
+      "summary": "合着全让A➗揽了",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512819.html",
+          "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "url": "https://www.qbitai.com/2026/11/512748.html",
+      "summary": "商汤SenseNova U1.6",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512748.html",
+          "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "url": "https://www.qbitai.com/2026/11/512727.html",
+      "summary": "",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512727.html",
+          "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/512715.html",
+          "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+      "url": "https://huggingface.co/papers/2611.34237",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34237",
+          "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mixture-of-Loops Transformer",
+      "url": "https://huggingface.co/papers/2611.34923",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34923",
+          "title": "Mixture-of-Loops Transformer"
+        },
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30844",
+          "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "url": "https://huggingface.co/papers/2611.34575",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34575",
+          "title": "Sage-Med: Scaling Medical Multimodal Intelligence"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents",
+      "url": "https://huggingface.co/papers/2611.33144",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.33144",
+          "title": "PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Improving and Expanding Video Editing Capabilities Without Videos",
+      "url": "https://huggingface.co/papers/2611.34941",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34941",
+          "title": "Improving and Expanding Video Editing Capabilities Without Videos"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding",
+      "url": "https://huggingface.co/papers/2611.34420",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34420",
+          "title": "DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+      "url": "https://huggingface.co/papers/2611.34811",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34811",
+          "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "url": "https://huggingface.co/papers/2611.34849",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34849",
+          "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos",
+      "url": "https://huggingface.co/papers/2611.34347",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34347",
+          "title": "AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images",
+      "url": "https://huggingface.co/papers/2611.34128",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34128",
+          "title": "FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+      "url": "https://huggingface.co/papers/2611.34907",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34907",
+          "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Target-Part Preference Optimization for Part-Aware 3D Generation",
+      "url": "https://huggingface.co/papers/2611.30472",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30472",
+          "title": "Target-Part Preference Optimization for Part-Aware 3D Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Playfulness as Feedback for Agentic Game Development",
+      "url": "https://huggingface.co/papers/2611.33457",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.33457",
+          "title": "Playfulness as Feedback for Agentic Game Development"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration",
+      "url": "https://huggingface.co/papers/2611.33636",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.33636",
+          "title": "What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Let Vision-Language Models Generate Images through Their Representations",
+      "url": "https://huggingface.co/papers/2611.31237",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.31237",
+          "title": "Let Vision-Language Models Generate Images through Their Representations"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+      "url": "https://huggingface.co/papers/2611.34466",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34466",
+          "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2611.34929",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34929",
+          "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Beyond Self-Consistency: Recursive Self-Improvement at Test Time",
+      "url": "https://huggingface.co/papers/2611.30965",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30965",
+          "title": "Beyond Self-Consistency: Recursive Self-Improvement at Test Time"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+      "url": "https://huggingface.co/papers/2611.33143",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.33143",
+          "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+          "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+          "title": "Amazon loses its latest attempt to get out of handling more recall notices"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+          "title": "The Verge’s 2026 holiday gift guide for travelers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+          "title": "WhatsApp’s new scheduled messages let you choose the right time to send"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+          "title": "1Password breach leaked customer names and emails, but not passwords"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The loneliest peptide party in New York",
+      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+          "title": "The loneliest peptide party in New York"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Global stocks steady after volatile US trading over AI risks",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+          "title": "Global stocks steady after volatile US trading over AI risks"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "China made Shenzhen a showcase for tech prowess at Apec summit",
+      "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
+      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
+          "title": "China made Shenzhen a showcase for tech prowess at Apec summit"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Software stocks spared in tech rout as AI narrative shifts",
+      "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+          "title": "Software stocks spared in tech rout as AI narrative shifts"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "UK ministers explore NHS-built alternative to Palantir’s software",
+      "url": "https://www.ft.com/content/b99613ab-a130-4b9f-8c15-c41db7cd8894?syn-25a6b1a6=1",
+      "summary": "Government considers whether internal health service expertise can help build an alternative to the contentious US tech company",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b99613ab-a130-4b9f-8c15-c41db7cd8894?syn-25a6b1a6=1",
+          "title": "UK ministers explore NHS-built alternative to Palantir’s software"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Meta’s AI assistant is a fluffy frenemy to UK’s consumer finance brands",
+      "url": "https://www.ft.com/content/7f81ffd9-c259-4f36-9e22-77269244de1b?syn-25a6b1a6=1",
+      "summary": "Muse’s US launch in September sparked concerns the price comparison industry would be wiped out, but the panic has died down",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/7f81ffd9-c259-4f36-9e22-77269244de1b?syn-25a6b1a6=1",
+          "title": "Meta’s AI assistant is a fluffy frenemy to UK’s consumer finance brands"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Huang’s return is a terrible signal for US capitalism",
+      "url": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
+      "summary": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
+          "title": "Huang’s return is a terrible signal for US capitalism"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia halts chip shipments to south-east Asia",
+      "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+      "summary": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+          "title": "Nvidia halts chip shipments to south-east Asia"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "European arms makers try to go it alone — at a price",
+      "url": "https://www.ft.com/content/651b89f5-7262-43e8-a022-a068b935950b?syn-25a6b1a6=1",
+      "summary": "First in a series on region’s quest for defence sovereignty examines the industry’s obsession with sourcing critical parts",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/651b89f5-7262-43e8-a022-a068b935950b?syn-25a6b1a6=1",
+          "title": "European arms makers try to go it alone — at a price"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "'Jensanity' sweeps China and Taiwan",
+      "url": "https://www.ft.com/content/33772353-35dd-4e5a-89e4-b75dccbd9eca?syn-25a6b1a6=1",
+      "summary": "Nvidia halts chip shipments to Malaysia, Singapore, Thailand and Indonesia",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/33772353-35dd-4e5a-89e4-b75dccbd9eca?syn-25a6b1a6=1",
+          "title": "'Jensanity' sweeps China and Taiwan"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+      "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+      "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+          "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US Treasury financial crime watchdog hit by suspected cyber attack",
+      "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+      "summary": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+          "title": "US Treasury financial crime watchdog hit by suspected cyber attack"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US stocks close lower in volatile session as AI trade remains under pressure",
+      "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+          "title": "US stocks close lower in volatile session as AI trade remains under pressure"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The fund manager’s dilemma over AI",
+      "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+      "summary": "Assessing concentration risks may be more complicated than it seems",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+          "title": "The fund manager’s dilemma over AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Nvidia fallout exposes China’s fragility on frontier AI",
+      "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "summary": "The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+          "title": "Nvidia fallout exposes China’s fragility on frontier AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why do economists struggle to forecast the impact of AI?",
+      "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+      "summary": "Frontier labs and officials present wildly different predictions for growth in the next few years",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+          "title": "Why do economists struggle to forecast the impact of AI?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’",
+      "url": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+      "summary": "State-backed group responds to growing angst about continent’s dependence on US technology",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+          "title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The investigations facing Nvidia and Jensen Huang",
+      "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+      "summary": "Returning CEO and chipmaker face scrutiny from federal and state authorities, Congress and shareholders",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+          "title": "The investigations facing Nvidia and Jensen Huang"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

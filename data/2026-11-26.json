@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-26",
+  "issue": "No.071",
+  "weekday": "周四",
+  "generated_at": "2026-11-26 09:27 CST",
+  "window": "2026-11-26 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-26 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 6 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 8,
+    "items": 6,
+    "clusters": 6,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Tell HN: Lots of Ask HNs again",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-26 的当日条目：Tell HN: Lots of Ask HNs again。讨论热度 256 分、97 条评论；出处 news.ycombinator.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 256 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "news.ycombinator.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Tell HN: Lots of Ask HNs again",
+              "url": "https://news.ycombinator.com/item?id=50649864"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-26 的当日条目：OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster。讨论热度 228 分、116 条评论；出处 twitter.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 228 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "twitter.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · OpenAI cuts GPT-6.2 usage: Astra hits li",
+              "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+            }
+          ]
+        },
+        {
+          "title": "Collection of preserved UI style guides",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-26 的当日条目：Collection of preserved UI style guides。讨论热度 161 分、18 条评论；出处 aresluna.org。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 161 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "aresluna.org"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Collection of preserved UI style guides",
+              "url": "https://aresluna.org/ui-style-guides/"
+            }
+          ]
+        },
+        {
+          "title": "Minipg: PostgreSQL as a Single Executable",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-26 的当日条目：Minipg: PostgreSQL as a Single Executable。讨论热度 117 分、17 条评论；出处 progrium.github.io。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 117 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "progrium.github.io"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Minipg: PostgreSQL as a Single Executabl",
+              "url": "https://progrium.github.io/minipg/"
+            }
+          ]
+        },
+        {
+          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-26 的当日条目：Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years。讨论热度 94 分、14 条评论；出处 fosscomics.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 94 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "fosscomics.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Lions' Commentary on Unix: Why It Was Se",
+              "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+            }
+          ]
+        },
+        {
+          "title": "Moat: Your OpenRouter Replacement",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-26 的当日条目：Moat: Your OpenRouter Replacement。讨论热度 48 分、29 条评论；出处 commandcode.ai。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 48 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "commandcode.ai"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Moat: Your OpenRouter Replacement",
+              "url": "https://commandcode.ai/moat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1684 @@
+{
+  "date": "2026-11-28",
+  "method": "tfidf-fallback",
+  "threshold": 0.52,
+  "raw_count": 121,
+  "clusters": [
+    {
+      "headline": "elementalsouls/Claude-BugHunter — GitHub Trending",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "单日新增 1,608 stars",
+      "score": 1688.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "title": "elementalsouls/Claude-BugHunter — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "obra/superpowers — GitHub Trending",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "单日新增 922 stars",
+      "score": 1002.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/obra/superpowers",
+          "title": "obra/superpowers — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "XiaoYouChR/Ghost-Downloader-3 — GitHub Trending",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "summary": "单日新增 836 stars",
+      "score": 916.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "title": "XiaoYouChR/Ghost-Downloader-3 — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "firecrawl/firecrawl — GitHub Trending",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "单日新增 822 stars",
+      "score": 902.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "title": "firecrawl/firecrawl — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "cathrynlavery/diagram-design — GitHub Trending",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "单日新增 725 stars",
+      "score": 805.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "title": "cathrynlavery/diagram-design — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "zhouxiaoka/autoclip — GitHub Trending",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "单日新增 718 stars",
+      "score": 798.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "title": "zhouxiaoka/autoclip — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mvanhorn/last30days-skill — GitHub Trending",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "单日新增 675 stars",
+      "score": 755.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "title": "mvanhorn/last30days-skill — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "HKUDS/CLI-Anything — GitHub Trending",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "单日新增 666 stars",
+      "score": 746.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "title": "HKUDS/CLI-Anything — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "jingyaogong/minimind — GitHub Trending",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "单日新增 660 stars",
+      "score": 740.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/jingyaogong/minimind",
+          "title": "jingyaogong/minimind — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "mjmirza/app-store-compliance — GitHub Trending",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "summary": "单日新增 530 stars",
+      "score": 610.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "title": "mjmirza/app-store-compliance — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "summary": "",
+      "score": 605.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://neuralnetworksanddeeplearning.com/",
+          "title": "Michael Nielsen took down his book on neural nets"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "",
+      "score": 604.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "toeverything/AFFiNE — GitHub Trending",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "summary": "单日新增 474 stars",
+      "score": 554.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "title": "toeverything/AFFiNE — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "summary": "",
+      "score": 463.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "summary": "a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There&#x27;s some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they&#x27;re n",
+      "score": 460.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://bouncemarket.minhanhday.com/",
+          "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "",
+      "score": 448.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "summary": "",
+      "score": 435.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+          "title": "US Air Force's cloud computing platform hacked"
+        },
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+          "title": "Hackers breach US Air Force flagship Cloud One computing platform"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Tracer-Cloud/opensre — GitHub Trending",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "summary": "单日新增 328 stars",
+      "score": 408.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "title": "Tracer-Cloud/opensre — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "google-labs-code/stitch-skills — GitHub Trending",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "单日新增 311 stars",
+      "score": 391.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "title": "google-labs-code/stitch-skills — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "",
+      "score": 385.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/convex/convex-backend-skill/issues/64",
+          "title": "Convex skills send the user's app idea to a remote server without telling them"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "summary": "",
+      "score": 339.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://unkernel.dev",
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "cursor/plugins — GitHub Trending",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "单日新增 243 stars",
+      "score": 323.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/cursor/plugins",
+          "title": "cursor/plugins — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "",
+      "score": 315.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://cr.yp.to/proofs/falseccp.html",
+          "title": "False computer-checked proofs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "summary": "",
+      "score": 302.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://eprint.iacr.org/2026/3020.pdf",
+          "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "summary": "",
+      "score": 301.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://thesoapbox.email/archive/3",
+          "title": "I'm Scared of AI"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "New York and California age gating rules go into effect in the new year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "summary": "",
+      "score": 287.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+          "title": "New York and California age gating rules go into effect in the new year"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "summary": "",
+      "score": 285.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+          "title": "Atari Homebrew Awards Cancelled"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "summary": "",
+      "score": 275.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+          "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "summary": "",
+      "score": 274.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "title": "Kimi for Science: More scientific ideas, made possible"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "summary": "",
+      "score": 256.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "title": "Woman evicted after landlord's AI assistant told her she could delay rent"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "GPT 6.2 Astra solves a historical mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "",
+      "score": 256.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "title": "GPT 6.2 Astra solves a historical mystery"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "openvinotoolkit/openvino — GitHub Trending",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "单日新增 151 stars",
+      "score": 231.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "title": "openvinotoolkit/openvino — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "nginx/nginx — GitHub Trending",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "单日新增 146 stars",
+      "score": 226.0,
+      "sources": [
+        {
+          "name": "github_trending",
+          "url": "https://github.com/nginx/nginx",
+          "title": "nginx/nginx — GitHub Trending"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "summary": "Hi HN!<p>I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own &#x27;physics&#x27;, which makes the wrong moves impossible and the right ones obvious.<p>So I created DragDropMath, where you can learn how to simplify mathematical expressions and how to solve equations by dragging symbols around, and only correct moves are allowed, so you get to feel what&#x27;s right without experiencing (and so learning) wrong moves.<p>I always wanted to make this, but",
+      "score": 221.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dragdropmath.com/",
+          "title": "Show HN: DragDropMath – Learn math by feel"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Mental Health Resources and Political Engagement",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "summary": "",
+      "score": 220.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+          "title": "Mental Health Resources and Political Engagement"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Rayshader 1.0: Exit the Matrix",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "summary": "",
+      "score": 214.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+          "title": "Rayshader 1.0: Exit the Matrix"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "summary": "",
+      "score": 210.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://progrium.github.io/9ux/",
+          "title": "9/UX: a Macintosh-inspired desktop for 9front"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;4hRp8\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;4hRp8</a>",
+      "score": 209.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "title": "AI on brink of making online security useless, mathematicians fear"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Making a 3D fantasy map like a 16th-Century atlas",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "summary": "",
+      "score": 208.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+          "title": "Making a 3D fantasy map like a 16th-Century atlas"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "url": "https://tabernet.es/",
+      "summary": "",
+      "score": 205.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://tabernet.es/",
+          "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Source Control from Hell",
+      "url": "https://frantic.im/git/",
+      "summary": "",
+      "score": 179.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://frantic.im/git/",
+          "title": "Source Control from Hell"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm&#x2F;HP&#x27;s TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app.",
+      "score": 170.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+          "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The AT&T Unix PC (3B1) VM",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "summary": "",
+      "score": 169.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+          "title": "The AT&T Unix PC (3B1) VM"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Scrapheap America",
+      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+      "summary": "",
+      "score": 168.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+          "title": "Scrapheap America"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why drivers want cheap, dumb cars again",
+      "url": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+      "summary": "",
+      "score": 166.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+          "title": "Why drivers want cheap, dumb cars again"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Passkey blues",
+      "url": "https://ssg.dev/passkey-blues/",
+      "summary": "",
+      "score": 162.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://ssg.dev/passkey-blues/",
+          "title": "Passkey blues"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
+      "url": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+      "summary": "",
+      "score": 157.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+          "title": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "summary": "",
+      "score": 156.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://github.com/skeeto/prospero",
+          "title": "Prospero: Bloat-free, native AI coding harness with ImGui"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+      "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+      "summary": "",
+      "score": 154.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+          "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
+      "url": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+      "summary": "",
+      "score": 146.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+          "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "summary": "",
+      "score": 145.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+          "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "summary": "",
+      "score": 144.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+          "title": "Norse Atlantic suspends all flights as it faces potential collapse"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
+      "summary": "",
+      "score": 142.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://sessiongraph.ai/",
+          "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Palliative Care for the Chronically Online",
+      "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+          "title": "Palliative Care for the Chronically Online"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "summary": "",
+      "score": 140.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+          "title": "Paolo Soleri built a utopian eco-city in the Arizona desert"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Knuth: Moratorium on Error Reports",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+          "title": "Knuth: Moratorium on Error Reports"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "'Cyber incident' forces UK Gov to take some services offline",
+      "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+      "summary": "",
+      "score": 138.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+          "title": "'Cyber incident' forces UK Gov to take some services offline"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+      "summary": "",
+      "score": 134.0,
+      "sources": [
+        {
+          "name": "hn",
+          "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+          "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261128/p4#a261128p4",
+      "summary": "\n Erich Schwartzel / Wall Street Journal:\nA profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO&nbsp; &mdash;&nbsp; As a longtime friend of the Nvidia CEO puts it, &ldquo;Jensen will always pull a rabbit out of a hat&rdquo;",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261128/p4#a261128p4",
+          "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+      "url": "https://www.techmeme.com/261128/p3#a261128p3",
+      "summary": "\n John Reynolds / Tech.eu:\nSweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+&nbsp; &mdash;&nbsp; Trustly has raised the funds from existing investors.&nbsp; &mdash;&nbsp; Swedish fintech Trustly today confirmed it had completed a $60m funding round &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261128/p3#a261128p3",
+          "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+      "url": "https://www.techmeme.com/261128/p2#a261128p2",
+      "summary": "\n Eleanor Pringle / Fortune:\nCOO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five&nbsp; &mdash;&nbsp; Reddit boasts engagement metrics that would be the envy of many other online platforms: Over 80% of its monetization comes from loyal &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261128/p2#a261128p2",
+          "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+      "url": "https://www.techmeme.com/261128/p1#a261128p1",
+      "summary": "\n Embo:\nEmbo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z&nbsp; &mdash;&nbsp; Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained motor skills.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261128/p1#a261128p1",
+          "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+      "url": "https://www.techmeme.com/261127/p17#a261127p17",
+      "summary": " Edwin / @edwinarbus:\nAnthropic says Claude doesn't silently sabotage work and that some user reports reflect &ldquo;overcaution&rdquo;, where Claude clings to self-imposed rules on long tasks&nbsp; &mdash;&nbsp; Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn't sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we d...",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p17#a261127p17",
+          "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+      "url": "https://www.techmeme.com/261127/p16#a261127p16",
+      "summary": "\n LithoWar:\nHow the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff&nbsp; &mdash;&nbsp; At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p16#a261127p16",
+          "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261127/p15#a261127p15",
+      "summary": "\n Jean Eaglesham / Wall Street Journal:\nUS insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage&nbsp; &mdash;&nbsp; The multiday outage has left customers struggling to reach the insurer during one of the year's busiest travel weeks",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p15#a261127p15",
+          "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive (Drew Breunig)",
+      "url": "https://www.techmeme.com/261127/p14#a261127p14",
+      "summary": "\n Drew Breunig:\nSome users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive&nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently sabotaging people's projects, especially when they involve machine learning.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p14#a261127p14",
+          "title": "Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive (Drew Breunig)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+      "url": "https://www.techmeme.com/261127/p13#a261127p13",
+      "summary": "\n Dwarkesh Patel / Dwarkesh Podcast:\nQ&amp;A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more&nbsp; &mdash;&nbsp; &ldquo;If we pause now, people still won't understand what's at stake.&rdquo;&nbsp; &mdash;&nbsp; New podcast episode between Ege Erdil and Daniel Kokotajlo.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p13#a261127p13",
+          "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+      "url": "https://www.techmeme.com/261127/p12#a261127p12",
+      "summary": "\n Financial Times:\nOpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and &ldquo;coercing and threatening&rdquo; suppliers that work with both&nbsp; &mdash;&nbsp; The ChatGPT maker also accuses the tech giant of &lsquo;coercing and threatening&rsquo; suppliers who work with both companies, as legal battle escalates",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p12#a261127p12",
+          "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)"
+        },
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+          "title": "OpenAI countersues Apple for stealing trade secrets"
+        }
+      ],
+      "duplicate_count": 2
+    },
+    {
+      "headline": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
+      "url": "https://www.techmeme.com/261127/p11#a261127p11",
+      "summary": "\n Financial Times:\nSources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses&nbsp; &mdash;&nbsp; US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in New England region",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p11#a261127p11",
+          "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+      "url": "https://www.techmeme.com/261127/p10#a261127p10",
+      "summary": "\n Alexander Weber / Bloomberg:\nEuropean Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels&nbsp; &mdash;&nbsp; Euro-area workers are turning to artificial intelligence at a similar rate as their peers in the US, though obstacles remain &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p10#a261127p10",
+          "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+      "url": "https://www.techmeme.com/261127/p9#a261127p9",
+      "summary": "\n Eduard Kovacs / SecurityWeek:\nSAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub&nbsp; &mdash;&nbsp; SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p9#a261127p9",
+          "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
+      "url": "https://www.techmeme.com/261127/p8#a261127p8",
+      "summary": "\n Joseph Bambridge / Politico:\nThe CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US&nbsp; &mdash;&nbsp; The U.K. terms of service for Muse give consumers far more protection than in the U.S.&nbsp; &mdash;&nbsp; LONDON &mdash; Meta will be on the hook &hellip; ",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p8#a261127p8",
+          "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+      "url": "https://www.techmeme.com/261127/p7#a261127p7",
+      "summary": "\n New York Times:\nInterviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions&nbsp; &mdash;&nbsp; As China's access to Nvidia's advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+      "score": 100.0,
+      "sources": [
+        {
+          "name": "techmeme",
+          "url": "https://www.techmeme.com/261127/p7#a261127p7",
+          "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "url": "https://www.qbitai.com/2026/11/513428.html",
+      "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/513428.html",
+          "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/513352.html",
+          "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "score": 90.0,
+      "sources": [
+        {
+          "name": "qbitai",
+          "url": "https://www.qbitai.com/2026/11/513346.html",
+          "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "url": "https://huggingface.co/papers/2611.34051",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34051",
+          "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "url": "https://huggingface.co/papers/2611.34232",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34232",
+          "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "url": "https://huggingface.co/papers/2611.34813",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34813",
+          "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+      "url": "https://huggingface.co/papers/2611.31619",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.31619",
+          "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "url": "https://huggingface.co/papers/2611.34457",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34457",
+          "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+      "url": "https://huggingface.co/papers/2611.34290",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34290",
+          "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models",
+      "url": "https://huggingface.co/papers/2611.34693",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34693",
+          "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "url": "https://huggingface.co/papers/2611.34852",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34852",
+          "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+      "url": "https://huggingface.co/papers/2611.32238",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.32238",
+          "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Revisiting LLMs as Context Engineers",
+      "url": "https://huggingface.co/papers/2611.30494",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30494",
+          "title": "Revisiting LLMs as Context Engineers"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+      "url": "https://huggingface.co/papers/2611.33885",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.33885",
+          "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "When an AI agent makes a mistake in a database, what decides the damage?",
+      "url": "https://huggingface.co/papers/2611.30483",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30483",
+          "title": "When an AI agent makes a mistake in a database, what decides the damage?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+      "url": "https://huggingface.co/papers/2611.28849",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.28849",
+          "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Generation as Reverse Encoding",
+      "url": "https://huggingface.co/papers/2611.34782",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34782",
+          "title": "Generation as Reverse Encoding"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection",
+      "url": "https://huggingface.co/papers/2611.34719",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.34719",
+          "title": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+      "url": "https://huggingface.co/papers/2611.30025",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30025",
+          "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+      "url": "https://huggingface.co/papers/2611.30723",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.30723",
+          "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+      "url": "https://huggingface.co/papers/2611.31491",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.31491",
+          "title": "Pretrained Tabular Features and the Measurement of Financial Proximity"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+      "url": "https://huggingface.co/papers/2611.32993",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.32993",
+          "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+      "url": "https://huggingface.co/papers/2611.27112",
+      "summary": "Hugging Face Daily Papers",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "hf_papers",
+          "url": "https://huggingface.co/papers/2611.27112",
+          "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "title": "The absolute best Black Friday deals you can still get"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+          "title": "We found 60-odd Black Friday deals we love for $100 or less"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+          "title": "This purple electric Chinese minivan can go up to 559 miles on a charge"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+          "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a statement posted on X, Playtronic said that [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+          "title": "Yooka-Laylee’s free upgrade is skipping Xbox"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+      "summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on your shelf or in a storage binder is so much more fun [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+          "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The new iPad Mini is getting its first major discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "theverge",
+          "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "title": "The new iPad Mini is getting its first major discount for Black Friday"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US military repelled drones at RAF base",
+      "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+      "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+          "title": "US military repelled drones at RAF base"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Why Jensen Huang’s daily therapy sets a healthy example",
+      "url": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4?syn-25a6b1a6=1",
+      "summary": "Seeking to alleviate mental health problems is one more global challenge tech innovators could take on",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4?syn-25a6b1a6=1",
+          "title": "Why Jensen Huang’s daily therapy sets a healthy example"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The mathematicians living through an AI revolution",
+      "url": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+      "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+          "title": "The mathematicians living through an AI revolution"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI agents are coming for big business",
+      "url": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+      "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+          "title": "AI agents are coming for big business"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The power of clicking ‘cancel’",
+      "url": "https://www.ft.com/content/bafa0748-8762-4810-8441-bbf32ccbe4dc",
+      "summary": "Why do companies offer discounts and deals the moment you threaten to leave? And can customers use this information to their advantage?",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/bafa0748-8762-4810-8441-bbf32ccbe4dc",
+          "title": "The power of clicking ‘cancel’"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "The Chinese car champion turning to police and nurse robots",
+      "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+      "summary": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+          "title": "The Chinese car champion turning to police and nurse robots"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "US tech stocks rise in latest market swing",
+      "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+          "title": "US tech stocks rise in latest market swing"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "AI and the decryption nightmare",
+      "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+      "summary": "New breakthroughs call for faster upgrades to security, not panic",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+          "title": "AI and the decryption nightmare"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Can AI crack encryption?",
+      "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+          "title": "Can AI crack encryption?"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "UK Department for Work and Pensions hit by cyber incident",
+      "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+      "summary": "Agency says it has taken most of its online services down as it investigates possible attack",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+          "title": "UK Department for Work and Pensions hit by cyber incident"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Wave of cyber incidents rattles western economies",
+      "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+          "title": "Wave of cyber incidents rattles western economies"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "From Jobs to Jensen: tech’s metamorphosis",
+      "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+      "summary": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+          "title": "From Jobs to Jensen: tech’s metamorphosis"
+        }
+      ],
+      "duplicate_count": 1
+    },
+    {
+      "headline": "Delaware’s dangerous plan for autonomous AI companies",
+      "url": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1",
+      "summary": "US state’s proposed law would gut human accountability for agentic AI",
+      "score": 80.0,
+      "sources": [
+        {
+          "name": "ft_tech",
+          "url": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1",
+          "title": "Delaware’s dangerous plan for autonomous AI companies"
+        }
+      ],
+      "duplicate_count": 1
+    }
+  ]
+}

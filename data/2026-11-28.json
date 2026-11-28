@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-28",
+  "issue": "No.073",
+  "weekday": "周六",
+  "generated_at": "2026-11-28 08:53 CST",
+  "window": "2026-11-28 00:00 → 24:00 UTC",
+  "headline": "补录 · 2026-11-28 当日可回溯条目",
+  "deck": "本期为断更补录，数据源仅限 Hacker News 历史条目与 Hugging Face 当日论文归档（GitHub Trending 与 RSS 源无历史接口，无法回溯）。共 7 条，只记录条目与热度，不含深度解读，可信度低于常规期次。",
+  "stats": {
+    "sources": 2,
+    "raw": 7,
+    "items": 7,
+    "clusters": 7,
+    "dedupe_rate": "—"
+  },
+  "backfill": true,
+  "backfill_note": "补录期 · 数据源有限（HN 历史 + HF 论文），仅供参考",
+  "modules": [
+    {
+      "id": "macro",
+      "index": "01",
+      "name": "全球 AI 宏观与政经脉搏",
+      "en": "MACRO & POLICY",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+          "category": "政策、资本与算力供给",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-28 的当日条目：Alaska seized his plane over some beers. He is asking the Supreme Court for help。讨论热度 64 分、62 条评论；出处 reuters.com。",
+          "insight": "该条属于政策、资本与算力供给方向，当日获得 64 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "reuters.com"
+          ],
+          "tags": [
+            "#补录",
+            "#大厂战略"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Alaska seized his plane over some beers.",
+              "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "index": "02",
+      "name": "AI 浏览器与端侧工作流",
+      "en": "BROWSER & EDGE WORKFLOW",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "category": "浏览器 / 端侧工作流",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-28 的当日条目：Unkernel: Real Linux kernel, compiled to WebAssembly。讨论热度 249 分、46 条评论；出处 unkernel.dev。",
+          "insight": "该条属于浏览器 / 端侧工作流方向，当日获得 249 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "unkernel.dev"
+          ],
+          "tags": [
+            "#补录",
+            "#端侧AI"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Unkernel: Real Linux kernel, compiled to",
+              "url": "https://unkernel.dev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "index": "04",
+      "name": "前沿模型与落地产品",
+      "en": "FRONTIER & PRODUCT",
+      "note": "补录期：仅收录当日可回溯条目，未做深度整合。",
+      "watchlist": [],
+      "items": [
+        {
+          "title": "Atari Homebrew Awards Cancelled",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-28 的当日条目：Atari Homebrew Awards Cancelled。讨论热度 195 分、186 条评论；出处 forums.atariage.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 195 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "forums.atariage.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Atari Homebrew Awards Cancelled",
+              "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/"
+            }
+          ]
+        },
+        {
+          "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "category": "模型与 Agent 技术",
+          "priority": "high",
+          "facts": "Hacker News 2026-11-28 的当日条目：Woman evicted after landlord's AI assistant told her she could delay rent。讨论热度 166 分、121 条评论；出处 drmahfouz.substack.com。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 166 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "drmahfouz.substack.com"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Woman evicted after landlord's AI assist",
+              "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+            }
+          ]
+        },
+        {
+          "title": "Knuth: Moratorium on Error Reports",
+          "category": "模型与 Agent 技术",
+          "priority": "mid",
+          "facts": "Hacker News 2026-11-28 的当日条目：Knuth: Moratorium on Error Reports。讨论热度 48 分、14 条评论；出处 www-cs-faculty.stanford.edu。",
+          "insight": "该条属于模型与 Agent 技术方向，当日获得 48 分讨论。补录期仅收录条目与热度，未做二次解读，结论请以原文为准。",
+          "entities": [
+            "www-cs-faculty.stanford.edu"
+          ],
+          "tags": [
+            "#补录",
+            "#模型架构"
+          ],
+          "sources": [
+            {
+              "name": "Hacker News · Knuth: Moratorium on Error Reports",
+              "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html"
+            }
+          ]
+        },
+        {
+          "title": "Submitted by",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-28 当日论文归档中的条目：Submitted by。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.34051"
+            }
+          ]
+        },
+        {
+          "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+          "category": "论文",
+          "priority": "mid",
+          "facts": "Hugging Face 2026-11-28 当日论文归档中的条目：Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability。",
+          "insight": "当日论文收录，补录期仅记录题名与链接，具体结论以论文原文为准。",
+          "entities": [
+            "huggingface.co"
+          ],
+          "tags": [
+            "#补录",
+            "#论文"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face Papers",
+              "url": "https://huggingface.co/papers/2611.34051"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
